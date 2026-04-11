@@ -1,50 +1,50 @@
 [
   {
-    "title": "Claude 4.6 Opus Released with 1M Context Window",
-    "summary": "Anthropic launches its most capable model yet, featuring a massive 1 million token context window and improved reasoning across complex tasks.",
-    "source": "Anthropic Blog",
-    "date": "2026-04-10",
-    "url": "#",
-    "category": "Models"
-  },
-  {
-    "title": "OpenAI Rolls Out GPT-5 to Enterprise Customers",
-    "summary": "OpenAI begins enterprise rollout of GPT-5, featuring native multimodal capabilities and improved tool use for business automation workflows.",
-    "source": "TechCrunch",
+    "title": "Meta Open-Sources Llama 4 Scout Vision-Language Model",
+    "summary": "Meta released Llama 4 Scout, a 17-billion-parameter vision-language model optimized for edge devices that achieves competitive vision benchmark scores while running on a single consumer GPU with 24 GB VRAM. The open-source release comes after Meta's $14 billion deal bringing in Scale AI's Alexandr Wang, signaling a renewed push to lead in open multimodal AI.",
+    "source": "CNBC",
     "date": "2026-04-08",
-    "url": "#",
-    "category": "Industry"
-  },
-  {
-    "title": "AI Adoption Hits 78% Among US Small Businesses",
-    "summary": "New survey data shows AI adoption among small businesses has nearly doubled year-over-year, with content generation and customer service leading use cases.",
-    "source": "Forbes",
-    "date": "2026-04-05",
-    "url": "#",
-    "category": "Trends"
-  },
-  {
-    "title": "Google DeepMind Introduces Gemini 3.0 Ultra",
-    "summary": "Google's latest AI model shows breakthrough performance in scientific reasoning and code generation, now available through Vertex AI.",
-    "source": "Google Blog",
-    "date": "2026-04-03",
-    "url": "#",
+    "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
     "category": "Models"
   },
   {
-    "title": "EU AI Act Enforcement Begins for High-Risk Systems",
-    "summary": "The European Union begins enforcing its landmark AI Act, requiring compliance audits for AI systems used in hiring, lending, and healthcare.",
-    "source": "Reuters",
-    "date": "2026-04-01",
-    "url": "#",
+    "title": "DeepSeek V4 Released with Open Weights and Trillion-Parameter Architecture",
+    "summary": "DeepSeek released V4, a one-trillion-parameter Mixture-of-Experts model with fully open weights that achieves performance competitive with leading US frontier models like Claude Opus 4.6. The model was trained for an estimated $5.2 million — a fraction of comparable US model costs — reigniting debate over AI development economics and the viability of open-source at frontier scale.",
+    "source": "AI Flash Report",
+    "date": "2026-04-09",
+    "url": "https://aiflashreport.com/model-releases.html",
+    "category": "Models"
+  },
+  {
+    "title": "NVIDIA Unveils Isaac GR00T Open Models for Humanoid Robotics",
+    "summary": "NVIDIA announced Isaac GR00T open models enabling robots to understand natural language instructions and carry out complex multistep physical tasks. The launch also included Cosmos world models for generating large-scale synthetic training data, significantly lowering the barrier for building capable physical AI systems.",
+    "source": "NVIDIA Blog",
+    "date": "2026-04-07",
+    "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+    "category": "Tools"
+  },
+  {
+    "title": "Utah Becomes First US State to Authorize AI for Prescription Renewals",
+    "summary": "Utah enacted legislation making it the first US state to grant AI systems legal authority to renew drug prescriptions, representing a landmark shift in AI-powered healthcare automation. The law enables direct AI involvement in routine patient care decisions while prompting wider debate around physician oversight, liability standards, and patient safety.",
+    "source": "Humai Blog",
+    "date": "2026-04-09",
+    "url": "https://www.humai.blog/ai-news-trends-april-2026-complete-monthly-digest/",
     "category": "Policy"
   },
   {
-    "title": "Microsoft Copilot Now Handles Multi-App Workflows",
-    "summary": "Microsoft expands Copilot capabilities to orchestrate tasks across Office, Teams, and third-party apps — moving toward true AI agent functionality.",
-    "source": "The Verge",
-    "date": "2026-03-28",
-    "url": "#",
-    "category": "Tools"
+    "title": "600+ State AI Bills Filed as Federal and State Regulators Clash",
+    "summary": "State lawmakers introduced more than 600 AI bills in 2026 legislative sessions, with Indiana, Utah, and Washington already enacting laws restricting AI use by health insurers. The DOJ's new AI Litigation Task Force is actively challenging state laws it deems unconstitutional, while NIST launched its AI Agent Standards Initiative to set baseline standards for agentic systems.",
+    "source": "Inside Global Tech",
+    "date": "2026-04-06",
+    "url": "https://www.insideglobaltech.com/2026/04/06/u-s-tech-legislative-regulatory-update-first-quarter-2026/",
+    "category": "Policy"
+  },
+  {
+    "title": "79% of Enterprises Struggle with AI Adoption Despite Soaring Budgets",
+    "summary": "A new enterprise AI report finds that 79% of organizations face significant challenges adopting AI — a double-digit jump from 2025 — even as 86% plan to increase AI spending this year. The data reveals a widening gap between investment and successful implementation, with over half of C-suite executives citing internal organizational friction as a key obstacle.",
+    "source": "Writer",
+    "date": "2026-04-08",
+    "url": "https://writer.com/blog/enterprise-ai-adoption-2026/",
+    "category": "Trends"
   }
 ]
