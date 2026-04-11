@@ -534,61 +534,6 @@
             .hero h1 { font-size: 2.5rem; }
         }
 
-        /* ========== AI NEWS ========== */
-        #ai-news { background: var(--bg); }
-        .news-grid {
-            max-width: var(--max-w); margin: 0 auto;
-            display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
-        }
-        .news-card {
-            background: var(--bg); border: 1px solid var(--border);
-            border-radius: var(--radius-lg); padding: 1.75rem;
-            transition: var(--transition); position: relative;
-            display: flex; flex-direction: column;
-        }
-        .news-card:hover {
-            box-shadow: var(--shadow-elevated);
-            transform: translateY(-4px);
-            border-color: transparent;
-        }
-        .news-card-top {
-            display: flex; align-items: center; justify-content: space-between;
-            margin-bottom: 1rem;
-        }
-        .news-category {
-            font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
-            letter-spacing: 0.04em; padding: 0.25rem 0.75rem;
-            border-radius: var(--radius-pill);
-        }
-        .news-category.models { background: rgba(20, 86, 240, 0.08); color: var(--brand-blue); }
-        .news-category.industry { background: rgba(16, 185, 129, 0.08); color: #059669; }
-        .news-category.trends { background: rgba(245, 158, 11, 0.08); color: #d97706; }
-        .news-category.policy { background: rgba(239, 68, 68, 0.08); color: #dc2626; }
-        .news-category.tools { background: rgba(139, 92, 246, 0.08); color: #7c3aed; }
-        .news-date { font-size: 0.75rem; color: var(--text-muted); }
-        .news-card h3 {
-            font-family: 'Outfit', sans-serif;
-            font-size: 1.05rem; font-weight: 600; line-height: 1.4;
-            margin-bottom: 0.6rem; color: var(--text);
-        }
-        .news-card p {
-            font-size: 0.85rem; color: var(--text-secondary); line-height: 1.55;
-            flex: 1;
-        }
-        .news-source {
-            margin-top: 1rem; padding-top: 0.75rem;
-            border-top: 1px solid var(--border-light);
-            font-size: 0.75rem; color: var(--text-muted); font-weight: 500;
-        }
-        .news-empty {
-            grid-column: 1 / -1; text-align: center;
-            padding: 3rem; color: var(--text-muted); font-size: 0.95rem;
-        }
-
-        @media (max-width: 968px) {
-            .news-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; }
-        }
-
         /* ========== ANIMATIONS ========== */
         .fade-up {
             opacity: 0; transform: translateY(24px);
@@ -675,7 +620,7 @@
             <ul class="nav-links" id="navLinks">
                 <li><a href="#services">Services</a></li>
                 <li><a href="#workshop">Workshop</a></li>
-                <li><a href="#ai-news">AI News</a></li>
+                <li><a href="news.html">AI News</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact" class="cta-link">Get in Touch</a></li>
             </ul>
@@ -856,18 +801,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <!-- AI NEWS -->
-    <section id="ai-news">
-        <div class="section-header fade-up">
-            <span class="section-label">AI Insights</span>
-            <h2>Latest in AI</h2>
-            <p>Curated news and developments from the world of artificial intelligence — updated regularly so you stay ahead.</p>
-        </div>
-        <div class="news-grid stagger-children" id="newsGrid">
-            <div class="news-empty fade-up">Loading latest AI news...</div>
         </div>
     </section>
 
@@ -1101,49 +1034,6 @@
         document.querySelectorAll('.about-stat-number, .showcase-stat').forEach(el => {
             statObserver.observe(el);
         });
-
-        // Load AI news from news.json
-        async function loadNews() {
-            const grid = document.getElementById('newsGrid');
-            try {
-                const res = await fetch('news.json');
-                const articles = await res.json();
-
-                if (!articles.length) {
-                    grid.innerHTML = '<div class="news-empty fade-up visible">No news articles yet. Check back soon!</div>';
-                    return;
-                }
-
-                // Show up to 6 articles
-                const html = articles.slice(0, 6).map(article => {
-                    const cat = article.category ? article.category.toLowerCase() : 'industry';
-                    const date = new Date(article.date).toLocaleDateString('en-US', {
-                        month: 'short', day: 'numeric', year: 'numeric'
-                    });
-                    return `
-                        <div class="news-card fade-up">
-                            <div class="news-card-top">
-                                <span class="news-category ${cat}">${article.category || 'News'}</span>
-                                <span class="news-date">${date}</span>
-                            </div>
-                            <h3>${article.title}</h3>
-                            <p>${article.summary}</p>
-                            <div class="news-source">${article.source}</div>
-                        </div>
-                    `;
-                }).join('');
-
-                grid.innerHTML = html;
-
-                // Re-observe new fade-up elements
-                grid.querySelectorAll('.fade-up').forEach(el => fadeObserver.observe(el));
-
-            } catch (err) {
-                grid.innerHTML = '<div class="news-empty fade-up visible">Unable to load news. Check back later.</div>';
-            }
-        }
-
-        loadNews();
 
         // Form submission
         function handleSubmit(e) {
