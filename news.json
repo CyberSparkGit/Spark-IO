@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Claude 4.6 Opus Released with 1M Context Window",
+    "summary": "Anthropic launches its most capable model yet, featuring a massive 1 million token context window and improved reasoning across complex tasks.",
+    "source": "Anthropic Blog",
+    "date": "2026-04-10",
+    "url": "#",
+    "category": "Models"
+  },
+  {
+    "title": "OpenAI Rolls Out GPT-5 to Enterprise Customers",
+    "summary": "OpenAI begins enterprise rollout of GPT-5, featuring native multimodal capabilities and improved tool use for business automation workflows.",
+    "source": "TechCrunch",
+    "date": "2026-04-08",
+    "url": "#",
+    "category": "Industry"
+  },
+  {
+    "title": "AI Adoption Hits 78% Among US Small Businesses",
+    "summary": "New survey data shows AI adoption among small businesses has nearly doubled year-over-year, with content generation and customer service leading use cases.",
+    "source": "Forbes",
+    "date": "2026-04-05",
+    "url": "#",
+    "category": "Trends"
+  },
+  {
+    "title": "Google DeepMind Introduces Gemini 3.0 Ultra",
+    "summary": "Google's latest AI model shows breakthrough performance in scientific reasoning and code generation, now available through Vertex AI.",
+    "source": "Google Blog",
+    "date": "2026-04-03",
+    "url": "#",
+    "category": "Models"
+  },
+  {
+    "title": "EU AI Act Enforcement Begins for High-Risk Systems",
+    "summary": "The European Union begins enforcing its landmark AI Act, requiring compliance audits for AI systems used in hiring, lending, and healthcare.",
+    "source": "Reuters",
+    "date": "2026-04-01",
+    "url": "#",
+    "category": "Policy"
+  },
+  {
+    "title": "Microsoft Copilot Now Handles Multi-App Workflows",
+    "summary": "Microsoft expands Copilot capabilities to orchestrate tasks across Office, Teams, and third-party apps — moving toward true AI agent functionality.",
+    "source": "The Verge",
+    "date": "2026-03-28",
+    "url": "#",
+    "category": "Tools"
+  }
+]
