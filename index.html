@@ -889,7 +889,7 @@
                         </div>
                         <div>
                             <div class="contact-method-label">Email</div>
-                            <div class="contact-method-value">hello@sparkio.org</div>
+                            <div class="contact-method-value">manuel@sparkio.org</div>
                         </div>
                     </div>
                     <div class="contact-method">
@@ -914,7 +914,7 @@
             </div>
             <div class="contact-form-card fade-up">
                 <h3>Send us a message</h3>
-                <form id="contactForm" onsubmit="handleSubmit(event)">
+                <form id="contactForm" action="/api/contact" method="POST" onsubmit="handleSubmit(event)">
                     <div class="form-row">
                         <div class="form-group">
                             <label for="firstName">First Name</label>
@@ -1036,17 +1036,51 @@
         });
 
         // Form submission
-        function handleSubmit(e) {
+        async function handleSubmit(e) {
             e.preventDefault();
-            const btn = e.target.querySelector('.btn-submit');
+            const form = e.target;
+            const btn = form.querySelector('.btn-submit');
             const originalText = btn.innerHTML;
-            btn.innerHTML = '&#x2713; Message Sent!';
-            btn.style.background = '#059669';
-            setTimeout(() => {
-                btn.innerHTML = originalText;
-                btn.style.background = '';
-                e.target.reset();
-            }, 3000);
+
+            // Show loading state
+            btn.innerHTML = 'Sending...';
+            btn.style.background = '#6b7280';
+            btn.disabled = true;
+
+            try {
+                const response = await fetch('/api/contact', {
+                    method: 'POST',
+                    body: new FormData(form),
+                });
+                const data = await response.json();
+
+                if (data.success) {
+                    btn.innerHTML = '&#x2713; Message Sent!';
+                    btn.style.background = '#059669';
+                    setTimeout(() => {
+                        btn.innerHTML = originalText;
+                        btn.style.background = '';
+                        btn.disabled = false;
+                        form.reset();
+                    }, 3000);
+                } else {
+                    btn.innerHTML = '&#x2717; ' + (data.error || 'Failed to send');
+                    btn.style.background = '#dc2626';
+                    setTimeout(() => {
+                        btn.innerHTML = originalText;
+                        btn.style.background = '';
+                        btn.disabled = false;
+                    }, 3000);
+                }
+            } catch (err) {
+                btn.innerHTML = '&#x2717; Connection error';
+                btn.style.background = '#dc2626';
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.style.background = '';
+                    btn.disabled = false;
+                }, 3000);
+            }
         }
     </script>
 </body>
