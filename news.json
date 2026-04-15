@@ -6,7 +6,8 @@
     "source": "NBC News",
     "date": "2026-04-14",
     "url": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677",
-    "category": "Tools"
+    "category": "Tools",
+    "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260414-musk-cook-rs-876540.jpg"
   },
   {
     "title": "Morumbis shows former manager's name, not Roger Machado ",
@@ -24,7 +25,8 @@
     "source": "Onefootball.com",
     "date": "2026-04-14",
     "url": "https://onefootball.com/en/news/vasco-named-to-seek-first-win-in-the-2026-copa-sul-americana-42712076",
-    "category": "Policy"
+    "category": "Policy",
+    "image": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F42712076%3Fdate=2026-04-15"
   },
   {
     "title": "Faherty’s Cofounder on Turning a Childhood Goal Into a Global Brand",
@@ -33,7 +35,8 @@
     "source": "WWD",
     "date": "2026-04-14",
     "url": "http://wwd.com/voices/retailrx/faherty-cofounder-building-global-brand-family-business-1238916110/",
-    "category": "Industry"
+    "category": "Industry",
+    "image": "https://wwd.com/wp-content/uploads/2026/04/Faherty-Podcast-LinkedIn-Social-Promo.png?w=1000&#038;h=563&#038;crop=1"
   },
   {
     "title": "OpenAI acquires AI financial planning startup Hiro Finance",
@@ -42,6 +45,7 @@
     "source": "SiliconANGLE News",
     "date": "2026-04-14",
     "url": "https://siliconangle.com/2026/04/14/openai-acquires-ai-financial-planning-startup-hiro-finance/",
-    "category": "Tools"
+    "category": "Tools",
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/OpenAI1.png"
   }
 ]
