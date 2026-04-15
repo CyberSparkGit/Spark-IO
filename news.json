@@ -1,56 +1,47 @@
 [
   {
-    "title": "OpenAI Unveils GPT-5.4-Cyber for Vetted Cybersecurity Professionals",
-    "summary": "OpenAI launched GPT-5.4-Cyber, a fine-tuned variant of its flagship model with relaxed guardrails for legitimate defensive cybersecurity work, expanding its Trusted Access for Cyber program to thousands of verified defenders.",
-    "content": "OpenAI unveiled GPT-5.4-Cyber, a variant of its latest flagship model fine-tuned specifically for defensive cybersecurity work, following rival Anthropic's April 7 announcement of Claude Mythos — deployed under Project Glasswing — which has already found thousands of major vulnerabilities across operating systems and web browsers. GPT-5.4-Cyber will initially roll out on a limited basis to vetted security vendors, organizations, and researchers because of its more permissive design, with fewer restrictions on sensitive tasks such as vulnerability research, binary reverse engineering, and malware analysis. OpenAI is simultaneously expanding its Trusted Access for Cyber (TAC) program — launched in February 2026 — to thousands of verified individual defenders and hundreds of teams protecting critical software infrastructure, adding new tiers where higher verification levels unlock more powerful capabilities. The company classified GPT-5.4 as 'High' cyber capability under its Preparedness Framework, and noted that CTF benchmark performance across its models jumped from 27% on GPT-5 in August 2025 to significantly higher scores with current-generation models, reflecting rapid growth in both offensive and defensive cyber task performance. The move signals an escalating AI arms race focused on security-specific model variants, with OpenAI emphasizing democratized access via robust identity verification and account-level monitoring as core safeguards.",
-    "source": "Reuters",
+    "title": "Apple App Store threatened to remove Grok over deepfakes: letter",
+    "summary": "In a letter to senators sent in January, Apple detailed how it responded to Elon Musk's X and Grok generating sexualized deepfakes.",
+    "content": "Apple privately threatened to remove Elon Musks artificial intelligence app, Grok, from its App Store in January after Musks xAI failed to do enough to stop it from creating nude or sexualized deepfa…",
+    "source": "NBC News",
     "date": "2026-04-14",
-    "url": "https://www.reuters.com/technology/openai-unveils-gpt-54-cyber-week-after-rivals-announcement-ai-model-2026-04-14/",
-    "category": "Models"
-  },
-  {
-    "title": "Meta Launches Muse Spark, Its Most Powerful AI Model Yet",
-    "summary": "Meta Superintelligence Labs unveiled Muse Spark, the first model in its new Muse series, now powering Meta AI with advanced multimodal reasoning, parallel sub-agent execution, and strong health and visual coding capabilities.",
-    "content": "Meta Superintelligence Labs announced Muse Spark, the first model in its new Muse series of large language models, describing it as the company's most powerful model yet and a deliberate step toward what Meta calls 'personal superintelligence.' Built after Meta's AI team rebuilt its entire AI stack from the ground up over nine months, Muse Spark is small and fast by design yet capable of reasoning through complex questions in science, math, and health — and it now powers the Meta AI app and meta.ai, with a rollout to WhatsApp, Instagram, Facebook, Messenger, and AI glasses coming in the weeks ahead. The model supports multimodal perception, allowing Meta AI to analyze photos (such as identifying protein content in snack labels), read charts and health imagery, and generate custom websites and mini-games from prompts, while Instant and Thinking modes let users choose between quick answers and deep reasoning. A standout capability is parallel sub-agent execution: when planning a complex task like a family trip, Meta AI can simultaneously launch separate agents to draft an itinerary, compare destinations, and surface kid-friendly activities — delivering a richer answer faster. Meta also plans to open-source future versions of Muse and is offering the current model to select API partners in private preview, with the next generation of the Muse series already in development.",
-    "source": "Meta Newsroom",
-    "date": "2026-04-08",
-    "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs-first-model-built-to-prioritize-people/",
-    "category": "Models"
-  },
-  {
-    "title": "AWS Launches Amazon Bio Discovery to Accelerate AI-Driven Drug Development",
-    "summary": "Amazon Web Services launched Amazon Bio Discovery, an AI application that lets pharmaceutical researchers run complex drug-discovery workflows without writing code, compressing months of molecular design work into weeks.",
-    "content": "Amazon Web Services launched Amazon Bio Discovery, an AI application designed to speed early-stage drug discovery by giving scientists access to a library of specialized biological foundation models that can generate and evaluate potential drug molecules — all without writing a single line of code. The platform includes an AI agent that helps researchers select models, set parameters, and interpret results, and integrates directly with lab partners so shortlisted drug candidates can be sent for synthesis and testing with results automatically routed back to guide the next design iteration. In a collaboration with Memorial Sloan Kettering Cancer Center, the platform generated nearly 300,000 novel antibody molecules and narrowed them to 100,000 candidates for lab testing by partner Twist Bioscience — compressing work that previously took months into weeks. Early adopters include Bayer, the Broad Institute, and Voyager Therapeutics, and 19 of the top 20 global pharmaceutical companies already use AWS cloud services. AWS VP Rajiv Chopra noted that the rapid rise of drug-discovery AI models has created a bottleneck around computational biologists who can translate lab goals into machine-learning pipelines, and Bio Discovery is designed to remove that constraint while augmenting rather than replacing scientists.",
-    "source": "Reuters",
-    "date": "2026-04-14",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/amazon-launches-ai-research-tool-speed-early-stage-drug-discovery-2026-04-14/",
-    "category": "Industry"
-  },
-  {
-    "title": "Google Adds Reusable AI 'Skills' to Chrome's Gemini Integration",
-    "summary": "Google introduced Skills for Gemini in Chrome, letting users save and reuse AI prompts as one-click workflows that run across any web page, accompanied by a pre-built Skills library covering productivity, shopping, recipes, and more.",
-    "content": "Google announced Skills, a new feature for Gemini in Chrome that lets users save their favorite AI prompts as reusable one-click workflows, eliminating the need to retype common instructions each time they visit a web page. The feature works by letting users save any prompt directly from their Gemini chat history; the saved Skill can then be invoked on any web page — or across multiple selected tabs — by typing a forward slash (/) or clicking the plus button in the Gemini panel. Early adopters used Skills for health and wellness tasks like calculating protein macros in recipes, for shopping spec comparisons across multiple product tabs, and for scanning lengthy documents for key information. Google is also launching a Skills library at chrome://skills/browse offering pre-built workflows across categories including Learning, Research, Shopping, Writing, and Productivity, each of which can be customized by editing the underlying prompt. Skills rolls out today to Chrome desktop users signed into their Google accounts with the browser set to English (US), with safety guardrails requiring user confirmation before Skills take sensitive actions like sending emails or adding calendar events — placing Google's AI browser features in direct competition with AI-native browsers from OpenAI (Atlas), Perplexity (Comet), and The Browser Company (Dia).",
-    "source": "TechCrunch",
-    "date": "2026-04-14",
-    "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "url": "https://www.nbcnews.com/tech/tech-news/apple-threat-remove-grok-app-store-deepfake-letter-musk-x-ai-rcna331677",
     "category": "Tools"
   },
   {
-    "title": "White House National AI Framework Pushes Congress to Preempt State AI Laws",
-    "summary": "The Trump administration's March 20 National AI Legislative Framework urges Congress to replace the state-by-state patchwork of AI regulations with a single federal standard, while preserving limited state authority over child protection, consumer fraud, and zoning.",
-    "content": "On March 20, 2026, the White House released a National Policy Framework for Artificial Intelligence — a nonbinding but influential legislative roadmap — directing Congress to act on seven AI policy priorities: protecting children and empowering parents, safeguarding communities, respecting intellectual property, preventing government censorship, enabling innovation, developing an AI-ready workforce, and establishing a preemptive federal standard that displaces conflicting state AI laws. The framework's most consequential provision calls for federal preemption of state AI laws that impose undue burdens on innovation, arguing that a fragmented patchwork of conflicting state regulations would undermine U.S. competitiveness in the global AI race — while carving out state authority to enforce generally applicable laws on child safety, fraud, and consumer protection. On copyright, the framework states the administration's view that training AI on copyrighted material does not violate copyright law, while acknowledging courts hold ultimate authority and encouraging voluntary collective licensing frameworks. The document also opposes creating any new federal AI regulatory body, instead favoring oversight through existing sector-specific agencies and industry-led standards, along with regulatory sandboxes to accelerate experimentation. The framework follows Executive Order 14365 (December 2025) and represents the administration's formal effort to move from executive action to active legislative negotiation, though deep bipartisan divisions over the scope of federal preemption mean a clear path through Congress remains uncertain.",
-    "source": "WilmerHale",
-    "date": "2026-03-20",
-    "url": "https://www.wilmerhale.com/en/insights/blogs/wilmerhale-privacy-and-cybersecurity-law/20260323-white-house-releases-national-policy-framework-for-artificial-intelligence",
+    "title": "Morumbis shows former manager's name, not Roger Machado ",
+    "summary": "The crowd at Morumbis witnessed a rather strange moment this Tuesday (14) before the match between São Paulo and O'Higgins, in the Copa Sudamericana.During the lineup announcement for the clash, the...",
+    "content": "The crowd at Morumbis witnessed a rather strange moment this Tuesday (14) before the match between São Paulo and O'Higgins in the Copa Sudamericana.\r\nDuring the lineup announcement for the clash, the…",
+    "source": "Onefootball.com",
+    "date": "2026-04-14",
+    "url": "https://onefootball.com/en/news/morumbis-shows-former-managers-name-not-roger-machado-42712080",
+    "category": "Industry"
+  },
+  {
+    "title": " Vasco named to seek first win in the 2026 Copa Sul-Americana",
+    "summary": "Vasco return to action this Tuesday (14) at 9 p.m. (Brasília time), when they host Chile’s Audax at São Januário in the second round of the 2026 Conmebol Sudamericana.While the Giant of the Hill ...",
+    "content": "Vasco return to action this Tuesday (14) at 9 p.m. (Brasília time), when they host Chiles Audax at São Januário in the second round of the 2026 Conmebol Sudamericana.\r\nWhile the Giant of the Hill dre…",
+    "source": "Onefootball.com",
+    "date": "2026-04-14",
+    "url": "https://onefootball.com/en/news/vasco-named-to-seek-first-win-in-the-2026-copa-sul-americana-42712076",
     "category": "Policy"
   },
   {
-    "title": "NVIDIA Launches Ising: Open AI Models for Fault-Tolerant Quantum Computing",
-    "summary": "NVIDIA released the Ising model family, the world's first open AI models for building quantum processors, targeting the fundamental noise and error-correction challenges that have prevented quantum computers from reaching practical utility.",
-    "content": "NVIDIA unveiled the Ising model family — described as the world's first family of open AI models for building quantum processors — launching with two specialized domains: Ising Calibration, a 35B-parameter vision-language model that automates the process of tuning quantum processors to minimize noise, and Ising Decoding, a pair of 3D CNN models that perform real-time quantum error correction to make qubits reliable enough for practical use. The fundamental challenge Ising targets is that the best quantum processors today make an error roughly once in every thousand operations, whereas useful quantum accelerators need error rates of one in a trillion or better — a gap AI is now the most promising path to closing. On NVIDIA's new QCalEval benchmark, the world's first agentic quantum calibration benchmark built in collaboration with quantum hardware partners across superconducting, ion trap, neutral atom, and other qubit modalities, Ising Calibration 1 outperforms Gemini 3.1 Pro by 3.27%, Claude Opus 4.6 by 9.68%, and GPT-5.4 by 14.5%. The entire Ising family is fully open: model weights, training frameworks, datasets, benchmarks, and fine-tuning recipes are all freely available on Hugging Face and GitHub under the NVIDIA Open Model License, so QPU builders can specialize the models for their own hardware and noise characteristics while keeping proprietary data on-site. NVIDIA also released a real-time decoding API achieving 2.33 microseconds per round on GB300 GPUs — a 2.25x speedup with 1.53x improvement in logical error rate — marking a concrete step toward Quantum-GPU Supercomputers capable of solving real scientific and enterprise problems.",
-    "source": "NVIDIA Technical Blog",
+    "title": "Faherty’s Cofounder on Turning a Childhood Goal Into a Global Brand",
+    "summary": "In slightly over a decade, surf-inspired fashion brand Faherty has expanded into a nine-figure business.",
+    "content": "In slightly over a decade, surf-inspired fashion brand Faherty has expanded into a nine-figure business.\r\nAt the heart of the brand story is family. Twins Alex and Mike Faherty made their childhood d…",
+    "source": "WWD",
     "date": "2026-04-14",
-    "url": "https://developer.nvidia.com/blog/nvidia-ising-introduces-ai-powered-workflows-to-build-fault-tolerant-quantum-systems/",
+    "url": "http://wwd.com/voices/retailrx/faherty-cofounder-building-global-brand-family-business-1238916110/",
     "category": "Industry"
+  },
+  {
+    "title": "OpenAI acquires AI financial planning startup Hiro Finance",
+    "summary": "OpenAI Group PBC has acquired Hiro Finance Inc., a low-profile startup with an artificial intelligence tool for creating financial plans. Hiro announced the deal on Monday without disclosing its financial terms. The company raised an unspecified amount of fun…",
+    "content": "OpenAI Group PBC has acquired Hiro Finance Inc., a low-profile startup with an artificial intelligence tool for creating financial plans.\r\nHiro announced the deal on Monday without disclosing its fin…",
+    "source": "SiliconANGLE News",
+    "date": "2026-04-14",
+    "url": "https://siliconangle.com/2026/04/14/openai-acquires-ai-financial-planning-startup-hiro-finance/",
+    "category": "Tools"
   }
 ]
