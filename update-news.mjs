@@ -36,6 +36,14 @@ function categorize(title, description) {
   return 'Industry';
 }
 
+// NewsAPI free tier truncates content with "[+XXXX chars]" — strip it.
+// Fall back to description if the result is too short to be useful.
+function buildContent(content, description) {
+  if (!content) return description || 'No content available.';
+  const cleaned = content.replace(/\s*\[?\+\d+ chars\]?\s*$/, '').trim();
+  return cleaned.length >= 80 ? cleaned : (description || cleaned);
+}
+
 async function fetchNews() {
   if (!API_KEY) {
     console.error('ERROR: Set NEWS_API_KEY environment variable.');
@@ -61,6 +69,7 @@ async function fetchNews() {
       .map(a => ({
         title: a.title.replace(/ - .*$/, ''), // strip source suffix
         summary: a.description || 'No summary available.',
+        content: buildContent(a.content, a.description),
         source: a.source?.name || 'Unknown',
         date: a.publishedAt?.split('T')[0] || new Date().toISOString().split('T')[0],
         url: a.url || '#',
