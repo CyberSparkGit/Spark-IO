@@ -73,6 +73,7 @@ async function fetchNews() {
         source: a.source?.name || 'Unknown',
         date: a.publishedAt?.split('T')[0] || new Date().toISOString().split('T')[0],
         url: a.url || '#',
+        image: a.urlToImage && a.urlToImage.startsWith('http') ? a.urlToImage : null,
         category: categorize(a.title, a.description || ''),
       }));
 

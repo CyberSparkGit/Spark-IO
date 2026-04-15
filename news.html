@@ -146,6 +146,11 @@
             color: rgba(255,255,255,0.3);
             letter-spacing: -0.02em;
         }
+        .news-card.featured .news-card-image {
+            width: 100%; height: 100%; min-height: 200px;
+            border-radius: var(--radius-lg);
+            object-fit: cover;
+        }
 
         .news-card {
             background: var(--bg); border: 1px solid var(--border);
@@ -395,11 +400,15 @@
                 const excerpt = article.content || article.summary || '';
                 const url = article.url && article.url !== '#' ? article.url : null;
 
+                const image = article.image || null;
+
                 // First article is featured
                 if (i === 0) {
                     return `
                         <div class="news-card featured fade-up" data-category="${cat}">
-                            <div class="news-gradient-bar ${gradient}">AI</div>
+                            ${image
+                                ? `<img class="news-card-image" src="${image}" alt="" onerror="this.outerHTML='<div class=\\'news-gradient-bar ${gradient}\\'>AI</div>'">`
+                                : `<div class="news-gradient-bar ${gradient}">AI</div>`}
                             <div class="news-card-content">
                                 <div class="news-card-top">
                                     <span class="news-category ${cat}">${article.category || 'News'}</span>
