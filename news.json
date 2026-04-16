@@ -1,62 +1,56 @@
 [
   {
-    "title": "Introducing Salesforce Headless 360",
-    "summary": "\"Why should you ever log into Salesforce again?\" Salesforce Co-Founder Parker Harris asked that question out loud last month. The result is Salesforce Headless 360: capabilities exposed as an API, MCP tool, or CLI command so humans and agents can build, act, and deliver experiences on any surface.",
-    "content": "They call APIs, invoke MCP tools, and run CLI commands directly. So two and a half years ago, we made a decision: Rebuild Salesforce for agents. Instead of burying capabilities behind a UI, expose them so the entire platform will be accessible. The result is Salesforce Headless 360: the capabilities your agents need most, exposed as an API, MCP tool, or CLI command so humans and agents can build, act, and deliver experiences on any surface. Salesforce Headless 360 delivers three new innovations: New MCP tools and coding skills that give your coding agent full access to your platform. For developers, headless means you can build on Salesforce any way you want. More than 60 new MCP tools and 30+ coding skills.",
-    "source": "salesforce.com",
+    "title": "OpenAI Launches GPT-5.4-Cyber for Defensive Cybersecurity",
+    "summary": "OpenAI unveiled GPT-5.4-Cyber, a fine-tuned variant of its flagship model designed for vetted security professionals, expanding its Trusted Access for Cyber program to thousands of defenders.",
+    "content": "OpenAI unveiled GPT-5.4-Cyber, a variant of its latest flagship model fine-tuned specifically for defensive cybersecurity work, following rival Anthropic's announcement of frontier AI model Mythos. The new model is cyber-permissive — designed to lower refusal boundaries for legitimate security tasks — and adds capabilities not available in standard GPT-5.4, including binary reverse engineering for analyzing compiled software. GPT-5.4-Cyber will initially roll out on a limited basis to vetted security vendors, organizations, and researchers, with OpenAI also expanding its Trusted Access for Cyber program to thousands of individual defenders and hundreds of security teams protecting critical software. The release reflects a broader shift in how AI developers approach cybersecurity risk — moving away from blanket capability restrictions toward identity-based access controls. OpenAI's capture-the-flag benchmark performance improved dramatically from 27% on GPT-5 in August 2025 to 76% on GPT-5.1-Codex-Max in November 2025.",
+    "source": "Reuters",
+    "date": "2026-04-14",
+    "url": "https://www.reuters.com/technology/openai-unveils-gpt-54-cyber-week-after-rivals-announcement-ai-model-2026-04-14/",
+    "category": "Models"
+  },
+  {
+    "title": "Adobe's Firefly AI Assistant Marks a 'Fundamental Shift' in Creative Work",
+    "summary": "Adobe launched the Firefly AI Assistant, a conversational agent that orchestrates complex, multi-step editing workflows across Creative Cloud apps using natural language prompts.",
+    "content": "Adobe launched the Firefly AI Assistant, a conversational agent that can operate across Photoshop, Premiere Pro, Lightroom, Illustrator, Express, and Frame.io using natural language — marking what the company calls a 'fundamental shift in how creative work is done.' Built on Project Moonlight, previewed at Adobe's Max conference last year, the assistant performs complex, multi-step workflows on the user's behalf so creators can simply describe what they want rather than manually navigating tools. The assistant learns user preferences over time — preferred tools, workflows, and aesthetic choices — and integrates with third-party AI models including Anthropic's Claude, Google, OpenAI, Runway, and ElevenLabs. Adobe also unveiled Firefly Image Model 5 in public beta, new Custom Models for training on private image libraries, and Project Graph, a node-based visual system for designing reusable AI-powered workflows. The push into agentic AI comes as Adobe faces intensifying competition from Canva (260M MAUs) and navigates a CEO transition after Shantanu Narayen's 18-year tenure.",
+    "source": "The Verge",
+    "date": "2026-04-15",
+    "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
+    "category": "Tools"
+  },
+  {
+    "title": "OpenAI's Agents SDK Gets Native Sandbox Execution and a Production-Grade Harness",
+    "summary": "OpenAI released a major update to its Agents SDK, introducing a model-native harness and native sandbox execution so developers can build agents that work across files, run code, and handle long-horizon tasks safely.",
+    "content": "OpenAI released a major update to its Agents SDK, introducing a model-native harness and native sandbox execution designed to close the gap between agent prototypes and production deployments. The updated SDK includes configurable memory, sandbox-aware orchestration, Codex-like filesystem tools, and standardized support for MCP, custom AGENTS.md instructions, shell execution, and file patching — primitives now common across frontier agent systems. Developers can bring their own sandbox or use built-in integrations with Cloudflare, E2B, Modal, Vercel, and others, with a new Manifest abstraction for describing portable agent workspaces across local and cloud environments. The architecture intentionally separates harness from compute to keep credentials isolated from environments where model-generated code executes, and snapshotting support allows failed runs to be restored mid-task without losing progress. The new capabilities are generally available to all customers at standard API pricing, with Python launching first and TypeScript support planned for a future release.",
+    "source": "OpenAI",
+    "date": "2026-04-15",
+    "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/",
+    "category": "Tools"
+  },
+  {
+    "title": "Google DeepMind Launches Gemini Robotics-ER 1.6 with Analog Instrument Reading",
+    "summary": "Google DeepMind introduced Gemini Robotics-ER 1.6, a major upgrade to its embodied reasoning model that enables robots to understand physical environments with greater precision, including a first-ever ability to read analog gauges.",
+    "content": "Google DeepMind introduced Gemini Robotics-ER 1.6, a significant upgrade to its reasoning-first robotics model that serves as the high-level 'cognitive brain' of robots in real-world environments. The model enhances spatial reasoning and multi-view understanding, delivering improvements in precision object detection, pointing, counting, relational logic, and a brand-new capability developed with Boston Dynamics: instrument reading — allowing robots to interpret complex analog gauges, pressure meters, and sight glasses used in industrial facility inspection. It acts as an orchestrating reasoning layer that can natively call tools like Google Search, vision-language-action models, or any third-party function, and includes success detection so robots can determine autonomously whether a task is complete without human confirmation. Gemini Robotics-ER 1.6 is also the safest robotics model DeepMind has shipped, with superior compliance on adversarial spatial reasoning tasks and improved adherence to physical safety constraints such as not handling prohibited materials. Developers can access the model starting April 14 via the Gemini API and Google AI Studio.",
+    "source": "Google DeepMind",
+    "date": "2026-04-14",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "category": "Models"
+  },
+  {
+    "title": "Salesforce Launches Headless 360 to Make Its Entire Platform Agent-Accessible",
+    "summary": "Salesforce unveiled Headless 360, exposing its full CRM platform as APIs, MCP tools, and CLI commands so AI agents can act on it without requiring a graphical interface.",
+    "content": "Salesforce launched Headless 360, the result of a two-and-a-half-year initiative to rebuild the platform for an agentic future — answering Co-Founder Parker Harris's challenge: 'Why should you ever log into Salesforce again?' Rather than burying capabilities behind a UI, Headless 360 exposes them as APIs, MCP tools, and CLI commands so AI agents and developers can build and act on any surface. The launch includes more than 60 new MCP tools and 30+ coding skills that give coding agents full programmatic access to Salesforce platform capabilities. Alongside Headless 360, Salesforce also announced a major expansion of Agent Fabric — its trusted agent control plane — adding automated discovery for MCP servers and platforms like Amazon Bedrock and Microsoft Foundry, a visual drag-and-drop authoring canvas, and an MCP Bridge to make existing APIs agent-ready at enterprise scale. Agent Fabric, which has managed thousands of agentic instances for customers like Capita and Alcon since launching in September 2025, is now available in new regions including Canada and Japan.",
+    "source": "Salesforce",
     "date": "2026-04-15",
     "url": "https://www.salesforce.com/news/stories/salesforce-headless-360-announcement/",
-    "category": "Industry",
-    "image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/04/Agentforce-Developer-Experience-TDX-Release.png"
+    "category": "Industry"
   },
   {
-    "title": "Google launches Gemini AI Mac app, here's what it offers",
-    "summary": "Google's Gemini AI app is a constant top three iPhone app in the App Store. Starting today, Gemini is available as a native Mac app with 100+ features built by a small dedicated team.",
-    "content": "Starting today, Gemini is available as a native Mac app. Introducing Gemini on Mac. We heard your feedback. We recruited a small team. They built 100+ features in less than 100 days. Beyond the new Mac app, Google's Gemini is set to power upgraded Siri and Apple Intelligence features, starting with iOS 27 and macOS 27 later this year. Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google's Gemini models and cloud technology.",
-    "source": "Zac Hall",
-    "date": "2026-04-15",
-    "url": "https://9to5mac.com/2026/04/15/google-launches-gemini-mac-app-heres-what-it-offers/",
-    "category": "Models",
-    "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&strip=all&w=1600"
-  },
-  {
-    "title": "Google DeepMind Launches Gemini Robotics-ER 1.6",
-    "summary": "Google DeepMind launched Gemini Robotics-ER 1.6 on April 14, 2026. The new model advances how robots reason about physical environments, targeting key challenges in spatial understanding, task planning, and autonomous decision-making.",
-    "content": "Google DeepMind Releases Gemini Robotics-ER 1.6 to Advance Robot Autonomy. The new model advances how robots reason about physical environments. It targets key challenges in spatial understanding, task planning, and autonomous decision-making. The release marks a significant step in the field of embodied AI. Robots equipped with the model can now process complex visual data and act on it without constant human input. Boston Dynamics announced a partnership with Google DeepMind and Google Cloud, integrating Gemini Robotics-ER 1.6 into the Orbit software platform.",
-    "source": "Team Colitco",
-    "date": "2026-04-15",
-    "url": "https://colitco.com/google-deepmind-gemini-robotics-er-1-6-1504202625/",
-    "category": "Models",
-    "image": null
-  },
-  {
-    "title": "Google Launches Native Gemini AI App for Mac",
-    "summary": "Google is bringing Gemini to the Mac with a new native macOS app that's available starting today. Gemini for Mac can be activated with a keyboard shortcut and has built-in tools for generating content.",
-    "content": "Google is bringing Gemini to the Mac with a new native macOS app available starting today. Gemini for Mac can be activated with a keyboard shortcut, and it has built-in tools for generating content. Gemini is the last of the three major AI services to have a dedicated Mac app, because OpenAI and Anthropic have had theirs. Gemini for Mac is available for Macs running macOS 15 and later, and it is free to download and use. Google says that the Mac app is the first step toward a personal, proactive, and powerful desktop assistant.",
-    "source": "Juli Clover",
-    "date": "2026-04-15",
-    "url": "https://www.macrumors.com/2026/04/15/google-gemini-mac-app/",
-    "category": "Models",
-    "image": null
-  },
-  {
-    "title": "Gemini 3.1 Flash TTS: New text-to-speech AI model",
-    "summary": "Google introduces Gemini 3.1 Flash TTS, the next generation of expressive AI speech. The newest audio model introduces granular audio tags that give precise control to direct AI speech for expressive audio generation.",
-    "content": "Gemini 3.1 Flash TTS is here, giving you improved AI speech quality and control. You can now use audio tags to adjust speech characteristics. This model has improved speech quality, making it sound more natural than previous versions. Gemini 3.1 Flash TTS supports 70+ languages and uses SynthID watermarking to identify AI-generated audio. Today we're introducing Gemini 3.1 Flash TTS, the latest text-to-speech model that delivers improved controllability, expressivity and quality.",
-    "source": "blog.google",
-    "date": "2026-04-15",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-    "category": "Models",
-    "image": null
-  },
-  {
-    "title": "DeepMind launches Gemini Robotics-ER 1.6 to meet precise physical AI demands",
-    "summary": "Google DeepMind's artificial intelligence research division introduced a new foundation robotics AI model. The model provides high-level reasoning capabilities for robotics, offering a layer for task planning and tool calling.",
-    "content": "Google DeepMind introduced a new foundation robotics AI model designed for precise physical AI demands. The new model, Gemini Robotics-ER 1.6, provides high-level reasoning capabilities for robotics, offering a layer for task planning and tool calling. These include native tools for Google Search to find information, vision-language-action models, and environments such as factories, warehouses and even domestic spaces. Developers can access ER 1.6 via the Gemini API and Google AI Studio.",
-    "source": "Kyt Dotson",
-    "date": "2026-04-15",
-    "url": "https://siliconangle.com/2026/04/15/deepmind-launches-gemini-robotics-er-1-6-meet-precise-physical-ai-demands/",
-    "category": "Models",
-    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/04/Screenshot-2026-04-15-8.58.56-AM.png"
+    "title": "a16z: 29% of the Fortune 500 Are Now Live Enterprise AI Customers",
+    "summary": "Andreessen Horowitz published hard data showing nearly a third of the Fortune 500 are paying, live customers of a leading AI product, with coding dominating adoption by nearly an order of magnitude over every other use case.",
+    "content": "Andreessen Horowitz published an analysis of real enterprise AI adoption, finding that 29% of the Fortune 500 and roughly 19% of the Global 2000 are live, paying customers of a leading AI product — a penetration rate the firm calls remarkable given how slowly large enterprises typically adopt new technology. Coding is by far the dominant enterprise AI use case, outpacing the next closest categories — support and search — by nearly an order of magnitude, with most Fortune 500 spend concentrated among a small number of vendors. Among industries, technology adopted AI first, but legal and healthcare have emerged as surprisingly fast movers; legal was historically one of the most conservative sectors for technology adoption, making its early AI embrace especially notable. The analysis overlays revenue momentum with model capabilities on real-world economically valuable tasks, drawing on data aggregated from portfolio companies and direct conversations with corporate executives. The findings push back against widely cited reports that enterprise AI is 'falling short,' arguing that AI has broken the traditional multi-year enterprise sales cycle faster than any prior technology wave.",
+    "source": "Andreessen Horowitz",
+    "date": "2026-04-08",
+    "url": "https://a16z.com/where-enterprises-are-actually-adopting-ai/",
+    "category": "Trends"
   }
 ]
