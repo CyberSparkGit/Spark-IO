@@ -1,28 +1,21 @@
 #!/usr/bin/env node
 
-// update-news.mjs — AI news updater powered by Exa search + Claude summaries
+// update-news.mjs — AI news updater powered entirely by Exa
 //
-// Required env vars:
-//   EXA_API_KEY       — from exa.ai
-//   ANTHROPIC_API_KEY — from console.anthropic.com
+// Required env var:
+//   EXA_API_KEY — from exa.ai
 
 import { writeFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import Anthropic from '@anthropic-ai/sdk';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const NEWS_FILE = join(__dirname, 'news.json');
 
 const EXA_API_KEY = process.env.EXA_API_KEY;
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-
 if (!EXA_API_KEY) { console.error('Missing EXA_API_KEY'); process.exit(1); }
-if (!ANTHROPIC_API_KEY) { console.error('Missing ANTHROPIC_API_KEY'); process.exit(1); }
 
-const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
-
-// Search Exa and return results with full text included
+// Search Exa and return results with highlights + snippet
 async function exaSearch(query, numResults = 6) {
   const res = await fetch('https://api.exa.ai/search', {
     method: 'POST',
@@ -35,66 +28,89 @@ async function exaSearch(query, numResults = 6) {
       startPublishedDate: new Date(Date.now() - 4 * 24 * 60 * 60 * 1000)
         .toISOString()
         .split('T')[0],
-      contents: { text: { maxCharacters: 4000 } },
+      contents: {
+        text: { maxCharacters: 300 },   // short snippet for summary
+        highlights: {
+          numSentences: 2,              // 2 sentences per highlight chunk
+          highlightsPerUrl: 3,          // 3 chunks = ~5-6 sentences for content
+        },
+      },
     }),
   });
+
   const data = await res.json();
-  if (!data.results) {
-    console.error('Exa error:', JSON.stringify(data));
-    return [];
-  }
+  if (!data.results) { console.error('Exa error:', JSON.stringify(data)); return []; }
   return data.results;
 }
 
-// Use Claude to write quality summaries for a set of articles
-async function writeSummaries(articles) {
-  const articlesText = articles
-    .map(
-      (a, i) =>
-        `--- Article ${i + 1} ---\n` +
-        `Title: ${a.title}\n` +
-        `URL: ${a.url}\n` +
-        `Published: ${a.publishedDate?.split('T')[0] ?? 'unknown'}\n` +
-        `Source: ${a.author ?? new URL(a.url).hostname}\n` +
-        `Full text:\n${a.text ?? a.snippet ?? '(no content)'}`
-    )
-    .join('\n\n');
+// Category mapping — first match wins
+const CATEGORY_MAP = [
+  {
+    keywords: ['gpt', 'claude', 'gemini', 'llama', 'model', 'llm', 'mistral',
+               'foundation model', 'language model', 'grok', 'muse', 'mythos',
+               'reasoning model', 'multimodal'],
+    category: 'Models',
+  },
+  {
+    keywords: ['regulation', 'law', 'policy', 'act', 'govern', 'compliance',
+               'ban', 'framework', 'congress', 'senate', 'white house', 'eu ai'],
+    category: 'Policy',
+  },
+  {
+    keywords: ['copilot', 'tool', 'app', 'platform', 'launch', 'release',
+               'feature', 'product', 'plugin', 'extension', 'update', 'version',
+               'skill', 'assistant', 'agent'],
+    category: 'Tools',
+  },
+  {
+    keywords: ['trend', 'survey', 'report', 'adoption', 'market', 'growth',
+               'study', 'forecast', 'investment', 'revenue', 'funding', 'ceo'],
+    category: 'Trends',
+  },
+];
 
-  const message = await anthropic.messages.create({
-    model: 'claude-sonnet-4-6',
-    max_tokens: 4096,
-    system: {
-      type: 'text',
-      text: 'You are an AI news editor for Spark I/O, a tech-focused website. Your job is to write clean, substantive news entries from raw article text.',
-      cache_control: { type: 'ephemeral' },
-    },
-    messages: [
-      {
-        role: 'user',
-        content:
-          `Given the ${articles.length} AI news articles below, return a JSON array with one object per article.\n\n` +
-          `Each object must have exactly these fields:\n` +
-          `- "title": clean headline, no source suffix\n` +
-          `- "summary": one sentence capturing the core news\n` +
-          `- "content": 3–5 sentences with real substance — key facts, numbers, context. Not a teaser.\n` +
-          `- "source": publication name (e.g. "Reuters", "TechCrunch")\n` +
-          `- "date": YYYY-MM-DD\n` +
-          `- "url": exact URL from the article\n` +
-          `- "category": one of Models | Industry | Trends | Policy | Tools\n\n` +
-          `Return ONLY a valid JSON array. No markdown, no code fences, no commentary.\n\n` +
-          articlesText,
-      },
-    ],
-  });
+function categorize(title, text) {
+  const haystack = `${title} ${text ?? ''}`.toLowerCase();
+  for (const { keywords, category } of CATEGORY_MAP) {
+    if (keywords.some(kw => haystack.includes(kw))) return category;
+  }
+  return 'Industry';
+}
 
-  const raw = message.content[0].text.trim();
-  return JSON.parse(raw);
+function buildArticle(r) {
+  const title = r.title
+    ?.replace(/ [-|–] [^-|–]+$/, '')  // strip "- Source" or "| Source" suffix
+    .trim() ?? 'Untitled';
+
+  // summary: first sentence of the text snippet
+  const summary = (r.text ?? '')
+    .replace(/\s+/g, ' ')
+    .split(/(?<=[.!?])\s+/)
+    .find(s => s.length > 40) ?? r.text ?? '';
+
+  // content: join the highlights Exa extracted
+  const content = (r.highlights ?? [])
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .trim() || summary;
+
+  const source = r.author
+    ?? (() => { try { return new URL(r.url).hostname.replace(/^www\./, ''); } catch { return 'Unknown'; } })();
+
+  return {
+    title,
+    summary: summary.slice(0, 300),
+    content,
+    source,
+    date: r.publishedDate?.split('T')[0] ?? new Date().toISOString().split('T')[0],
+    url: r.url,
+    category: categorize(title, r.text),
+  };
 }
 
 async function run() {
   console.log('Searching for AI news via Exa...');
 
-  // Run 4 targeted searches in parallel
   const [general, models, policy, tools] = await Promise.all([
     exaSearch('major artificial intelligence news announcement this week', 6),
     exaSearch('new AI model release launch 2026', 5),
@@ -104,24 +120,19 @@ async function run() {
 
   // Deduplicate by URL, keep most recent first
   const seen = new Set();
-  const candidates = [...general, ...models, ...policy, ...tools].filter(r => {
-    if (!r.url || seen.has(r.url)) return false;
-    seen.add(r.url);
-    return true;
-  });
-
-  // Take the 8 most recent to give Claude good material to select from
-  const top = candidates
+  const articles = [...general, ...models, ...policy, ...tools]
+    .filter(r => r.url && !seen.has(r.url) && seen.add(r.url))
     .sort((a, b) => new Date(b.publishedDate ?? 0) - new Date(a.publishedDate ?? 0))
-    .slice(0, 8);
+    .slice(0, 6)
+    .map(buildArticle);
 
-  console.log(`Fetched ${candidates.length} unique articles, passing top ${top.length} to Claude...`);
+  if (articles.length < 6) {
+    console.warn(`Warning: only ${articles.length} articles found (expected 6).`);
+  }
 
-  const articles = await writeSummaries(top);
-
-  writeFileSync(NEWS_FILE, JSON.stringify(articles.slice(0, 6), null, 2) + '\n');
-  console.log(`Done — wrote ${Math.min(articles.length, 6)} articles.`);
-  articles.slice(0, 6).forEach(a => console.log(`  [${a.category}] ${a.title}`));
+  writeFileSync(NEWS_FILE, JSON.stringify(articles, null, 2) + '\n');
+  console.log(`Done — wrote ${articles.length} articles.`);
+  articles.forEach(a => console.log(`  [${a.category}] ${a.title}`));
 }
 
 run().catch(err => { console.error(err); process.exit(1); });

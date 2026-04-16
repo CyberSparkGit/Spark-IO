@@ -26,7 +26,6 @@ jobs:
       - name: Fetch and write news
         env:
           EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node update-news.mjs
 
       - name: Commit and push if changed
