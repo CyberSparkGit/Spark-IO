@@ -77,34 +77,46 @@ function categorize(title, text) {
   return 'Industry';
 }
 
+// Strip common web-page artefacts from scraped text
+function cleanText(text) {
+  return text
+    .replace(/Skip to (Content|Footer|Navigation|Main)[^.]*?(?=[A-Z])/gi, '')
+    .replace(/✕\s*/g, '')
+    .replace(/(Main\s+)?Menu\s*(Menu)?\s*#?\s*/gi, '')
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')   // markdown links → plain text
+    .replace(/#{1,6}\s*/g, '')                   // markdown headings
+    .replace(/\*{1,3}([^*]+)\*{1,3}/g, '$1')   // bold / italic
+    .replace(/---+/g, '')
+    .replace(/\d+%\s*/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function buildArticle(r) {
   const title = r.title
     ?.replace(/ [-|–] [^-|–]+$/, '')  // strip "- Source" or "| Source" suffix
     .trim() ?? 'Untitled';
 
-  // summary: first sentence of the text snippet
-  const summary = (r.text ?? '')
-    .replace(/\s+/g, ' ')
-    .split(/(?<=[.!?])\s+/)
-    .find(s => s.length > 40) ?? r.text ?? '';
+  // summary: first two meaningful sentences, cleaned of page artefacts
+  const cleaned = cleanText(r.text ?? '');
+  const sentences = cleaned.split(/(?<=[.!?])\s+/).filter(s => s.length > 30);
+  const summary = sentences.slice(0, 2).join(' ').slice(0, 300) || cleaned.slice(0, 300);
 
-  // content: join the highlights Exa extracted
-  const content = (r.highlights ?? [])
-    .join(' ')
-    .replace(/\s+/g, ' ')
-    .trim() || summary;
+  // content: join the highlights Exa extracted (kept for future detail view)
+  const content = cleanText((r.highlights ?? []).join(' ')) || summary;
 
   const source = r.author
     ?? (() => { try { return new URL(r.url).hostname.replace(/^www\./, ''); } catch { return 'Unknown'; } })();
 
   return {
     title,
-    summary: summary.slice(0, 300),
+    summary,
     content,
     source,
     date: r.publishedDate?.split('T')[0] ?? new Date().toISOString().split('T')[0],
     url: r.url,
     category: categorize(title, r.text),
+    image: r.image || null,
   };
 }
 

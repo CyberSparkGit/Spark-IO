@@ -206,6 +206,47 @@
             padding: 4rem 2rem; color: var(--text-muted); font-size: 1rem;
         }
 
+        /* Non-featured cards: horizontal layout with thumbnail */
+        .news-card:not(.featured) {
+            flex-direction: row;
+            gap: 1.25rem;
+        }
+        .news-card-body {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+        .news-card-thumb {
+            width: 140px;
+            height: 140px;
+            border-radius: var(--radius-md);
+            object-fit: cover;
+            flex-shrink: 0;
+            align-self: center;
+        }
+        .news-card-thumb-placeholder {
+            width: 140px;
+            height: 140px;
+            border-radius: var(--radius-md);
+            flex-shrink: 0;
+            align-self: center;
+        }
+
+        /* Excerpt line clamping */
+        .news-card:not(.featured) .news-excerpt {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .news-card.featured .news-excerpt {
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
         /* Gradient bars for featured cards */
         .gradient-blue { background: linear-gradient(135deg, #1456f0, #3b82f6, #60a5fa); }
         .gradient-purple { background: linear-gradient(135deg, #7c3aed, #8b5cf6, #a78bfa); }
@@ -240,6 +281,12 @@
             .news-grid { grid-template-columns: 1fr; }
             .news-card.featured { grid-template-columns: 1fr; }
             .news-card.featured .news-gradient-bar { min-height: 160px; }
+            .news-card.featured .news-card-image { min-height: 160px; }
+            .news-card-thumb,
+            .news-card-thumb-placeholder {
+                width: 110px;
+                height: 110px;
+            }
         }
         @media (max-width: 768px) {
             .nav-links { display: none; }
@@ -397,7 +444,7 @@
                     month: 'long', day: 'numeric', year: 'numeric'
                 });
                 const gradient = GRADIENTS[cat] || 'gradient-dark';
-                const excerpt = article.content || article.summary || '';
+                const excerpt = article.summary || '';
                 const url = article.url && article.url !== '#' ? article.url : null;
 
                 const image = article.image || null;
@@ -425,18 +472,25 @@
                     `;
                 }
 
+                const thumb = image
+                    ? `<img class="news-card-thumb" src="${image}" alt="" onerror="this.outerHTML='<div class=\\'news-card-thumb-placeholder ${gradient}\\'></div>'">`
+                    : `<div class="news-card-thumb-placeholder ${gradient}"></div>`;
+
                 return `
                     <div class="news-card fade-up" data-category="${cat}">
-                        <div class="news-card-top">
-                            <span class="news-category ${cat}">${article.category || 'News'}</span>
-                            <span class="news-date">${date}</span>
+                        <div class="news-card-body">
+                            <div class="news-card-top">
+                                <span class="news-category ${cat}">${article.category || 'News'}</span>
+                                <span class="news-date">${date}</span>
+                            </div>
+                            <h3>${article.title}</h3>
+                            <div class="news-excerpt">${excerpt}</div>
+                            <div class="news-footer">
+                                <span class="news-source">${article.source}</span>
+                                ${url ? `<a href="${url}" target="_blank" rel="noopener" class="news-read-more">Read more <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>` : ''}
+                            </div>
                         </div>
-                        <h3>${article.title}</h3>
-                        <div class="news-excerpt">${excerpt}</div>
-                        <div class="news-footer">
-                            <span class="news-source">${article.source}</span>
-                            ${url ? `<a href="${url}" target="_blank" rel="noopener" class="news-read-more">Read more <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>` : ''}
-                        </div>
+                        ${thumb}
                     </div>
                 `;
             }).join('');
