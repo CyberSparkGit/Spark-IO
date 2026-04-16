@@ -1,137 +1,127 @@
 #!/usr/bin/env node
 
-// update-news.mjs
-// Fetches latest AI news and writes to news.json
-// Run manually or via cron: node update-news.mjs
+// update-news.mjs — AI news updater powered by Exa search + Claude summaries
 //
-// Uses NewsAPI.org — set your API key:
-//   export NEWS_API_KEY=your_key_here
-//
-// Free tier: 100 requests/day, which is plenty for a daily cron.
-// Sign up at: https://newsapi.org/register
+// Required env vars:
+//   EXA_API_KEY       — from exa.ai
+//   ANTHROPIC_API_KEY — from console.anthropic.com
 
 import { writeFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
+import Anthropic from '@anthropic-ai/sdk';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = dirname(fileURLToPath(import.meta.url));
 const NEWS_FILE = join(__dirname, 'news.json');
 
-const API_KEY = process.env.NEWS_API_KEY;
+const EXA_API_KEY = process.env.EXA_API_KEY;
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
-// Only keep articles whose title OR description clearly mention AI.
-// This prevents off-topic articles from slipping through when the
-// query matches a tangential word (e.g. "AI" in a sports score).
-const AI_RELEVANCE_KEYWORDS = [
-  'artificial intelligence', ' ai ', 'openai', 'anthropic', 'deepmind',
-  'chatgpt', 'gpt-', ' gpt ', 'claude', 'gemini', 'llama', 'mistral',
-  'copilot', 'large language model', ' llm', 'generative ai', 'machine learning',
-  'neural network', 'grok', 'meta ai', 'perplexity', 'hugging face',
-  'foundation model', 'diffusion model', 'ai model', 'ai tool', 'ai agent',
-  'xai', 'nvidia ai', 'ai regulation', 'ai policy', 'ai startup',
-];
+if (!EXA_API_KEY) { console.error('Missing EXA_API_KEY'); process.exit(1); }
+if (!ANTHROPIC_API_KEY) { console.error('Missing ANTHROPIC_API_KEY'); process.exit(1); }
 
-function isAIArticle(title, description) {
-  const text = ` ${title} ${description || ''} `.toLowerCase();
-  return AI_RELEVANCE_KEYWORDS.some(kw => text.includes(kw));
-}
+const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 
-// Category mapping — first match wins
-const CATEGORY_MAP = [
-  {
-    keywords: ['gpt', 'claude', 'gemini', 'llama', 'model', 'llm', 'mistral',
-               'foundation model', 'language model', 'grok', 'muse', 'mythos'],
-    category: 'Models',
-  },
-  {
-    keywords: ['regulation', 'law', 'policy', 'act', 'govern', 'compliance',
-               'ban', 'framework', 'congress', 'senate', 'white house', 'eu ai'],
-    category: 'Policy',
-  },
-  {
-    keywords: ['copilot', 'tool', 'app', 'platform', 'launch', 'release',
-               'feature', 'product', 'plugin', 'extension', 'update', 'version'],
-    category: 'Tools',
-  },
-  {
-    keywords: ['trend', 'survey', 'report', 'adoption', 'market', 'growth',
-               'study', 'forecast', 'investment', 'revenue', 'funding'],
-    category: 'Trends',
-  },
-];
-
-function categorize(title, description) {
-  const text = `${title} ${description || ''}`.toLowerCase();
-  for (const { keywords, category } of CATEGORY_MAP) {
-    if (keywords.some(kw => text.includes(kw))) return category;
+// Search Exa and return results with full text included
+async function exaSearch(query, numResults = 6) {
+  const res = await fetch('https://api.exa.ai/search', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'x-api-key': EXA_API_KEY },
+    body: JSON.stringify({
+      query,
+      numResults,
+      type: 'neural',
+      useAutoprompt: true,
+      startPublishedDate: new Date(Date.now() - 4 * 24 * 60 * 60 * 1000)
+        .toISOString()
+        .split('T')[0],
+      contents: { text: { maxCharacters: 4000 } },
+    }),
+  });
+  const data = await res.json();
+  if (!data.results) {
+    console.error('Exa error:', JSON.stringify(data));
+    return [];
   }
-  return 'Industry';
+  return data.results;
 }
 
-// NewsAPI free tier truncates content with "[+XXXX chars]" — strip it.
-// Fall back to description if the result is too short to be useful.
-function buildContent(content, description) {
-  if (!content) return description || 'No content available.';
-  const cleaned = content.replace(/\s*\[?\+\d+ chars\]?\s*$/, '').trim();
-  return cleaned.length >= 80 ? cleaned : (description || cleaned);
+// Use Claude to write quality summaries for a set of articles
+async function writeSummaries(articles) {
+  const articlesText = articles
+    .map(
+      (a, i) =>
+        `--- Article ${i + 1} ---\n` +
+        `Title: ${a.title}\n` +
+        `URL: ${a.url}\n` +
+        `Published: ${a.publishedDate?.split('T')[0] ?? 'unknown'}\n` +
+        `Source: ${a.author ?? new URL(a.url).hostname}\n` +
+        `Full text:\n${a.text ?? a.snippet ?? '(no content)'}`
+    )
+    .join('\n\n');
+
+  const message = await anthropic.messages.create({
+    model: 'claude-sonnet-4-6',
+    max_tokens: 4096,
+    system: {
+      type: 'text',
+      text: 'You are an AI news editor for Spark I/O, a tech-focused website. Your job is to write clean, substantive news entries from raw article text.',
+      cache_control: { type: 'ephemeral' },
+    },
+    messages: [
+      {
+        role: 'user',
+        content:
+          `Given the ${articles.length} AI news articles below, return a JSON array with one object per article.\n\n` +
+          `Each object must have exactly these fields:\n` +
+          `- "title": clean headline, no source suffix\n` +
+          `- "summary": one sentence capturing the core news\n` +
+          `- "content": 3–5 sentences with real substance — key facts, numbers, context. Not a teaser.\n` +
+          `- "source": publication name (e.g. "Reuters", "TechCrunch")\n` +
+          `- "date": YYYY-MM-DD\n` +
+          `- "url": exact URL from the article\n` +
+          `- "category": one of Models | Industry | Trends | Policy | Tools\n\n` +
+          `Return ONLY a valid JSON array. No markdown, no code fences, no commentary.\n\n` +
+          articlesText,
+      },
+    ],
+  });
+
+  const raw = message.content[0].text.trim();
+  return JSON.parse(raw);
 }
 
-async function fetchNews() {
-  if (!API_KEY) {
-    console.error('ERROR: Set NEWS_API_KEY environment variable.');
-    console.error('Get a free key at: https://newsapi.org/register');
-    process.exit(1);
-  }
+async function run() {
+  console.log('Searching for AI news via Exa...');
 
-  // Tight query targeting AI companies, models, and research.
-  // pageSize=30 gives enough candidates so the relevance filter always
-  // has at least 6 genuine AI articles to work with.
-  const query = encodeURIComponent(
-    '"artificial intelligence" OR "OpenAI" OR "Anthropic" OR "Google DeepMind" ' +
-    'OR "ChatGPT" OR "Claude AI" OR "Gemini AI" OR "Meta AI" OR "AI model" ' +
-    'OR "large language model" OR "generative AI" OR "AI regulation"'
-  );
-  const url =
-    `https://newsapi.org/v2/everything?q=${query}` +
-    `&language=en&sortBy=publishedAt&pageSize=30&apiKey=${API_KEY}`;
+  // Run 4 targeted searches in parallel
+  const [general, models, policy, tools] = await Promise.all([
+    exaSearch('major artificial intelligence news announcement this week', 6),
+    exaSearch('new AI model release launch 2026', 5),
+    exaSearch('AI regulation policy government update 2026', 4),
+    exaSearch('AI tools product launch enterprise adoption 2026', 4),
+  ]);
 
-  try {
-    const res = await fetch(url);
-    const data = await res.json();
+  // Deduplicate by URL, keep most recent first
+  const seen = new Set();
+  const candidates = [...general, ...models, ...policy, ...tools].filter(r => {
+    if (!r.url || seen.has(r.url)) return false;
+    seen.add(r.url);
+    return true;
+  });
 
-    if (data.status !== 'ok') {
-      console.error('API error:', data.message);
-      process.exit(1);
-    }
+  // Take the 8 most recent to give Claude good material to select from
+  const top = candidates
+    .sort((a, b) => new Date(b.publishedDate ?? 0) - new Date(a.publishedDate ?? 0))
+    .slice(0, 8);
 
-    const articles = data.articles
-      .filter(a => a.title && a.title !== '[Removed]')
-      .filter(a => isAIArticle(a.title, a.description))  // drop off-topic hits
-      .slice(0, 6)
-      .map(a => ({
-        title: a.title.replace(/ - .*$/, '').replace(/ \| .*$/, '').trim(),
-        summary: a.description || 'No summary available.',
-        content: buildContent(a.content, a.description),
-        source: a.source?.name || 'Unknown',
-        date: a.publishedAt?.split('T')[0] || new Date().toISOString().split('T')[0],
-        url: a.url || '#',
-        image: a.urlToImage && a.urlToImage.startsWith('http') ? a.urlToImage : null,
-        category: categorize(a.title, a.description || ''),
-      }));
+  console.log(`Fetched ${candidates.length} unique articles, passing top ${top.length} to Claude...`);
 
-    if (articles.length < 6) {
-      console.warn(`Warning: only found ${articles.length} relevant AI articles (expected 6).`);
-    }
+  const articles = await writeSummaries(top);
 
-    writeFileSync(NEWS_FILE, JSON.stringify(articles, null, 2) + '\n');
-    console.log(`Updated ${articles.length} articles at ${new Date().toISOString()}`);
-    articles.forEach(a => console.log(`  - [${a.category}] ${a.title}`));
-
-  } catch (err) {
-    console.error('Fetch failed:', err.message);
-    process.exit(1);
-  }
+  writeFileSync(NEWS_FILE, JSON.stringify(articles.slice(0, 6), null, 2) + '\n');
+  console.log(`Done — wrote ${Math.min(articles.length, 6)} articles.`);
+  articles.slice(0, 6).forEach(a => console.log(`  [${a.category}] ${a.title}`));
 }
 
-fetchNews();
+run().catch(err => { console.error(err); process.exit(1); });

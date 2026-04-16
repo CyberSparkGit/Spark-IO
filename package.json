@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/CyberSparkGit/Spark-IO#readme",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
     "mimetext": "^3.0.28"
   }
 }
