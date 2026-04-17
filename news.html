@@ -502,7 +502,7 @@
         // Load news
         async function loadNews() {
             try {
-                const res = await fetch('news.json');
+                const res = await fetch(`news.json?v=${Date.now()}`, { cache: 'no-store' });
                 allArticles = await res.json();
 
                 // Show last updated

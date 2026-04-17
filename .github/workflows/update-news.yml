@@ -2,8 +2,13 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # 11:00 AM UTC every day
-  workflow_dispatch:       # allow manual trigger from GitHub UI
+    - cron: '0 */6 * * *'  # every 6 hours so the feed keeps up with launches
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+  push:
+    branches: [main]
+    paths:
+      - 'update-news.mjs'
+      - '.github/workflows/update-news.yml'
 
 jobs:
   update-news:
