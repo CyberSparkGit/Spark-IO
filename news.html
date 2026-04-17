@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News — Spark I/O</title>
+    <meta name="description" content="Latest AI news and insights curated by Spark I/O. Stay ahead with the most important developments in artificial intelligence.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg: #ffffff;
+            --bg-alt: #fafafa;
+            --text: #222222;
+            --text-secondary: #45515e;
+            --text-muted: #8e8e93;
+            --brand-blue: #1456f0;
+            --brand-blue-light: #3b82f6;
+            --dark: #181e25;
+            --border: #e5e7eb;
+            --border-light: #f2f3f5;
+            --shadow-standard: rgba(0, 0, 0, 0.08) 0px 4px 6px;
+            --shadow-elevated: rgba(36, 36, 36, 0.08) 0px 12px 16px -4px;
+            --radius-sm: 8px;
+            --radius-md: 13px;
+            --radius-lg: 20px;
+            --radius-xl: 24px;
+            --radius-pill: 9999px;
+            --max-w: 1200px;
+            --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        html { scroll-behavior: smooth; font-size: 16px; }
+        body {
+            font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+        a { color: inherit; text-decoration: none; }
+
+        /* ========== NAVIGATION ========== */
+        .nav {
+            position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-bottom: 1px solid transparent;
+            transition: var(--transition);
+        }
+        .nav.scrolled { border-bottom-color: var(--border); box-shadow: var(--shadow-standard); }
+        .nav-inner {
+            max-width: var(--max-w); margin: 0 auto;
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 1rem 2rem;
+        }
+        .nav-logo { display: flex; align-items: center; }
+        .nav-logo img { height: 36px; width: auto; padding-top: 6px; }
+        .nav-links { display: flex; align-items: center; gap: 0.5rem; list-style: none; }
+        .nav-links a {
+            font-size: 0.875rem; font-weight: 500; color: var(--text-secondary);
+            transition: var(--transition); position: relative;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-pill);
+        }
+        .nav-links a:hover { color: var(--text); background: rgba(0, 0, 0, 0.05); }
+        .nav-links a.active { color: var(--brand-blue); background: rgba(20, 86, 240, 0.06); }
+        .nav-links a.cta-link {
+            background: var(--dark); color: #fff;
+            padding: 0.6rem 1.4rem; border-radius: var(--radius-sm); font-weight: 600;
+        }
+        .nav-links a.cta-link:hover { background: #2a323b; }
+        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 0.5rem; }
+        .menu-toggle span {
+            display: block; width: 22px; height: 2px; background: var(--text);
+            margin: 5px 0; transition: var(--transition); border-radius: 2px;
+        }
+
+        /* ========== PAGE HERO ========== */
+        .page-hero {
+            padding: 8rem 2rem 3rem;
+            text-align: center;
+            background: var(--bg);
+        }
+        .page-hero h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: clamp(2.5rem, 4vw, 3.5rem);
+            font-weight: 500; letter-spacing: -0.03em;
+            line-height: 1.15; margin-bottom: 1rem;
+            color: var(--text);
+        }
+        .page-hero h1 .highlight { color: var(--brand-blue); }
+        .page-hero p {
+            font-size: 1.1rem; color: var(--text-secondary);
+            max-width: 560px; margin: 0 auto 1.5rem; line-height: 1.6;
+        }
+        .page-hero-meta {
+            font-size: 0.8rem; color: var(--text-muted);
+        }
+
+        /* ========== FILTERS ========== */
+        .filters {
+            max-width: var(--max-w); margin: 0 auto;
+            padding: 0 2rem 2rem;
+            display: flex; gap: 0.5rem; flex-wrap: wrap;
+            justify-content: center;
+        }
+        .filter-btn {
+            padding: 0.4rem 1rem; border-radius: var(--radius-pill);
+            border: 1px solid var(--border); background: var(--bg);
+            font-family: 'DM Sans', sans-serif; font-size: 0.8rem;
+            font-weight: 500; color: var(--text-secondary);
+            cursor: pointer; transition: var(--transition);
+        }
+        .filter-btn:hover { border-color: var(--brand-blue); color: var(--brand-blue); }
+        .filter-btn.active {
+            background: var(--dark); color: #fff; border-color: var(--dark);
+        }
+
+        /* ========== NEWS GRID ========== */
+        .news-section { padding: 0 2rem 5rem; }
+        .news-grid {
+            max-width: var(--max-w); margin: 0 auto;
+            display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;
+        }
+
+        /* Featured card — first article spans full width */
+        .news-card.featured {
+            grid-column: 1 / -1;
+            display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;
+            padding: 2.5rem;
+        }
+        .news-card.featured .news-card-content { display: flex; flex-direction: column; justify-content: center; }
+        .news-card.featured h3 { font-size: 1.5rem; line-height: 1.3; margin-bottom: 0.75rem; }
+        .news-card.featured .news-excerpt { font-size: 0.95rem; line-height: 1.65; }
+        .news-card.featured .news-gradient-bar {
+            width: 100%; height: 100%; min-height: 200px;
+            border-radius: var(--radius-lg);
+            display: flex; align-items: center; justify-content: center;
+            font-family: 'Outfit', sans-serif;
+            font-size: 3rem; font-weight: 600;
+            color: rgba(255,255,255,0.3);
+            letter-spacing: -0.02em;
+        }
+        .news-card.featured .news-card-image {
+            width: 100%; height: 100%; min-height: 200px;
+            border-radius: var(--radius-lg);
+            object-fit: cover;
+        }
+
+        .news-card {
+            background: var(--bg); border: 1px solid var(--border);
+            border-radius: var(--radius-lg); padding: 1.75rem;
+            transition: var(--transition);
+            display: flex; flex-direction: column;
+        }
+        .news-card:hover {
+            box-shadow: var(--shadow-elevated);
+            transform: translateY(-4px);
+            border-color: transparent;
+        }
+        .news-card-top {
+            display: flex; align-items: center; justify-content: space-between;
+            margin-bottom: 0.75rem;
+        }
+        .news-category {
+            font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
+            letter-spacing: 0.04em; padding: 0.25rem 0.75rem;
+            border-radius: var(--radius-pill);
+        }
+        .news-category.models { background: rgba(20, 86, 240, 0.08); color: var(--brand-blue); }
+        .news-category.industry { background: rgba(16, 185, 129, 0.08); color: #059669; }
+        .news-category.trends { background: rgba(245, 158, 11, 0.08); color: #d97706; }
+        .news-category.policy { background: rgba(239, 68, 68, 0.08); color: #dc2626; }
+        .news-category.tools { background: rgba(139, 92, 246, 0.08); color: #7c3aed; }
+        .news-date { font-size: 0.75rem; color: var(--text-muted); }
+        .news-card h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.1rem; font-weight: 600; line-height: 1.35;
+            margin-bottom: 0.6rem; color: var(--text);
+        }
+        .news-excerpt {
+            font-size: 0.875rem; color: var(--text-secondary); line-height: 1.6;
+            flex: 1;
+        }
+        .news-footer {
+            margin-top: 1.25rem; padding-top: 0.75rem;
+            border-top: 1px solid var(--border-light);
+            display: flex; align-items: center; justify-content: space-between;
+        }
+        .news-source { font-size: 0.75rem; color: var(--text-muted); font-weight: 500; }
+        .news-read-more {
+            font-size: 0.8rem; font-weight: 600; color: var(--brand-blue);
+            display: flex; align-items: center; gap: 0.3rem;
+            transition: var(--transition);
+        }
+        .news-read-more:hover { gap: 0.5rem; }
+        .news-read-more svg { width: 14px; height: 14px; }
+
+        .news-empty {
+            grid-column: 1 / -1; text-align: center;
+            padding: 4rem 2rem; color: var(--text-muted); font-size: 1rem;
+        }
+
+        /* Non-featured cards: horizontal layout with thumbnail */
+        .news-card:not(.featured) {
+            flex-direction: row;
+            gap: 1.25rem;
+        }
+        .news-card-body {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+        }
+        .news-card-thumb {
+            width: 140px;
+            height: 140px;
+            border-radius: var(--radius-md);
+            object-fit: cover;
+            flex-shrink: 0;
+            align-self: center;
+        }
+        .news-card-thumb-placeholder {
+            width: 140px;
+            height: 140px;
+            border-radius: var(--radius-md);
+            flex-shrink: 0;
+            align-self: center;
+        }
+
+        /* Excerpt line clamping */
+        .news-card:not(.featured) .news-excerpt {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .news-card.featured .news-excerpt {
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        /* Gradient bars for featured cards */
+        .gradient-blue { background: linear-gradient(135deg, #1456f0, #3b82f6, #60a5fa); }
+        .gradient-purple { background: linear-gradient(135deg, #7c3aed, #8b5cf6, #a78bfa); }
+        .gradient-green { background: linear-gradient(135deg, #059669, #10b981, #34d399); }
+        .gradient-orange { background: linear-gradient(135deg, #d97706, #f59e0b, #fbbf24); }
+        .gradient-red { background: linear-gradient(135deg, #dc2626, #ef4444, #f87171); }
+        .gradient-dark { background: linear-gradient(135deg, #181e25, #2a323b, #3f4a58); }
+
+        /* ========== FOOTER ========== */
+        .footer {
+            background: var(--dark); color: #fff;
+            padding: 3rem 2rem 1.5rem;
+        }
+        .footer-inner {
+            max-width: var(--max-w); margin: 0 auto;
+            display: flex; justify-content: space-between; align-items: center;
+            padding-bottom: 1.5rem; border-bottom: 1px solid rgba(255,255,255,0.08);
+        }
+        .footer .nav-logo img { filter: brightness(0) invert(1); }
+        .footer-links { display: flex; gap: 2rem; }
+        .footer-links a { color: rgba(255,255,255,0.45); font-size: 0.875rem; transition: var(--transition); }
+        .footer-links a:hover { color: rgba(255,255,255,0.9); }
+        .footer-bottom {
+            max-width: var(--max-w); margin: 0 auto;
+            padding-top: 1.5rem;
+            text-align: center;
+            font-size: 0.8rem; color: rgba(255,255,255,0.3);
+        }
+
+        /* ========== RESPONSIVE ========== */
+        @media (max-width: 968px) {
+            .news-grid { grid-template-columns: 1fr; }
+            .news-card.featured { grid-template-columns: 1fr; }
+            .news-card.featured .news-gradient-bar { min-height: 160px; }
+            .news-card.featured .news-card-image { min-height: 160px; }
+            .news-card-thumb,
+            .news-card-thumb-placeholder {
+                width: 110px;
+                height: 110px;
+            }
+        }
+        @media (max-width: 768px) {
+            .nav-links { display: none; }
+            .nav-links.active {
+                display: flex; flex-direction: column;
+                position: absolute; top: 100%; left: 0; right: 0;
+                background: var(--bg); padding: 1.5rem 2rem;
+                border-bottom: 1px solid var(--border);
+                box-shadow: var(--shadow-standard);
+                gap: 0.25rem;
+            }
+            .nav-links.active a { padding: 0.75rem 1rem; }
+            .menu-toggle { display: block; }
+            .page-hero { padding: 7rem 1.5rem 2rem; }
+            .news-section { padding: 0 1.5rem 3rem; }
+            .footer-inner { flex-direction: column; gap: 1.5rem; text-align: center; }
+            .footer-links { flex-wrap: wrap; justify-content: center; }
+        }
+
+        /* ========== ANIMATIONS ========== */
+        .fade-up {
+            opacity: 0; transform: translateY(24px);
+            transition: opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1), transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+        }
+        .fade-up.visible { opacity: 1; transform: translateY(0); }
+        .stagger .fade-up:nth-child(1) { transition-delay: 0s; }
+        .stagger .fade-up:nth-child(2) { transition-delay: 0.08s; }
+        .stagger .fade-up:nth-child(3) { transition-delay: 0.16s; }
+        .stagger .fade-up:nth-child(4) { transition-delay: 0.24s; }
+        .stagger .fade-up:nth-child(5) { transition-delay: 0.32s; }
+        .stagger .fade-up:nth-child(6) { transition-delay: 0.4s; }
+        .stagger .fade-up:nth-child(7) { transition-delay: 0.48s; }
+    </style>
+</head>
+<body>
+    <!-- NAVIGATION -->
+    <nav class="nav" id="nav">
+        <div class="nav-inner">
+            <a href="index.html" class="nav-logo">
+                <img src="Spark IO.png" alt="Spark I/O">
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html#services">Services</a></li>
+                <li><a href="index.html#workshop">Workshop</a></li>
+                <li><a href="news.html" class="active">AI News</a></li>
+                <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#contact" class="cta-link">Get in Touch</a></li>
+            </ul>
+            <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- PAGE HERO -->
+    <div class="page-hero">
+        <h1>Latest in <span class="highlight">AI</span></h1>
+        <p>Curated news and developments from the world of artificial intelligence — updated daily so you stay ahead.</p>
+        <div class="page-hero-meta" id="lastUpdated"></div>
+    </div>
+
+    <!-- FILTERS -->
+    <div class="filters" id="filters">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="models">Models</button>
+        <button class="filter-btn" data-filter="industry">Industry</button>
+        <button class="filter-btn" data-filter="trends">Trends</button>
+        <button class="filter-btn" data-filter="policy">Policy</button>
+        <button class="filter-btn" data-filter="tools">Tools</button>
+    </div>
+
+    <!-- NEWS -->
+    <div class="news-section">
+        <div class="news-grid stagger" id="newsGrid">
+            <div class="news-empty">Loading latest AI news...</div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <a href="index.html" class="nav-logo">
+                <img src="Spark IO.png" alt="Spark I/O">
+            </a>
+            <div class="footer-links">
+                <a href="index.html#services">Services</a>
+                <a href="index.html#workshop">Workshop</a>
+                <a href="news.html">AI News</a>
+                <a href="index.html#about">About</a>
+                <a href="index.html#contact">Contact</a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; 2026 Spark I/O LLC. All rights reserved.
+        </div>
+    </footer>
+
+    <script>
+        // Mobile menu
+        const menuToggle = document.getElementById('menuToggle');
+        const navLinks = document.getElementById('navLinks');
+        menuToggle.addEventListener('click', () => navLinks.classList.toggle('active'));
+        navLinks.querySelectorAll('a').forEach(link => {
+            link.addEventListener('click', () => navLinks.classList.remove('active'));
+        });
+
+        // Nav scroll
+        const nav = document.getElementById('nav');
+        window.addEventListener('scroll', () => {
+            nav.classList.toggle('scrolled', window.scrollY > 50);
+        });
+
+        // Scroll animations
+        const fadeObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) entry.target.classList.add('visible');
+            });
+        }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+        // Gradient mapping per category
+        const GRADIENTS = {
+            models: 'gradient-blue',
+            industry: 'gradient-green',
+            trends: 'gradient-orange',
+            policy: 'gradient-red',
+            tools: 'gradient-purple',
+        };
+
+        let allArticles = [];
+        let activeFilter = 'all';
+
+        // Filter buttons
+        document.getElementById('filters').addEventListener('click', (e) => {
+            if (!e.target.classList.contains('filter-btn')) return;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+            activeFilter = e.target.dataset.filter;
+            renderNews();
+        });
+
+        function renderNews() {
+            const grid = document.getElementById('newsGrid');
+            const filtered = activeFilter === 'all'
+                ? allArticles
+                : allArticles.filter(a => (a.category || '').toLowerCase() === activeFilter);
+
+            if (!filtered.length) {
+                grid.innerHTML = '<div class="news-empty fade-up visible">No articles found for this category.</div>';
+                return;
+            }
+
+            const html = filtered.map((article, i) => {
+                const cat = (article.category || 'industry').toLowerCase();
+                const date = new Date(article.date).toLocaleDateString('en-US', {
+                    month: 'long', day: 'numeric', year: 'numeric'
+                });
+                const gradient = GRADIENTS[cat] || 'gradient-dark';
+                const excerpt = article.summary || '';
+                const url = article.url && article.url !== '#' ? article.url : null;
+
+                const image = article.image || null;
+
+                // First article is featured
+                if (i === 0) {
+                    return `
+                        <div class="news-card featured fade-up" data-category="${cat}">
+                            ${image
+                                ? `<img class="news-card-image" src="${image}" alt="" onerror="this.outerHTML='<div class=\\'news-gradient-bar ${gradient}\\'>AI</div>'">`
+                                : `<div class="news-gradient-bar ${gradient}">AI</div>`}
+                            <div class="news-card-content">
+                                <div class="news-card-top">
+                                    <span class="news-category ${cat}">${article.category || 'News'}</span>
+                                    <span class="news-date">${date}</span>
+                                </div>
+                                <h3>${article.title}</h3>
+                                <div class="news-excerpt">${excerpt}</div>
+                                <div class="news-footer">
+                                    <span class="news-source">${article.source}</span>
+                                    ${url ? `<a href="${url}" target="_blank" rel="noopener" class="news-read-more">Read full article <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>` : ''}
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }
+
+                const thumb = image
+                    ? `<img class="news-card-thumb" src="${image}" alt="" onerror="this.outerHTML='<div class=\\'news-card-thumb-placeholder ${gradient}\\'></div>'">`
+                    : `<div class="news-card-thumb-placeholder ${gradient}"></div>`;
+
+                return `
+                    <div class="news-card fade-up" data-category="${cat}">
+                        <div class="news-card-body">
+                            <div class="news-card-top">
+                                <span class="news-category ${cat}">${article.category || 'News'}</span>
+                                <span class="news-date">${date}</span>
+                            </div>
+                            <h3>${article.title}</h3>
+                            <div class="news-excerpt">${excerpt}</div>
+                            <div class="news-footer">
+                                <span class="news-source">${article.source}</span>
+                                ${url ? `<a href="${url}" target="_blank" rel="noopener" class="news-read-more">Read more <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>` : ''}
+                            </div>
+                        </div>
+                        ${thumb}
+                    </div>
+                `;
+            }).join('');
+
+            grid.innerHTML = html;
+            grid.querySelectorAll('.fade-up').forEach(el => fadeObserver.observe(el));
+        }
+
+        // Load news
+        async function loadNews() {
+            try {
+                const res = await fetch(`news.json?v=${Date.now()}`, { cache: 'no-store' });
+                allArticles = await res.json();
+
+                // Show last updated
+                if (allArticles.length) {
+                    const latest = allArticles.reduce((a, b) =>
+                        new Date(a.date) > new Date(b.date) ? a : b
+                    );
+                    document.getElementById('lastUpdated').textContent =
+                        `Last updated: ${new Date(latest.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}`;
+                }
+
+                renderNews();
+            } catch (err) {
+                document.getElementById('newsGrid').innerHTML =
+                    '<div class="news-empty fade-up visible">Unable to load news. Check back later.</div>';
+            }
+        }
+
+        loadNews();
+    </script>
+</body>
+</html>

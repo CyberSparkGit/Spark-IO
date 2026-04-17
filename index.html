@@ -534,61 +534,6 @@
             .hero h1 { font-size: 2.5rem; }
         }
 
-        /* ========== AI NEWS ========== */
-        #ai-news { background: var(--bg); }
-        .news-grid {
-            max-width: var(--max-w); margin: 0 auto;
-            display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;
-        }
-        .news-card {
-            background: var(--bg); border: 1px solid var(--border);
-            border-radius: var(--radius-lg); padding: 1.75rem;
-            transition: var(--transition); position: relative;
-            display: flex; flex-direction: column;
-        }
-        .news-card:hover {
-            box-shadow: var(--shadow-elevated);
-            transform: translateY(-4px);
-            border-color: transparent;
-        }
-        .news-card-top {
-            display: flex; align-items: center; justify-content: space-between;
-            margin-bottom: 1rem;
-        }
-        .news-category {
-            font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
-            letter-spacing: 0.04em; padding: 0.25rem 0.75rem;
-            border-radius: var(--radius-pill);
-        }
-        .news-category.models { background: rgba(20, 86, 240, 0.08); color: var(--brand-blue); }
-        .news-category.industry { background: rgba(16, 185, 129, 0.08); color: #059669; }
-        .news-category.trends { background: rgba(245, 158, 11, 0.08); color: #d97706; }
-        .news-category.policy { background: rgba(239, 68, 68, 0.08); color: #dc2626; }
-        .news-category.tools { background: rgba(139, 92, 246, 0.08); color: #7c3aed; }
-        .news-date { font-size: 0.75rem; color: var(--text-muted); }
-        .news-card h3 {
-            font-family: 'Outfit', sans-serif;
-            font-size: 1.05rem; font-weight: 600; line-height: 1.4;
-            margin-bottom: 0.6rem; color: var(--text);
-        }
-        .news-card p {
-            font-size: 0.85rem; color: var(--text-secondary); line-height: 1.55;
-            flex: 1;
-        }
-        .news-source {
-            margin-top: 1rem; padding-top: 0.75rem;
-            border-top: 1px solid var(--border-light);
-            font-size: 0.75rem; color: var(--text-muted); font-weight: 500;
-        }
-        .news-empty {
-            grid-column: 1 / -1; text-align: center;
-            padding: 3rem; color: var(--text-muted); font-size: 0.95rem;
-        }
-
-        @media (max-width: 968px) {
-            .news-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; }
-        }
-
         /* ========== ANIMATIONS ========== */
         .fade-up {
             opacity: 0; transform: translateY(24px);
@@ -675,7 +620,7 @@
             <ul class="nav-links" id="navLinks">
                 <li><a href="#services">Services</a></li>
                 <li><a href="#workshop">Workshop</a></li>
-                <li><a href="#ai-news">AI News</a></li>
+                <li><a href="news.html">AI News</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact" class="cta-link">Get in Touch</a></li>
             </ul>
@@ -859,18 +804,6 @@
         </div>
     </section>
 
-    <!-- AI NEWS -->
-    <section id="ai-news">
-        <div class="section-header fade-up">
-            <span class="section-label">AI Insights</span>
-            <h2>Latest in AI</h2>
-            <p>Curated news and developments from the world of artificial intelligence — updated regularly so you stay ahead.</p>
-        </div>
-        <div class="news-grid stagger-children" id="newsGrid">
-            <div class="news-empty fade-up">Loading latest AI news...</div>
-        </div>
-    </section>
-
     <!-- ABOUT -->
     <section id="about">
         <div class="about-content">
@@ -956,7 +889,7 @@
                         </div>
                         <div>
                             <div class="contact-method-label">Email</div>
-                            <div class="contact-method-value">hello@sparkio.org</div>
+                            <div class="contact-method-value"><a id="contactEmail" data-u="manuel" data-d="sparkio.org" href="#" rel="nofollow">Email us</a></div>
                         </div>
                     </div>
                     <div class="contact-method">
@@ -981,7 +914,12 @@
             </div>
             <div class="contact-form-card fade-up">
                 <h3>Send us a message</h3>
-                <form id="contactForm" onsubmit="handleSubmit(event)">
+                <form id="contactForm" action="/api/contact" method="POST" onsubmit="handleSubmit(event)">
+                    <div aria-hidden="true" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden">
+                        <label for="website">Website (leave blank)</label>
+                        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+                    </div>
+                    <input type="hidden" name="loaded_at" id="loaded_at">
                     <div class="form-row">
                         <div class="form-group">
                             <label for="firstName">First Name</label>
@@ -1102,61 +1040,83 @@
             statObserver.observe(el);
         });
 
-        // Load AI news from news.json
-        async function loadNews() {
-            const grid = document.getElementById('newsGrid');
-            try {
-                const res = await fetch('news.json');
-                const articles = await res.json();
+        // Stamp form load time for bot filtering
+        (function initFormGuards() {
+            const loadedAt = document.getElementById('loaded_at');
+            if (loadedAt) loadedAt.value = String(Date.now());
 
-                if (!articles.length) {
-                    grid.innerHTML = '<div class="news-empty fade-up visible">No news articles yet. Check back soon!</div>';
-                    return;
-                }
-
-                // Show up to 6 articles
-                const html = articles.slice(0, 6).map(article => {
-                    const cat = article.category ? article.category.toLowerCase() : 'industry';
-                    const date = new Date(article.date).toLocaleDateString('en-US', {
-                        month: 'short', day: 'numeric', year: 'numeric'
-                    });
-                    return `
-                        <div class="news-card fade-up">
-                            <div class="news-card-top">
-                                <span class="news-category ${cat}">${article.category || 'News'}</span>
-                                <span class="news-date">${date}</span>
-                            </div>
-                            <h3>${article.title}</h3>
-                            <p>${article.summary}</p>
-                            <div class="news-source">${article.source}</div>
-                        </div>
-                    `;
-                }).join('');
-
-                grid.innerHTML = html;
-
-                // Re-observe new fade-up elements
-                grid.querySelectorAll('.fade-up').forEach(el => fadeObserver.observe(el));
-
-            } catch (err) {
-                grid.innerHTML = '<div class="news-empty fade-up visible">Unable to load news. Check back later.</div>';
+            const emailLink = document.getElementById('contactEmail');
+            if (emailLink) {
+                const addr = emailLink.dataset.u + '@' + emailLink.dataset.d;
+                emailLink.textContent = addr;
+                emailLink.href = 'mailto:' + addr;
             }
-        }
-
-        loadNews();
+        })();
 
         // Form submission
-        function handleSubmit(e) {
+        async function handleSubmit(e) {
             e.preventDefault();
-            const btn = e.target.querySelector('.btn-submit');
+            const form = e.target;
+            const btn = form.querySelector('.btn-submit');
             const originalText = btn.innerHTML;
-            btn.innerHTML = '&#x2713; Message Sent!';
-            btn.style.background = '#059669';
-            setTimeout(() => {
-                btn.innerHTML = originalText;
-                btn.style.background = '';
-                e.target.reset();
-            }, 3000);
+
+            // Bot filters: honeypot and minimum fill time
+            const honeypot = form.querySelector('input[name="website"]');
+            const loadedAt = parseInt(form.querySelector('input[name="loaded_at"]').value, 10) || 0;
+            const elapsed = Date.now() - loadedAt;
+            if ((honeypot && honeypot.value) || elapsed < 3000) {
+                btn.innerHTML = '&#x2713; Message Sent!';
+                btn.style.background = '#059669';
+                btn.disabled = true;
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.style.background = '';
+                    btn.disabled = false;
+                    form.reset();
+                    document.getElementById('loaded_at').value = String(Date.now());
+                }, 3000);
+                return;
+            }
+
+            // Show loading state
+            btn.innerHTML = 'Sending...';
+            btn.style.background = '#6b7280';
+            btn.disabled = true;
+
+            try {
+                const response = await fetch('/api/contact', {
+                    method: 'POST',
+                    body: new FormData(form),
+                });
+                const data = await response.json();
+
+                if (data.success) {
+                    btn.innerHTML = '&#x2713; Message Sent!';
+                    btn.style.background = '#059669';
+                    setTimeout(() => {
+                        btn.innerHTML = originalText;
+                        btn.style.background = '';
+                        btn.disabled = false;
+                        form.reset();
+                    }, 3000);
+                } else {
+                    btn.innerHTML = '&#x2717; ' + (data.error || 'Failed to send');
+                    btn.style.background = '#dc2626';
+                    setTimeout(() => {
+                        btn.innerHTML = originalText;
+                        btn.style.background = '';
+                        btn.disabled = false;
+                    }, 3000);
+                }
+            } catch (err) {
+                btn.innerHTML = '&#x2717; Connection error';
+                btn.style.background = '#dc2626';
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.style.background = '';
+                    btn.disabled = false;
+                }, 3000);
+            }
         }
     </script>
 </body>
