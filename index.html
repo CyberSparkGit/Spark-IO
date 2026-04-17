@@ -889,7 +889,7 @@
                         </div>
                         <div>
                             <div class="contact-method-label">Email</div>
-                            <div class="contact-method-value">manuel@sparkio.org</div>
+                            <div class="contact-method-value"><a id="contactEmail" data-u="manuel" data-d="sparkio.org" href="#" rel="nofollow">Email us</a></div>
                         </div>
                     </div>
                     <div class="contact-method">
@@ -915,6 +915,11 @@
             <div class="contact-form-card fade-up">
                 <h3>Send us a message</h3>
                 <form id="contactForm" action="/api/contact" method="POST" onsubmit="handleSubmit(event)">
+                    <div aria-hidden="true" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden">
+                        <label for="website">Website (leave blank)</label>
+                        <input type="text" id="website" name="website" tabindex="-1" autocomplete="off">
+                    </div>
+                    <input type="hidden" name="loaded_at" id="loaded_at">
                     <div class="form-row">
                         <div class="form-group">
                             <label for="firstName">First Name</label>
@@ -1035,12 +1040,43 @@
             statObserver.observe(el);
         });
 
+        // Stamp form load time for bot filtering
+        (function initFormGuards() {
+            const loadedAt = document.getElementById('loaded_at');
+            if (loadedAt) loadedAt.value = String(Date.now());
+
+            const emailLink = document.getElementById('contactEmail');
+            if (emailLink) {
+                const addr = emailLink.dataset.u + '@' + emailLink.dataset.d;
+                emailLink.textContent = addr;
+                emailLink.href = 'mailto:' + addr;
+            }
+        })();
+
         // Form submission
         async function handleSubmit(e) {
             e.preventDefault();
             const form = e.target;
             const btn = form.querySelector('.btn-submit');
             const originalText = btn.innerHTML;
+
+            // Bot filters: honeypot and minimum fill time
+            const honeypot = form.querySelector('input[name="website"]');
+            const loadedAt = parseInt(form.querySelector('input[name="loaded_at"]').value, 10) || 0;
+            const elapsed = Date.now() - loadedAt;
+            if ((honeypot && honeypot.value) || elapsed < 3000) {
+                btn.innerHTML = '&#x2713; Message Sent!';
+                btn.style.background = '#059669';
+                btn.disabled = true;
+                setTimeout(() => {
+                    btn.innerHTML = originalText;
+                    btn.style.background = '';
+                    btn.disabled = false;
+                    form.reset();
+                    document.getElementById('loaded_at').value = String(Date.now());
+                }, 3000);
+                return;
+            }
 
             // Show loading state
             btn.innerHTML = 'Sending...';
