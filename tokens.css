@@ -1,0 +1,143 @@
+/* ═══════════════════════════════════════════════════════════
+   SPARK I/O — BRAND TOKENS
+   The single source of truth for color, type, space, motion.
+   Imported by every page. Do not redeclare these locally.
+   ═══════════════════════════════════════════════════════════ */
+
+/* ── Fonts ─────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* ── Color: surfaces ──────────────────────────────────── */
+  --bg:            #faf8f3;   /* warm cream — page background */
+  --bg-elev:       #f2efe7;   /* slight warm shift — cards, raised surfaces */
+  --bg-card:       #ffffff;   /* pure white — primary cards */
+  --bg-ink:        #0a0b0d;   /* obsidian — inverted sections */
+
+  /* ── Color: ink (text, marks) ─────────────────────────── */
+  --ink:           #0a0b0d;   /* obsidian — primary text */
+  --ink-dim:       #55534d;   /* warm grey — secondary text */
+  --ink-mute:      #8a877e;   /* muted — labels, meta */
+  --ink-soft:      #b8b4a8;   /* softest — decorative */
+  --ink-inv:       #faf8f3;   /* on dark */
+  --ink-inv-dim:   #9a9992;   /* on dark, secondary */
+
+  /* ── Color: accent (ember) ────────────────────────────── */
+  --accent:        #c77a2a;   /* ember — primary accent */
+  --accent-deep:   #9a5a1c;   /* darker ember — hover states */
+  --accent-soft:   rgba(199,122,42,0.10);   /* ember wash */
+  --accent-ink:    #faf8f3;   /* text on accent */
+
+  /* ── Color: structure ─────────────────────────────────── */
+  --border:        rgba(10,11,13,0.10);
+  --border-strong: rgba(10,11,13,0.22);
+  --border-inv:    rgba(255,255,255,0.12);
+
+  /* ── Typography ───────────────────────────────────────── */
+  --font-display:  'Instrument Serif', 'Fraunces', Georgia, serif;
+  --font-logo:     'Fraunces', 'Instrument Serif', Georgia, serif;
+  --font-body:     'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono:     'JetBrains Mono', ui-monospace, Menlo, monospace;
+
+  /* ── Spacing (4px baseline) ───────────────────────────── */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 24px;
+  --s-6: 32px;
+  --s-7: 48px;
+  --s-8: 64px;
+  --s-9: 96px;
+  --s-10: 128px;
+
+  /* ── Radii ────────────────────────────────────────────── */
+  --r-1: 4px;
+  --r-2: 8px;
+  --r-3: 12px;
+  --r-4: 16px;
+  --r-5: 24px;
+  --r-full: 999px;
+
+  /* ── Shadows (subtle, warm) ───────────────────────────── */
+  --shadow-xs: 0 1px 2px rgba(10,11,13,0.04);
+  --shadow-sm: 0 2px 8px rgba(10,11,13,0.06);
+  --shadow-md: 0 8px 24px rgba(10,11,13,0.08);
+  --shadow-lg: 0 24px 60px rgba(10,11,13,0.12);
+
+  /* ── Motion ───────────────────────────────────────────── */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 150ms;
+  --dur-med: 280ms;
+  --dur-slow: 600ms;
+
+  /* ── Layout ───────────────────────────────────────────── */
+  --container: 1360px;
+  --container-narrow: 980px;
+  --gutter: 40px;
+}
+
+/* ── Base resets ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* ── The ember slash — the hinge of the identity ─────────── */
+.slash-italic {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--accent);
+  display: inline-block;
+}
+
+/* ── The S/O + Wordmark lockup ───────────────────────────── */
+.brand-lockup {
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  color: inherit;
+}
+.brand-lockup-mark {
+  font-family: var(--font-logo);
+  font-weight: 600;
+  font-size: 28px;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: var(--ink);
+  white-space: nowrap;
+}
+.brand-lockup-mark .slash {
+  font-style: italic;
+  color: var(--accent);
+  margin: 0 -0.05em;
+  display: inline-block;
+}
+.brand-lockup-divider {
+  width: 1px;
+  height: 26px;
+  background: var(--border);
+}
+.brand-lockup-text {
+  font-family: var(--font-logo);
+  font-weight: 600;
+  font-size: 28px;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: var(--ink);
+  white-space: nowrap;
+}
+.brand-lockup-text .slash {
+  font-style: italic;
+  color: var(--accent);
+  margin: 0 0.02em;
+  display: inline-block;
+}

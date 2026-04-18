@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Selected Work — Spark I/O</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="components.css">
+<style>
+.wk-hero {
+  padding: 120px 0 80px; border-bottom: 1px solid var(--border);
+  position: relative; overflow: hidden;
+}
+.wk-hero-grid {
+  position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    linear-gradient(var(--grid-line, rgba(10,11,13,0.04)) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line, rgba(10,11,13,0.04)) 1px, transparent 1px);
+  background-size: 80px 80px;
+  mask-image: radial-gradient(ellipse 70% 70% at 50% 40%, black 40%, transparent 90%);
+}
+.wk-hero-inner { position: relative; display: grid; grid-template-columns: 0.45fr 0.55fr; gap: 80px; align-items: end; }
+@media (max-width: 900px) { .wk-hero-inner { grid-template-columns: 1fr; gap: 24px; } }
+.wk-hero h1 {
+  font-family: var(--font-display); font-size: clamp(56px, 8vw, 120px);
+  line-height: 0.94; letter-spacing: -0.035em;
+}
+.wk-hero h1 .italic { font-style: italic; color: var(--accent); }
+.wk-hero-lede { font-size: 18px; line-height: 1.55; color: var(--ink-dim); max-width: 500px; }
+
+/* Stats strip */
+.wk-stats {
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  gap: 0; border-bottom: 1px solid var(--border);
+}
+@media (max-width: 900px) { .wk-stats { grid-template-columns: 1fr 1fr; } }
+.wk-stat {
+  padding: var(--s-6) var(--s-5);
+  border-right: 1px solid var(--border);
+}
+.wk-stat:last-child { border-right: none; }
+.wk-stat-val { font-family: var(--font-display); font-size: 56px; letter-spacing: -0.03em; line-height: 1; }
+.wk-stat-val .italic { font-style: italic; color: var(--accent); }
+.wk-stat-label { font-family: var(--font-mono); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase; margin-top: 10px; }
+
+/* Case studies */
+.wk-cases { padding: var(--s-9) 0 var(--s-10); }
+.wk-case {
+  display: grid; grid-template-columns: 0.4fr 0.6fr;
+  gap: 60px; padding: var(--s-8) 0;
+  border-bottom: 1px solid var(--border);
+  align-items: center;
+}
+.wk-case:last-child { border-bottom: none; }
+@media (max-width: 900px) { .wk-case { grid-template-columns: 1fr; gap: 24px; } }
+
+.wk-case-meta { display: flex; flex-direction: column; gap: 16px; }
+.wk-case-num {
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--ink-mute); letter-spacing: 0.12em; text-transform: uppercase;
+}
+.wk-case-client {
+  font-family: var(--font-display); font-size: clamp(36px, 4.2vw, 64px);
+  line-height: 1; letter-spacing: -0.025em;
+}
+.wk-case-client .italic { font-style: italic; color: var(--accent); }
+.wk-case-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.wk-case-outcome {
+  font-family: var(--font-display); font-size: clamp(28px, 3vw, 40px);
+  line-height: 1.1; letter-spacing: -0.02em; margin-bottom: var(--s-4);
+}
+.wk-case-outcome .italic { font-style: italic; color: var(--accent); }
+.wk-case-dek { font-size: 16px; line-height: 1.6; color: var(--ink-dim); margin-bottom: var(--s-5); max-width: 560px; }
+
+.wk-case-metrics {
+  display: grid; grid-template-columns: repeat(3, 1fr);
+  gap: 16px; margin-bottom: var(--s-5);
+}
+.wk-case-metric {
+  padding: 16px; background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--r-3);
+}
+.wk-case-metric-val {
+  font-family: var(--font-display); font-size: 28px; letter-spacing: -0.02em; line-height: 1;
+}
+.wk-case-metric-val .italic { font-style: italic; color: var(--accent); }
+.wk-case-metric-label {
+  font-family: var(--font-mono); font-size: 10px;
+  color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase;
+  margin-top: 6px;
+}
+
+.wk-case-foot { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+.wk-case-quote {
+  padding: var(--s-4) var(--s-5);
+  background: var(--accent-soft); border-radius: var(--r-3);
+  font-size: 14px; font-style: italic; color: var(--ink);
+  max-width: 560px; margin-bottom: var(--s-5);
+  line-height: 1.5;
+}
+.wk-case-quote-by {
+  display: block; font-style: normal; font-family: var(--font-mono);
+  font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink-mute); margin-top: 10px;
+}
+
+/* Selected clients */
+.wk-clients { padding: var(--s-8) 0; border-top: 1px solid var(--border); }
+.wk-clients-head { margin-bottom: var(--s-6); }
+.wk-clients-title { font-family: var(--font-display); font-size: clamp(32px, 4vw, 48px); letter-spacing: -0.02em; }
+.wk-clients-title .italic { font-style: italic; color: var(--accent); }
+.wk-clients-grid {
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  gap: 0; border: 1px solid var(--border); border-radius: var(--r-4); overflow: hidden;
+}
+@media (max-width: 900px) { .wk-clients-grid { grid-template-columns: 1fr 1fr; } }
+.wk-client {
+  padding: var(--s-6) var(--s-4);
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  display: flex; flex-direction: column; justify-content: space-between;
+  min-height: 160px;
+  font-family: var(--font-display);
+  transition: background var(--dur-fast) var(--ease-out);
+}
+.wk-client:nth-child(4n) { border-right: none; }
+.wk-client:nth-last-child(-n+4) { border-bottom: none; }
+@media (max-width: 900px) {
+  .wk-client { border-right: 1px solid var(--border); }
+  .wk-client:nth-child(2n) { border-right: none; }
+  .wk-client:nth-child(4n) { border-right: 1px solid var(--border); }
+}
+.wk-client:hover { background: var(--accent-soft); }
+.wk-client-name { font-size: 22px; letter-spacing: -0.015em; line-height: 1.15; }
+.wk-client-meta { font-family: var(--font-mono); font-size: 10px; color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase; }
+
+/* CTA */
+.wk-cta-strip {
+  background: var(--bg-ink); color: var(--ink-inv);
+  border-radius: var(--r-5); padding: var(--s-8) var(--s-7);
+  margin: var(--s-8) 0;
+  display: grid; grid-template-columns: 1.3fr 1fr; gap: 60px; align-items: center;
+}
+@media (max-width: 900px) { .wk-cta-strip { grid-template-columns: 1fr; gap: 24px; } }
+.wk-cta-title { font-family: var(--font-display); font-size: clamp(36px, 4.2vw, 60px); line-height: 1.02; letter-spacing: -0.025em; }
+.wk-cta-title .italic { font-style: italic; color: var(--accent); }
+
+/* Case visual (left side) */
+.wk-case-visual {
+  background: var(--ink); color: var(--ink-inv);
+  border-radius: var(--r-4); aspect-ratio: 4/5;
+  padding: 32px; position: relative; overflow: hidden;
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.wk-case-visual.alt { background: var(--accent); color: var(--ink); }
+.wk-case-visual.ghost { background: var(--bg-card); color: var(--ink); border: 1px solid var(--border); }
+.wk-case-visual::after {
+  content: ''; position: absolute; inset: 0;
+  background-image:
+    linear-gradient(currentColor 1px, transparent 1px),
+    linear-gradient(90deg, currentColor 1px, transparent 1px);
+  background-size: 32px 32px;
+  opacity: 0.05; pointer-events: none;
+}
+.wk-case-visual-top { display: flex; justify-content: space-between; font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.7; }
+.wk-case-visual-big {
+  font-family: var(--font-display); font-size: clamp(64px, 8vw, 120px);
+  line-height: 0.9; letter-spacing: -0.04em;
+}
+.wk-case-visual-big .italic { font-style: italic; }
+.wk-case-visual-bottom { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; opacity: 0.7; }
+
+/* Case filter */
+.wk-filter-row {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: var(--s-5) 0; border-bottom: 1px solid var(--border);
+}
+.wk-filter { display: flex; gap: 4px; list-style: none; font-family: var(--font-mono); font-size: 12px; }
+.wk-filter button {
+  padding: 6px 12px; border: 1px solid transparent; border-radius: var(--r-full);
+  background: transparent; color: var(--ink-mute);
+  letter-spacing: 0.08em; text-transform: uppercase;
+  cursor: pointer; transition: all var(--dur-fast) var(--ease-out);
+}
+.wk-filter button:hover { color: var(--ink); }
+.wk-filter button.active { color: var(--ink); background: var(--accent-soft); }
+.wk-count { font-family: var(--font-mono); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase; }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <div class="site-nav-inner">
+    <a href="homepage.html" class="brand-lockup">
+      <span class="brand-lockup-mark">S<span class="slash">/</span>O</span>
+      <span class="brand-lockup-divider"></span>
+      <span class="brand-lockup-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+    </a>
+    <ul class="site-nav-links">
+      <li><a href="homepage.html#services">Services</a></li>
+      <li><a href="work.html" class="active">Work</a></li>
+      <li><a href="field-notes.html">Field Notes</a></li>
+      <li><a href="news.html">AI News</a></li>
+      <li><a href="scorecard.html">Scorecard</a></li>
+      <li><a href="homepage.html#about">About</a></li>
+    </ul>
+    <div class="site-nav-cta">
+      <a href="homepage.html#cta" class="btn btn-primary btn-sm">Book a call</a>
+    </div>
+      <button class="site-nav-toggle" aria-label="Open menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="wk-hero">
+  <div class="wk-hero-grid"></div>
+  <div class="container wk-hero-inner">
+    <div>
+      <div class="eyebrow" style="margin-bottom: var(--s-5)">Selected Work</div>
+      <h1>Projects, not <span class="italic">pitch&nbsp;decks.</span></h1>
+    </div>
+    <p class="wk-hero-lede">
+      Six engagements across government, SMB, and agency work. No vanity metrics — every number here is tied to an outcome a CFO would sign off on. Bilingual delivery when it was needed.
+    </p>
+  </div>
+</section>
+
+<!-- STATS -->
+<div class="container">
+  <section class="wk-stats">
+    <div class="wk-stat"><div class="wk-stat-val">24<span class="italic">+</span></div><div class="wk-stat-label">Engagements shipped</div></div>
+    <div class="wk-stat"><div class="wk-stat-val">$4.2M</div><div class="wk-stat-label">Tracked client savings</div></div>
+    <div class="wk-stat"><div class="wk-stat-val">6</div><div class="wk-stat-label">Sectors served</div></div>
+    <div class="wk-stat"><div class="wk-stat-val">2</div><div class="wk-stat-label">Languages, always</div></div>
+  </section>
+</div>
+
+<!-- FILTER -->
+<div class="container">
+  <div class="wk-filter-row">
+    <div class="wk-filter">
+      <button class="active">All</button>
+      <button>Government</button>
+      <button>SMB</button>
+      <button>Agency</button>
+      <button>Bilingual</button>
+    </div>
+    <div class="wk-count">Showing 6 of 24</div>
+  </div>
+</div>
+
+<!-- CASES -->
+<section class="wk-cases">
+  <div class="container">
+
+    <!-- Case 01 -->
+    <div class="wk-case">
+      <div class="wk-case-visual">
+        <div class="wk-case-visual-top"><span>Case · 01</span><span>2025 Q3</span></div>
+        <div class="wk-case-visual-big">62<span class="italic">%</span></div>
+        <div class="wk-case-visual-bottom">Response time reduced</div>
+      </div>
+      <div>
+        <div class="wk-case-meta" style="margin-bottom: var(--s-5)">
+          <div class="wk-case-num">Case Study · 01</div>
+          <div class="wk-case-client">Municipio de <span class="italic">San Juan</span></div>
+          <div class="wk-case-tags">
+            <span class="badge">Government</span>
+            <span class="badge">Bilingual</span>
+            <span class="badge">Conversational AI</span>
+          </div>
+        </div>
+        <h3 class="wk-case-outcome">From 14-day wait to <span class="italic">same-day</span> resolution.</h3>
+        <p class="wk-case-dek">
+          Deployed a bilingual conversational agent for constituent services across permits, code enforcement, and public works. The model was fine-tuned on 8 years of case history and wired into the city's existing ticketing system. Went live in 11 weeks.
+        </p>
+        <div class="wk-case-metrics">
+          <div class="wk-case-metric"><div class="wk-case-metric-val">62<span class="italic">%</span></div><div class="wk-case-metric-label">Faster responses</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">$1.4M</div><div class="wk-case-metric-label">Annual savings</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">91<span class="italic">%</span></div><div class="wk-case-metric-label">Resident CSAT</div></div>
+        </div>
+        <div class="wk-case-quote">
+          "Nos subestimamos lo rápido que esto cambiaría cómo la ciudad se siente para los residentes. Spark I/O entendió el contexto — no solo la tecnología."
+          <span class="wk-case-quote-by">— Dir. Transformación Digital, SJU</span>
+        </div>
+        <div class="wk-case-foot">
+          <a href="#" class="btn btn-primary btn-arrow btn-sm">Read the full case</a>
+          <span class="wk-count">11 weeks · Shipped Sep 2025</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Case 02 -->
+    <div class="wk-case">
+      <div class="wk-case-visual alt">
+        <div class="wk-case-visual-top"><span>Case · 02</span><span>2025 Q4</span></div>
+        <div class="wk-case-visual-big">3.4<span class="italic">×</span></div>
+        <div class="wk-case-visual-bottom">Agency throughput</div>
+      </div>
+      <div>
+        <div class="wk-case-meta" style="margin-bottom: var(--s-5)">
+          <div class="wk-case-num">Case Study · 02</div>
+          <div class="wk-case-client">Caldera <span class="italic">Studio</span></div>
+          <div class="wk-case-tags">
+            <span class="badge">Agency</span>
+            <span class="badge">Creative Ops</span>
+          </div>
+        </div>
+        <h3 class="wk-case-outcome">Shipping <span class="italic">3.4×</span> the creative, same team.</h3>
+        <p class="wk-case-dek">
+          Designed a production-grade creative ops stack for a 14-person boutique agency. Bespoke prompt libraries, client-specific model fine-tuning, and a review queue that keeps strategists in the loop. Every asset is auditable back to the brief.
+        </p>
+        <div class="wk-case-metrics">
+          <div class="wk-case-metric"><div class="wk-case-metric-val">3.4<span class="italic">×</span></div><div class="wk-case-metric-label">Output volume</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">−41<span class="italic">%</span></div><div class="wk-case-metric-label">Time-to-first-draft</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">0</div><div class="wk-case-metric-label">Layoffs required</div></div>
+        </div>
+        <div class="wk-case-quote">
+          "We interviewed five firms. Spark I/O was the only one that treated our creatives as the product, not a problem to automate around."
+          <span class="wk-case-quote-by">— Founder, Caldera Studio</span>
+        </div>
+        <div class="wk-case-foot">
+          <a href="#" class="btn btn-primary btn-arrow btn-sm">Read the full case</a>
+          <span class="wk-count">8 weeks · Shipped Dec 2025</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Case 03 -->
+    <div class="wk-case">
+      <div class="wk-case-visual ghost">
+        <div class="wk-case-visual-top"><span>Case · 03</span><span>2026 Q1</span></div>
+        <div class="wk-case-visual-big">$890k</div>
+        <div class="wk-case-visual-bottom">Margin recovered</div>
+      </div>
+      <div>
+        <div class="wk-case-meta" style="margin-bottom: var(--s-5)">
+          <div class="wk-case-num">Case Study · 03</div>
+          <div class="wk-case-client">Ferreteria <span class="italic">Del Valle</span></div>
+          <div class="wk-case-tags">
+            <span class="badge">SMB</span>
+            <span class="badge">Bilingual</span>
+            <span class="badge">Inventory Ops</span>
+          </div>
+        </div>
+        <h3 class="wk-case-outcome">Inventory that <span class="italic">predicts</span>, not reacts.</h3>
+        <p class="wk-case-dek">
+          Regional hardware chain with 7 stores and a shrinking margin. Built a demand forecasting system that reads store-level POS, weather, and construction permits. Store managers get a weekly restock plan in Spanish, one-click approve or override.
+        </p>
+        <div class="wk-case-metrics">
+          <div class="wk-case-metric"><div class="wk-case-metric-val">$890k</div><div class="wk-case-metric-label">Margin year 1</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">−28<span class="italic">%</span></div><div class="wk-case-metric-label">Dead stock</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">94<span class="italic">%</span></div><div class="wk-case-metric-label">Manager adoption</div></div>
+        </div>
+        <div class="wk-case-foot">
+          <a href="#" class="btn btn-primary btn-arrow btn-sm">Read the full case</a>
+          <span class="wk-count">14 weeks · Shipped Mar 2026</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Case 04 -->
+    <div class="wk-case">
+      <div class="wk-case-visual">
+        <div class="wk-case-visual-top"><span>Case · 04</span><span>2025 Q2</span></div>
+        <div class="wk-case-visual-big">5<span class="italic">×</span></div>
+        <div class="wk-case-visual-bottom">Triage coverage</div>
+      </div>
+      <div>
+        <div class="wk-case-meta" style="margin-bottom: var(--s-5)">
+          <div class="wk-case-num">Case Study · 04</div>
+          <div class="wk-case-client">Clínica <span class="italic">Bayamón</span></div>
+          <div class="wk-case-tags">
+            <span class="badge">Healthcare</span>
+            <span class="badge">Bilingual</span>
+          </div>
+        </div>
+        <h3 class="wk-case-outcome">Intake in <span class="italic">seconds</span>, in either language.</h3>
+        <p class="wk-case-dek">
+          Primary care network struggling with front-desk turnover. Deployed a HIPAA-aligned triage assistant for patient intake — Spanish and English, audio and text. Reclaimed 18 hours of nurse time per location per week.
+        </p>
+        <div class="wk-case-metrics">
+          <div class="wk-case-metric"><div class="wk-case-metric-val">18<span class="italic">h</span></div><div class="wk-case-metric-label">Nurse time / wk</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">5<span class="italic">×</span></div><div class="wk-case-metric-label">Intake capacity</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">4.8<span class="italic">/5</span></div><div class="wk-case-metric-label">Patient rating</div></div>
+        </div>
+        <div class="wk-case-foot">
+          <a href="#" class="btn btn-primary btn-arrow btn-sm">Read the full case</a>
+          <span class="wk-count">16 weeks · Shipped Jul 2025</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Case 05 -->
+    <div class="wk-case">
+      <div class="wk-case-visual alt">
+        <div class="wk-case-visual-top"><span>Case · 05</span><span>2024 Q4</span></div>
+        <div class="wk-case-visual-big">12<span class="italic">w</span></div>
+        <div class="wk-case-visual-bottom">Strategy to shipped</div>
+      </div>
+      <div>
+        <div class="wk-case-meta" style="margin-bottom: var(--s-5)">
+          <div class="wk-case-num">Case Study · 05</div>
+          <div class="wk-case-client">Puerto Rico <span class="italic">Tourism Co.</span></div>
+          <div class="wk-case-tags">
+            <span class="badge">Government</span>
+            <span class="badge">Bilingual</span>
+            <span class="badge">Strategy</span>
+          </div>
+        </div>
+        <h3 class="wk-case-outcome">A three-year AI roadmap, <span class="italic">signed</span> on week 12.</h3>
+        <p class="wk-case-dek">
+          Board had seen two prior AI strategies collapse. We ran a focused discovery: interviewed 42 internal staff and 6 industry peers, built a prioritized roadmap with named owners and unit economics. Defended it to a skeptical board. Shipped on schedule.
+        </p>
+        <div class="wk-case-metrics">
+          <div class="wk-case-metric"><div class="wk-case-metric-val">42</div><div class="wk-case-metric-label">Interviews</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">9</div><div class="wk-case-metric-label">Initiatives scoped</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">3<span class="italic">yr</span></div><div class="wk-case-metric-label">Roadmap horizon</div></div>
+        </div>
+        <div class="wk-case-foot">
+          <a href="#" class="btn btn-primary btn-arrow btn-sm">Read the full case</a>
+          <span class="wk-count">12 weeks · Shipped Dec 2024</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Case 06 -->
+    <div class="wk-case">
+      <div class="wk-case-visual ghost">
+        <div class="wk-case-visual-top"><span>Case · 06</span><span>2025 Q2</span></div>
+        <div class="wk-case-visual-big">−37<span class="italic">%</span></div>
+        <div class="wk-case-visual-bottom">Compliance review time</div>
+      </div>
+      <div>
+        <div class="wk-case-meta" style="margin-bottom: var(--s-5)">
+          <div class="wk-case-num">Case Study · 06</div>
+          <div class="wk-case-client">Banco <span class="italic">Cordillera</span></div>
+          <div class="wk-case-tags">
+            <span class="badge">Financial Services</span>
+            <span class="badge">Compliance</span>
+          </div>
+        </div>
+        <h3 class="wk-case-outcome">Compliance that <span class="italic">reads</span> everything, flags what matters.</h3>
+        <p class="wk-case-dek">
+          Regional bank with a small compliance team drowning in regulatory reviews. Built a first-pass document classifier with a human-in-the-loop review queue. Every decision is explainable, logged, and reviewable by the regulator.
+        </p>
+        <div class="wk-case-metrics">
+          <div class="wk-case-metric"><div class="wk-case-metric-val">−37<span class="italic">%</span></div><div class="wk-case-metric-label">Review time</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">100<span class="italic">%</span></div><div class="wk-case-metric-label">Auditable decisions</div></div>
+          <div class="wk-case-metric"><div class="wk-case-metric-val">0</div><div class="wk-case-metric-label">Regulator findings</div></div>
+        </div>
+        <div class="wk-case-foot">
+          <a href="#" class="btn btn-primary btn-arrow btn-sm">Read the full case</a>
+          <span class="wk-count">18 weeks · Shipped Jun 2025</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- CLIENTS -->
+<section class="wk-clients">
+  <div class="container">
+    <div class="wk-clients-head">
+      <h2 class="wk-clients-title">And <span class="italic">others.</span></h2>
+    </div>
+    <div class="wk-clients-grid">
+      <div class="wk-client"><div class="wk-client-name">Tribunal<span style="color:var(--accent); font-style:italic">/</span>PR</div><div class="wk-client-meta">Courts · Strategy</div></div>
+      <div class="wk-client"><div class="wk-client-name">Agencia<br><em>Meridian</em></div><div class="wk-client-meta">Agency · Creative Ops</div></div>
+      <div class="wk-client"><div class="wk-client-name">Sato Cafés<br>& Roasters</div><div class="wk-client-meta">Retail · Forecasting</div></div>
+      <div class="wk-client"><div class="wk-client-name">DDEC</div><div class="wk-client-meta">Economic Dev · Research</div></div>
+      <div class="wk-client"><div class="wk-client-name">Concreto<br><em>del Sur</em></div><div class="wk-client-meta">Construction · Ops</div></div>
+      <div class="wk-client"><div class="wk-client-name">Legacy<br>Logistics</div><div class="wk-client-meta">Logistics · Routing</div></div>
+      <div class="wk-client"><div class="wk-client-name">FundaPR</div><div class="wk-client-meta">Nonprofit · Reporting</div></div>
+      <div class="wk-client"><div class="wk-client-name">Escuela<br><em>Nueva</em></div><div class="wk-client-meta">Education · Curriculum</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<div class="container">
+  <section class="wk-cta-strip">
+    <div>
+      <div class="eyebrow" style="color:var(--ink-inv-dim); margin-bottom: var(--s-4)">New engagement</div>
+      <h2 class="wk-cta-title">Your case study <span class="italic">starts</span> with a call.</h2>
+    </div>
+    <div>
+      <p style="color: var(--ink-inv-dim); margin-bottom: var(--s-4); line-height: 1.55;">
+        We take two new clients a quarter. First conversation is free — we'll tell you whether we can help within 30 minutes.
+      </p>
+      <a href="homepage.html#cta" class="btn btn-accent btn-arrow">Book a 30-min call</a>
+    </div>
+  </section>
+</div>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="site-footer-brand">
+      <a href="homepage.html" class="brand-lockup">
+        <span class="brand-lockup-mark">S<span class="slash">/</span>O</span>
+        <span class="brand-lockup-divider"></span>
+        <span class="brand-lockup-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+      </a>
+      <p>AI strategy that ships. We help SMBs, agencies, and government teams adopt AI with enterprise-grade rigor — in English and Spanish.</p>
+    </div>
+    <div class="site-footer-col">
+      <h5>Practice</h5>
+      <ul>
+        <li><a href="homepage.html#services">Services</a></li>
+        <li><a href="work.html">Selected work</a></li>
+        <li><a href="scorecard.html">AI Readiness</a></li>
+      </ul>
+    </div>
+    <div class="site-footer-col">
+      <h5>Writing</h5>
+      <ul>
+        <li><a href="field-notes.html">Field Notes</a></li>
+        <li><a href="news.html">AI News</a></li>
+      </ul>
+    </div>
+    <div class="site-footer-col">
+      <h5>Contact</h5>
+      <ul>
+        <li><a href="homepage.html#cta">Book a call</a></li>
+        <li><a href="mailto:info@sparkio.org">info@sparkio.org</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="site-footer-bottom">
+    <span>© 2026 Spark I/O LLC</span>
+    <span>San Juan · Tampa · Remote</span>
+  </div>
+</footer>
+
+<script src="site.js"></script>
+</body>
+</html>
