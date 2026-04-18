@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Field Notes — Spark I/O</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="components.css">
+<style>
+/* ── Page-specific ─────────────────────────────────────── */
+.hero {
+  padding: 120px 0 80px;
+  border-bottom: 1px solid var(--border);
+  position: relative; overflow: hidden;
+}
+.hero-grid {
+  position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    linear-gradient(var(--grid-line, rgba(10,11,13,0.04)) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line, rgba(10,11,13,0.04)) 1px, transparent 1px);
+  background-size: 80px 80px;
+  mask-image: radial-gradient(ellipse 70% 70% at 50% 40%, black 40%, transparent 90%);
+}
+.hero-inner { position: relative; display: grid; grid-template-columns: 0.35fr 0.65fr; gap: 80px; align-items: end; }
+@media (max-width: 900px) { .hero-inner { grid-template-columns: 1fr; gap: 24px; } }
+.hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(48px, 7vw, 108px);
+  line-height: 0.95; letter-spacing: -0.035em;
+  color: var(--ink);
+}
+.hero-title .italic { font-style: italic; color: var(--accent); }
+.hero-lede { font-size: 18px; line-height: 1.55; color: var(--ink-dim); max-width: 460px; }
+
+/* Featured + list */
+.featured-essay {
+  padding: var(--s-9) 0; border-bottom: 1px solid var(--border);
+}
+.featured-card {
+  display: grid; grid-template-columns: 1.2fr 1fr; gap: 60px;
+  align-items: center;
+}
+@media (max-width: 900px) { .featured-card { grid-template-columns: 1fr; gap: 32px; } }
+.featured-visual {
+  aspect-ratio: 4/3;
+  background: var(--ink);
+  color: var(--ink-inv);
+  border-radius: var(--r-4);
+  padding: 48px;
+  display: flex; flex-direction: column; justify-content: space-between;
+  position: relative; overflow: hidden;
+}
+@media (max-width: 600px) { .featured-visual { padding: 28px; } }
+.featured-visual::before {
+  content: ''; position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+  mask-image: radial-gradient(ellipse 100% 60% at 20% 50%, black, transparent);
+}
+.featured-visual-quote {
+  font-family: var(--font-display);
+  font-size: clamp(32px, 3.2vw, 44px);
+  line-height: 1.05; letter-spacing: -0.02em;
+  position: relative;
+}
+.featured-visual-quote .italic { font-style: italic; color: var(--accent); }
+.featured-visual-meta {
+  position: relative; display: flex; justify-content: space-between;
+  font-family: var(--font-mono); font-size: 11px;
+  text-transform: uppercase; letter-spacing: 0.12em;
+  color: var(--ink-inv-dim);
+}
+.featured-meta-row { display: flex; align-items: center; gap: 12px; margin-bottom: var(--s-4); }
+.featured-title {
+  font-family: var(--font-display);
+  font-size: clamp(32px, 3.8vw, 56px);
+  line-height: 1.02; letter-spacing: -0.025em;
+  margin-bottom: var(--s-5);
+  color: var(--ink);
+}
+.featured-title .italic { font-style: italic; color: var(--accent); }
+.featured-dek { font-size: 17px; line-height: 1.6; color: var(--ink-dim); margin-bottom: var(--s-5); max-width: 500px; }
+.featured-author {
+  display: flex; align-items: center; gap: 12px;
+  font-size: 13px; color: var(--ink-mute);
+  margin-bottom: var(--s-6);
+}
+.featured-author-dot {
+  width: 32px; height: 32px; border-radius: 50%;
+  background: var(--ink); color: var(--ink-inv);
+  display: inline-flex; align-items: center; justify-content: center;
+  font-family: var(--font-display); font-size: 14px; font-weight: 500;
+}
+
+/* Archive grid */
+.archive { padding: var(--s-9) 0 var(--s-10); }
+.archive-head {
+  display: flex; justify-content: space-between; align-items: end;
+  margin-bottom: var(--s-7); padding-bottom: var(--s-5);
+  border-bottom: 1px solid var(--border);
+}
+@media (max-width: 720px) {
+  .archive-head { flex-direction: column; align-items: flex-start; gap: 20px; }
+  .archive-filter { flex-wrap: wrap; }
+}
+.archive-head h2 {
+  font-family: var(--font-display);
+  font-size: clamp(32px, 4vw, 56px); line-height: 1.02;
+  letter-spacing: -0.02em;
+}
+.archive-head h2 .italic { font-style: italic; color: var(--accent); }
+.archive-filter {
+  display: flex; gap: 4px; list-style: none;
+  font-family: var(--font-mono); font-size: 12px;
+}
+.archive-filter button {
+  padding: 6px 12px; border: 1px solid transparent; border-radius: var(--r-full);
+  background: transparent; color: var(--ink-mute);
+  letter-spacing: 0.08em; text-transform: uppercase;
+  cursor: pointer; transition: all var(--dur-fast) var(--ease-out);
+}
+.archive-filter button:hover { color: var(--ink); }
+.archive-filter button.active { color: var(--ink); background: var(--accent-soft); border-color: transparent; }
+
+.archive-list { display: flex; flex-direction: column; }
+.archive-item {
+  display: grid; grid-template-columns: 120px 1fr 200px 40px;
+  gap: 32px; padding: var(--s-6) 0;
+  border-bottom: 1px solid var(--border);
+  align-items: center;
+  text-decoration: none; color: inherit;
+  transition: background var(--dur-fast) var(--ease-out), padding var(--dur-fast) var(--ease-out);
+}
+@media (max-width: 900px) {
+  .archive-item { grid-template-columns: 1fr; gap: 8px; padding: var(--s-5) 0; }
+  .archive-item:hover { padding-left: 8px; padding-right: 8px; margin: 0 -8px; }
+  .archive-arrow { display: none; }
+}
+.archive-item:hover { padding-left: 16px; background: var(--accent-soft); }
+.archive-item:hover .archive-arrow { transform: translateX(4px); color: var(--accent); }
+
+.archive-date { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-mute); }
+.archive-title-wrap {  }
+.archive-title {
+  font-family: var(--font-display); font-size: 26px; line-height: 1.1;
+  letter-spacing: -0.02em; color: var(--ink); margin-bottom: 6px;
+}
+.archive-title .italic { font-style: italic; color: var(--accent); }
+.archive-dek { font-size: 14px; color: var(--ink-dim); line-height: 1.5; max-width: 560px; }
+.archive-cat { font-family: var(--font-mono); font-size: 11px; color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase; }
+.archive-arrow {
+  width: 36px; height: 36px; border-radius: 50%;
+  border: 1px solid var(--border); display: flex;
+  align-items: center; justify-content: center;
+  color: var(--ink-dim); font-size: 16px;
+  transition: transform var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out);
+}
+
+/* Subscribe strip */
+.subscribe {
+  background: var(--bg-ink); color: var(--ink-inv);
+  padding: var(--s-8) 0;
+  border-radius: var(--r-5);
+  margin: var(--s-8) auto;
+  max-width: calc(var(--container) - (var(--gutter) * 2));
+}
+.subscribe-inner {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 48px;
+  align-items: center;
+  padding: 0 var(--s-7);
+}
+@media (max-width: 900px) { .subscribe-inner { grid-template-columns: 1fr; gap: 24px; padding: 0 var(--s-5); } }
+@media (max-width: 600px) {
+  .subscribe-form { flex-direction: column; gap: 10px; }
+  .subscribe-form .btn { width: 100%; }
+}
+.subscribe-title {
+  font-family: var(--font-display);
+  font-size: clamp(32px, 3.6vw, 48px); line-height: 1.05; letter-spacing: -0.02em;
+}
+.subscribe-title .italic { font-style: italic; color: var(--accent); }
+.subscribe-form { display: flex; gap: 8px; }
+.subscribe-input {
+  flex: 1; background: transparent;
+  border: 1px solid var(--border-inv); color: var(--ink-inv);
+  padding: 14px 18px; border-radius: var(--r-full);
+  font-family: var(--font-body); font-size: 14px;
+  outline: none; transition: border-color var(--dur-fast) var(--ease-out);
+}
+.subscribe-input::placeholder { color: var(--ink-inv-dim); }
+.subscribe-input:focus { border-color: var(--accent); }
+.subscribe-note { font-size: 12px; color: var(--ink-inv-dim); margin-top: 12px; font-family: var(--font-mono); letter-spacing: 0.06em; }
+
+/* ── About Nicolás ───────────────────────────────────── */
+.about-nicolas {
+  padding: var(--s-9) 0;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-card);
+}
+.about-nicolas-inner {
+  display: grid; grid-template-columns: 0.4fr 0.6fr;
+  gap: 64px; align-items: start;
+}
+@media (max-width: 900px) { .about-nicolas-inner { grid-template-columns: 1fr; gap: 32px; } }
+.nicolas-portrait {
+  aspect-ratio: 4/5;
+  background: var(--ink); color: var(--ink-inv);
+  border-radius: var(--r-4); padding: 32px;
+  display: flex; flex-direction: column; justify-content: space-between;
+  position: relative; overflow: hidden;
+}
+.nicolas-portrait::before {
+  content: ''; position: absolute; inset: 0;
+  background-image:
+    linear-gradient(rgba(255,255,255,0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.04) 1px, transparent 1px);
+  background-size: 40px 40px;
+  mask-image: radial-gradient(ellipse 80% 80% at 70% 30%, black, transparent);
+}
+.nicolas-portrait-top, .nicolas-portrait-bot {
+  position: relative; display: flex; justify-content: space-between;
+  font-family: var(--font-mono); font-size: 11px;
+  letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-inv-dim);
+}
+.nicolas-initial {
+  position: relative;
+  font-family: var(--font-display); font-style: italic;
+  font-size: clamp(120px, 20vw, 220px); line-height: 0.9;
+  letter-spacing: -0.04em; color: var(--accent);
+  align-self: flex-start;
+}
+.nicolas-eyebrow {
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--ink-mute); letter-spacing: 0.12em; text-transform: uppercase;
+  margin-bottom: var(--s-4);
+}
+.nicolas-name {
+  font-family: var(--font-display);
+  font-size: clamp(40px, 4.8vw, 72px);
+  line-height: 1; letter-spacing: -0.025em;
+  margin-bottom: var(--s-3);
+}
+.nicolas-name .italic { font-style: italic; color: var(--accent); }
+.nicolas-role {
+  font-family: var(--font-mono); font-size: 12px;
+  letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink-mute); margin-bottom: var(--s-5);
+}
+.nicolas-bio {
+  font-size: 16px; line-height: 1.6; color: var(--ink-dim);
+  max-width: 580px; margin-bottom: var(--s-5);
+}
+.nicolas-bio + .nicolas-bio { margin-top: -4px; }
+.nicolas-facts {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+  margin: var(--s-5) 0 var(--s-6);
+}
+@media (max-width: 600px) { .nicolas-facts { grid-template-columns: 1fr; } }
+.nicolas-fact {
+  padding: 16px; border: 1px solid var(--border); border-radius: var(--r-3); background: var(--bg);
+}
+.nicolas-fact-val {
+  font-family: var(--font-display); font-size: 26px; letter-spacing: -0.02em; line-height: 1;
+}
+.nicolas-fact-val .italic { font-style: italic; color: var(--accent); }
+.nicolas-fact-label {
+  font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-mute); margin-top: 8px;
+}
+.nicolas-links { display: flex; flex-wrap: wrap; gap: 12px; }
+
+/* Make the author row on the featured card feel clickable */
+.featured-author { cursor: pointer; transition: color var(--dur-fast) var(--ease-out); }
+.featured-author:hover { color: var(--ink); }
+.featured-author:hover .featured-author-dot { background: var(--accent); color: var(--ink); }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <div class="site-nav-inner">
+    <a href="homepage.html" class="brand-lockup">
+      <span class="brand-lockup-mark">S<span class="slash">/</span>O</span>
+      <span class="brand-lockup-divider"></span>
+      <span class="brand-lockup-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+    </a>
+    <ul class="site-nav-links">
+      <li><a href="homepage.html#services">Services</a></li>
+      <li><a href="work.html">Work</a></li>
+      <li><a href="field-notes.html" class="active">Field Notes</a></li>
+      <li><a href="news.html">AI News</a></li>
+      <li><a href="scorecard.html">Scorecard</a></li>
+      <li><a href="homepage.html#about">About</a></li>
+    </ul>
+    <div class="site-nav-cta">
+      <a href="homepage.html#cta" class="btn btn-primary btn-sm">Book a call</a>
+    </div>
+      <button class="site-nav-toggle" aria-label="Open menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-grid"></div>
+  <div class="container hero-inner">
+    <div>
+      <div class="eyebrow" style="margin-bottom: var(--s-5)">Field Notes</div>
+      <h1 class="hero-title">What we <span class="italic">believe.</span></h1>
+    </div>
+    <p class="hero-lede">
+      Opinionated writing from the Spark I/O practice. What we're seeing in the field, what we'd do differently, and the arguments we're willing to make in public. New essays every other week.
+    </p>
+  </div>
+</section>
+
+<!-- FEATURED -->
+<section class="featured-essay">
+  <div class="container">
+    <div class="featured-card">
+      <div class="featured-visual">
+        <div class="featured-visual-meta">
+          <span>Featured · No. 03</span>
+          <span>14 min read</span>
+        </div>
+        <div class="featured-visual-quote">
+          "Most AI <span class="italic">pilots</span> fail because of data access — not model choice."
+        </div>
+        <div class="featured-visual-meta">
+          <span>Apr 14, 2026</span>
+          <span>— Strategy</span>
+        </div>
+      </div>
+      <div>
+        <div class="featured-meta-row">
+          <span class="badge badge-accent">Essay</span>
+          <span class="archive-cat">Strategy · 14 min</span>
+        </div>
+        <h2 class="featured-title">The <span class="italic">pilot</span> trap.</h2>
+        <p class="featured-dek">
+          Every AI engagement starts the same way. A pilot. Six weeks. One team. "Let's prove it works." Six months later, the pilot is a ghost — technically successful, organizationally stuck. We've seen it enough to name the pattern, and the fix isn't more models or better prompts. It's the unglamorous work of data access and change management. Here's what we do instead.
+        </p>
+        <a href="#about-nicolas" class="featured-author" style="text-decoration: none; color: inherit;">
+          <span class="featured-author-dot">M</span>
+          <span>Manuel Villafañe · Founder <span style="color: var(--accent); margin-left: 4px;">→</span></span>
+        </a>
+        <a href="#" class="btn btn-primary btn-arrow">Read the essay</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT MANUEL -->
+<section class="about-nicolas" id="about-nicolas">
+  <div class="container about-nicolas-inner">
+    <div class="nicolas-portrait">
+      <div class="nicolas-portrait-top">
+        <span>Founder · Spark I/O</span>
+        <span>Est. 2022</span>
+      </div>
+      <div class="nicolas-initial">M<span style="color: var(--ink-inv); font-style: normal;">.</span></div>
+      <div class="nicolas-portrait-bot">
+        <span>San Juan · Tampa</span>
+        <span>EN · ES</span>
+      </div>
+    </div>
+
+    <div>
+      <div class="nicolas-eyebrow">Who's writing this</div>
+      <h2 class="nicolas-name">Manuel <span class="italic">Villafañe.</span></h2>
+      <div class="nicolas-role">Founder · Principal Strategist</div>
+
+      <p class="nicolas-bio">
+        Ten+ years inside the systems that run real companies. Senior Director of Business Systems &amp; Digital Transformation at KnowBe4 — built and led a ~56-person org across Salesforce DevOps, admins, developers, RevOps, integrations, and AI engineering. Before that, Solution Architect at Coastal Cloud running the Experience Cloud Center of Excellence, and consulting at Accenture on DoD logistics.
+      </p>
+      <p class="nicolas-bio">
+        Computer Engineer (Polytechnic University of Puerto Rico). Five Salesforce certifications. Bilingual by birth, opinionated by trade. Writes every Field Note personally — no ghostwriters, no LLM-padded thinkpieces. If you disagree, the reply-to is real.
+      </p>
+
+      <div class="nicolas-facts">
+        <div class="nicolas-fact"><div class="nicolas-fact-val">10<span class="italic">+yr</span></div><div class="nicolas-fact-label">Enterprise systems</div></div>
+        <div class="nicolas-fact"><div class="nicolas-fact-val">~56</div><div class="nicolas-fact-label">Team led at KnowBe4</div></div>
+        <div class="nicolas-fact"><div class="nicolas-fact-val">5</div><div class="nicolas-fact-label">Salesforce certs</div></div>
+      </div>
+
+      <div class="nicolas-links">
+        <a href="mailto:info@sparkio.org" class="btn btn-primary btn-sm btn-arrow">Email Manuel</a>
+        <a href="https://www.linkedin.com/in/manuel-villafa%C3%B1e-0b196bba/" target="_blank" rel="noopener" class="btn btn-ghost btn-sm">LinkedIn</a>
+        <a href="homepage.html#cta" class="btn btn-ghost btn-sm">Book a call</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ARCHIVE -->
+<section class="archive">
+  <div class="container">
+    <div class="archive-head">
+      <h2>The <span class="italic">archive.</span></h2>
+      <div class="archive-filter">
+        <button class="active">All</button>
+        <button>Strategy</button>
+        <button>Data</button>
+        <button>Ops</button>
+        <button>Bilingual</button>
+      </div>
+    </div>
+
+    <div class="archive-list">
+      <a href="#" class="archive-item">
+        <div class="archive-date">Apr 14 · 2026</div>
+        <div class="archive-title-wrap">
+          <div class="archive-title">The <span class="italic">pilot</span> trap.</div>
+          <div class="archive-dek">Why 80% of enterprise AI pilots ship nothing — and the operating model that actually works when you're past the hype cycle.</div>
+        </div>
+        <div class="archive-cat">Strategy</div>
+        <div class="archive-arrow">→</div>
+      </a>
+      <a href="#" class="archive-item">
+        <div class="archive-date">Mar 28 · 2026</div>
+        <div class="archive-title-wrap">
+          <div class="archive-title">Bilingual by <span class="italic">default</span>, not by translation.</div>
+          <div class="archive-dek">Most Spanish-language AI deployments are just English models with a translation layer. Here's what it actually takes to build something your LATAM customers won't silently resent.</div>
+        </div>
+        <div class="archive-cat">Bilingual</div>
+        <div class="archive-arrow">→</div>
+      </a>
+      <a href="#" class="archive-item">
+        <div class="archive-date">Mar 03 · 2026</div>
+        <div class="archive-title-wrap">
+          <div class="archive-title">Your data <span class="italic">isn't</span> your moat.</div>
+          <div class="archive-dek">We stopped telling clients their data was a competitive advantage when we realized most of them couldn't find it. A field note on governance, catalogs, and the unsexy prerequisites.</div>
+        </div>
+        <div class="archive-cat">Data</div>
+        <div class="archive-arrow">→</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- SUBSCRIBE -->
+<div class="container">
+  <section class="subscribe">
+    <div class="subscribe-inner">
+      <div>
+        <h3 class="subscribe-title">One essay, <span class="italic">every other</span> Thursday.</h3>
+      </div>
+      <div>
+        <form class="subscribe-form" onsubmit="event.preventDefault(); this.querySelector('input').value=''; this.nextElementSibling.textContent='✓ You\'re in. Check your inbox.'">
+          <input type="email" class="subscribe-input" placeholder="your@email.com" required>
+          <button type="submit" class="btn btn-accent">Subscribe</button>
+        </form>
+        <div class="subscribe-note">— No spam. Unsubscribe anytime. ~1,200 readers.</div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="site-footer-brand">
+      <a href="homepage.html" class="brand-lockup">
+        <span class="brand-lockup-mark">S<span class="slash">/</span>O</span>
+        <span class="brand-lockup-divider"></span>
+        <span class="brand-lockup-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+      </a>
+      <p>AI strategy that ships. We help SMBs, agencies, and government teams adopt AI with enterprise-grade rigor — in English and Spanish.</p>
+    </div>
+    <div class="site-footer-col">
+      <h5>Practice</h5>
+      <ul>
+        <li><a href="homepage.html#services">Services</a></li>
+        <li><a href="work.html">Selected work</a></li>
+        <li><a href="scorecard.html">AI Readiness</a></li>
+      </ul>
+    </div>
+    <div class="site-footer-col">
+      <h5>Writing</h5>
+      <ul>
+        <li><a href="field-notes.html">Field Notes</a></li>
+        <li><a href="news.html">AI News</a></li>
+      </ul>
+    </div>
+    <div class="site-footer-col">
+      <h5>Contact</h5>
+      <ul>
+        <li><a href="homepage.html#cta">Book a call</a></li>
+        <li><a href="mailto:info@sparkio.org">info@sparkio.org</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="site-footer-bottom">
+    <span>© 2026 Spark I/O LLC</span>
+    <span>San Juan · Tampa · Remote</span>
+  </div>
+</footer>
+
+<script src="site.js"></script>
+</body>
+</html>

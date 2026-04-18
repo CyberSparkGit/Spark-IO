@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Readiness Scorecard — Spark I/O</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="components.css">
+<style>
+.sc-hero {
+  padding: 100px 0 60px; border-bottom: 1px solid var(--border);
+  position: relative; overflow: hidden;
+}
+.sc-hero-grid {
+  position: absolute; inset: 0; pointer-events: none;
+  background-image:
+    linear-gradient(var(--grid-line, rgba(10,11,13,0.04)) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line, rgba(10,11,13,0.04)) 1px, transparent 1px);
+  background-size: 60px 60px;
+  mask-image: radial-gradient(ellipse 80% 80% at 30% 40%, black 30%, transparent 90%);
+}
+.sc-hero-inner { position: relative; display: grid; grid-template-columns: 0.6fr 0.4fr; gap: 60px; align-items: end; }
+@media (max-width: 900px) { .sc-hero-inner { grid-template-columns: 1fr; } }
+.sc-hero h1 {
+  font-family: var(--font-display); font-size: clamp(48px, 6.5vw, 96px);
+  line-height: 0.96; letter-spacing: -0.03em; margin-top: var(--s-5);
+}
+.sc-hero h1 .italic { font-style: italic; color: var(--accent); }
+.sc-hero-lede { font-size: 17px; line-height: 1.55; color: var(--ink-dim); max-width: 440px; margin-top: var(--s-3); }
+.sc-hero-meta {
+  display: flex; flex-direction: column; gap: 12px;
+  font-family: var(--font-mono); font-size: 12px;
+  color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase;
+}
+.sc-hero-meta-row { display: flex; justify-content: space-between; padding: 16px 0; border-top: 1px solid var(--border); }
+.sc-hero-meta-row:last-child { border-bottom: 1px solid var(--border); }
+.sc-hero-meta-val { color: var(--ink); font-family: var(--font-display); font-size: 18px; letter-spacing: -0.01em; text-transform: none; }
+
+/* Scorecard stage */
+.sc-stage { padding: var(--s-9) 0 var(--s-10); }
+.sc-stage-inner { display: grid; grid-template-columns: 0.35fr 0.65fr; gap: 60px; align-items: start; }
+@media (max-width: 900px) { .sc-stage-inner { grid-template-columns: 1fr; } }
+
+/* Progress rail (left) */
+.sc-rail { position: sticky; top: 100px; }
+.sc-rail-label {
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--ink-mute); letter-spacing: 0.1em; text-transform: uppercase;
+  margin-bottom: var(--s-5);
+}
+.sc-rail-progress {
+  font-family: var(--font-display);
+  font-size: 96px; line-height: 1; letter-spacing: -0.04em;
+  color: var(--ink); margin-bottom: var(--s-6);
+}
+.sc-rail-progress .italic { font-style: italic; color: var(--accent); font-size: 80%; }
+.sc-rail-steps { list-style: none; display: flex; flex-direction: column; gap: 4px; }
+.sc-rail-step {
+  display: flex; align-items: center; gap: 12px; padding: 10px 0;
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase;
+  transition: color var(--dur-fast) var(--ease-out);
+}
+.sc-rail-step-num {
+  width: 28px; height: 28px; border-radius: 50%;
+  border: 1px solid var(--border); display: inline-flex;
+  align-items: center; justify-content: center;
+  font-family: var(--font-display); font-size: 14px; color: var(--ink-mute);
+  transition: all var(--dur-fast) var(--ease-out);
+}
+.sc-rail-step.done { color: var(--ink-dim); }
+.sc-rail-step.done .sc-rail-step-num { background: var(--ink); color: var(--ink-inv); border-color: var(--ink); }
+.sc-rail-step.active { color: var(--accent); }
+.sc-rail-step.active .sc-rail-step-num { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+
+/* Question card */
+.sc-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--r-5); padding: 48px 56px;
+  min-height: 460px;
+  display: flex; flex-direction: column;
+}
+@media (max-width: 900px) { .sc-card { padding: 32px 24px; } }
+.sc-q-num {
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--accent); letter-spacing: 0.12em; text-transform: uppercase;
+  margin-bottom: var(--s-5);
+}
+.sc-q-title {
+  font-family: var(--font-display); font-size: clamp(28px, 3.2vw, 44px);
+  line-height: 1.08; letter-spacing: -0.025em;
+  margin-bottom: var(--s-4);
+}
+.sc-q-title .italic { font-style: italic; color: var(--accent); }
+.sc-q-dek { font-size: 15px; line-height: 1.55; color: var(--ink-dim); margin-bottom: var(--s-6); max-width: 560px; }
+
+.sc-options { display: flex; flex-direction: column; gap: 10px; margin-bottom: var(--s-6); }
+.sc-option {
+  display: flex; align-items: flex-start; gap: 16px;
+  padding: 18px 22px;
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: var(--r-3);
+  cursor: pointer; text-align: left;
+  font-family: inherit; font-size: 15px; color: var(--ink);
+  transition: all var(--dur-fast) var(--ease-out);
+  line-height: 1.4;
+}
+.sc-option:hover { border-color: var(--border-strong); transform: translateY(-1px); }
+.sc-option.selected {
+  border-color: var(--accent); background: var(--accent-soft);
+}
+.sc-option-dot {
+  width: 18px; height: 18px; border-radius: 50%;
+  border: 1.5px solid var(--border-strong); flex-shrink: 0;
+  margin-top: 2px;
+  transition: all var(--dur-fast) var(--ease-out);
+}
+.sc-option.selected .sc-option-dot {
+  border-color: var(--accent); background: var(--accent);
+  box-shadow: inset 0 0 0 3px var(--bg-card);
+}
+.sc-option-label { display: block; font-weight: 500; }
+.sc-option-detail { display: block; font-size: 13px; color: var(--ink-mute); margin-top: 4px; }
+
+.sc-nav { display: flex; justify-content: space-between; margin-top: auto; padding-top: var(--s-5); border-top: 1px solid var(--border); }
+.sc-nav button { min-width: 110px; }
+
+/* Results */
+.sc-results { display: none; }
+.sc-results.on { display: block; }
+.sc-results-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--r-5); padding: 56px; overflow: hidden;
+}
+.sc-results-grade-row {
+  display: grid; grid-template-columns: auto 1fr; gap: 48px;
+  align-items: center; margin-bottom: var(--s-7);
+  padding-bottom: var(--s-6); border-bottom: 1px solid var(--border);
+}
+@media (max-width: 900px) { .sc-results-grade-row { grid-template-columns: 1fr; gap: 24px; } }
+.sc-grade {
+  font-family: var(--font-display); font-size: 180px; line-height: 0.9;
+  letter-spacing: -0.05em; color: var(--accent); font-style: italic;
+}
+.sc-grade-label {
+  font-family: var(--font-mono); font-size: 11px;
+  color: var(--ink-mute); letter-spacing: 0.12em; text-transform: uppercase;
+  margin-bottom: var(--s-3);
+}
+.sc-grade-title {
+  font-family: var(--font-display); font-size: clamp(28px, 3.4vw, 44px);
+  line-height: 1.05; letter-spacing: -0.02em; margin-bottom: var(--s-3);
+}
+.sc-grade-dek { font-size: 15px; color: var(--ink-dim); line-height: 1.55; max-width: 520px; }
+
+.sc-scores { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-bottom: var(--s-7); }
+@media (max-width: 900px) { .sc-scores { grid-template-columns: 1fr 1fr; } }
+.sc-score-pill {
+  padding: var(--s-5); background: var(--bg); border: 1px solid var(--border); border-radius: var(--r-3);
+}
+.sc-score-label { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-mute); }
+.sc-score-val { font-family: var(--font-display); font-size: 36px; letter-spacing: -0.02em; margin: 8px 0 4px; line-height: 1; }
+.sc-score-val .italic { font-style: italic; color: var(--accent); font-size: 75%; }
+.sc-score-bar { height: 3px; background: var(--border); border-radius: var(--r-full); overflow: hidden; margin-top: var(--s-3); }
+.sc-score-bar-fill { height: 100%; background: var(--accent); border-radius: inherit; transform-origin: left; transition: transform 0.8s var(--ease-out); }
+
+.sc-recommendations h3 {
+  font-family: var(--font-display); font-size: 28px; letter-spacing: -0.02em;
+  margin-bottom: var(--s-5);
+}
+.sc-recommendations h3 .italic { font-style: italic; color: var(--accent); }
+.sc-rec-list { display: flex; flex-direction: column; gap: 16px; }
+.sc-rec-item {
+  display: grid; grid-template-columns: auto 1fr; gap: 20px;
+  padding: var(--s-5); background: var(--bg); border: 1px solid var(--border); border-radius: var(--r-3);
+}
+.sc-rec-num {
+  font-family: var(--font-display); font-size: 32px; color: var(--accent);
+  font-style: italic; line-height: 1; letter-spacing: -0.02em;
+}
+.sc-rec-title { font-family: var(--font-display); font-size: 20px; letter-spacing: -0.01em; margin-bottom: 4px; }
+.sc-rec-dek { font-size: 14px; color: var(--ink-dim); line-height: 1.5; }
+
+.sc-results-cta {
+  margin-top: var(--s-7); padding-top: var(--s-6);
+  border-top: 1px solid var(--border);
+  display: flex; gap: 12px; flex-wrap: wrap;
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <div class="site-nav-inner">
+    <a href="homepage.html" class="brand-lockup">
+      <span class="brand-lockup-mark">S<span class="slash">/</span>O</span>
+      <span class="brand-lockup-divider"></span>
+      <span class="brand-lockup-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+    </a>
+    <ul class="site-nav-links">
+      <li><a href="homepage.html#services">Services</a></li>
+      <li><a href="work.html">Work</a></li>
+      <li><a href="field-notes.html">Field Notes</a></li>
+      <li><a href="news.html">AI News</a></li>
+      <li><a href="scorecard.html" class="active">Scorecard</a></li>
+      <li><a href="homepage.html#about">About</a></li>
+    </ul>
+    <div class="site-nav-cta">
+      <a href="homepage.html#cta" class="btn btn-primary btn-sm">Book a call</a>
+    </div>
+      <button class="site-nav-toggle" aria-label="Open menu" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="sc-hero">
+  <div class="sc-hero-grid"></div>
+  <div class="container sc-hero-inner">
+    <div>
+      <div class="eyebrow">The Scorecard</div>
+      <h1>How <span class="italic">ready</span> is your<br>org for AI?</h1>
+      <p class="sc-hero-lede">
+        Eight honest questions about your data, people, process, and leadership. Five minutes. You'll get a readiness grade, four domain scores, and three specific things to do next — not a generic "hire a consultant."
+      </p>
+    </div>
+    <div class="sc-hero-meta">
+      <div class="sc-hero-meta-row"><span>Questions</span><span class="sc-hero-meta-val">8</span></div>
+      <div class="sc-hero-meta-row"><span>Time</span><span class="sc-hero-meta-val">~5 min</span></div>
+      <div class="sc-hero-meta-row"><span>Cost</span><span class="sc-hero-meta-val">Free</span></div>
+      <div class="sc-hero-meta-row"><span>Email gate</span><span class="sc-hero-meta-val">None</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- STAGE -->
+<section class="sc-stage">
+  <div class="container sc-stage-inner">
+    <!-- Progress rail -->
+    <aside class="sc-rail" id="scRail">
+      <div class="sc-rail-label">Section</div>
+      <div class="sc-rail-progress" id="scProgress">01<span class="italic">/</span>08</div>
+      <ul class="sc-rail-steps" id="scRailSteps"></ul>
+    </aside>
+
+    <!-- Question / results -->
+    <div>
+      <div class="sc-card" id="scCard">
+        <!-- Questions rendered by JS -->
+      </div>
+
+      <div class="sc-results" id="scResults">
+        <div class="sc-results-card">
+          <div class="sc-results-grade-row">
+            <div class="sc-grade" id="scGrade">B+</div>
+            <div>
+              <div class="sc-grade-label">Your readiness grade</div>
+              <h2 class="sc-grade-title" id="scGradeTitle">You're <span class="italic">almost</span> ready.</h2>
+              <p class="sc-grade-dek" id="scGradeDek">Your foundation is solid — leadership understands the opportunity, and you have pockets of technical capability. The gap is organizational: data access is siloed and decisions about AI still happen ad-hoc.</p>
+            </div>
+          </div>
+
+          <div class="sc-scores" id="scScores">
+            <!-- Populated by JS -->
+          </div>
+
+          <div class="sc-recommendations">
+            <h3>Three <span class="italic">next</span> moves.</h3>
+            <div class="sc-rec-list" id="scRecs">
+              <!-- Populated by JS -->
+            </div>
+          </div>
+
+          <div class="sc-results-cta">
+            <a href="homepage.html#cta" class="btn btn-primary btn-arrow">Talk to us about a 2-week diagnostic</a>
+            <button class="btn btn-ghost" onclick="restartScorecard()">Retake</button>
+            <button class="btn btn-ghost" onclick="copyResults()">Copy share link</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <div class="site-footer-brand">
+      <a href="homepage.html" class="brand-lockup">
+        <span class="brand-lockup-mark">S<span class="slash">/</span>O</span>
+        <span class="brand-lockup-divider"></span>
+        <span class="brand-lockup-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+      </a>
+      <p>AI strategy that ships. We help SMBs, agencies, and government teams adopt AI with enterprise-grade rigor — in English and Spanish.</p>
+    </div>
+    <div class="site-footer-col">
+      <h5>Practice</h5>
+      <ul>
+        <li><a href="homepage.html#services">Services</a></li>
+        <li><a href="work.html">Selected work</a></li>
+        <li><a href="scorecard.html">AI Readiness</a></li>
+      </ul>
+    </div>
+    <div class="site-footer-col">
+      <h5>Writing</h5>
+      <ul>
+        <li><a href="field-notes.html">Field Notes</a></li>
+        <li><a href="news.html">AI News</a></li>
+      </ul>
+    </div>
+    <div class="site-footer-col">
+      <h5>Contact</h5>
+      <ul>
+        <li><a href="homepage.html#cta">Book a call</a></li>
+        <li><a href="mailto:info@sparkio.org">info@sparkio.org</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="site-footer-bottom">
+    <span>© 2026 Spark I/O LLC</span>
+    <span>San Juan · Tampa · Remote</span>
+  </div>
+</footer>
+
+<script>
+// ── The scorecard data ──────────────────────────────────
+const QUESTIONS = [
+  { domain: 'Data', q: "Can a new team member find, access, and trust your customer data in under 30 minutes?",
+    dek: "We ask about the actual experience, not the theoretical architecture.",
+    opts: [
+      { t: "Yes — we have a clear catalog and documented access flow.", v: 4 },
+      { t: "Mostly — it takes a few hours and a Slack thread or two.", v: 3 },
+      { t: "Sort of — it depends heavily on who they ask.", v: 2 },
+      { t: "Honestly, no — this is a known pain point.", v: 1 },
+    ]
+  },
+  { domain: 'Data', q: "When your data changes shape upstream, how do you learn about it?",
+    dek: "Schema drift is where pilots go to die.",
+    opts: [
+      { t: "Automated alerts — we own this.", v: 4 },
+      { t: "A downstream dashboard breaks and someone notices.", v: 3 },
+      { t: "A customer or internal user complains.", v: 2 },
+      { t: "We find out months later during an audit.", v: 1 },
+    ]
+  },
+  { domain: 'Leadership', q: "Who owns the AI roadmap at your org?",
+    dek: "\"Everyone\" and \"no one\" are the same answer.",
+    opts: [
+      { t: "A named exec with budget, headcount, and a 12-month plan.", v: 4 },
+      { t: "A cross-functional committee that meets regularly.", v: 3 },
+      { t: "It's split across a few leaders — unclear ownership.", v: 2 },
+      { t: "Honestly, it's emergent. We're not formally organized yet.", v: 1 },
+    ]
+  },
+  { domain: 'Leadership', q: "How does your leadership team talk about AI internally?",
+    dek: "Rhetoric shapes execution more than most execs realize.",
+    opts: [
+      { t: "With specific bets and measurable outcomes tied to P&L.", v: 4 },
+      { t: "With enthusiasm — we have a clear narrative but fuzzy metrics.", v: 3 },
+      { t: "Mixed signals — excitement at the top, skepticism in the middle.", v: 2 },
+      { t: "Mostly as a threat or a \"must-do\" without a clear why.", v: 1 },
+    ]
+  },
+  { domain: 'People', q: "What % of your team has meaningfully used an AI tool in their workflow this month?",
+    dek: "Not \"tried ChatGPT once\" — embedded in real work.",
+    opts: [
+      { t: "Over 70% — it's part of how we work now.", v: 4 },
+      { t: "30–70% — concentrated in specific teams.", v: 3 },
+      { t: "Under 30% — a few enthusiasts, mostly individual.", v: 2 },
+      { t: "We don't track this.", v: 1 },
+    ]
+  },
+  { domain: 'People', q: "When a model's output is wrong in production, who's accountable?",
+    dek: "If no one, your AI is a demo, not a system.",
+    opts: [
+      { t: "A named team with a tested playbook — clear escalation.", v: 4 },
+      { t: "The engineering or data team — informally.", v: 3 },
+      { t: "Whoever built it — the original implementer.", v: 2 },
+      { t: "This hasn't come up yet, or we're not sure.", v: 1 },
+    ]
+  },
+  { domain: 'Process', q: "How long does it take to go from \"we want to test X with AI\" to a working prototype in front of real users?",
+    dek: "Not a dashboard demo — in the hands of 10+ actual customers or employees.",
+    opts: [
+      { t: "2–4 weeks — we have a repeatable path.", v: 4 },
+      { t: "1–3 months — it happens, but it's a production each time.", v: 3 },
+      { t: "3–6 months — every project feels like the first one.", v: 2 },
+      { t: "We haven't done this yet.", v: 1 },
+    ]
+  },
+  { domain: 'Process', q: "If a regulator, customer, or journalist asked \"why did your AI do that?\" — could you answer in 48 hours?",
+    dek: "Explainability is a people and process problem before it's a model problem.",
+    opts: [
+      { t: "Yes — we log inputs, outputs, and versioning on every decision.", v: 4 },
+      { t: "For most systems — depends which one.", v: 3 },
+      { t: "With a week and a very patient eng team.", v: 2 },
+      { t: "No — we'd be scrambling.", v: 1 },
+    ]
+  },
+];
+
+const GRADE_COPY = {
+  A:  { title: "You're <span class='italic'>ready</span>.",  dek: "Your org is in the rare top tier — data access, leadership alignment, people enablement, and process are all working together. The risk now isn't readiness, it's overconfidence. The next frontier is scale: moving from capable teams to a capable organization." },
+  B:  { title: "You're <span class='italic'>almost</span> ready.", dek: "Your foundation is solid — leadership understands the opportunity, and you have pockets of technical capability. The gap is organizational: data access is siloed and decisions about AI still happen ad-hoc. A focused 6–12 week program can close this." },
+  C:  { title: "You're <span class='italic'>mid-flight</span>.", dek: "You're doing real work, but it's concentrated in a few heroes. Broad adoption is blocked by process and data issues, not technology. Without structural changes, you'll plateau. The good news: the fixes are well-understood and affordable." },
+  D:  { title: "You're <span class='italic'>at the start</span>.", dek: "You're honest about where you are — which is more than most orgs. The biggest risk isn't moving too slow; it's buying tools before addressing the structural foundation. Start with a 2-week diagnostic before any tool decisions." },
+};
+
+const REC_LIBRARY = {
+  Data: [
+    { title: "Run a 2-week data access audit.", dek: "Before any AI spend, map where your critical data lives, who can touch it, and how fast. Audit output becomes your roadmap." },
+    { title: "Pick one source of truth to own.", dek: "Customer? Financial? Ops? Choose the domain where AI would move the most revenue, and invest there first. Everything else waits." },
+  ],
+  Leadership: [
+    { title: "Name a single AI owner with a 12-month plan.", dek: "Not a committee, not a steering group. One person with budget, KPIs, and the authority to kill initiatives." },
+    { title: "Replace \"AI strategy\" with 3 bets.", dek: "Three specific outcomes you're willing to defend publicly. Everything else is noise." },
+  ],
+  People: [
+    { title: "Build one internal champion program.", dek: "Pick 8–12 people across functions. Give them time, tools, and a monthly forum. Transformation is contagious — if you seed it correctly." },
+    { title: "Tie AI use to performance review prompts.", dek: "Not \"did you use AI?\" — \"what did you ship faster, better, or differently because of AI?\" One question in reviews changes behavior." },
+  ],
+  Process: [
+    { title: "Build a 2-week prototype loop.", dek: "Standardize how you go from idea → real-user test. Cut the path from months to weeks. This single change compounds." },
+    { title: "Write your AI explainability protocol now.", dek: "Before you need it. Who logs what, who can answer what, how fast. This is a 1-day workshop that saves weeks of crisis." },
+  ],
+};
+
+// ── State ───────────────────────────────────────────────
+let answers = new Array(QUESTIONS.length).fill(null);
+let currentQ = 0;
+
+// ── Render ──────────────────────────────────────────────
+function renderRail() {
+  const steps = document.getElementById('scRailSteps');
+  steps.innerHTML = QUESTIONS.map((q, i) => {
+    let cls = '';
+    if (i < currentQ) cls = 'done';
+    else if (i === currentQ) cls = 'active';
+    return `<li class="sc-rail-step ${cls}"><span class="sc-rail-step-num">${String(i+1).padStart(2,'0')}</span>${q.domain}</li>`;
+  }).join('');
+  document.getElementById('scProgress').innerHTML =
+    String(currentQ+1).padStart(2,'0') + '<span class="italic">/</span>' + String(QUESTIONS.length).padStart(2,'0');
+}
+
+function renderQuestion() {
+  const q = QUESTIONS[currentQ];
+  const card = document.getElementById('scCard');
+  card.innerHTML = `
+    <div class="sc-q-num">Q${String(currentQ+1).padStart(2,'0')} · ${q.domain}</div>
+    <h2 class="sc-q-title">${q.q}</h2>
+    <p class="sc-q-dek">${q.dek}</p>
+    <div class="sc-options">
+      ${q.opts.map((o, i) => `
+        <button class="sc-option ${answers[currentQ] === i ? 'selected' : ''}" data-idx="${i}">
+          <span class="sc-option-dot"></span>
+          <span><span class="sc-option-label">${o.t}</span></span>
+        </button>
+      `).join('')}
+    </div>
+    <div class="sc-nav">
+      <button class="btn btn-ghost" id="scPrev" ${currentQ === 0 ? 'disabled style="opacity:0.4; cursor:not-allowed"' : ''}>← Back</button>
+      <button class="btn btn-primary btn-arrow" id="scNext" ${answers[currentQ] === null ? 'disabled style="opacity:0.4; cursor:not-allowed"' : ''}>${currentQ === QUESTIONS.length - 1 ? 'See results' : 'Next'}</button>
+    </div>
+  `;
+
+  card.querySelectorAll('.sc-option').forEach(btn => {
+    btn.addEventListener('click', () => {
+      answers[currentQ] = parseInt(btn.dataset.idx);
+      renderQuestion(); // re-render to show selection
+    });
+  });
+  const prev = document.getElementById('scPrev');
+  if (prev && currentQ > 0) prev.addEventListener('click', () => { currentQ--; renderRail(); renderQuestion(); });
+  const next = document.getElementById('scNext');
+  if (next && answers[currentQ] !== null) {
+    next.addEventListener('click', () => {
+      if (currentQ < QUESTIONS.length - 1) { currentQ++; renderRail(); renderQuestion(); }
+      else { showResults(); }
+    });
+  }
+}
+
+function computeScores() {
+  const byDomain = {};
+  QUESTIONS.forEach((q, i) => {
+    if (!byDomain[q.domain]) byDomain[q.domain] = { raw: 0, count: 0 };
+    byDomain[q.domain].raw += QUESTIONS[i].opts[answers[i]].v;
+    byDomain[q.domain].count++;
+  });
+  Object.keys(byDomain).forEach(d => {
+    byDomain[d].pct = Math.round((byDomain[d].raw / (byDomain[d].count * 4)) * 100);
+  });
+  const allRaw = QUESTIONS.reduce((sum, q, i) => sum + q.opts[answers[i]].v, 0);
+  const overall = Math.round((allRaw / (QUESTIONS.length * 4)) * 100);
+  let grade;
+  if (overall >= 85) grade = 'A';
+  else if (overall >= 70) grade = 'B+';
+  else if (overall >= 55) grade = 'B';
+  else if (overall >= 40) grade = 'C';
+  else grade = 'D';
+  return { byDomain, overall, grade };
+}
+
+function showResults() {
+  const { byDomain, overall, grade } = computeScores();
+  document.getElementById('scCard').style.display = 'none';
+  document.getElementById('scRail').style.visibility = 'hidden';
+  const res = document.getElementById('scResults');
+  res.classList.add('on');
+  document.getElementById('scGrade').textContent = grade;
+  const gradeKey = grade[0]; // A / B / C / D
+  document.getElementById('scGradeTitle').innerHTML = GRADE_COPY[gradeKey].title;
+  document.getElementById('scGradeDek').textContent = GRADE_COPY[gradeKey].dek;
+
+  // Domain scores
+  const scoresEl = document.getElementById('scScores');
+  scoresEl.innerHTML = Object.entries(byDomain).map(([d, s]) => `
+    <div class="sc-score-pill">
+      <div class="sc-score-label">${d}</div>
+      <div class="sc-score-val">${s.pct}<span class="italic">/</span>100</div>
+      <div class="sc-score-bar"><div class="sc-score-bar-fill" style="transform: scaleX(${s.pct/100})"></div></div>
+    </div>
+  `).join('');
+
+  // Find 3 weakest domains for recommendations
+  const weakest = Object.entries(byDomain).sort((a,b) => a[1].pct - b[1].pct).slice(0,3);
+  const recsEl = document.getElementById('scRecs');
+  recsEl.innerHTML = weakest.map(([d, _], i) => {
+    const rec = REC_LIBRARY[d][0];
+    return `
+      <div class="sc-rec-item">
+        <div class="sc-rec-num">${String(i+1).padStart(2,'0')}</div>
+        <div>
+          <div class="sc-rec-title">${rec.title}</div>
+          <div class="sc-rec-dek">${rec.dek}</div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function restartScorecard() {
+  answers = new Array(QUESTIONS.length).fill(null);
+  currentQ = 0;
+  document.getElementById('scCard').style.display = '';
+  document.getElementById('scRail').style.visibility = '';
+  document.getElementById('scResults').classList.remove('on');
+  renderRail(); renderQuestion();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function copyResults() {
+  const { overall, grade } = computeScores();
+  const txt = `My Spark I/O AI Readiness: ${grade} (${overall}/100). Take the scorecard: ${location.origin}${location.pathname}`;
+  try { navigator.clipboard.writeText(txt); alert('Copied to clipboard.'); } catch(_) { prompt('Copy this:', txt); }
+}
+
+renderRail();
+renderQuestion();
+</script>
+
+<script src="site.js"></script>
+</body>
+</html>

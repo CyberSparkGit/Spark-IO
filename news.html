@@ -1,527 +1,527 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News — Spark I/O</title>
-    <meta name="description" content="Latest AI news and insights curated by Spark I/O. Stay ahead with the most important developments in artificial intelligence.">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI News — Spark I/O</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Fraunces:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="components.css">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-        :root {
-            --bg: #ffffff;
-            --bg-alt: #fafafa;
-            --text: #222222;
-            --text-secondary: #45515e;
-            --text-muted: #8e8e93;
-            --brand-blue: #1456f0;
-            --brand-blue-light: #3b82f6;
-            --dark: #181e25;
-            --border: #e5e7eb;
-            --border-light: #f2f3f5;
-            --shadow-standard: rgba(0, 0, 0, 0.08) 0px 4px 6px;
-            --shadow-elevated: rgba(36, 36, 36, 0.08) 0px 12px 16px -4px;
-            --radius-sm: 8px;
-            --radius-md: 13px;
-            --radius-lg: 20px;
-            --radius-xl: 24px;
-            --radius-pill: 9999px;
-            --max-w: 1200px;
-            --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        }
+:root {
+  --bg: #faf8f3;
+  --bg-elev: #f2efe7;
+  --bg-card: #ffffff;
+  --bg-ink: #0a0b0d;
+  --border: rgba(10,11,13,0.10);
+  --border-strong: rgba(10,11,13,0.22);
+  --border-inv: rgba(255,255,255,0.12);
+  --ink: #0a0b0d;
+  --ink-dim: #55534d;
+  --ink-mute: #8a877e;
+  --ink-inv: #faf8f3;
+  --ink-inv-dim: #9a9992;
+  --accent: #c77a2a;
+  --accent-deep: #9a5a1c;
+  --accent-soft: rgba(199,122,42,0.10);
+  --accent-ink: #faf8f3;
+  --grid-line: rgba(10,11,13,0.05);
+}
 
-        html { scroll-behavior: smooth; font-size: 16px; }
-        body {
-            font-family: 'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.5;
-            -webkit-font-smoothing: antialiased;
-        }
-        a { color: inherit; text-decoration: none; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: 'Geist', ui-sans-serif, system-ui, sans-serif;
+  background: var(--bg); color: var(--ink); line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.4s ease, color 0.4s ease;
+}
+a { color: inherit; text-decoration: none; }
+button { font-family: inherit; cursor: pointer; }
+.serif { font-family: 'Instrument Serif', serif; }
+.mono { font-family: 'JetBrains Mono', monospace; }
+.wrap { max-width: 1360px; margin: 0 auto; padding: 0 40px; }
+@media (max-width: 720px) { .wrap { padding: 0 20px; } }
 
-        /* ========== NAVIGATION ========== */
-        .nav {
-            position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
-            background: rgba(255, 255, 255, 0.85);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border-bottom: 1px solid transparent;
-            transition: var(--transition);
-        }
-        .nav.scrolled { border-bottom-color: var(--border); box-shadow: var(--shadow-standard); }
-        .nav-inner {
-            max-width: var(--max-w); margin: 0 auto;
-            display: flex; align-items: center; justify-content: space-between;
-            padding: 1rem 2rem;
-        }
-        .nav-logo { display: flex; align-items: center; }
-        .nav-logo img { height: 36px; width: auto; padding-top: 6px; }
-        .nav-links { display: flex; align-items: center; gap: 0.5rem; list-style: none; }
-        .nav-links a {
-            font-size: 0.875rem; font-weight: 500; color: var(--text-secondary);
-            transition: var(--transition); position: relative;
-            padding: 0.5rem 1rem;
-            border-radius: var(--radius-pill);
-        }
-        .nav-links a:hover { color: var(--text); background: rgba(0, 0, 0, 0.05); }
-        .nav-links a.active { color: var(--brand-blue); background: rgba(20, 86, 240, 0.06); }
-        .nav-links a.cta-link {
-            background: var(--dark); color: #fff;
-            padding: 0.6rem 1.4rem; border-radius: var(--radius-sm); font-weight: 600;
-        }
-        .nav-links a.cta-link:hover { background: #2a323b; }
-        .menu-toggle { display: none; background: none; border: none; cursor: pointer; padding: 0.5rem; }
-        .menu-toggle span {
-            display: block; width: 22px; height: 2px; background: var(--text);
-            margin: 5px 0; transition: var(--transition); border-radius: 2px;
-        }
+/* NAV */
+.nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+  backdrop-filter: blur(20px); background: color-mix(in oklab, var(--bg) 72%, transparent);
+  border-bottom: 1px solid transparent; transition: border-color 0.3s; }
+.nav.scrolled { border-bottom-color: var(--border); }
+.nav-inner { max-width: 1360px; margin: 0 auto; padding: 18px 40px;
+  display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.nav-logo { display: flex; align-items: center; gap: 14px; text-decoration: none; }
+.nav-logo-mark {
+  font-family: 'Fraunces', serif; font-size: 28px;
+  letter-spacing: -0.04em; line-height: 1; font-weight: 600;
+  color: var(--ink); white-space: nowrap;
+}
+.nav-logo-mark .slash { font-style: italic; color: var(--accent); margin: 0 -0.05em; font-weight: 600; display: inline-block; }
+.nav-logo-divider { width: 1px; height: 26px; background: var(--border); }
+.nav-logo-text { font-family: 'Fraunces', serif; font-size: 28px; letter-spacing: -0.04em; color: var(--ink); line-height: 1; font-weight: 600; white-space: nowrap; }
+.nav-logo-text .slash { font-style: italic; color: var(--accent); margin: 0 0.02em; font-weight: 600; display: inline-block; }
+.nav-links { display: flex; gap: 4px; list-style: none; }
+.nav-links a { font-size: 13px; color: var(--ink-dim); padding: 8px 14px; border-radius: 999px; transition: all 0.2s; }
+.nav-links a:hover, .nav-links a.active { color: var(--ink); background: var(--bg-elev); }
+.nav-actions { display: flex; gap: 8px; }
+.theme-toggle, .lang-toggle {
+  height: 34px; padding: 0 12px; border-radius: 999px;
+  background: transparent; border: 1px solid var(--border); color: var(--ink-dim); font-size: 12px;
+  display: inline-flex; align-items: center; justify-content: center;
+}
+.theme-toggle { width: 34px; padding: 0; }
+.theme-toggle svg { width: 14px; height: 14px; }
+.lang-toggle { font-family: 'JetBrains Mono', monospace; font-weight: 500; letter-spacing: 0.05em; }
+.nav-cta { background: var(--ink); color: var(--bg); padding: 9px 16px; border-radius: 999px; font-size: 13px; font-weight: 500; }
 
-        /* ========== PAGE HERO ========== */
-        .page-hero {
-            padding: 8rem 2rem 3rem;
-            text-align: center;
-            background: var(--bg);
-        }
-        .page-hero h1 {
-            font-family: 'Outfit', sans-serif;
-            font-size: clamp(2.5rem, 4vw, 3.5rem);
-            font-weight: 500; letter-spacing: -0.03em;
-            line-height: 1.15; margin-bottom: 1rem;
-            color: var(--text);
-        }
-        .page-hero h1 .highlight { color: var(--brand-blue); }
-        .page-hero p {
-            font-size: 1.1rem; color: var(--text-secondary);
-            max-width: 560px; margin: 0 auto 1.5rem; line-height: 1.6;
-        }
-        .page-hero-meta {
-            font-size: 0.8rem; color: var(--text-muted);
-        }
+/* HERO */
+.news-hero { padding: 160px 0 60px; position: relative; }
+.news-hero .eyebrow {
+  font-family: 'JetBrains Mono', monospace; font-size: 11px;
+  letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-dim);
+  display: inline-flex; align-items: center; gap: 8px; margin-bottom: 24px;
+}
+.news-hero .eyebrow::before { content: ''; width: 18px; height: 1px; background: currentColor; }
+.news-hero h1 {
+  font-family: 'Instrument Serif', serif; font-weight: 400;
+  font-size: clamp(56px, 8vw, 120px); line-height: 0.98; letter-spacing: -0.035em;
+  margin-bottom: 24px;
+}
+.news-hero h1 .italic { font-style: italic; color: var(--accent); }
+.news-hero p { font-size: 18px; color: var(--ink-dim); max-width: 620px; line-height: 1.55; }
+.news-hero-row { display: flex; justify-content: space-between; align-items: end; margin-top: 40px; flex-wrap: wrap; gap: 20px; }
 
-        /* ========== FILTERS ========== */
-        .filters {
-            max-width: var(--max-w); margin: 0 auto;
-            padding: 0 2rem 2rem;
-            display: flex; gap: 0.5rem; flex-wrap: wrap;
-            justify-content: center;
-        }
-        .filter-btn {
-            padding: 0.4rem 1rem; border-radius: var(--radius-pill);
-            border: 1px solid var(--border); background: var(--bg);
-            font-family: 'DM Sans', sans-serif; font-size: 0.8rem;
-            font-weight: 500; color: var(--text-secondary);
-            cursor: pointer; transition: var(--transition);
-        }
-        .filter-btn:hover { border-color: var(--brand-blue); color: var(--brand-blue); }
-        .filter-btn.active {
-            background: var(--dark); color: #fff; border-color: var(--dark);
-        }
+/* FILTER BAR */
+.filters { display: flex; gap: 6px; flex-wrap: wrap; }
+.filter-chip {
+  background: transparent; border: 1px solid var(--border);
+  padding: 8px 14px; border-radius: 999px; color: var(--ink-dim);
+  font-size: 12px; font-family: 'JetBrains Mono', monospace;
+  letter-spacing: 0.05em; text-transform: uppercase;
+  transition: all 0.2s;
+}
+.filter-chip:hover { color: var(--ink); border-color: var(--border-strong); }
+.filter-chip.active { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
 
-        /* ========== NEWS GRID ========== */
-        .news-section { padding: 0 2rem 5rem; }
-        .news-grid {
-            max-width: var(--max-w); margin: 0 auto;
-            display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;
-        }
+.search-box {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--bg-elev); border: 1px solid var(--border);
+  padding: 8px 14px; border-radius: 999px; min-width: 240px;
+}
+.search-box svg { width: 14px; height: 14px; color: var(--ink-mute); }
+.search-box input {
+  flex: 1; background: transparent; border: none; outline: none;
+  color: var(--ink); font-size: 13px; font-family: inherit;
+}
 
-        /* Featured card — first article spans full width */
-        .news-card.featured {
-            grid-column: 1 / -1;
-            display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;
-            padding: 2.5rem;
-        }
-        .news-card.featured .news-card-content { display: flex; flex-direction: column; justify-content: center; }
-        .news-card.featured h3 { font-size: 1.5rem; line-height: 1.3; margin-bottom: 0.75rem; }
-        .news-card.featured .news-excerpt { font-size: 0.95rem; line-height: 1.65; }
-        .news-card.featured .news-gradient-bar {
-            width: 100%; height: 100%; min-height: 200px;
-            border-radius: var(--radius-lg);
-            display: flex; align-items: center; justify-content: center;
-            font-family: 'Outfit', sans-serif;
-            font-size: 3rem; font-weight: 600;
-            color: rgba(255,255,255,0.3);
-            letter-spacing: -0.02em;
-        }
-        .news-card.featured .news-card-image {
-            width: 100%; height: 100%; min-height: 200px;
-            border-radius: var(--radius-lg);
-            object-fit: cover;
-        }
+/* FEATURED */
+.featured { padding: 40px 0 20px; }
+.featured-card {
+  display: grid; grid-template-columns: 1.3fr 1fr; gap: 40px;
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 24px; overflow: hidden; padding: 48px;
+  position: relative;
+}
+.featured-card::before {
+  content: ''; position: absolute; right: -100px; top: -100px;
+  width: 400px; height: 400px; border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in oklab, var(--accent) 15%, transparent), transparent 70%);
+  pointer-events: none;
+}
+@media (max-width: 900px) { .featured-card { grid-template-columns: 1fr; padding: 28px; } }
+.featured-left { position: relative; }
+.featured-tag {
+  display: inline-flex; gap: 10px; padding: 6px 12px;
+  border: 1px solid var(--accent); color: var(--accent);
+  border-radius: 999px; font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.featured-title {
+  font-family: 'Instrument Serif', serif; font-weight: 400;
+  font-size: clamp(30px, 3.5vw, 48px); line-height: 1.05;
+  letter-spacing: -0.02em; margin-bottom: 20px;
+}
+.featured-title .italic { font-style: italic; color: var(--accent); }
+.featured-summary { color: var(--ink-dim); font-size: 16px; line-height: 1.6; margin-bottom: 24px; }
+.featured-meta {
+  display: flex; gap: 16px; font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; color: var(--ink-mute); letter-spacing: 0.08em; text-transform: uppercase;
+}
+.featured-visual {
+  position: relative;
+  background: linear-gradient(135deg, var(--bg-elev), var(--bg));
+  border: 1px solid var(--border); border-radius: 16px;
+  padding: 32px; display: flex; flex-direction: column; justify-content: space-between;
+  min-height: 300px; overflow: hidden;
+}
+.featured-visual-bg {
+  position: absolute; inset: 0;
+  background-image:
+    linear-gradient(var(--grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+  background-size: 40px 40px;
+  mask-image: radial-gradient(ellipse at center, black 40%, transparent 100%);
+  pointer-events: none;
+}
+.featured-visual-label {
+  position: relative; font-family: 'JetBrains Mono', monospace;
+  font-size: 11px; color: var(--ink-mute); letter-spacing: 0.12em; text-transform: uppercase;
+}
+.featured-visual-big {
+  position: relative;
+  font-family: 'Instrument Serif', serif; font-style: italic;
+  font-size: clamp(80px, 10vw, 140px); line-height: 0.9;
+  color: var(--accent); letter-spacing: -0.04em;
+}
+.featured-visual-source {
+  position: relative; font-size: 14px; color: var(--ink);
+}
+.featured-read {
+  margin-top: 32px; display: inline-flex; align-items: center; gap: 8px;
+  color: var(--accent); font-size: 14px;
+  padding: 10px 18px; border: 1px solid var(--accent);
+  border-radius: 999px; transition: all 0.2s;
+}
+.featured-read:hover { background: var(--accent); color: var(--accent-ink); }
 
-        .news-card {
-            background: var(--bg); border: 1px solid var(--border);
-            border-radius: var(--radius-lg); padding: 1.75rem;
-            transition: var(--transition);
-            display: flex; flex-direction: column;
-        }
-        .news-card:hover {
-            box-shadow: var(--shadow-elevated);
-            transform: translateY(-4px);
-            border-color: transparent;
-        }
-        .news-card-top {
-            display: flex; align-items: center; justify-content: space-between;
-            margin-bottom: 0.75rem;
-        }
-        .news-category {
-            font-size: 0.7rem; font-weight: 600; text-transform: uppercase;
-            letter-spacing: 0.04em; padding: 0.25rem 0.75rem;
-            border-radius: var(--radius-pill);
-        }
-        .news-category.models { background: rgba(20, 86, 240, 0.08); color: var(--brand-blue); }
-        .news-category.industry { background: rgba(16, 185, 129, 0.08); color: #059669; }
-        .news-category.trends { background: rgba(245, 158, 11, 0.08); color: #d97706; }
-        .news-category.policy { background: rgba(239, 68, 68, 0.08); color: #dc2626; }
-        .news-category.tools { background: rgba(139, 92, 246, 0.08); color: #7c3aed; }
-        .news-date { font-size: 0.75rem; color: var(--text-muted); }
-        .news-card h3 {
-            font-family: 'Outfit', sans-serif;
-            font-size: 1.1rem; font-weight: 600; line-height: 1.35;
-            margin-bottom: 0.6rem; color: var(--text);
-        }
-        .news-excerpt {
-            font-size: 0.875rem; color: var(--text-secondary); line-height: 1.6;
-            flex: 1;
-        }
-        .news-footer {
-            margin-top: 1.25rem; padding-top: 0.75rem;
-            border-top: 1px solid var(--border-light);
-            display: flex; align-items: center; justify-content: space-between;
-        }
-        .news-source { font-size: 0.75rem; color: var(--text-muted); font-weight: 500; }
-        .news-read-more {
-            font-size: 0.8rem; font-weight: 600; color: var(--brand-blue);
-            display: flex; align-items: center; gap: 0.3rem;
-            transition: var(--transition);
-        }
-        .news-read-more:hover { gap: 0.5rem; }
-        .news-read-more svg { width: 14px; height: 14px; }
+/* NEWS LIST */
+.news-section { padding: 60px 0 120px; }
+.news-section-head {
+  display: flex; justify-content: space-between; align-items: end;
+  margin-bottom: 40px; padding-bottom: 24px; border-bottom: 1px solid var(--border);
+}
+.news-section-head h2 {
+  font-family: 'Instrument Serif', serif; font-weight: 400;
+  font-size: clamp(32px, 4vw, 52px); line-height: 1; letter-spacing: -0.02em;
+}
+.news-section-head h2 .italic { font-style: italic; color: var(--accent); }
+.news-count { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--ink-mute); }
 
-        .news-empty {
-            grid-column: 1 / -1; text-align: center;
-            padding: 4rem 2rem; color: var(--text-muted); font-size: 1rem;
-        }
+.news-list { display: grid; grid-template-columns: 1fr; gap: 0; }
+.news-row {
+  display: grid; grid-template-columns: 100px 1.2fr 1fr 120px 80px; gap: 28px;
+  padding: 28px 0; border-bottom: 1px solid var(--border);
+  align-items: start; transition: background 0.2s;
+  position: relative;
+}
+.news-row:hover { background: var(--bg-elev); padding-left: 16px; padding-right: 16px; margin: 0 -16px; border-radius: 16px; border-bottom-color: transparent; }
+.news-row:hover + .news-row { border-top-color: transparent; }
+@media (max-width: 900px) {
+  .news-row { grid-template-columns: 1fr; gap: 10px; }
+  .news-row > * { grid-column: 1; }
+}
+.news-row-cat {
+  font-family: 'JetBrains Mono', monospace; font-size: 11px;
+  color: var(--accent); letter-spacing: 0.1em; text-transform: uppercase;
+  padding-top: 4px;
+}
+.news-row-title {
+  font-family: 'Instrument Serif', serif; font-size: 22px; line-height: 1.2;
+  letter-spacing: -0.01em; font-weight: 400;
+}
+.news-row-title:hover { color: var(--accent); }
+.news-row-summary { font-size: 14px; color: var(--ink-dim); line-height: 1.55; }
+.news-row-source {
+  font-family: 'JetBrains Mono', monospace; font-size: 11px;
+  color: var(--ink-mute); letter-spacing: 0.05em;
+  padding-top: 4px;
+}
+.news-row-date {
+  font-family: 'JetBrains Mono', monospace; font-size: 11px;
+  color: var(--ink-mute); text-align: right; padding-top: 4px;
+}
+@media (max-width: 900px) { .news-row-date { text-align: left; } }
 
-        /* Non-featured cards: horizontal layout with thumbnail */
-        .news-card:not(.featured) {
-            flex-direction: row;
-            gap: 1.25rem;
-        }
-        .news-card-body {
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-            min-width: 0;
-        }
-        .news-card-thumb {
-            width: 140px;
-            height: 140px;
-            border-radius: var(--radius-md);
-            object-fit: cover;
-            flex-shrink: 0;
-            align-self: center;
-        }
-        .news-card-thumb-placeholder {
-            width: 140px;
-            height: 140px;
-            border-radius: var(--radius-md);
-            flex-shrink: 0;
-            align-self: center;
-        }
+/* NEWSLETTER BANNER */
+.nl-banner {
+  margin: 80px 0 0; padding: 48px;
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: 24px; display: grid; grid-template-columns: 1fr 1fr; gap: 40px;
+  align-items: center; position: relative; overflow: hidden;
+}
+.nl-banner::before {
+  content: ''; position: absolute; left: -100px; bottom: -100px;
+  width: 300px; height: 300px; border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in oklab, var(--accent) 12%, transparent), transparent 70%);
+}
+@media (max-width: 900px) { .nl-banner { grid-template-columns: 1fr; padding: 28px; } }
+.nl-banner h3 {
+  font-family: 'Instrument Serif', serif; font-weight: 400;
+  font-size: clamp(28px, 3vw, 40px); line-height: 1.05; letter-spacing: -0.02em;
+  position: relative;
+}
+.nl-banner h3 .italic { font-style: italic; color: var(--accent); }
+.nl-banner p { color: var(--ink-dim); font-size: 14px; margin-top: 10px; position: relative; }
+.nl-form { display: flex; gap: 8px; position: relative; }
+.nl-form input {
+  flex: 1; background: var(--bg); border: 1px solid var(--border);
+  border-radius: 999px; padding: 14px 20px; color: var(--ink);
+  font-family: inherit; font-size: 14px;
+}
+.nl-form input:focus { outline: none; border-color: var(--accent); }
+.nl-form button {
+  background: var(--accent); color: var(--accent-ink); border: none;
+  padding: 0 24px; border-radius: 999px; font-size: 14px; font-weight: 500;
+}
 
-        /* Excerpt line clamping */
-        .news-card:not(.featured) .news-excerpt {
-            display: -webkit-box;
-            -webkit-line-clamp: 3;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        .news-card.featured .news-excerpt {
-            display: -webkit-box;
-            -webkit-line-clamp: 4;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
+/* FOOTER */
+.footer { border-top: 1px solid var(--border); padding: 60px 0 32px; margin-top: 40px; }
+.footer-inner { display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap; }
+.footer p { color: var(--ink-dim); font-size: 13px; }
+.footer-links { display: flex; gap: 20px; }
+.footer-links a { font-size: 13px; color: var(--ink-dim); }
+.footer-links a:hover { color: var(--accent); }
 
-        /* Gradient bars for featured cards */
-        .gradient-blue { background: linear-gradient(135deg, #1456f0, #3b82f6, #60a5fa); }
-        .gradient-purple { background: linear-gradient(135deg, #7c3aed, #8b5cf6, #a78bfa); }
-        .gradient-green { background: linear-gradient(135deg, #059669, #10b981, #34d399); }
-        .gradient-orange { background: linear-gradient(135deg, #d97706, #f59e0b, #fbbf24); }
-        .gradient-red { background: linear-gradient(135deg, #dc2626, #ef4444, #f87171); }
-        .gradient-dark { background: linear-gradient(135deg, #181e25, #2a323b, #3f4a58); }
+@media (max-width: 720px) {
+  .nav-links { display: none; }
+  .nav-inner { padding: 14px 20px; gap: 12px; }
+  .nav-logo { gap: 10px; }
+  .nav-logo-mark, .nav-logo-text { font-size: 22px; }
+  .nav-logo-divider { height: 22px; }
+  .nav-actions { gap: 6px; flex-shrink: 0; }
+  .lang-toggle { height: 30px; padding: 0 10px; font-size: 11px; }
+  .nav-cta { padding: 8px 14px; font-size: 12px; white-space: nowrap; }
 
-        /* ========== FOOTER ========== */
-        .footer {
-            background: var(--dark); color: #fff;
-            padding: 3rem 2rem 1.5rem;
-        }
-        .footer-inner {
-            max-width: var(--max-w); margin: 0 auto;
-            display: flex; justify-content: space-between; align-items: center;
-            padding-bottom: 1.5rem; border-bottom: 1px solid rgba(255,255,255,0.08);
-        }
-        .footer .nav-logo img { filter: brightness(0) invert(1); }
-        .footer-links { display: flex; gap: 2rem; }
-        .footer-links a { color: rgba(255,255,255,0.45); font-size: 0.875rem; transition: var(--transition); }
-        .footer-links a:hover { color: rgba(255,255,255,0.9); }
-        .footer-bottom {
-            max-width: var(--max-w); margin: 0 auto;
-            padding-top: 1.5rem;
-            text-align: center;
-            font-size: 0.8rem; color: rgba(255,255,255,0.3);
-        }
+  .news-hero { padding: 110px 0 40px; }
+  .news-hero h1 { font-size: clamp(44px, 11vw, 64px); line-height: 1; }
+  .news-hero p { font-size: 16px; }
+  .news-hero-row { margin-top: 28px; }
+  .filters { flex-wrap: wrap; gap: 6px; }
+  .filter-chip { padding: 7px 14px; font-size: 11px; }
+  .search-box { width: 100%; }
 
-        /* ========== RESPONSIVE ========== */
-        @media (max-width: 968px) {
-            .news-grid { grid-template-columns: 1fr; }
-            .news-card.featured { grid-template-columns: 1fr; }
-            .news-card.featured .news-gradient-bar { min-height: 160px; }
-            .news-card.featured .news-card-image { min-height: 160px; }
-            .news-card-thumb,
-            .news-card-thumb-placeholder {
-                width: 110px;
-                height: 110px;
-            }
-        }
-        @media (max-width: 768px) {
-            .nav-links { display: none; }
-            .nav-links.active {
-                display: flex; flex-direction: column;
-                position: absolute; top: 100%; left: 0; right: 0;
-                background: var(--bg); padding: 1.5rem 2rem;
-                border-bottom: 1px solid var(--border);
-                box-shadow: var(--shadow-standard);
-                gap: 0.25rem;
-            }
-            .nav-links.active a { padding: 0.75rem 1rem; }
-            .menu-toggle { display: block; }
-            .page-hero { padding: 7rem 1.5rem 2rem; }
-            .news-section { padding: 0 1.5rem 3rem; }
-            .footer-inner { flex-direction: column; gap: 1.5rem; text-align: center; }
-            .footer-links { flex-wrap: wrap; justify-content: center; }
-        }
+  .featured { padding: 40px 0; }
+  .featured-card { padding: 24px !important; }
+  .featured-title { font-size: clamp(28px, 6.5vw, 40px) !important; line-height: 1.1; }
+  .featured-summary { font-size: 15px !important; }
+  .featured-visual-big { font-size: clamp(72px, 18vw, 120px) !important; }
 
-        /* ========== ANIMATIONS ========== */
-        .fade-up {
-            opacity: 0; transform: translateY(24px);
-            transition: opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1), transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-        }
-        .fade-up.visible { opacity: 1; transform: translateY(0); }
-        .stagger .fade-up:nth-child(1) { transition-delay: 0s; }
-        .stagger .fade-up:nth-child(2) { transition-delay: 0.08s; }
-        .stagger .fade-up:nth-child(3) { transition-delay: 0.16s; }
-        .stagger .fade-up:nth-child(4) { transition-delay: 0.24s; }
-        .stagger .fade-up:nth-child(5) { transition-delay: 0.32s; }
-        .stagger .fade-up:nth-child(6) { transition-delay: 0.4s; }
-        .stagger .fade-up:nth-child(7) { transition-delay: 0.48s; }
-    </style>
+  .news-section { padding: 30px 0 60px; }
+  .news-section-head h2 { font-size: clamp(36px, 9vw, 52px); }
+
+  .nl-banner { padding: 28px !important; }
+  .nl-banner h3 { font-size: clamp(28px, 7vw, 40px); }
+  .nl-form { flex-direction: column; }
+  .nl-form button { padding: 14px 24px; }
+
+  .footer-inner { flex-direction: column; gap: 20px; align-items: flex-start; }
+}
+</style>
 </head>
 <body>
-    <!-- NAVIGATION -->
-    <nav class="nav" id="nav">
-        <div class="nav-inner">
-            <a href="index.html" class="nav-logo">
-                <img src="Spark IO.png" alt="Spark I/O">
-            </a>
-            <ul class="nav-links" id="navLinks">
-                <li><a href="index.html#services">Services</a></li>
-                <li><a href="index.html#workshop">Workshop</a></li>
-                <li><a href="news.html" class="active">AI News</a></li>
-                <li><a href="index.html#about">About</a></li>
-                <li><a href="index.html#contact" class="cta-link">Get in Touch</a></li>
-            </ul>
-            <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
-                <span></span><span></span><span></span>
-            </button>
-        </div>
-    </nav>
 
-    <!-- PAGE HERO -->
-    <div class="page-hero">
-        <h1>Latest in <span class="highlight">AI</span></h1>
-        <p>Curated news and developments from the world of artificial intelligence — updated daily so you stay ahead.</p>
-        <div class="page-hero-meta" id="lastUpdated"></div>
+<nav class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="homepage.html" class="nav-logo">
+      <span class="nav-logo-mark">S<span class="slash">/</span>O</span>
+      <span class="nav-logo-divider"></span>
+      <span class="nav-logo-text">Spark&nbsp;I<span class="slash">/</span>O</span>
+    </a>
+    <ul class="nav-links">
+      <li><a href="homepage.html#services" data-en="Services" data-es="Servicios">Services</a></li>
+      <li><a href="homepage.html#cases" data-en="Work" data-es="Trabajo">Work</a></li>
+      <li><a href="homepage.html#workshop" data-en="Workshop" data-es="Taller">Workshop</a></li>
+      <li><a href="news.html" class="active" data-en="AI News" data-es="Noticias">AI News</a></li>
+      <li><a href="homepage.html#about" data-en="About" data-es="Acerca">About</a></li>
+    </ul>
+    <div class="nav-actions">
+      <button class="lang-toggle" id="langToggle"><span id="langLabel">EN</span></button>
+      <a href="homepage.html#cta" class="nav-cta" data-en="Book a call" data-es="Agendar">Book a call</a>
     </div>
+  </div>
+</nav>
 
-    <!-- FILTERS -->
-    <div class="filters" id="filters">
-        <button class="filter-btn active" data-filter="all">All</button>
-        <button class="filter-btn" data-filter="models">Models</button>
-        <button class="filter-btn" data-filter="industry">Industry</button>
-        <button class="filter-btn" data-filter="trends">Trends</button>
-        <button class="filter-btn" data-filter="policy">Policy</button>
-        <button class="filter-btn" data-filter="tools">Tools</button>
+<section class="news-hero">
+  <div class="wrap">
+    <div class="eyebrow" data-en="AI Brief · Weekly" data-es="AI Brief · Semanal">AI Brief · Weekly</div>
+    <h1>
+      <span data-en="Signal from" data-es="Señal del">Signal from</span>
+      <span class="italic" data-en="the noise." data-es="ruido.">the noise.</span>
+    </h1>
+    <p data-en="Curated AI news, filtered for operators. What shipped, what matters, what to ignore — every week, bilingual." data-es="Noticias de IA curadas, filtradas para operadores. Qué se lanzó, qué importa, qué ignorar — cada semana, bilingüe.">
+      Curated AI news, filtered for operators. What shipped, what matters, what to ignore — every week, bilingual.
+    </p>
+    <div class="news-hero-row">
+      <div class="filters" id="filters">
+        <button class="filter-chip active" data-cat="all" data-en="All" data-es="Todo">All</button>
+        <button class="filter-chip" data-cat="Claude">Claude</button>
+        <button class="filter-chip" data-cat="OpenAI">OpenAI</button>
+        <button class="filter-chip" data-cat="Gemini">Gemini</button>
+      </div>
+      <div class="search-box">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+        <input type="text" id="search" data-en-placeholder="Search news…" data-es-placeholder="Buscar…" placeholder="Search news…">
+      </div>
     </div>
+  </div>
+</section>
 
-    <!-- NEWS -->
-    <div class="news-section">
-        <div class="news-grid stagger" id="newsGrid">
-            <div class="news-empty">Loading latest AI news...</div>
-        </div>
+<section class="featured">
+  <div class="wrap">
+    <div class="featured-card" id="featured"></div>
+  </div>
+</section>
+
+<section class="news-section">
+  <div class="wrap">
+    <div class="news-section-head">
+      <h2>
+        <span data-en="This week in" data-es="Esta semana en">This week in</span>
+        <span class="italic">AI.</span>
+      </h2>
+      <div class="news-count"><span id="count">0</span> <span data-en="stories" data-es="historias">stories</span></div>
     </div>
+    <div class="news-list" id="news-list"></div>
 
-    <!-- FOOTER -->
-    <footer class="footer">
-        <div class="footer-inner">
-            <a href="index.html" class="nav-logo">
-                <img src="Spark IO.png" alt="Spark I/O">
-            </a>
-            <div class="footer-links">
-                <a href="index.html#services">Services</a>
-                <a href="index.html#workshop">Workshop</a>
-                <a href="news.html">AI News</a>
-                <a href="index.html#about">About</a>
-                <a href="index.html#contact">Contact</a>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            &copy; 2026 Spark I/O LLC. All rights reserved.
-        </div>
-    </footer>
+    <div class="nl-banner">
+      <div>
+        <h3>
+          <span data-en="The brief," data-es="El brief,">The brief,</span>
+          <span class="italic" data-en="in your inbox." data-es="en tu inbox.">in your inbox.</span>
+        </h3>
+        <p data-en="One short email per week. AI news that matters for operators. No hype. Unsubscribe anytime." data-es="Un correo corto por semana. Noticias de IA que importan para operadores. Sin hype. Baja cuando quieras.">One short email per week. AI news that matters for operators. No hype. Unsubscribe anytime.</p>
+      </div>
+      <form class="nl-form" onsubmit="return subscribe(event)">
+        <input type="email" placeholder="you@company.com" required>
+        <button type="submit" data-en="Subscribe" data-es="Suscribir">Subscribe</button>
+      </form>
+    </div>
+  </div>
+</section>
 
-    <script>
-        // Mobile menu
-        const menuToggle = document.getElementById('menuToggle');
-        const navLinks = document.getElementById('navLinks');
-        menuToggle.addEventListener('click', () => navLinks.classList.toggle('active'));
-        navLinks.querySelectorAll('a').forEach(link => {
-            link.addEventListener('click', () => navLinks.classList.remove('active'));
-        });
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer-inner">
+      <p>© 2026 Spark I/O LLC — <span data-en="AI &amp; digital transformation" data-es="IA y transformación digital">AI &amp; digital transformation</span></p>
+      <div class="footer-links">
+        <a href="homepage.html" data-en="Home" data-es="Inicio">Home</a>
+        <a href="brand.html" data-en="Brand" data-es="Marca">Brand</a>
+        <a href="mailto:info@sparkio.org">Contact</a>
+      </div>
+    </div>
+  </div>
+</footer>
 
-        // Nav scroll
-        const nav = document.getElementById('nav');
-        window.addEventListener('scroll', () => {
-            nav.classList.toggle('scrolled', window.scrollY > 50);
-        });
+<script>
+const NEWS = [
+  { title: "Anthropic Launches Claude Opus 4.7 with Stronger Coding and Long-Horizon Agent Work", summary: "Anthropic's new flagship ships generally available with sharper instruction following, higher-resolution vision, and new xhigh effort controls built for multi-hour agentic tasks.", source: "Anthropic", date: "Apr 16", dateFull: "2026-04-16", cat: "Claude", featured: true },
+  { title: "Anthropic Debuts Claude Design — AI-Generated Visual Assets Powered by Opus 4.7", summary: "A new Claude.ai surface turns prompts into slides, ads, and interactive prototypes. Figma stock dropped 7% the day it shipped.", source: "The Register", date: "Apr 17", dateFull: "2026-04-17", cat: "Claude" },
+  { title: "OpenAI Introduces GPT-Rosalind, a Reasoning Model for Life Sciences Research", summary: "A new frontier model tuned for biology, drug discovery, and translational medicine — optimized for long-horizon, tool-heavy scientific workflows with partners like Amgen.", source: "OpenAI", date: "Apr 16", dateFull: "2026-04-16", cat: "OpenAI" },
+  { title: "OpenAI Ships GPT-5.4-Cyber Under Tiered Trusted Access Program", summary: "A new cyber-specialist variant rolls out to vetted security teams with fewer restrictions on vulnerability research — a direct counter to Anthropic's Mythos Preview.", source: "Bloomberg", date: "Apr 14", dateFull: "2026-04-14", cat: "OpenAI" },
+  { title: "OpenAI Closes $122 Billion Round at $852B Valuation", summary: "The largest private funding round in history cements OpenAI as core AI infrastructure, with ChatGPT at ~900M weekly users and $2B monthly revenue.", source: "OpenAI", date: "Apr 10", dateFull: "2026-04-10", cat: "OpenAI" },
+  { title: "Gemini Rolls Out Personal Intelligence Globally Across Gmail, Drive, Photos", summary: "Google's new opt-in layer lets Gemini draw from Gmail, Calendar, Drive, Photos, YouTube, and Maps to personalize every response — now live outside the US (excluding EEA/UK).", source: "9to5Google", date: "Apr 16", dateFull: "2026-04-16", cat: "Gemini" },
+  { title: "Google Releases Gemini 3.1 Pro Preview with Computer Use Tool", summary: "The latest iteration of Gemini 3 adds native computer-use capabilities, a dedicated custom-tools endpoint, and leading scores on 13 of 16 benchmarks.", source: "Google AI", date: "Apr 12", dateFull: "2026-04-12", cat: "Gemini" },
+  { title: "Anthropic Launches Project Glasswing & Claude Mythos Preview for Cyber Defense", summary: "A coordinated disclosure effort using Mythos Preview — already credited with thousands of zero-days across major OSes and browsers — to harden critical software.", source: "Anthropic Red", date: "Apr 7", dateFull: "2026-04-07", cat: "Claude" },
+  { title: "Anthropic Rebuilds Claude Code Desktop Around Parallel Sessions & Routines", summary: "A new sidebar, drag-and-drop workspace, integrated terminal, and scheduled 'Routines' that fire from GitHub events reshape the Claude Code experience.", source: "MacRumors", date: "Apr 15", dateFull: "2026-04-15", cat: "Claude" },
+  { title: "Gemini 3.1 Flash Live Hits 90.8% on ComplexFuncBench Audio", summary: "Google's new audio-to-audio model sets a benchmark for real-time voice agents, with 2.5x faster response times than prior Flash variants.", source: "Tech Insider", date: "Apr 2", dateFull: "2026-04-02", cat: "Gemini" },
+  { title: "OpenAI Ships Major Codex Update — Computer Use, Image Generation, and SSH Devboxes", summary: "Codex expands beyond coding into web workflows, memory, automations, and PR reviews for the 3M+ developers using it weekly.", source: "OpenAI", date: "Apr 15", dateFull: "2026-04-15", cat: "OpenAI" },
+  { title: "Anthropic Faces User Backlash Over Claude Performance Decline", summary: "Heavy users report degraded instruction-following tied to quietly reduced default 'effort' levels. Anthropic's transparency brand takes a hit ahead of its IPO.", source: "Fortune", date: "Apr 14", dateFull: "2026-04-14", cat: "Claude" },
+];
 
-        // Scroll animations
-        const fadeObserver = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) entry.target.classList.add('visible');
-            });
-        }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+let activeCat = 'all';
+let query = '';
 
-        // Gradient mapping per category
-        const GRADIENTS = {
-            models: 'gradient-blue',
-            industry: 'gradient-green',
-            trends: 'gradient-orange',
-            policy: 'gradient-red',
-            tools: 'gradient-purple',
-        };
+function renderFeatured() {
+  const f = NEWS.find(n => n.featured) || NEWS[0];
+  document.getElementById('featured').innerHTML = `
+    <div class="featured-left">
+      <div class="featured-tag">
+        <span>✦</span><span data-en="Featured · This week" data-es="Destacado · Esta semana">Featured · This week</span>
+      </div>
+      <h2 class="featured-title">${f.title}</h2>
+      <p class="featured-summary">${f.summary}</p>
+      <div class="featured-meta">
+        <span>${f.source}</span>
+        <span>·</span>
+        <span>${f.date}, 2026</span>
+        <span>·</span>
+        <span>${f.cat}</span>
+      </div>
+      <a href="#" class="featured-read">
+        <span data-en="Read the story" data-es="Leer">Read the story</span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+    <div class="featured-visual">
+      <div class="featured-visual-bg"></div>
+      <div class="featured-visual-label">OPUS 4.7 · ANTHROPIC</div>
+      <div class="featured-visual-big">4.7<span style="font-size:0.5em; color: var(--ink-dim)"></span></div>
+      <div class="featured-visual-source" data-en="Claude's new flagship — stronger coding, sharper instruction following, higher-res vision." data-es="El nuevo modelo insignia de Claude — mejor código, mejor seguimiento de instrucciones, visión de alta resolución.">Claude's new flagship — stronger coding, sharper instruction following, higher-res vision.</div>
+    </div>
+  `;
+}
 
-        let allArticles = [];
-        let activeFilter = 'all';
+function renderList() {
+  const filtered = NEWS.filter(n => {
+    if (n.featured) return false;
+    if (activeCat !== 'all' && n.cat !== activeCat) return false;
+    if (query && !(n.title + ' ' + n.summary).toLowerCase().includes(query.toLowerCase())) return false;
+    return true;
+  });
+  document.getElementById('count').textContent = filtered.length;
+  document.getElementById('news-list').innerHTML = filtered.map(n => `
+    <div class="news-row">
+      <div class="news-row-cat">${n.cat}</div>
+      <a href="#" class="news-row-title">${n.title}</a>
+      <div class="news-row-summary">${n.summary}</div>
+      <div class="news-row-source">${n.source}</div>
+      <div class="news-row-date">${n.date}</div>
+    </div>
+  `).join('');
+}
 
-        // Filter buttons
-        document.getElementById('filters').addEventListener('click', (e) => {
-            if (!e.target.classList.contains('filter-btn')) return;
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-            e.target.classList.add('active');
-            activeFilter = e.target.dataset.filter;
-            renderNews();
-        });
+document.querySelectorAll('.filter-chip').forEach(c => {
+  c.addEventListener('click', () => {
+    document.querySelectorAll('.filter-chip').forEach(x => x.classList.remove('active'));
+    c.classList.add('active');
+    activeCat = c.dataset.cat;
+    renderList();
+  });
+});
+document.getElementById('search').addEventListener('input', e => {
+  query = e.target.value;
+  renderList();
+});
 
-        function renderNews() {
-            const grid = document.getElementById('newsGrid');
-            const filtered = activeFilter === 'all'
-                ? allArticles
-                : allArticles.filter(a => (a.category || '').toLowerCase() === activeFilter);
+renderFeatured();
+renderList();
 
-            if (!filtered.length) {
-                grid.innerHTML = '<div class="news-empty fade-up visible">No articles found for this category.</div>';
-                return;
-            }
+// THEME — light only (no toggle)
+const body = document.body;
 
-            const html = filtered.map((article, i) => {
-                const cat = (article.category || 'industry').toLowerCase();
-                const date = new Date(article.date).toLocaleDateString('en-US', {
-                    month: 'long', day: 'numeric', year: 'numeric'
-                });
-                const gradient = GRADIENTS[cat] || 'gradient-dark';
-                const excerpt = article.summary || '';
-                const url = article.url && article.url !== '#' ? article.url : null;
+// LANG
+function setLang(l) {
+  document.querySelectorAll('[data-en]').forEach(el => {
+    const txt = el.getAttribute('data-' + l);
+    if (txt !== null) el.textContent = txt;
+  });
+  document.querySelectorAll('[data-en-placeholder]').forEach(el => {
+    const ph = el.getAttribute('data-' + l + '-placeholder');
+    if (ph !== null) el.placeholder = ph;
+  });
+  document.getElementById('langLabel').textContent = l === 'en' ? 'EN' : 'ES';
+  localStorage.setItem('sparkio-lang', l);
+}
+setLang(localStorage.getItem('sparkio-lang') || 'en');
+document.getElementById('langToggle').addEventListener('click', () => setLang(localStorage.getItem('sparkio-lang') === 'en' ? 'es' : 'en'));
 
-                const image = article.image || null;
+window.addEventListener('scroll', () => {
+  document.getElementById('nav').classList.toggle('scrolled', window.scrollY > 30);
+});
 
-                // First article is featured
-                if (i === 0) {
-                    return `
-                        <div class="news-card featured fade-up" data-category="${cat}">
-                            ${image
-                                ? `<img class="news-card-image" src="${image}" alt="" onerror="this.outerHTML='<div class=\\'news-gradient-bar ${gradient}\\'>AI</div>'">`
-                                : `<div class="news-gradient-bar ${gradient}">AI</div>`}
-                            <div class="news-card-content">
-                                <div class="news-card-top">
-                                    <span class="news-category ${cat}">${article.category || 'News'}</span>
-                                    <span class="news-date">${date}</span>
-                                </div>
-                                <h3>${article.title}</h3>
-                                <div class="news-excerpt">${excerpt}</div>
-                                <div class="news-footer">
-                                    <span class="news-source">${article.source}</span>
-                                    ${url ? `<a href="${url}" target="_blank" rel="noopener" class="news-read-more">Read full article <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>` : ''}
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                }
-
-                const thumb = image
-                    ? `<img class="news-card-thumb" src="${image}" alt="" onerror="this.outerHTML='<div class=\\'news-card-thumb-placeholder ${gradient}\\'></div>'">`
-                    : `<div class="news-card-thumb-placeholder ${gradient}"></div>`;
-
-                return `
-                    <div class="news-card fade-up" data-category="${cat}">
-                        <div class="news-card-body">
-                            <div class="news-card-top">
-                                <span class="news-category ${cat}">${article.category || 'News'}</span>
-                                <span class="news-date">${date}</span>
-                            </div>
-                            <h3>${article.title}</h3>
-                            <div class="news-excerpt">${excerpt}</div>
-                            <div class="news-footer">
-                                <span class="news-source">${article.source}</span>
-                                ${url ? `<a href="${url}" target="_blank" rel="noopener" class="news-read-more">Read more <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg></a>` : ''}
-                            </div>
-                        </div>
-                        ${thumb}
-                    </div>
-                `;
-            }).join('');
-
-            grid.innerHTML = html;
-            grid.querySelectorAll('.fade-up').forEach(el => fadeObserver.observe(el));
-        }
-
-        // Load news
-        async function loadNews() {
-            try {
-                const res = await fetch(`news.json?v=${Date.now()}`, { cache: 'no-store' });
-                allArticles = await res.json();
-
-                // Show last updated
-                if (allArticles.length) {
-                    const latest = allArticles.reduce((a, b) =>
-                        new Date(a.date) > new Date(b.date) ? a : b
-                    );
-                    document.getElementById('lastUpdated').textContent =
-                        `Last updated: ${new Date(latest.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}`;
-                }
-
-                renderNews();
-            } catch (err) {
-                document.getElementById('newsGrid').innerHTML =
-                    '<div class="news-empty fade-up visible">Unable to load news. Check back later.</div>';
-            }
-        }
-
-        loadNews();
-    </script>
+function subscribe(e) {
+  e.preventDefault();
+  const btn = e.target.querySelector('button');
+  const o = btn.textContent;
+  btn.textContent = '✓';
+  setTimeout(() => { btn.textContent = o; e.target.reset(); }, 1800);
+  return false;
+}
+</script>
+<script src="site.js"></script>
 </body>
 </html>
