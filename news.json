@@ -1,5 +1,15 @@
 [
   {
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields — Google DeepMind",
+    "summary": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields — Google DeepMind May 7, 2026 Science AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields AlphaEvolve team Share Your browser does not support the video tag. A year ago, we introduced AlphaEvol",
+    "content": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields — Google DeepMind [...] AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields [...] A year ago, we introduced AlphaEvolve, a Gemini-powered coding agent for designing advanced algorithms. We showed that AlphaEvolve can help make new discoveries on open problems across mathematics and computer science, and optimize algorithms that have since been deployed across critical parts of Google’s infrastructure. [...] AlphaEvolve has graduated from pilot testing to becoming a core component of our infrastructure. AlphaEvolve has been used as a regular tool to optimize the design of the next generation of TPUs. It also helped discover more efficient cache replacement policies, achieving in two days what previously required a concerted, human-intensive effort spanning months. [...] The future of AlphaEvolve [...] The past year shows how AlphaEvolve is rapidly becoming a versatile, general-purpose system. It is demonstrating that the next breakthroughs will be driven by algorithms that can learn, evolve and optimize themselves. As we look ahead, we are excited to expand these capabilities, and bring the power of this technology to an even broader set of external challenges. [...] we thank our leadership for their guidance and support: Amin Vahdat, Ankur Jain, Demis Hassabis, Jeff Dean, Parthasarathy Ranganathan, Pushmeet Kohli, Saurabh Tiwary, and Sundar Pichai. We also extend our gratitude to our partner teams across Google DeepMind, Google Cloud, Google Labs, Google Research, and other product areas for enabling the applications and products powered by AlphaEvolve. [...] AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
+    "source": "AlphaEvolve team",
+    "date": "2026-05-07",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "category": "Models",
+    "image": "https://lh3.googleusercontent.com/UNlyTVoqkmAoTzbbF4QRoPXr-X-QBkXeVpcHxIjte0y5mn_f6ZYHVsynQswOhGLJx-7hnbwt1NcTOQDQoCbum3-l8wPPP5dC6kw0tGmBQAw60nEHog=w1200-h630-n-nu-rw"
+  },
+  {
     "title": "OpenAI Starts Rolling Out New GPT-5.5 Instant Model and Memory Sources to ChatGPT Users",
     "summary": "OpenAI Starts Rolling Out New GPT-5.5 Instant Model and Memory Sources to ChatGPT Users OpenAI released GPT-5.5 Instant yesterday, its new default model for ChatGPT that will replace the GPT-5.3 Instant model that it shipped back in March. GPT-5.5 Instant should provide more accurate answers with f",
     "content": "OpenAI Starts Rolling Out New GPT-5.5 Instant Model and Memory Sources to ChatGPT Users OpenAI released GPT-5.5 Instant yesterday, its new default model for ChatGPT that will replace the GPT-5.3 Instant model that it shipped back in March. GPT-5.5 Instant should provide more accurate answers with fewer hallucinations, and for Plus and Pro users, the new model will also make better use of context from past chats and connected services like Gmail to improve its responses. OpenAI’s “Instant” GPT models are optimized for low-latency and efficiency, which is why they’re used by default by the chatbot. For more complex tasks, ChatGPT may automatically switch to the GPT-5.5 Thinking model and use deeper reasoning before answering. This “Thinking” mode can also be manually selected in ChatGPT. “GPT-5.5 Instant is more factually reliable, especially for prompts where accuracy matters most. It also gives tighter, more direct answers without losing useful details, asks fewer unnecessary follow-up questions, and reduces clutter like overformatting and gratuitous emojis,” OpenAI explained in the release notes for GPT-5.5. As I mentioned earlier, ChatGPT Plus and Pro users will get more relevant responses when using GPT-5.5 Instant as the new model better leverages information from past chats, saved memories, and Gmail inboxes (when they’re connected). OpenAI is also rolling out memory sources to all ChatGPT users, which will show what information the chatbot used to personalize its responses. On the web, memory sources can be accessed by clicking the ‘Sources’ icon below a specific response. ChatGPT users can also choose to make corrections or delete saved memories from the chatbot’s side panel. Memory sources will be rolling out soon to mobile users, OpenAI said yesterday. For ChatGPT paid users, enhanced personalization is currently available on the web and coming soon to mobile. The old GPT-5.3 model will also remain available for 3 months via ChatGPT’s model picker. Tagged with Share post",
@@ -8,16 +18,6 @@
     "url": "https://www.thurrott.com/a-i/335724/openai-starts-rolling-out-new-gpt-5-5-instant-model-and-memory-sources-to-chatgpt-users",
     "category": "Models",
     "image": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/05/OpenAI-GPT-5.5-Instant-Memory-sources.jpg"
-  },
-  {
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "summary": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields — Google DeepMind Published: 2026-05-07T15:00:00+00:00 Author: AlphaEvolve team Summary The Gemini-powered coding agent, AlphaEvolve, has been used to improve DeepConsensus, a model developed by Google Research for correct",
-    "content": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields —",
-    "source": "AlphaEvolve team",
-    "date": "2026-05-07",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "category": "Models",
-    "image": null
   },
   {
     "title": "Anthropic raises Claude usage limits and expands compute with SpaceX",
