@@ -348,9 +348,11 @@ button { font-family: inherit; cursor: pointer; }
     <div class="news-hero-row">
       <div class="filters" id="filters">
         <button class="filter-chip active" data-cat="all" data-en="All" data-es="Todo">All</button>
-        <button class="filter-chip" data-cat="Claude">Claude</button>
-        <button class="filter-chip" data-cat="OpenAI">OpenAI</button>
-        <button class="filter-chip" data-cat="Gemini">Gemini</button>
+        <button class="filter-chip" data-cat="Models">Models</button>
+        <button class="filter-chip" data-cat="Industry">Industry</button>
+        <button class="filter-chip" data-cat="Trends">Trends</button>
+        <button class="filter-chip" data-cat="Policy">Policy</button>
+        <button class="filter-chip" data-cat="Tools">Tools</button>
       </div>
       <div class="search-box">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
@@ -407,26 +409,37 @@ button { font-family: inherit; cursor: pointer; }
 </footer>
 
 <script>
-const NEWS = [
-  { title: "Anthropic Launches Claude Opus 4.7 with Stronger Coding and Long-Horizon Agent Work", summary: "Anthropic's new flagship ships generally available with sharper instruction following, higher-resolution vision, and new xhigh effort controls built for multi-hour agentic tasks.", source: "Anthropic", date: "Apr 16", dateFull: "2026-04-16", cat: "Claude", featured: true },
-  { title: "Anthropic Debuts Claude Design — AI-Generated Visual Assets Powered by Opus 4.7", summary: "A new Claude.ai surface turns prompts into slides, ads, and interactive prototypes. Figma stock dropped 7% the day it shipped.", source: "The Register", date: "Apr 17", dateFull: "2026-04-17", cat: "Claude" },
-  { title: "OpenAI Introduces GPT-Rosalind, a Reasoning Model for Life Sciences Research", summary: "A new frontier model tuned for biology, drug discovery, and translational medicine — optimized for long-horizon, tool-heavy scientific workflows with partners like Amgen.", source: "OpenAI", date: "Apr 16", dateFull: "2026-04-16", cat: "OpenAI" },
-  { title: "OpenAI Ships GPT-5.4-Cyber Under Tiered Trusted Access Program", summary: "A new cyber-specialist variant rolls out to vetted security teams with fewer restrictions on vulnerability research — a direct counter to Anthropic's Mythos Preview.", source: "Bloomberg", date: "Apr 14", dateFull: "2026-04-14", cat: "OpenAI" },
-  { title: "OpenAI Closes $122 Billion Round at $852B Valuation", summary: "The largest private funding round in history cements OpenAI as core AI infrastructure, with ChatGPT at ~900M weekly users and $2B monthly revenue.", source: "OpenAI", date: "Apr 10", dateFull: "2026-04-10", cat: "OpenAI" },
-  { title: "Gemini Rolls Out Personal Intelligence Globally Across Gmail, Drive, Photos", summary: "Google's new opt-in layer lets Gemini draw from Gmail, Calendar, Drive, Photos, YouTube, and Maps to personalize every response — now live outside the US (excluding EEA/UK).", source: "9to5Google", date: "Apr 16", dateFull: "2026-04-16", cat: "Gemini" },
-  { title: "Google Releases Gemini 3.1 Pro Preview with Computer Use Tool", summary: "The latest iteration of Gemini 3 adds native computer-use capabilities, a dedicated custom-tools endpoint, and leading scores on 13 of 16 benchmarks.", source: "Google AI", date: "Apr 12", dateFull: "2026-04-12", cat: "Gemini" },
-  { title: "Anthropic Launches Project Glasswing & Claude Mythos Preview for Cyber Defense", summary: "A coordinated disclosure effort using Mythos Preview — already credited with thousands of zero-days across major OSes and browsers — to harden critical software.", source: "Anthropic Red", date: "Apr 7", dateFull: "2026-04-07", cat: "Claude" },
-  { title: "Anthropic Rebuilds Claude Code Desktop Around Parallel Sessions & Routines", summary: "A new sidebar, drag-and-drop workspace, integrated terminal, and scheduled 'Routines' that fire from GitHub events reshape the Claude Code experience.", source: "MacRumors", date: "Apr 15", dateFull: "2026-04-15", cat: "Claude" },
-  { title: "Gemini 3.1 Flash Live Hits 90.8% on ComplexFuncBench Audio", summary: "Google's new audio-to-audio model sets a benchmark for real-time voice agents, with 2.5x faster response times than prior Flash variants.", source: "Tech Insider", date: "Apr 2", dateFull: "2026-04-02", cat: "Gemini" },
-  { title: "OpenAI Ships Major Codex Update — Computer Use, Image Generation, and SSH Devboxes", summary: "Codex expands beyond coding into web workflows, memory, automations, and PR reviews for the 3M+ developers using it weekly.", source: "OpenAI", date: "Apr 15", dateFull: "2026-04-15", cat: "OpenAI" },
-  { title: "Anthropic Faces User Backlash Over Claude Performance Decline", summary: "Heavy users report degraded instruction-following tied to quietly reduced default 'effort' levels. Anthropic's transparency brand takes a hit ahead of its IPO.", source: "Fortune", date: "Apr 14", dateFull: "2026-04-14", cat: "Claude" },
-];
-
+let NEWS = [];
 let activeCat = 'all';
 let query = '';
 
+function fmtDate(iso) {
+  const [, m, d] = iso.split('-');
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  return months[parseInt(m, 10) - 1] + ' ' + parseInt(d, 10);
+}
+
+async function loadNews() {
+  const res = await fetch('news.json');
+  const data = await res.json();
+  NEWS = data.map((a, i) => ({
+    title: a.title,
+    summary: a.summary,
+    content: a.content || '',
+    source: a.source,
+    date: fmtDate(a.date),
+    dateFull: a.date,
+    cat: a.category,
+    url: a.url || '#',
+    featured: i === 0
+  }));
+  renderFeatured();
+  renderList();
+}
+
 function renderFeatured() {
-  const f = NEWS.find(n => n.featured) || NEWS[0];
+  const f = NEWS[0];
+  if (!f) return;
   document.getElementById('featured').innerHTML = `
     <div class="featured-left">
       <div class="featured-tag">
@@ -441,23 +454,23 @@ function renderFeatured() {
         <span>·</span>
         <span>${f.cat}</span>
       </div>
-      <a href="#" class="featured-read">
+      <a href="${f.url}" target="_blank" rel="noopener" class="featured-read">
         <span data-en="Read the story" data-es="Leer">Read the story</span>
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
       </a>
     </div>
     <div class="featured-visual">
       <div class="featured-visual-bg"></div>
-      <div class="featured-visual-label">OPUS 4.7 · ANTHROPIC</div>
-      <div class="featured-visual-big">4.7<span style="font-size:0.5em; color: var(--ink-dim)"></span></div>
-      <div class="featured-visual-source" data-en="Claude's new flagship — stronger coding, sharper instruction following, higher-res vision." data-es="El nuevo modelo insignia de Claude — mejor código, mejor seguimiento de instrucciones, visión de alta resolución.">Claude's new flagship — stronger coding, sharper instruction following, higher-res vision.</div>
+      <div class="featured-visual-label">${f.cat.toUpperCase()} · ${f.source.toUpperCase()}</div>
+      <div class="featured-visual-big" style="font-size:clamp(28px,5vw,52px); line-height:1.2">${f.date}</div>
+      <div class="featured-visual-source">${f.summary}</div>
     </div>
   `;
 }
 
 function renderList() {
-  const filtered = NEWS.filter(n => {
-    if (n.featured) return false;
+  const filtered = NEWS.filter((n, i) => {
+    if (i === 0) return false;
     if (activeCat !== 'all' && n.cat !== activeCat) return false;
     if (query && !(n.title + ' ' + n.summary).toLowerCase().includes(query.toLowerCase())) return false;
     return true;
@@ -466,7 +479,7 @@ function renderList() {
   document.getElementById('news-list').innerHTML = filtered.map(n => `
     <div class="news-row">
       <div class="news-row-cat">${n.cat}</div>
-      <a href="#" class="news-row-title">${n.title}</a>
+      <a href="${n.url}" target="_blank" rel="noopener" class="news-row-title">${n.title}</a>
       <div class="news-row-summary">${n.summary}</div>
       <div class="news-row-source">${n.source}</div>
       <div class="news-row-date">${n.date}</div>
@@ -487,8 +500,7 @@ document.getElementById('search').addEventListener('input', e => {
   renderList();
 });
 
-renderFeatured();
-renderList();
+loadNews();
 
 // THEME — light only (no toggle)
 const body = document.body;
