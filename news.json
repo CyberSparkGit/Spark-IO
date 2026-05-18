@@ -40,12 +40,12 @@
     "image": null
   },
   {
-    "title": "OpenAI Deploys Cross-Conversation Safety Summaries to Detect Emerging Risk Patterns in ChatGPT",
-    "summary": "OpenAI Deploys Cross-Conversation Safety Summaries to Detect Emerging Risk Patterns in ChatGPT Published: 2026-05-15T00:00:00 Summary OpenAI has announced a significant advancement in AI Safety with the deployment of cross-conversation safety summaries integrated into ChatGPT.",
-    "content": "OpenAI has announced a significant advancement in AI Safety with the deployment of cross-conversation safety summaries integrated into ChatGPT. The technology is a crucial step in detecting and mitigating emerging risk patterns across multiple user interactions, significantly enhancing the platform's ability to maintain safe, responsible, and trustworthy AI experiences at scale. The system leverages persistent, aggregated safety signals rather than relying on isolated conversation flags for an impressive improvement in early detection of problematic behavior trends. This approach allows for a more proactive safety net for users worldwide. The GPT-5.5 Instant safety update will be released in May 2026. The innovation also highlights the need for state-of-the-art differential privacy techniques to protect user anonymity and enable effective statistical risk modeling.",
+    "title": "OpenAI Launches GPT-5.5-Cyber: A Specialized Model for Cybersecurity Defenders Protecting Critical Infrastructure",
+    "summary": "OpenAI Launches GPT-5.5-Cyber: A Specialized Model for Cybersecurity Defenders Protecting Critical Infrastructure Published: 2026-05-18T00:00:00 Type: Roundup Summary OpenAI has launched GPT-5.5-Cyber: a specialized AI model specifically for cybersecurity defenders protecting critical infras",
+    "content": "OpenAI Launches GPT-5.5-Cyber: A Specialized Model for Cybersecurity Defenders Protecting Critical Infrastructure [...] OpenAI has launched GPT-5.5-Cyber: a specialized AI model specifically for cybersecurity defenders protecting critical infrastructure. The new model combines cutting-edge language model capabilities with enhanced security controls to support advanced security operations in industries where safeguarding digital assets is paramount. Unlike previous general-purpose GPT.5 models, this variant incorporates the Trusted Access for Cyber (TAC) framework, a pioneering approach that enforces identity and trust-based access policies to ensure AI output aligns with authorized security workflows. GPT 5.5 is designed to aid defenders in complex, high-stakes scenarios critical to infrastructure protection. The model's ability to comprehend both natural language and code at a deep level makes it uniquely suited to these tasks. It is supported by strategic partnerships with leading cybersecurity companies, including Cisco, CrowdStrike, Palo Alto Networks, Oracle, Zscaler, Cloudflare, Akamai, and Fortinet.",
     "source": "blogarama.com",
-    "date": "2026-05-15",
-    "url": "https://www.blogarama.com/technology-blogs/1425041-chatgpt-hub-blog/76114738-openai-deploys-cross-conversation-safety-summaries-detect-emerging-risk-patterns",
+    "date": "2026-05-18",
+    "url": "https://www.blogarama.com/technology-blogs/1425041-chatgpt-hub-blog/76188680-openai-launches-gpt-cyber-specialized-model-for-cybersecurity-defenders-protecting-critical-infrastructure",
     "category": "Models",
     "image": null
   },
