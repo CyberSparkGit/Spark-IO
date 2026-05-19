@@ -30,6 +30,16 @@
     "image": "https://www.dell.com/wp-uploads/2026/05/gettyimages-1448152764-pr7740nt-1280x1280-1.jpeg"
   },
   {
+    "title": "DeepMind employee signals Gemini 3.5 ahead of Google I/O 2026 launch",
+    "summary": "DeepMind employee signals Gemini 3.5 ahead of Google I/O 2026 launch - Startup Fortune Published: 2026-05-19T14:48:03+05:30 Summary Google's upcoming I/O 2026, which includes the launch of Gemini 3.5, is still a Gemini story, but the public evidence does not support this.",
+    "content": "Google's upcoming I/O 2026, which includes the launch of Gemini 3.5, is still a Gemini story, but the public evidence does not support this. Google has not publicly confirmed a Gemini release, a DeepMind employee confirmation, or a new model tier. This distinction matters as model names move markets, product roadmaps, and developer expectations almost as fast as the models themselves. The more grounded story is that Google wants Gemini to feel less like a separate chatbot and more like infrastructure running through its products. A model update can change where users meet the technology and how businesses build around it. However, it is uncertain whether an incremental Gemini update or a larger Gemini 4-style reveal will be announced. If Google presents a credible model with broad product integration, OpenAI, Meta, and AI labs will be under pressure to explain their own roadmaps.",
+    "source": "startupfortune.com",
+    "date": "2026-05-19",
+    "url": "https://startupfortune.com/deepmind-employee-signals-gemini-35-ahead-of-google-io-2026-launch/",
+    "category": "Models",
+    "image": null
+  },
+  {
     "title": "Anthropic Launches Claude for Small Business With Direct SMB Productivity Implications",
     "summary": "Anthropic Launches Claude for Small Business With Direct SMB Productivity Implications - Business2Community Published: 2026-05-18T19:52:14+00:00 Author: Craig Corbeels Summary Anthropic has launched Claude for Small Business, a packaged product that installs AI directly into tools small oper",
     "content": "Anthropic has launched Claude for Small Business, a packaged product that installs AI directly into tools small operators already run. The product ships with 15 ready-to-run agentic workflows designed to automate tasks such as payroll planning, monthly financial close, invoice follow-up, and marketing campaign execution. The launch positions Anthropic explicitly in the SMB segment, entering a market where companies like OpenAI, Google, and Microsoft have been embedding AI into business software stack. Claude Cowork, the platform for users to connect their existing tools and select workflows, operates through a toggle install. The company also teaches a course developed with PayPal that teaches small business owners how to use AI effectively and safely. Pricing for Claude for SMB has not yet been disclosed.",
@@ -48,15 +58,5 @@
     "url": "https://openai.com/index/personal-finance-chatgpt/",
     "category": "Models",
     "image": null
-  },
-  {
-    "title": "GitLab introduces integration with Anthropic’s Claude AI models",
-    "summary": "GitLab introduces integration with Anthropic’s Claude AI models - techpartner.news GitLab introduces integration with Anthropic’s Claude AI models By Joshua Gliddon on May 18, 2026 12:39PM Manav Khurana, GitLab.Supplied In the spotlight Join techpartner.news for an evening of channel s",
-    "content": "GitLab introduces integration with Anthropic’s Claude AI models - techpartner.news [...] GitLab introduces integration with Anthropic’s Claude AI models [...] DevSecOps orchestration platform GitLab has announced a deepened integration with Anthropic’s latest Claude AI models, giving GitLab customers access to the latest Claude capabilities, built into the same governance, compliance, and audit framework that governs every other action in GitLab. [...] Enterprises can access the Claude models, including the newly released Claude Opus 4.7, within the GitLab Duo Agent Platform via Google Cloud and AWS Bedrock, allowing organisations to route AI workloads through existing hyperscaler relationships and cloud governance frameworks under existing vendor contracts and data residency requirements. [...] GitLab has also joined the Claude Marketplace, which enables customers to purchase GitLab credits and apply them towards existing Anthropic spending commitments. [...] “This deepened integration brings Claude’s latest models into GitLab's intelligent orchestration platform, where every agent action is fully audited, with policies enforced, and security teams stay in full control, so organisations don't have to choose between speed and governance.” [...] Sam Werboff, Anthropic’s head of enterprise GTM, said both companies share a belief AI should unlock developer potential without asking enterprises to compromise on governance. [...] “Bringing Claude deeper into GitLab Duo Agent Platform means shared customers get more capable AI across the full software development lifecycle, with the compliance and audibility their teams already depend on,\" he said.",
-    "source": "techpartner.news",
-    "date": "2026-05-18",
-    "url": "https://www.techpartner.news/news/gitlab-introduces-integration-with-anthropics-claude-ai-models-625958",
-    "category": "Models",
-    "image": "https://i.nextmedia.com.au/News/Manav_Khurana_GitLab_(1).jpg"
   }
 ]
