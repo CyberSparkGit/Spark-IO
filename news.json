@@ -1,62 +1,56 @@
 [
   {
-    "title": "WaveSpeed Expands Unified LLM API With Access to GPT, Claude, Gemini and 260+ Models",
-    "summary": "WaveSpeed Expands Unified LLM API With Access to GPT, Claude, Gemini and 260+ Models Published: 2026-05-17T10:01:00-04:00 Type: Press Release Summary WaveSpeed has expanded its unified LLM API to allow developers to access more than 260 language models, including GPT, Claude, Gemini, Grok, D",
-    "content": "WaveSpeed has expanded its unified LLM API to allow developers to access more than 260 language models, including GPT, Claude, Gemini, Grok, DeepSeek, Llama, Qwen and Mistral. The new API allows developers to compare, switch and deploy leading LLMs while connecting language workflows with image, video, audio and 3D generation. Unlike LLM-only gateways, WaveSpeed connects language models with a broader catalog of over 1,000 total AI models. The API uses a standard chat-completions interface and includes support for chat completions, streaming, JSON mode, tool use and vision. Pricing is transparent and per-token, with separate input and output rates listed for each model.",
-    "source": "advfn.com",
-    "date": "2026-05-17",
-    "url": "https://www.advfn.com/stock-market/stock-news/98546515/wavespeed-expands-unified-llm-api-with-access-to-g",
-    "category": "Models",
-    "image": null
+    "title": "Anthropic Introduces Claude Opus 4 and Sonnet 4, Setting New Coding Benchmarks",
+    "summary": "Anthropic launched Claude Opus 4 — the world's best coding model — and Claude Sonnet 4, both featuring extended thinking with tool use, improved memory, and parallel tool execution.",
+    "content": "Anthropic launched Claude Opus 4 and Claude Sonnet 4 on May 22, establishing Opus 4 as the world's best coding model with a 72.5% score on SWE-bench and exceptional performance on long-running agent workflows that can run continuously for several hours. Claude Sonnet 4 achieves a 72.7% SWE-bench score and improves steerability for everyday use cases, with GitHub reporting it will power the new Copilot coding agent. Both models are hybrid reasoning models offering near-instant and extended thinking modes and now support parallel tool use, improved memory capabilities when given local file access, and extended thinking with tool use in beta. Anthropic also made Claude Code generally available, adding VS Code and JetBrains integrations, a GitHub Action for background tasks, and a new SDK for building custom agents. Pricing remains unchanged at $15/$75 per million tokens for Opus 4 and $3/$15 for Sonnet 4.",
+    "source": "Anthropic",
+    "date": "2025-05-22",
+    "url": "https://www.anthropic.com/news/claude-4",
+    "category": "Models"
   },
   {
-    "title": "Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve",
-    "summary": "Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve - InfoQ Published: 2026-05-18T13:14:00+00:00 Summary Anthropic hosted Code with Claude 2026 in San Francisco on May 6, covering shipping work across Claude Code, the Claude Developer Platform, and pa",
-    "content": "Anthropic hosted Code with Claude 2026 in San Francisco on May 6, covering shipping work across Claude Code, the Claude Developer Platform, and partner deployments at GitHub, Vercel, Datadog, Bun, and several AI-native startups. The event highlighted the consequences of model step-changes for product architecture, organizational design, and infrastructure economics. Dickson Tsai of Anthropic's Claude Code team demonstrated updates to Claude code, including remote control, split views, and a redesigned desktop GUI. GitHub's chief product officer Mario Rodriguez co-presented a cache hit rate, highlighting three causes of cache invalidation that GitHub has had to engineer around. Anthropic co-founder and CEO Dario Amodei reported that first-quarter 2026 revenue and usage, on an annualized basis, grew 80x rather than the 10x Anthropic had planned for.",
-    "source": "infoq.com",
-    "date": "2026-05-18",
-    "url": "https://www.infoq.com/news/2026/05/code-with-claude/",
-    "category": "Models",
-    "image": null
+    "title": "Google Launches AI Mode for All US Users, Signals the Future of Search",
+    "summary": "At Google I/O 2025, Google rolled out AI Mode — a Gemini-powered conversational search interface — to all US users, integrating deep research, web browsing agents, and personalization into Google Search.",
+    "content": "At Google I/O 2025, Google announced it is rolling AI Mode — a Gemini-powered chatbot interface — out to all US Google Search users, signaling a fundamental redesign of the world's most-used search engine. AI Mode adds Deep Search for multi-source synthesis, Project Mariner for agentic web browsing, Search Live for camera-based real-time queries, and access to the user's past search history and email for personalization. Google reported that 1.5 billion people are now seeing AI Overviews in search results every month. The company described the traditional results page as 'a construct' being replaced by a flexible, AI-generated canvas that could include dynamically created charts, videos, or web apps tailored to each query. Google executives said Search will look unrecognizable within three years as the focus shifts from organizing information to making it genuinely useful.",
+    "source": "The Verge",
+    "date": "2025-05-20",
+    "url": "https://www.theverge.com/google-io/670439/google-ai-mode-search-2025",
+    "category": "Tools"
   },
   {
-    "title": "Dell Technologies to Bring Grok SpaceXAI Models On-Premises to Enterprise Environments",
-    "summary": "Dell Technologies to Bring Grok SpaceXAI Models On-Premises to Enterprise Environments | Dell Key takeaways: Dell Technologies and SpaceXAI are revolutionizing enterprise AI by enabling on-premises deployment of Grok models through the Dell AI Factory with NVIDIA. This collaboration provides busine",
-    "content": "Dell Technologies to Bring Grok SpaceXAI Models On-Premises to Enterprise Environments | Dell [...] Key takeaways: Dell Technologies and SpaceXAI are revolutionizing enterprise AI by enabling on-premises deployment of Grok models through the Dell AI Factory with NVIDIA. This collaboration provides businesses with advanced AI reasoning capabilities while maintaining complete data sovereignty and security control. Organizations can now integrate powerful AI directly into their existing infrastructure and workflows, transforming AI from experimental technology into production-ready enterprise systems. [...] Dell Technologies is redefining enterprise AI by bringing the latest SpaceXAI models to the Dell AI Factory with NVIDIA, unlocking the on-prem deployment of SpaceXAI’s frontier model directly where data, systems and workflows already live. [...] As adoption accelerates, enterprises are increasingly looking for ways [...] deploy AI systems in secure, governed environments to maintain control over their information, reduce costs and improve performance. Together with SpaceXAI and NVIDIA, [...] SpaceXAI will deliver advanced reasoning and multimodal capabilities as secure, enterprise-grade AI endpoints, deployable fully on-premises with Dell AI Factory with NVIDIA. [...] Through this collaboration, SpaceXAI’s models will integrate with Dell’s AI infrastructure portfolio, including the Dell AI Data Platform and Dell AI Factory with NVIDIA. These platforms are already widely used by enterprises to store, manage and govern data, as well as to deploy and scale AI workloads within controlled environments. This will allow enterprises to connect to their existing data sources and get insights without having to move their data or consume cloud models by token. NVIDIA Confidential Computing with NVIDIA Blackwell secures and protects the latest SpaceXAI models while also encrypting and protecting enterprise data, ensuring it can’t be viewed or altered by unauthorized parties, including the infrastructure operators. [...] Dell and SpaceXAI are also enabling these models to run seamlessly within enterprise AI pipelines powered by Dell AI Factory with NVIDIA. This includes enabling organizations to prepare and govern data, deploy models, orchestrate workflows and integrate AI-driven insights directly into their existing applications and systems within hybrid or on-premises environments. [...] With SpaceXAI models integrated into Dell environments, businesses can analyze, automate, and act on their data with greater precision, transforming AI from isolated experimentation into repeatable, production-ready systems.",
-    "source": "Ihab Tarazi",
-    "date": "2026-05-18",
-    "url": "https://www.dell.com/en-us/blog/dell-technologies-and-spacexai-collaborate-to-bring-grok-on-premises-to-enterprise-environments/",
-    "category": "Models",
-    "image": "https://www.dell.com/wp-uploads/2026/05/gettyimages-1448152764-pr7740nt-1280x1280-1.jpeg"
+    "title": "Google Rolls Out Project Mariner Web-Browsing Agent at Google I/O 2025",
+    "summary": "Google expanded Project Mariner, its AI agent that autonomously browses and acts on websites, to US subscribers of its new $249.99/month AI Ultra plan, now capable of handling 10 tasks simultaneously.",
+    "content": "At Google I/O 2025, Google rolled out Project Mariner — its web-browsing AI agent — to US subscribers of the new $249.99-per-month AI Ultra plan, with international support coming soon. The updated Project Mariner now runs on cloud virtual machines, allowing users to keep working while the agent handles tasks in the background and manages up to 10 simultaneous tasks, a major upgrade over the earlier version that required the user's own browser tab. Google is also bringing Project Mariner's capabilities to the Gemini API and Vertex AI for developers. The agent can purchase event tickets, order groceries, and complete other web transactions autonomously, competing directly with OpenAI's Operator and Amazon's Nova Act. Google said it is working with Ticketmaster, StubHub, Resy, and Vagaro to support agentic booking flows, and Project Mariner will soon be accessible inside AI Mode in Google Search.",
+    "source": "TechCrunch",
+    "date": "2025-05-20",
+    "url": "https://techcrunch.com/2025/05/20/google-rolls-out-project-mariner-its-web-browsing-ai-agent",
+    "category": "Tools"
   },
   {
-    "title": "DeepMind employee signals Gemini 3.5 ahead of Google I/O 2026 launch",
-    "summary": "DeepMind employee signals Gemini 3.5 ahead of Google I/O 2026 launch - Startup Fortune Published: 2026-05-19T14:48:03+05:30 Summary Google's upcoming I/O 2026, which includes the launch of Gemini 3.5, is still a Gemini story, but the public evidence does not support this.",
-    "content": "Google's upcoming I/O 2026, which includes the launch of Gemini 3.5, is still a Gemini story, but the public evidence does not support this. Google has not publicly confirmed a Gemini release, a DeepMind employee confirmation, or a new model tier. This distinction matters as model names move markets, product roadmaps, and developer expectations almost as fast as the models themselves. The more grounded story is that Google wants Gemini to feel less like a separate chatbot and more like infrastructure running through its products. A model update can change where users meet the technology and how businesses build around it. However, it is uncertain whether an incremental Gemini update or a larger Gemini 4-style reveal will be announced. If Google presents a credible model with broad product integration, OpenAI, Meta, and AI labs will be under pressure to explain their own roadmaps.",
-    "source": "startupfortune.com",
-    "date": "2026-05-19",
-    "url": "https://startupfortune.com/deepmind-employee-signals-gemini-35-ahead-of-google-io-2026-launch/",
-    "category": "Models",
-    "image": null
+    "title": "GitHub Introduces Autonomous Copilot Coding Agent at Microsoft Build",
+    "summary": "GitHub launched an asynchronous Copilot coding agent powered by Anthropic's Claude that independently fixes bugs and adds features, then submits its work as a pull request for developer review.",
+    "content": "At Microsoft Build 2025, GitHub introduced a Copilot coding agent that autonomously takes on software engineering tasks — fixing bugs, refactoring code, extending tests, and improving documentation — and notifies developers when the work is complete. Powered by Anthropic's Claude 3.7 Sonnet, the agent operates asynchronously, submitting its work as a pull request and appearing to teammates like another developer on the project. GitHub CEO Thomas Dohmke said the agent excels at low-to-medium complexity tasks in well-tested codebases. The agent is available in preview to Copilot Pro+ and Copilot Enterprise users; Copilot now has over 15 million users, four times more than a year ago. GitHub also announced it will open-source the Copilot Chat VS Code extension under the MIT license and is bringing agent mode to JetBrains, Eclipse, and Xcode.",
+    "source": "CNBC",
+    "date": "2025-05-19",
+    "url": "https://www.cnbc.com/2025/05/19/microsoft-ai-github.html",
+    "category": "Tools"
   },
   {
-    "title": "Anthropic Launches Claude for Small Business With Direct SMB Productivity Implications",
-    "summary": "Anthropic Launches Claude for Small Business With Direct SMB Productivity Implications - Business2Community Published: 2026-05-18T19:52:14+00:00 Author: Craig Corbeels Summary Anthropic has launched Claude for Small Business, a packaged product that installs AI directly into tools small oper",
-    "content": "Anthropic has launched Claude for Small Business, a packaged product that installs AI directly into tools small operators already run. The product ships with 15 ready-to-run agentic workflows designed to automate tasks such as payroll planning, monthly financial close, invoice follow-up, and marketing campaign execution. The launch positions Anthropic explicitly in the SMB segment, entering a market where companies like OpenAI, Google, and Microsoft have been embedding AI into business software stack. Claude Cowork, the platform for users to connect their existing tools and select workflows, operates through a toggle install. The company also teaches a course developed with PayPal that teaches small business owners how to use AI effectively and safely. Pricing for Claude for SMB has not yet been disclosed.",
-    "source": "Craig Corbeels",
-    "date": "2026-05-18",
-    "url": "https://www.business2community.com/business-news/anthropic-claude-small-business-smb-productivity/",
-    "category": "Models",
-    "image": null
+    "title": "OpenAI Launches Codex: A Cloud-Based AI Coding Agent Inside ChatGPT",
+    "summary": "OpenAI launched Codex, a cloud-based software engineering agent powered by codex-1 (a fine-tuned o3 model) that handles multiple coding tasks in parallel inside ChatGPT.",
+    "content": "OpenAI launched Codex on May 16, a cloud-based software engineering agent that runs in a sandboxed virtual environment pre-loaded with users' GitHub repositories. Powered by codex-1 — a version of the o3 reasoning model fine-tuned for software engineering using reinforcement learning on real-world coding tasks — Codex can write features, fix bugs, answer codebase questions, and run tests, with each task taking between one and 30 minutes. Unlike local coding assistants, Codex can handle multiple tasks simultaneously without blocking the user's computer or browser. OpenAI said the agent is designed to eventually act as a 'virtual teammate' capable of completing work that would take engineers hours or days, and the company already uses it internally to scaffold features and draft documentation. Codex is rolling out to ChatGPT Pro, Enterprise, and Team subscribers, with Plus and Edu access coming soon, alongside a new codex-mini-latest model optimized for the Codex CLI.",
+    "source": "TechCrunch",
+    "date": "2025-05-16",
+    "url": "https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt",
+    "category": "Tools"
   },
   {
-    "title": "A new personal finance experience in ChatGPT",
-    "summary": "A new personal finance experience in ChatGPT | OpenAI Published: 2026-05-16T11:41:15+00:00 Summary The company is releasing a preview of a new personal finance experience in ChatGPT to Pro users in the US, allowing users to securely connect their financial accounts and ask questions grounded",
-    "content": "The company is releasing a preview of a new personal finance experience in ChatGPT to Pro users in the US, allowing users to securely connect their financial accounts and ask questions grounded in their financial context. This comes as part of a larger effort to improve the experience and expand the service further. The ability to connect financial accounts with their real financial context and share important context about your financial life can help identify patterns, understand tradeoffs, and plan for big decisions in a way that feels more personal and complete. The company is working with trusted ecosystem partners like Intuit to develop an internal benchmark to evaluate response quality and grade the service's performance on challenging personal finance tasks. [...] save a little more” plan [...] a harsh budget. Here’s the plan I’ [...] months. May is still early, [...] mostly on February [...] . Your biggest [...] Area Feb 1–May [...] & bills ~$420 [...] , but easy cleanup Target: save an extra $500 [...] 0/month I [...] not start by trying to eliminate every small pleasure. Your biggest wins are dining, shopping, transportation, and grocery pacing. 1. Dining: cap at $450/month Dining has been one of the easiest places for spending to drift. [...] , 2026",
-    "source": "openai.com",
-    "date": "2026-05-16",
-    "url": "https://openai.com/index/personal-finance-chatgpt/",
-    "category": "Models",
-    "image": null
+    "title": "Google DeepMind's AlphaEvolve Invents Novel Algorithms, Beats Decades-Old Records",
+    "summary": "Google DeepMind unveiled AlphaEvolve, an AI system that uses Gemini LLMs and evolutionary search to automatically discover algorithms that outperform the best human-written solutions in math, computer science, and real-world engineering.",
+    "content": "Google DeepMind introduced AlphaEvolve, a general-purpose AI coding agent that uses the Gemini 2.0 family of models to iteratively generate, score, and evolve algorithms until finding solutions that surpass existing human-written code. In tests across more than 50 classic math and computer science problems, AlphaEvolve matched best-known solutions 75% of the time and found strictly better solutions in 20% of cases — including beating a 56-year-old record for matrix multiplication set by mathematician Volker Strassen in 1969. Google has been running an AlphaEvolve-generated scheduling algorithm across all of its data centers for over a year, recouping 0.7% of the company's total global compute resources. The system also found optimizations that reduced power consumption in Google's TPU chips and sped up Gemini's own training process. AlphaEvolve's evolutionary approach — combining fast Gemini Flash for breadth with Gemini Pro for depth — makes it applicable to any problem whose solutions can be automatically evaluated by a computer.",
+    "source": "MIT Technology Review",
+    "date": "2025-05-14",
+    "url": "https://www.technologyreview.com/2025/05/14/1116438/google-deepminds-new-ai-uses-large-language-models-to-crack-real-world-problems/",
+    "category": "Models"
   }
 ]
