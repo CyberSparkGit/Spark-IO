@@ -40,22 +40,22 @@
     "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1779223380&w=1920&h=1080"
   },
   {
-    "title": "Google Unveils Gemini Omni—A Next-Gen AI Video Builder That Can 'Simulate the World'",
-    "summary": "Google Unveils Gemini Omni—A Next-Gen AI Video Builder That Can 'Simulate the World' - Decrypt Published: 2026-05-19T19:26:50 Author: Decrypt / Jason Nelson Summary Google has introduced Gemini Omni, a new multimodal AI model that combines the company's Gemini AI models with its media-genera",
-    "content": "Google has introduced Gemini Omni, a new multimodal AI model that combines the company's Gemini AI models with its media-generation tools, including Veo, Nano Banana, and Genie. The announcement came during Google I/O 2026, where DeepMind CEO Demis Hassabis described Gemini Omni as a new model that can create anything from any input. The first release, Gemini Omni Flash, will launch through Flow, the company’s AI filmmaking platform, and Flow Music, which focuses on AI-assisted music creation. The company also introduced Flow Agent, an AI assistant integrated into Google Flow, and tools such as Flow Tools. [...] % PC [...] $1. [...] % AUSD $0.9 [...] 9516 -0.THBILL $1. [...] 22 -0 [...] % A $0.08037 0.ASTERO [...] $0.000311 [...] 8 -1.GL [...] $0.130872 -1.FRXUSD $0.999547 0.WEMIX $0.277827 3.1INCH $0.09116 1.OZO $0.1304 0.1 [...] % SHFL $0.294395 -0.TAG $0.001135 [...] /O 20 [...] as a multimodal AI model designed to generate video and other media from nearly any input. - DeepMind CEO Demis [...] abis said Gemini [...] combines Gemini with media-generation models including Veo, Nano Banana, and Genie. - Gemini Omni [...] is launching first through Flow and Flow Music for Google AI subscribers. Google on",
-    "source": "Decrypt / Jason Nelson",
-    "date": "2026-05-19",
-    "url": "https://decrypt.co/368393/google-unveils-gemini-omni-next-gen-ai-video-builder-simulate-world",
-    "category": "Models",
-    "image": null
-  },
-  {
     "title": "Announcing Claude Managed Agents on Cloudflare",
     "summary": "Announcing Claude Managed Agents on Cloudflare Published: 2026-05-19T14:00:00+01:00 Summary Cloudflare and Anthropic have collaborated to integrate Claude Managed Agents with Cloudflare Sandboxes. This gives developers more control over agent sandboxes, secure connections to private services",
     "content": "Cloudflare and Anthropic have collaborated to integrate Claude Managed Agents with Cloudflare Sandboxes. This gives developers more control over agent sandboxes, secure connections to private services, and improves observability. The integration also allows users to run their agent loop on the Claude Platform while using CloudFlare to execute code, secure connects, and run custom tool calls. The integrated integration includes enhanced security, private service connectivity, sandbox control and observability, and custom tools. This integration allows developers to easily define and run agents on the Anthropic platform. The core agent loop runs in Anthropic, but the infrastructure for running and executing code can be run anywhere. The new integration gives your agents a Cloud-based environment within minutes.",
     "source": "blog.cloudflare.com",
     "date": "2026-05-19",
     "url": "https://blog.cloudflare.com/claude-managed-agents/",
+    "category": "Models",
+    "image": null
+  },
+  {
+    "title": "Anthropicâ€TMs New â€ ̃Dreamingâ€TM Feature: How Claude Managed Agents Learn from Past Sessions",
+    "summary": "Anthropicâ€TMs New â€ ̃Dreamingâ€TM Feature: How Claude Managed Agents Learn from Past Sessions Published: 2026-05-19T00:00:00 Summary Anthropic's new â€œDreamingâ€TM feature for its Claude Managed Agents allows AI agents to retrospectively analyze their past sessions, gain valuable insights",
+    "content": "Anthropic's new â€œDreamingâ€TM feature for its Claude Managed Agents allows AI agents to retrospectively analyze their past sessions, gain valuable insights and self-enhance through a continuous learning cycle. The feature, which mimicks aspects of human reflective cognition, transforms Claude Managers Agents from reactive tools into self-aware digital collaborators capable of nuanced understanding and dynamic growth. This article discusses the integration of Outcomes, a framework for evaluating agent performance, and the orchestration of multiple AI agents working in concert to create a new generation of adaptable, intelligent systems. The integration of Dreaming within Claude's architecture serves multiple roles: Structuring insights into hierarchical memory systems that balance recency and generalization. [...] Specialization: [...] domain-specific [...] capitalizes on [...] expertise and prevents knowledge [...] . - Redundancy and Validation: [...] check outputs, boosting accuracy and reliability, reducing [...] points of failure. - Scalability: Parallel task [...] in large-scale deployments [...] For instance, in a customer service environment, a multi-agent system might assign separate agents for technical troubleshooting, billing inquiries, and escalation management, with orchestration managing the routing and integration of outputs into a unified customer experience. 6.3 Role of Dreaming in Orchestration Dreaming enhances orchestration by enabling agents to contribute their curated memories and insights to a collective knowledge ecosystem. This interchange fosters a form of collective intelligence whereby agents learn not only from their individual experiences but also from the experiences of peers. This meta-reflective capability accelerates learning curves and enables synergistic adaptation. Moreover, the orchestration layer employs Dreaming-derived analytics to [...] workloads, and collaboration protocolsâ€”",
+    "source": "blogarama.com",
+    "date": "2026-05-19",
+    "url": "https://www.blogarama.com/technology-blogs/1425041-chatgpt-hub-blog/76245990-anthropicas-new-adreaminga-feature-claude-managed-agents-learn-from-past-sessions",
     "category": "Models",
     "image": null
   }
