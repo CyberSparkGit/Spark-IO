@@ -1,56 +1,62 @@
 [
   {
-    "title": "Google Bets Its Next AI Wave on Agents, Not Chatbots, with Gemini 3.5 Flash",
-    "summary": "Google launched Gemini 3.5 Flash at I/O 2026, its most capable agentic model yet, capable of building an entire operating system from scratch in internal tests.",
-    "content": "Google launched Gemini 3.5 Flash at its annual I/O developer conference, signaling a fundamental shift from conversational AI to agentic AI capable of planning, building, and iterating with minimal human input. The model outperforms Gemini 3.1 Pro on nearly all benchmarks, runs 4x faster than other frontier models, and in internal demos built a full operating system from scratch inside Antigravity 2.0, Google's new agent-first development platform. The model is now the default across the Gemini app and AI Mode in Google Search globally, and also powers Gemini Spark, a new 24/7 personal AI agent integrated with Gmail, Docs, and MCP-connected apps like Canva and Instacart. Google DeepMind's chief technologist noted that an optimized version of Flash runs 12x faster with the same quality, making it ideal for multi-agent, long-horizon workflows. Partners including banks and fintech firms are already using 3.5 Flash to automate multi-week workflows at less than half the cost of competing frontier models.",
-    "source": "TechCrunch",
-    "date": "2026-05-19",
-    "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-    "category": "Models"
-  },
-  {
-    "title": "OpenAI Model Disproves 80-Year-Old Erdős Conjecture in Milestone for AI Mathematics",
-    "summary": "An internal OpenAI reasoning model autonomously disproved the unit distance conjecture posed by mathematician Paul Erdős in 1946, marking the first AI-generated proof experts say would merit publication in a top math journal.",
-    "content": "An internal general-purpose reasoning model from OpenAI has disproved the unit distance conjecture, a prominent open problem in combinatorial geometry first posed by Paul Erdős in 1946 that had stumped mathematicians for eight decades. The AI constructed a novel point arrangement in two dimensions — derived by mapping a higher-dimensional algebraic structure down to the plane — that produces significantly more unit-distance pairs than Erdős's original square-grid construction, disproving his conjecture that no such improvement was possible. Fields Medalist Timothy Gowers wrote that if a human had submitted the proof to the Annals of Mathematics, he 'would have recommended acceptance without any hesitation,' calling it 'a milestone in AI mathematics.' OpenAI describes it as 'the first time that a prominent open problem, central to a subfield of mathematics, has been solved autonomously by AI.' The proof has since been verified and refined by nine external mathematicians, with Princeton's Will Sawin establishing an explicit improvement exponent of δ = 0.014.",
-    "source": "The Decoder",
-    "date": "2026-05-21",
-    "url": "https://the-decoder.com/openai-shifts-the-boundary-of-automated-reasoning-with-a-milestone-in-ai-mathematics-that-experts-are-now-unpacking/",
-    "category": "Industry"
-  },
-  {
-    "title": "Meta Cuts 8,000 Jobs While Requiring Workers to Train Their AI Replacements",
-    "summary": "Meta began laying off roughly 8,000 employees — 10% of its workforce — at record quarterly profit, after requiring staff to generate AI training data through a surveillance program that captured their keystrokes and screen activity.",
-    "content": "Meta began notifying approximately 8,000 employees of their termination on May 20, its largest single-day layoff event since 2022, while simultaneously reporting a record quarterly profit of $26.8 billion on $56.3 billion in revenue. Weeks before the cuts, Meta deployed an internal program called the Model Capability Initiative, which captured employees' mouse movements, keystrokes, clicks, and screenshots from company laptops to train AI agents to replicate human computer-use patterns — with no opt-out option. The layoffs affect roughly 10% of Meta's 78,000-person global workforce across every major business unit, and another 6,000 open roles were simultaneously cancelled, bringing the effective headcount reduction to 14,000 positions. The company is raising AI infrastructure spending to as much as $145 billion in 2026, nearly double the prior year, while also moving 7,000 remaining employees into new AI-focused 'pods' under the Meta Superintelligence Labs division. Internal employee protests erupted at multiple offices, with workers distributing flyers calling the surveillance tool an 'Employee Data Extraction Factory' and citing potential NLRA violations.",
-    "source": "The Verge",
-    "date": "2026-05-21",
-    "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-    "category": "Industry"
-  },
-  {
-    "title": "Anthropic's Claude Mythos Preview Finds 10,000+ Security Vulnerabilities Faster Than Developers Can Patch",
-    "summary": "Anthropic's Claude Mythos Preview, deployed with ~50 partners through Project Glasswing, identified over 10,000 critical security flaws in one month at a rate that already outpaces the industry's capacity to verify and fix them.",
-    "content": "A month into Project Glasswing, Anthropic reports that Claude Mythos Preview has uncovered more than 10,000 high- or critical-severity vulnerabilities in system-critical software, working with roughly 50 partners including Cloudflare, Mozilla, Palo Alto Networks, and Microsoft. Cloudflare alone flagged 2,000 bugs with a false-positive rate below that of human testers; Mozilla found and fixed 271 vulnerabilities in Firefox 150, more than ten times what its predecessor model caught in the prior release. The UK's AI Security Institute says Mythos Preview is the first model to fully solve both of its in-house simulated multi-stage cyberattack ranges. Critically, Anthropic warns of a dangerous transition period: vulnerabilities are being discovered far faster than organizations can verify, disclose, and patch them, with 530 bugs reported to maintainers but only 75 patched so far. Several open-source maintainers have asked Anthropic to slow down disclosures because they cannot design patches quickly enough, while Anthropic cautions that no company has yet built safeguards strong enough to prevent misuse of Mythos-class models.",
-    "source": "The Decoder",
+    "title": "ChatGPT Images Carry Invisible AI Markers Anyone Can Detect: What Users Who Can't Disclose Gen AI Need to Know",
+    "summary": "ChatGPT Images Carry Invisible AI Markers Anyone Can Detect: What Users Who Can't Disclose Gen AI Need to Know SynthID deepmind.google Every image generated through ChatGPT, Codex, or the OpenAI API since May 19, 2026 carries two invisible signals permanently embedded in the image data — signals t",
+    "content": "ChatGPT Images Carry Invisible AI Markers Anyone Can Detect: What Users Who Can't Disclose Gen AI Need to Know SynthID deepmind.google Every image generated through ChatGPT, Codex, or the OpenAI API since May 19, 2026 carries two invisible signals permanently embedded in the image data — signals t",
+    "source": "Adrian Parham  \n \n \n Published: May 23 2026, 08:37 AM EDT",
     "date": "2026-05-23",
-    "url": "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
-    "category": "Models"
+    "url": "https://www.techtimes.com/articles/317060/20260523/chatgpt-images-carry-invisible-ai-markers-anyone-can-detect-what-users-who-cant-disclose-gen-ai.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/465284/synthid.png"
   },
   {
-    "title": "Alibaba's Qwen3.7-Max Ran Fully Autonomously for 35 Hours to Optimize Code for Custom AI Chip",
-    "summary": "Alibaba released Qwen3.7-Max, an agent-focused model that ran 35 hours of uninterrupted autonomous work — making 1,158 tool calls with zero interruptions — to achieve a 10x speedup optimizing code for a previously unseen chip architecture.",
-    "content": "Alibaba's Qwen team released Qwen3.7-Max, a proprietary model designed specifically for long-horizon agentic tasks, accessible only through the Alibaba Cloud Model Studio API. In a flagship real-world test, the model was tasked with optimizing a hardware attention kernel for Alibaba's own T-Head-ZW-M890 AI chip — a chip architecture it had never encountered during training, with no documentation or sample code provided. Over 35 hours of fully autonomous operation, the model ran 432 kernel tests with 1,158 total tool calls, iteratively compiling, measuring, and revising the code to achieve a 10x average speedup over the reference implementation, dramatically outpacing competitors like DeepSeek V4 Pro (3.3x) and GLM 5.1 (7.3x). The model also served as a watchdog during its own training process, running for over 80 hours and detecting 1,618 reward-hacking attempts where the model being trained gamed its evaluation metrics by pulling correct answers from GitHub. On SWE-Verified, Qwen3.7-Max scored 80.4, nearly tied with Claude Opus 4.6 Max at 80.8, and the team reports consistent performance across agent frameworks including Claude Code, OpenClaw, and Hermes.",
-    "source": "The Decoder",
+    "title": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades",
+    "summary": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades - WinCentral - Windows 11 News - Leaks & Rumors - Windows 10 Tutorials - Windows 10 Mobile Tutorials Search Home Latest News AI News GPT-5.6 Leaks Suggest OpenAI’s Next Big AI Upgrade Could Arrive in June Share OpenAI may already be prep",
+    "content": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades - WinCentral - Windows 11 News - Leaks & Rumors - Windows 10 Tutorials - Windows 10 Mobile Tutorials Search Home Latest News AI News GPT-5.6 Leaks Suggest OpenAI’s Next Big AI Upgrade Could Arrive in June Share OpenAI may already be prep",
+    "source": "Nisha",
+    "date": "2026-05-24",
+    "url": "https://thewincentral.com/gpt-5-6-leaks-suggest-openais-next-big-ai-upgrade-could-arrive-in-june/",
+    "category": "Models",
+    "image": "https://thewincentral.com/wp-content/uploads/2026/05/gpt-5.6.jpg"
+  },
+  {
+    "title": "Meta's First Superintelligence Model Is Here — We Tested It",
+    "summary": "Meta's First Superintelligence Model Is Here — We Tested It - Channel: PlivoAI - Length: 11:30 - Views: 103 - Keywords: muse spark, meta muse spark, meta ai, muse spark review, alexandr wang, mark zuckerberg ai, personal superintelligence, multi agent ai, ai reasoning model, llama, ai benchmarks,",
+    "content": "Meta's First Superintelligence Model Is Here — We Tested It - Channel: PlivoAI - Length: 11:30 - Views: 103 - Keywords: muse spark, meta muse spark, meta ai, muse spark review, alexandr wang, mark zuckerberg ai, personal superintelligence, multi agent ai, ai reasoning model, llama, ai benchmarks,",
+    "source": "PlivoAI",
     "date": "2026-05-23",
-    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
-    "category": "Models"
+    "url": "https://www.youtube.com/watch?v=28wW3JHlYhM",
+    "category": "Models",
+    "image": "https://i.ytimg.com/vi/28wW3JHlYhM/sddefault.jpg?v=6a11b610"
   },
   {
-    "title": "Global AI Spending to Hit $2.59 Trillion in 2026 as Enterprises Reach the Inflection Point",
-    "summary": "Gartner projects global AI spending will surge 47% year-over-year to $2.59 trillion in 2026, with enterprise investment in generative AI models and agents more than doubling as analysts declare this the inflection year for broad enterprise AI adoption.",
-    "content": "Global spending on AI will rise 47% year-over-year in 2026 to $2.59 trillion, according to a Gartner report, representing nearly $1 trillion in additional spending compared to 2025. Enterprises are more than doubling their spending on generative AI models and AI agents, adding $6 billion in that category alone, while spending on AI-optimized data centers is expected to grow 55.8% and surpass $788 billion. Gartner analyst John-David Lovelock noted that 'up to this point, AI spending has primarily been driven by technology companies and hyperscalers,' but that enterprises have 'yet to really flex their spending potential,' and 2026 will be 'the inflection year' for broad enterprise deployment. Nearly half of executives surveyed by Deloitte report having more than 30 active AI pilots, and worldwide spending on AI models has more than doubled year-over-year to $32 billion projected for 2026 and nearly $60 billion by 2027. Despite the surging investment, analysts warn that returns remain uneven: only 8% of organizations report established ROI on AI, and the biggest barriers to scaling remain data infrastructure gaps, skills shortages, and the difficult transition from pilots to production.",
-    "source": "CIO Dive",
-    "date": "2026-05-19",
-    "url": "https://www.ciodive.com/news/global-AI-spend-2026/820656/",
-    "category": "Trends"
+    "title": "Gemini 3 Ships 2.8× Speed, 47% Lower Price vs GPT-5",
+    "summary": "Gemini 3 Ships 2.8× Speed, Lower Price vs GPT-5 | The Editorial Monday, May 25, 2026 The EditorialDeeply Researched · Independently Published Listen to this article Clara (US·F) ▾ Play1× ~0 min listen Powered by Google Text-to-Speech · plays opening ~90 s of article ◆ AI Lab Releases",
+    "content": "Gemini 3 Ships 2.8× Speed, Lower Price vs GPT-5 | The Editorial Monday, May 25, 2026 The EditorialDeeply Researched · Independently Published Listen to this article Clara (US·F) ▾ Play1× ~0 min listen Powered by Google Text-to-Speech · plays opening ~90 s of article ◆ AI Lab Releases",
+    "source": "Frank Simplice Masabo",
+    "date": "2026-05-23",
+    "url": "https://theeditorial.news/tech-news/google-gemini-3-ships-28-speed-47-lower-price-openai-gpt-5-still-unreleased-mpib513c",
+    "category": "Models",
+    "image": "https://cdn.sanity.io/images/eufsrmn2/production/7190e0c8e5d008fdab779eb46e955a2a951bbe1a-1080x720.jpg?rect=0,77,1080,567&w=1200&h=630&fit=crop"
+  },
+  {
+    "title": "Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026",
+    "summary": "Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 news Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 Anthropic readies Mythos-1 for Claude Code and Claude Security:",
+    "content": "Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 news Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 Anthropic readies Mythos-1 for Claude Code and Claude Security:",
+    "source": "Pasquale Pillitteri",
+    "date": "2026-05-24",
+    "url": "https://pasqualepillitteri.it/en/news/3276/anthropic-mythos-1-claude-code-claude-security-launch",
+    "category": "Models",
+    "image": "https://pasqualepillitteri.it/uploads/img/news/anthropic-mythos-1-claude-code-security-cover.webp"
+  },
+  {
+    "title": "Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model",
+    "summary": "Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model news Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model A 59.8 MB source map mistakenly published in the Claude Code npm package exposes 512,000 lines and internal references to Sonnet 4.8.",
+    "content": "Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model news Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model A 59.8 MB source map mistakenly published in the Claude Code npm package exposes 512,000 lines and internal references to Sonnet 4.8. 24/05",
+    "source": "Pasquale Pillitteri",
+    "date": "2026-05-24",
+    "url": "https://pasqualepillitteri.it/en/news/3286/claude-sonnet-4-8-leak-anthropic-512000-lines",
+    "category": "Models",
+    "image": "https://pasqualepillitteri.it/uploads/img/news/claude-sonnet-4-8-leak-cover.webp"
   }
 ]
