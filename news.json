@@ -1,62 +1,56 @@
 [
   {
-    "title": "xAI Says Grok V9-Medium Is Almost Here. Should Claude and ChatGPT Be Worried?",
-    "summary": "xAI Says Grok V9-Medium Is Almost Here. Should Claude and ChatGPT Be Worried?",
-    "content": "xAI Says Grok V9-Medium Is Almost Here. Should Claude and ChatGPT Be Worried? Elon Musk posted on X early Monday morning (5:48 AM UTC), May 25, that xAI has finished training Grok foundation model V9-Medium. According to him, this model will come with 1.5 trillion parameters, which is three times b",
-    "source": "techloy.com",
-    "date": "2026-05-25",
-    "url": "https://www.techloy.com/xai-says-grok-v9-medium-is-almost-here-should-claude-and-chatgpt-be-worried/",
-    "category": "Models",
-    "image": "https://images.unsplash.com/photo-1757310998437-b2e8a7bd2e97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGdyb2t8ZW58MHx8fHwxNzc5NzE4MjgxfDA&ixlib=rb-4.1.0&q=80&w=2000"
+    "title": "Google Launches Gemini 3.5 Flash and Gemini Spark at I/O 2026",
+    "summary": "Google unveiled Gemini 3.5 Flash at I/O 2026 — a frontier-grade agentic model four times faster than competing frontier models — alongside Gemini Spark, a new 24/7 personal AI agent.",
+    "content": "Google introduced Gemini 3.5 Flash at I/O 2026, describing it as their most capable agentic and coding model yet, outperforming Gemini 3.1 Pro on benchmarks including Terminal-Bench 2.1 (76.2%) and MCP Atlas (83.6%) while processing tokens four times faster than other frontier models. The model is immediately available to billions of users globally via the Gemini app, AI Mode in Search, and the Antigravity developer platform. Gemini 3.5 Flash now powers Gemini Spark, a new 24/7 personal AI agent that runs in Google Cloud and continues working in the background even when devices are powered off. Enterprise partners including Shopify, Macquarie Bank, Salesforce, and Xero are already piloting the model for complex multi-week autonomous workflows. Google also confirmed that Gemini 3.5 Pro is in internal testing and expected to roll out next month.",
+    "source": "Google Blog",
+    "date": "2026-05-19",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "category": "Models"
   },
   {
-    "title": "Musk: The Grok V9-Medium model with 1.5 trillion parameters is expected to be released in two to three weeks.",
-    "summary": "Musk: The Grok V9-Medium model with 1.5 trillion parameters is expected to be released in two to three weeks. PA一线 PANews reported on May 25th that Elon Musk posted that xAI has completed training of the Grok foundation model V9-Medium (1.5T parameters) and is currently fine-tuning it.",
-    "content": "Musk: The Grok V9-Medium model with 1.5 trillion parameters is expected to be released in two to three weeks. PA一线 PANews reported on May 25th that Elon Musk posted that xAI has completed training of the Grok foundation model V9-Medium (1.5T parameters) and is currently fine-tuning it. Reinfor",
-    "source": "panewslab.com",
-    "date": "2026-05-25",
-    "url": "https://www.panewslab.com/en/articles/019e5e87-84da-70a9-ab8e-da7f57f75779",
-    "category": "Models",
-    "image": "https://image.panewslab.com/images/logo1.jpg"
+    "title": "OpenAI Model Autonomously Disproves 80-Year-Old Erdős Math Conjecture",
+    "summary": "An OpenAI general-purpose reasoning model produced a complete 125-page proof disproving the Erdős planar unit distance conjecture, marking the first time AI has autonomously solved a prominent open problem in mathematics.",
+    "content": "On May 20, 2026, OpenAI announced that an internal general-purpose reasoning model had autonomously disproved the Erdős planar unit distance conjecture — an 80-year-old problem in discrete geometry first posed in 1946 — without specialized math training or step-by-step human guidance. The model identified a novel connection between algebraic number theory and combinatorial geometry that human mathematicians had not discovered in eight decades, applying the Golod-Shafarevich criterion to construct infinite families of point arrangements achieving a polynomial improvement (n^(1+0.014)) over the previously accepted near-linear upper bound. Fields medalist Tim Gowers, Princeton combinatorialist Noga Alon, and mathematician Will Sawin independently verified the proof, with Sawin writing a companion paper quantifying the new bound. Alon described the cross-field synthesis as 'a great surprise' — the tools were well-known to algebraic number theorists but had never been linked to Euclidean geometry problems. OpenAI called it 'the first time AI has autonomously solved a prominent open problem central to a field of mathematics.'",
+    "source": "OpenAI",
+    "date": "2026-05-20",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "category": "Models"
   },
   {
-    "title": "Sam Altman's OpenAI Faces a New Challenger: How DeepSeek's $10 Billion Bet Is Reshaping the AI Race",
-    "summary": "Sam Altman's OpenAI Faces a New Challenger: How DeepSeek's $10 Billion Bet Is Reshaping the AI Race | FrontierNews.ai i 🔍Search Breaking News Why Data Centers Are Racing to Lock in Nuclear Power Before 2030 Why Google's CEO Says Your Fear of AI Is Completely Rational Jensen Hua",
-    "content": "Sam Altman's OpenAI Faces a New Challenger: How DeepSeek's $10 Billion Bet Is Reshaping the AI Race | FrontierNews.ai i 🔍Search Breaking News Why Data Centers Are Racing to Lock in Nuclear Power Before 2030 Why Google's CEO Says Your Fear of AI Is Completely Rational Jensen Hua",
-    "source": "FrontierNews.ai",
-    "date": "2026-05-25",
-    "url": "https://www.frontiernews.ai/news/article/sam-altmans-openai-faces-a-new-challenger-how-deep-068d6e99",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Sam%20Altman%27s%20OpenAI%20Faces%20a%20New%20Challenger%3A%20How%20DeepSeek%27s%20%2410%20Billion%20Bet%20Is%20Reshaping%20the%20AI%20Race&topic=Notable%20People"
-  },
-  {
-    "title": "Anthropic Moves Closer to Public Claude Mythos Release: 10,000 Critical Bugs Found First",
-    "summary": "Anthropic Moves Closer to Public Claude Mythos Release: 10,000 Critical Bugs Found First CEO and co-founder of Anthropic Dario Amodei speak onstage during the 2025 New York Times Dealbook Summit at Jazz at Lincoln Center on December 3, 2025 in New York City. NYT columnist Sorkin hosted the annual D",
-    "content": "Anthropic Moves Closer to Public Claude Mythos Release: 10,000 Critical Bugs Found First CEO and co-founder of Anthropic Dario Amodei speak onstage during the 2025 New York Times Dealbook Summit at Jazz at Lincoln Center on December 3, 2025 in New York City. NYT columnist Sorkin hosted the annual D",
-    "source": "Richard L. Wells  \n \n \n Published: May 24 2026, 14:07 PM EDT",
+    "title": "Pentagon Blacklisted Anthropic, But the NSA Is Using Claude Anyway",
+    "summary": "Despite officially designating Anthropic a national security supply chain threat, the White House authorized the NSA to continue using Claude due to a critical AI chip shortage, while approving a secret $9 billion emergency fund to build classified AI infrastructure.",
+    "content": "The White House chief of staff authorized the NSA to keep using an advanced Anthropic model even though the Pentagon had officially blacklisted the company as a national security supply chain risk — a contradiction driven entirely by the absence of viable hardware alternatives on classified government networks. The waiver was forced by a critical shortage of the advanced semiconductors needed to run frontier AI models on top-secret infrastructure, leaving intelligence agencies unable to test or deploy domestic alternatives at scale. Alongside the authorization, the White House approved a secret $9 billion emergency funding request to help the CIA and NSA secure Nvidia Grace Blackwell superchip infrastructure, with $800 million immediately redirected from existing government budgets to begin purchasing capacity. The situation exposes a structural flaw in U.S. AI supply chain policy: when frontier model capability is concentrated in a handful of private companies and the hardware to run alternatives does not exist, the government's control over its own AI supply chain disappears. The planned classified data centers, once operational, would allow intelligence agencies to run any model they choose — but until then, the chip shortage has effectively made the choice for them.",
+    "source": "The Next Web",
     "date": "2026-05-24",
-    "url": "https://www.techtimes.com/articles/317076/20260524/anthropic-moves-closer-public-claude-mythos-release-10000-critical-bugs-found-first.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/465301/anthropic-ceo-dario-amodei.jpg"
+    "url": "https://thenextweb.com/news/us-government-chip-shortage-anthropic-nsa-9-billion",
+    "category": "Policy"
   },
   {
-    "title": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades",
-    "summary": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades - WinCentral - Windows 11 News - Leaks & Rumors - Windows 10 Tutorials - Windows 10 Mobile Tutorials Search Home Latest News AI News GPT-5.6 Leaks Suggest OpenAI’s Next Big AI Upgrade Could Arrive in June Share OpenAI may already be prep",
-    "content": "GPT-5.6 Leaks Hint at June Launch With Major AI Upgrades - WinCentral - Windows 11 News - Leaks & Rumors - Windows 10 Tutorials - Windows 10 Mobile Tutorials Search Home Latest News AI News GPT-5.6 Leaks Suggest OpenAI’s Next Big AI Upgrade Could Arrive in June Share OpenAI may already be prep",
-    "source": "Nisha",
-    "date": "2026-05-24",
-    "url": "https://thewincentral.com/gpt-5-6-leaks-suggest-openais-next-big-ai-upgrade-could-arrive-in-june/",
-    "category": "Models",
-    "image": "https://thewincentral.com/wp-content/uploads/2026/05/gpt-5.6.jpg"
+    "title": "EU Reaches Deal to Simplify AI Act, Bans AI-Generated Non-Consensual Intimate Content",
+    "summary": "EU Parliament and Council reached a provisional agreement on the Digital Omnibus on AI, extending compliance deadlines for high-risk AI systems and banning AI tools that generate non-consensual intimate images.",
+    "content": "On May 7, 2026, European Parliament and Council negotiators reached a provisional agreement on the Digital Omnibus on AI, introducing the first set of targeted amendments to the EU AI Act since its adoption in June 2024. The deal postpones obligations for standalone high-risk AI systems from August 2026 to December 2027, and for AI embedded in safety-critical products to August 2028, giving businesses more time to comply while technical standards are finalized. A new prohibition bans AI systems that generate non-consensual intimate images or child sexual abuse material, with compliance required by December 2026; the same deadline applies to new watermarking obligations requiring AI-generated content to carry machine-readable labels. The agreement removes overlapping requirements between the AI Act and EU machinery safety laws, streamlines SME exemptions for small mid-cap companies, and expands access to regulatory sandboxes including an EU-level testing environment. Both the European Parliament and Council must formally adopt the deal before August 2026 to prevent legal uncertainty as existing rules take effect.",
+    "source": "European Parliament",
+    "date": "2026-05-07",
+    "url": "https://www.europarl.europa.eu/news/en/press-room/20260427IPR42011/ai-act-deal-on-simplification-measures-ban-on-nudifier-apps",
+    "category": "Policy"
   },
   {
-    "title": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase And Write In The Delta Rule — Meta Ai Labs™",
-    "summary": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase And Write In The Delta Rule — Meta Ai Labs™ Close May 25, 2026 6 kitchen gadgets that make adulting feel easier May 25, 2026 Everyone is navigating AI security in real time — even Google May 24, 2026 X",
-    "content": "NVIDIA AI Releases Gated DeltaNet-2: A Linear Attention Layer That Decouples Erase And Write In The Delta Rule — Meta Ai Labs™ Close May 25, 2026 6 kitchen gadgets that make adulting feel easier May 25, 2026 Everyone is navigating AI security in real time — even Google May 24, 2026 X",
-    "source": "metaailabs.com",
-    "date": "2026-05-24",
-    "url": "https://metaailabs.com/nvidia-ai-releases-gated-deltanet-2-a-linear-attention-layer-that-decouples-erase-and-write-in-the-delta-rule/",
-    "category": "Industry",
-    "image": "https://i0.wp.com/www.marktechpost.com/wp-content/uploads/2026/05/blog11-44-1024x731.png?ssl=1"
+    "title": "Figma Launches Native Design Agent Directly on the Canvas",
+    "summary": "Figma launched a purpose-built design agent embedded directly on the canvas, giving designers AI assistance with deep access to their design systems, components, and tokens without leaving their workflow.",
+    "content": "Figma launched its native design agent on May 20, 2026, bringing AI assistance directly onto the design canvas for the first time — with deep contextual access to each team's components, tokens, design system standards, and best practices in ways third-party tools cannot achieve. Unlike external AI tools that require context-switching, the agent lives in the same file as the team, allowing designers to prompt from any design layer, run parallel prompts to explore multiple directions at once, and continue making manual edits while the agent iterates simultaneously. Key workflows include generating multiple stylistic directions in parallel, automating bulk edits like variable renaming and component swapping across entire flows, and distilling stakeholder feedback from comment threads into actionable design revisions. The agent is fine-tuned specifically for editing Figma files, steering outputs toward a team's own components and design tokens rather than generic AI outputs. It is rolling out in beta to Professional, Organization, and Enterprise plan users, with AI credits applying at general availability.",
+    "source": "Figma Blog",
+    "date": "2026-05-20",
+    "url": "https://www.figma.com/blog/the-figma-agent-is-here/",
+    "category": "Tools"
+  },
+  {
+    "title": "Alibaba's Qwen3.7-Max Ran Autonomously for 35 Hours to Optimize Its Own Chip's Code",
+    "summary": "Alibaba released Qwen3.7-Max, a proprietary agentic model that worked nonstop for 35 hours to optimize a hardware kernel for Alibaba's custom chip, achieving a 10x speedup without human intervention.",
+    "content": "Alibaba's Qwen team released Qwen3.7-Max, a proprietary model designed for long-horizon autonomous tasks, available exclusively through the Alibaba Cloud Model Studio API. In a flagship benchmark, the model ran for 35 hours straight — with no prior exposure to the chip architecture, no hardware documentation, and no sample code — to optimize an attention kernel for Alibaba's T-Head custom accelerator, making 1,158 tool calls and achieving an average 10x speedup over the reference implementation, while competing models like GLM 5.1 (7.3x), Kimi K2.6 (5x), and DeepSeek V4 Pro (3.3x) all fell significantly short. The model was trained to maintain consistent performance across different agent frameworks, including Claude Code, OpenClaw, and Qwen Code, and also served as a watchdog during its own training process — running for over 86 hours to detect reward-hacking behaviors and flagging 1,618 violation cases across nearly 14,000 training trajectories. On standardized benchmarks including SWE-Verified (80.4) and GPQA Diamond (92.4), Qwen3.7-Max closely matches Claude Opus 4.6 Max and DeepSeek V4 Pro Max across coding, reasoning, and multi-step agentic tasks. The release marks a continued push by Alibaba toward fully autonomous AI agents capable of sustained, unsupervised work on complex engineering problems.",
+    "source": "The Decoder",
+    "date": "2026-05-23",
+    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
+    "category": "Models"
   }
 ]
