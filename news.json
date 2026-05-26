@@ -1,13 +1,13 @@
 [
   {
-    "title": "ChatGPT Images Carry Invisible AI Markers Anyone Can Detect: What Users Who Can't Disclose Gen AI Need to Know",
-    "summary": "ChatGPT Images Carry Invisible AI Markers Anyone Can Detect: What Users Who Can't Disclose Gen AI Need to Know SynthID deepmind.google Every image generated through ChatGPT, Codex, or the OpenAI API since May 19, 2026 carries two invisible signals permanently embedded in the image data — signals t",
-    "content": "ChatGPT Images Carry Invisible AI Markers Anyone Can Detect: What Users Who Can't Disclose Gen AI Need to Know SynthID deepmind.google Every image generated through ChatGPT, Codex, or the OpenAI API since May 19, 2026 carries two invisible signals permanently embedded in the image data — signals t",
-    "source": "Adrian Parham  \n \n \n Published: May 23 2026, 08:37 AM EDT",
-    "date": "2026-05-23",
-    "url": "https://www.techtimes.com/articles/317060/20260523/chatgpt-images-carry-invisible-ai-markers-anyone-can-detect-what-users-who-cant-disclose-gen-ai.htm",
+    "title": "Cohere Releases Command A+, an Open Source Multimodal Reasoning Model",
+    "summary": "Cohere Releases Command A+, an Open Source Multimodal Reasoning Model - Daily AI Brief Cohere Releases Command A+, an Open Source Multimodal Reasoning Model May 24, 2026 Cohere has open-sourced Command A+, its most powerful language model to date, designed for complex reasoning and agentic task",
+    "content": "Cohere Releases Command A+, an Open Source Multimodal Reasoning Model - Daily AI Brief Cohere Releases Command A+, an Open Source Multimodal Reasoning Model May 24, 2026 Cohere has open-sourced Command A+, its most powerful language model to date, designed for complex reasoning and agentic task",
+    "source": "dailyaibrief.com",
+    "date": "2026-05-24",
+    "url": "https://dailyaibrief.com/news/cohere-releases-command-a-plus-open-source-model-epch8M6Z",
     "category": "Models",
-    "image": "https://d.techtimes.com/en/full/465284/synthid.png"
+    "image": "https://fly.storage.tigris.dev/editorial-dashboard/uploads/image/image_file/345/0750efbc3db33b1a67bc77575525b076f0137f26-1200x630__2_.jpg"
   },
   {
     "title": "Anthropic Moves Closer to Public Claude Mythos Release: 10,000 Critical Bugs Found First",
@@ -40,6 +40,16 @@
     "image": "https://cdn.sanity.io/images/eufsrmn2/production/7190e0c8e5d008fdab779eb46e955a2a951bbe1a-1080x720.jpg?rect=0,77,1080,567&w=1200&h=630&fit=crop"
   },
   {
+    "title": "Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools",
+    "summary": "Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools Google unveiled Gemini Omni, a create-anything AI model that generates and edits clips from mixed inputs, as demand",
+    "content": "Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools Google Launches Gemini Omni to Fill Gap Left by OpenAI's Sora, Expands AI Creation Tools Google unveiled Gemini Omni, a create-anything AI model that generates and edits clips from mixed inputs, as demand",
+    "source": "Bhaswati Guha Majumder",
+    "date": "2026-05-23",
+    "url": "https://www.ibtimes.sg/google-launches-gemini-omni-fill-gap-left-by-openais-sora-expands-ai-creation-tools-86829",
+    "category": "Models",
+    "image": "https://data.ibtimes.sg/en/full/89138/google-launched-gemini-omni-multimodal-ai-model-creating-editing-clips-text-images-audio.jpg?w=1200&h=630?q=60"
+  },
+  {
     "title": "Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026",
     "summary": "Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 news Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 Anthropic readies Mythos-1 for Claude Code and Claude Security:",
     "content": "Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 news Mythos-1 in Claude Code and Claude Security: Anthropic Readies the Most Powerful Cyber Frontier Model of 2026 Anthropic readies Mythos-1 for Claude Code and Claude Security:",
@@ -48,15 +58,5 @@
     "url": "https://pasqualepillitteri.it/en/news/3276/anthropic-mythos-1-claude-code-claude-security-launch",
     "category": "Models",
     "image": "https://pasqualepillitteri.it/uploads/img/news/anthropic-mythos-1-claude-code-security-cover.webp"
-  },
-  {
-    "title": "Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model",
-    "summary": "Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model news Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model A 59.8 MB source map mistakenly published in the Claude Code npm package exposes 512,000 lines and internal references to Sonnet 4.8.",
-    "content": "Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model news Claude Sonnet 4.8: The 512,000-Line Leak Reveals Anthropic's Next Model A 59.8 MB source map mistakenly published in the Claude Code npm package exposes 512,000 lines and internal references to Sonnet 4.8. 24/05",
-    "source": "Pasquale Pillitteri",
-    "date": "2026-05-24",
-    "url": "https://pasqualepillitteri.it/en/news/3286/claude-sonnet-4-8-leak-anthropic-512000-lines",
-    "category": "Models",
-    "image": "https://pasqualepillitteri.it/uploads/img/news/claude-sonnet-4-8-leak-cover.webp"
   }
 ]
