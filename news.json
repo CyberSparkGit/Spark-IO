@@ -1,56 +1,62 @@
 [
   {
-    "title": "Google Launches Gemini 3.5 Flash and Gemini Spark at I/O 2026",
-    "summary": "Google unveiled Gemini 3.5 Flash at I/O 2026 — a frontier-grade agentic model four times faster than competing frontier models — alongside Gemini Spark, a new 24/7 personal AI agent.",
-    "content": "Google introduced Gemini 3.5 Flash at I/O 2026, describing it as their most capable agentic and coding model yet, outperforming Gemini 3.1 Pro on benchmarks including Terminal-Bench 2.1 (76.2%) and MCP Atlas (83.6%) while processing tokens four times faster than other frontier models. The model is immediately available to billions of users globally via the Gemini app, AI Mode in Search, and the Antigravity developer platform. Gemini 3.5 Flash now powers Gemini Spark, a new 24/7 personal AI agent that runs in Google Cloud and continues working in the background even when devices are powered off. Enterprise partners including Shopify, Macquarie Bank, Salesforce, and Xero are already piloting the model for complex multi-week autonomous workflows. Google also confirmed that Gemini 3.5 Pro is in internal testing and expected to roll out next month.",
-    "source": "Google Blog",
-    "date": "2026-05-19",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "category": "Models"
+    "title": "Elon Musk's xAI Releases Grok V9-Medium in 2-3 Weeks: What the 1.5 Trillion Parameter Model Means for Coding",
+    "summary": "Elon Musk's xAI Releases Grok V9-Medium in 2-3 Weeks: What the 1.5 Trillion Parameter Model Means for Coding | FrontierNews.ai i 🔍Search Breaking News Moore's Law Is Dying. Here's What Comes Next, According to Huawei and NVIDIA Large Language Models·1h ago Why Grok Is Winning the A",
+    "content": "Elon Musk's xAI Releases Grok V9-Medium in 2-3 Weeks: What the 1.5 Trillion Parameter Model Means for Coding | FrontierNews.ai i 🔍Search Breaking News Moore's Law Is Dying. Here's What Comes Next, According to Huawei and NVIDIA Large Language Models·1h ago Why Grok Is Winning the A",
+    "source": "FrontierNews.ai",
+    "date": "2026-05-25",
+    "url": "https://www.frontiernews.ai/news/article/elon-musks-xai-releases-grok-v9-medium-in-2-3-week-b0e47083",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=Elon%20Musk%27s%20xAI%20Releases%20Grok%20V9-Medium%20in%202-3%20Weeks%3A%20What%20the%201.5%20Trillion%20Parameter%20Model%20Means%20for%20Coding&topic=Notable%20People"
   },
   {
-    "title": "OpenAI Model Autonomously Disproves 80-Year-Old Erdős Math Conjecture",
-    "summary": "An OpenAI general-purpose reasoning model produced a complete 125-page proof disproving the Erdős planar unit distance conjecture, marking the first time AI has autonomously solved a prominent open problem in mathematics.",
-    "content": "On May 20, 2026, OpenAI announced that an internal general-purpose reasoning model had autonomously disproved the Erdős planar unit distance conjecture — an 80-year-old problem in discrete geometry first posed in 1946 — without specialized math training or step-by-step human guidance. The model identified a novel connection between algebraic number theory and combinatorial geometry that human mathematicians had not discovered in eight decades, applying the Golod-Shafarevich criterion to construct infinite families of point arrangements achieving a polynomial improvement (n^(1+0.014)) over the previously accepted near-linear upper bound. Fields medalist Tim Gowers, Princeton combinatorialist Noga Alon, and mathematician Will Sawin independently verified the proof, with Sawin writing a companion paper quantifying the new bound. Alon described the cross-field synthesis as 'a great surprise' — the tools were well-known to algebraic number theorists but had never been linked to Euclidean geometry problems. OpenAI called it 'the first time AI has autonomously solved a prominent open problem central to a field of mathematics.'",
-    "source": "OpenAI",
-    "date": "2026-05-20",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "category": "Models"
+    "title": "Grok Build turns xAI into an AI coding-agent contender",
+    "summary": "Grok Build turns xAI into an AI coding-agent contender | TECHi Grok Build turns xAI into an AI coding-agent contender Reviewed by Fatimah Misbah Hussain Fact-checked by Muhammad Zeshan Sarwar May 25, 2026 · 9:42 PM EDT8 minute read Share Disclosure Follow on Google News Image: Grok Build te",
+    "content": "Grok Build turns xAI into an AI coding-agent contender | TECHi Grok Build turns xAI into an AI coding-agent contender Reviewed by Fatimah Misbah Hussain Fact-checked by Muhammad Zeshan Sarwar May 25, 2026 · 9:42 PM EDT8 minute read Share Disclosure Follow on Google News Image: Grok Build te",
+    "source": "techi.com",
+    "date": "2026-05-26",
+    "url": "https://www.techi.com/grok-build-xai-coding-agent/",
+    "category": "Models",
+    "image": "https://www.techi.com/api/media/file/grok-build-terminal-agent-techi-hero-1200x630.png"
   },
   {
-    "title": "Pentagon Blacklisted Anthropic, But the NSA Is Using Claude Anyway",
-    "summary": "Despite officially designating Anthropic a national security supply chain threat, the White House authorized the NSA to continue using Claude due to a critical AI chip shortage, while approving a secret $9 billion emergency fund to build classified AI infrastructure.",
-    "content": "The White House chief of staff authorized the NSA to keep using an advanced Anthropic model even though the Pentagon had officially blacklisted the company as a national security supply chain risk — a contradiction driven entirely by the absence of viable hardware alternatives on classified government networks. The waiver was forced by a critical shortage of the advanced semiconductors needed to run frontier AI models on top-secret infrastructure, leaving intelligence agencies unable to test or deploy domestic alternatives at scale. Alongside the authorization, the White House approved a secret $9 billion emergency funding request to help the CIA and NSA secure Nvidia Grace Blackwell superchip infrastructure, with $800 million immediately redirected from existing government budgets to begin purchasing capacity. The situation exposes a structural flaw in U.S. AI supply chain policy: when frontier model capability is concentrated in a handful of private companies and the hardware to run alternatives does not exist, the government's control over its own AI supply chain disappears. The planned classified data centers, once operational, would allow intelligence agencies to run any model they choose — but until then, the chip shortage has effectively made the choice for them.",
-    "source": "The Next Web",
+    "title": "Google debuts \"Gemini Omni\" world model unifying reasoning and video creation",
+    "summary": "Google debuts \"Gemini Omni\" world model unifying reasoning and video creation top of page LATEST NEWS Google has completely unified its creative artificial intelligence ecosystem, unveiling Gemini Omni, a new family of \"any-to-any\" multimodal models, at its annual Google I/O 2026 developer confer",
+    "content": "Google debuts \"Gemini Omni\" world model unifying reasoning and video creation top of page LATEST NEWS Google has completely unified its creative artificial intelligence ecosystem, unveiling Gemini Omni, a new family of \"any-to-any\" multimodal models, at its annual Google I/O 2026 developer confer",
+    "source": "technewshub.co.uk",
+    "date": "2026-05-25",
+    "url": "https://www.technewshub.co.uk/post/google-debuts-gemini-omni-world-model-unifying-reasoning-and-video-creation",
+    "category": "Models",
+    "image": "https://static.wixstatic.com/media/dd637d_5203a874fc53494bb5e6c51d2122df57~mv2.jpg/v1/fill/w_1000,h_567,al_c,q_85,usm_0.66_1.00_0.01/dd637d_5203a874fc53494bb5e6c51d2122df57~mv2.jpg"
+  },
+  {
+    "title": "Google DeepMind's Omar Sanseviero: Small Open Models Now Match Frontier AI From 18 Months Ago — BigGo Finance",
+    "summary": "Google DeepMind's Omar Sanseviero: Small Open Models Now Match Frontier AI From 18 Months Ago — BigGo Finance Google DeepMind's Omar Sanseviero: Small Open Models Now Match Frontier AI From 18 Months Ago Google DeepMind has shipped Gemma 4, an open-weight model family that compresses what fronti",
+    "content": "Google DeepMind's Omar Sanseviero: Small Open Models Now Match Frontier AI From 18 Months Ago — BigGo Finance Google DeepMind's Omar Sanseviero: Small Open Models Now Match Frontier AI From 18 Months Ago Google DeepMind has shipped Gemma 4, an open-weight model family that compresses what fronti",
+    "source": "finance.biggo.com",
+    "date": "2026-05-25",
+    "url": "https://finance.biggo.com/news/cb993168082e6556",
+    "category": "Industry",
+    "image": "https://img.biggo.com/UcRkDN-d7qiomuELeu_m87qa3KTGV5t4LAad8QTnssk/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA1L2NiOTkzMTY4MDgyZTY1NTZfMTc3OTczMDc1OV9jb3Zlci5qcGc.jpg"
+  },
+  {
+    "title": "Musk: The Grok V9-Medium model with 1.5 trillion parameters is expected to be released in two to three weeks.",
+    "summary": "Musk: The Grok V9-Medium model with 1.5 trillion parameters is expected to be released in two to three weeks. PA一线 PANews reported on May 25th that Elon Musk posted that xAI has completed training of the Grok foundation model V9-Medium (1.5T parameters) and is currently fine-tuning it.",
+    "content": "Musk: The Grok V9-Medium model with 1.5 trillion parameters is expected to be released in two to three weeks. PA一线 PANews reported on May 25th that Elon Musk posted that xAI has completed training of the Grok foundation model V9-Medium (1.5T parameters) and is currently fine-tuning it. Reinfor",
+    "source": "panewslab.com",
+    "date": "2026-05-25",
+    "url": "https://www.panewslab.com/en/articles/019e5e87-84da-70a9-ab8e-da7f57f75779",
+    "category": "Models",
+    "image": "https://image.panewslab.com/images/logo1.jpg"
+  },
+  {
+    "title": "Claude Opus 4.7 Launches with Cyber Safeguards",
+    "summary": "Claude Opus 4.7 Launches with Cyber Safeguards Engine Score 7/10 — Important tier-1 analysis - Anthropic released Claude Opus 4.7 to general availability on May 22, 2026. - Opus 4.7 improves over Opus 4.6 on the hardest software-engineering tasks, complex long-running tasks, and self-verification",
+    "content": "Claude Opus 4.7 Launches with Cyber Safeguards Engine Score 7/10 — Important tier-1 analysis - Anthropic released Claude Opus 4.7 to general availability on May 22, 2026. - Opus 4.7 improves over Opus 4.6 on the hardest software-engineering tasks, complex long-running tasks, and self-verification",
+    "source": "megaoneai.com",
     "date": "2026-05-24",
-    "url": "https://thenextweb.com/news/us-government-chip-shortage-anthropic-nsa-9-billion",
-    "category": "Policy"
-  },
-  {
-    "title": "EU Reaches Deal to Simplify AI Act, Bans AI-Generated Non-Consensual Intimate Content",
-    "summary": "EU Parliament and Council reached a provisional agreement on the Digital Omnibus on AI, extending compliance deadlines for high-risk AI systems and banning AI tools that generate non-consensual intimate images.",
-    "content": "On May 7, 2026, European Parliament and Council negotiators reached a provisional agreement on the Digital Omnibus on AI, introducing the first set of targeted amendments to the EU AI Act since its adoption in June 2024. The deal postpones obligations for standalone high-risk AI systems from August 2026 to December 2027, and for AI embedded in safety-critical products to August 2028, giving businesses more time to comply while technical standards are finalized. A new prohibition bans AI systems that generate non-consensual intimate images or child sexual abuse material, with compliance required by December 2026; the same deadline applies to new watermarking obligations requiring AI-generated content to carry machine-readable labels. The agreement removes overlapping requirements between the AI Act and EU machinery safety laws, streamlines SME exemptions for small mid-cap companies, and expands access to regulatory sandboxes including an EU-level testing environment. Both the European Parliament and Council must formally adopt the deal before August 2026 to prevent legal uncertainty as existing rules take effect.",
-    "source": "European Parliament",
-    "date": "2026-05-07",
-    "url": "https://www.europarl.europa.eu/news/en/press-room/20260427IPR42011/ai-act-deal-on-simplification-measures-ban-on-nudifier-apps",
-    "category": "Policy"
-  },
-  {
-    "title": "Figma Launches Native Design Agent Directly on the Canvas",
-    "summary": "Figma launched a purpose-built design agent embedded directly on the canvas, giving designers AI assistance with deep access to their design systems, components, and tokens without leaving their workflow.",
-    "content": "Figma launched its native design agent on May 20, 2026, bringing AI assistance directly onto the design canvas for the first time — with deep contextual access to each team's components, tokens, design system standards, and best practices in ways third-party tools cannot achieve. Unlike external AI tools that require context-switching, the agent lives in the same file as the team, allowing designers to prompt from any design layer, run parallel prompts to explore multiple directions at once, and continue making manual edits while the agent iterates simultaneously. Key workflows include generating multiple stylistic directions in parallel, automating bulk edits like variable renaming and component swapping across entire flows, and distilling stakeholder feedback from comment threads into actionable design revisions. The agent is fine-tuned specifically for editing Figma files, steering outputs toward a team's own components and design tokens rather than generic AI outputs. It is rolling out in beta to Professional, Organization, and Enterprise plan users, with AI credits applying at general availability.",
-    "source": "Figma Blog",
-    "date": "2026-05-20",
-    "url": "https://www.figma.com/blog/the-figma-agent-is-here/",
-    "category": "Tools"
-  },
-  {
-    "title": "Alibaba's Qwen3.7-Max Ran Autonomously for 35 Hours to Optimize Its Own Chip's Code",
-    "summary": "Alibaba released Qwen3.7-Max, a proprietary agentic model that worked nonstop for 35 hours to optimize a hardware kernel for Alibaba's custom chip, achieving a 10x speedup without human intervention.",
-    "content": "Alibaba's Qwen team released Qwen3.7-Max, a proprietary model designed for long-horizon autonomous tasks, available exclusively through the Alibaba Cloud Model Studio API. In a flagship benchmark, the model ran for 35 hours straight — with no prior exposure to the chip architecture, no hardware documentation, and no sample code — to optimize an attention kernel for Alibaba's T-Head custom accelerator, making 1,158 tool calls and achieving an average 10x speedup over the reference implementation, while competing models like GLM 5.1 (7.3x), Kimi K2.6 (5x), and DeepSeek V4 Pro (3.3x) all fell significantly short. The model was trained to maintain consistent performance across different agent frameworks, including Claude Code, OpenClaw, and Qwen Code, and also served as a watchdog during its own training process — running for over 86 hours to detect reward-hacking behaviors and flagging 1,618 violation cases across nearly 14,000 training trajectories. On standardized benchmarks including SWE-Verified (80.4) and GPQA Diamond (92.4), Qwen3.7-Max closely matches Claude Opus 4.6 Max and DeepSeek V4 Pro Max across coding, reasoning, and multi-step agentic tasks. The release marks a continued push by Alibaba toward fully autonomous AI agents capable of sustained, unsupervised work on complex engineering problems.",
-    "source": "The Decoder",
-    "date": "2026-05-23",
-    "url": "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
-    "category": "Models"
+    "url": "https://megaoneai.com/launches/claude-opus-4-7-launch-cyber-safeguards/",
+    "category": "Models",
+    "image": "https://megaoneai.com/wp-content/uploads/2026/05/claude-opus-4-7-launch-cyber-safeguards-1024x538.webp"
   }
 ]
