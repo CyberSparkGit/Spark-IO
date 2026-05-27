@@ -1,56 +1,62 @@
 [
   {
-    "title": "Alibaba Unveils Qwen 3.7 Max at Inaugural Singapore Conference",
-    "summary": "Alibaba Cloud launched its flagship Qwen 3.7-Max model with over one trillion parameters and a one-million-token context window, capable of running autonomously for 35 hours without performance degradation.",
-    "content": "At its inaugural international Qwen Conference in Singapore, Alibaba Cloud unveiled Qwen 3.7-Max, a proprietary model boasting over one trillion parameters and a one-million-token context window tailored for agentic workflows. According to Alibaba Cloud's solution architect director Ken Xu, the model 'can run by itself for 35 hours autonomously without any performance degradation' and ranks among the top models on the Artificial Analysis Intelligence Index, closing the gap between Eastern and Western AI systems. Alongside the model, Alibaba launched Qwen Cloud — an AI-native platform for both human users and AI agents — plus the JVS Agent Suite for enterprise deployments and a new skills portal supporting over 60 cloud products in MCP-compatible formats. The company also struck a tripartite initiative with Singapore's NTUC and ST Telemedia to equip 1,000+ SMEs and students with agentic AI skills starting June 2026. Alibaba's CTO Li Fei Fei framed the launch boldly: 'A workforce of agents has arrived — an orders-of-magnitude more productive, indefinitely more available workforce at the fingertips of human civilisation.'",
-    "source": "Computer Weekly",
+    "title": "xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code",
+    "summary": "xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code | Metaverse Post xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code In Brief xAI launches Grok Build, a beta coding agent for professional developers, available to SuperGrok and X Premium+ users.",
+    "content": "xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code | Metaverse Post xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code In Brief xAI launches Grok Build, a beta coding agent for professional developers, available to SuperGrok and X Premium+ users. Fe",
+    "source": "Alisa Davidson",
     "date": "2026-05-26",
-    "url": "https://www.computerweekly.com/news/366643330/Alibaba-unveils-Qwen-37-Max-at-inaugural-Singapore-conference",
-    "category": "Models"
+    "url": "https://mpost.io/xai-launches-grok-build-beta-taking-aim-at-openai-codex-and-claude-code/",
+    "category": "Models",
+    "image": "https://mpost.io/wp-content/uploads/IMG_8500.jpg"
   },
   {
-    "title": "Anthropic's Claude Mythos Moves Toward Staged Commercial Release",
-    "summary": "Source code strings and UI screenshots reveal Anthropic is preparing 'Mythos 1' for integration into Claude Code and a new Claude Security dashboard, marking a shift from the model's previously indefinite restriction.",
-    "content": "Anthropic is moving toward a staged commercial rollout of Claude Mythos, its most powerful and previously restricted AI model, with source code strings referencing 'claude-mythos-1-preview' and an access description reading: 'Access to the Claude Mythos model in Claude Code and Claude Security.' The model first became public in late March 2026 after a CMS leak exposed internal assets describing it as 'by far the most powerful AI model we've ever developed,' after which Anthropic launched Project Glasswing — a restricted defensive cybersecurity initiative with 40+ partner organizations including AWS, Apple, Google, and Microsoft — where Mythos identified more than 10,000 high- or critical-severity vulnerabilities in open-source software within weeks. A screenshot shared by researcher Testingcatalogue briefly showed the Mythos 1 model label appearing in the Claude UI before disappearing, confirming active product preparation. Structural work is underway on a redesigned Claude Security dashboard with automated background scans, on-demand scans, and AI-generated pull requests proposing vulnerability patches for human review. As of May 22, 2026, Anthropic's coordinated vulnerability disclosure dashboard shows 1,596 vulnerabilities disclosed across 281 open-source projects, with 97 patched to date.",
-    "source": "CyberPress",
+    "title": "Exa raised $250M at $2.2B the morning after Google killed the search box: Is the timing a coincidence? — TFN",
+    "summary": "Exa raised $250M at $2.2B the morning after Google killed the search box: Is the timing a coincidence? — TFN May 27, 2026 Anthropic’s top 10 hires of 2026 as it lures talent from OpenAI, Google, xAI and Microsoft May 27, 2026 ‘A shot in the arm for UK tech’: British Business Bank anchors",
+    "content": "Exa raised $250M at $2.2B the morning after Google killed the search box: Is the timing a coincidence? — TFN May 27, 2026 Anthropic’s top 10 hires of 2026 as it lures talent from OpenAI, Google, xAI and Microsoft May 27, 2026 ‘A shot in the arm for UK tech’: British Business Bank anchors",
+    "source": "Akansha Dimri",
     "date": "2026-05-26",
-    "url": "https://cyberpress.org/claude-mythos-expansion-planned/",
-    "category": "Models"
+    "url": "https://techfundingnews.com/exa-raised-250m-at-2-2b-the-morning-after-google-killed-the-search-box-is-the-timing-a-coincidence/",
+    "category": "Policy",
+    "image": "https://techfundingnews.com/wp-content/uploads/2026/05/Exa-team.jpg"
   },
   {
-    "title": "Google Expands SynthID Watermarking to OpenAI, Kakao, and ElevenLabs",
-    "summary": "Google convinced direct competitors OpenAI, Kakao, and ElevenLabs to adopt its SynthID AI watermarking technology, marking a rare moment of cross-industry collaboration on AI content authenticity.",
-    "content": "At Google I/O 2026, Google announced that rivals OpenAI, Kakao, and ElevenLabs are integrating SynthID — its imperceptible AI watermarking technology — into their own platforms, representing a rare moment of cross-industry alignment on proving whether content was made by a human or a machine. SynthID has already been applied to over 100 billion images and videos globally, with audio watermarking covering the equivalent of 60,000 years of content; crucially, the signals survive common editing operations like cropping and compression. OpenAI is specifically integrating SynthID into images generated through ChatGPT, Codex, and its API, and is previewing a public verification tool that would let anyone check whether an image carries a SynthID watermark. Google is also integrating SynthID alongside C2PA Content Credentials verification directly into Google Search, Chrome, and the Gemini app, meaning users could soon see real-time indicators showing whether content is AI-generated as they browse the web. The strategic implication is significant: by freely sharing the technology with competitors, Google positions SynthID as the industry-standard watermarking layer — and if it succeeds, Google will effectively control the verification protocol for AI-generated content across the industry.",
-    "source": "CryptoBriefing",
+    "title": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored",
+    "summary": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored - AIScroll GPT-5.6 has surfaced in OpenAI's Codex logs under the codename 'iris-alpha,' featuring a 1.5-million-token context window and sparking rumors of an early June release, though the developer has not officially confirmed the model.",
+    "content": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored - AIScroll GPT-5.6 has surfaced in OpenAI's Codex logs under the codename 'iris-alpha,' featuring a 1.5-million-token context window and sparking rumors of an early June release, though the developer has not officially confirmed the model. GPT-5.6, t",
+    "source": "aiscroll.io",
     "date": "2026-05-26",
-    "url": "https://cryptobriefing.com/google-synthid-watermarking-openai-partnerships/",
-    "category": "Industry"
+    "url": "https://aiscroll.io/article/openai/gpt-5-6-iris-june-launch-leak/",
+    "category": "Models",
+    "image": "https://aiscroll.io/assets/images/tech/ai/gpt-5-6-iris-june-launch-leak/thumbnail.webp"
   },
   {
-    "title": "Microsoft Copilot Studio Computer-Use Agents Hit General Availability",
-    "summary": "Microsoft became the first major platform to ship computer-use AI agents at enterprise production scale, letting Copilot Studio agents navigate any graphical interface — including legacy systems with no API — the same way a human would.",
-    "content": "Microsoft Copilot Studio's computer-use agents reached general availability on May 13, making Microsoft the first major platform to ship the capability at enterprise production scale — ahead of Anthropic's Claude Computer Use (still in paid-plan beta) and Google's Gemini Computer Use (in public preview). The agents can interact with any application that has a graphical interface, clicking buttons, selecting menus, and typing into fields, which finally enables automation of legacy systems that have no API — a longstanding gap in enterprise workflow automation. The GA release added model choice across OpenAI and Anthropic (including Claude Sonnet 4.5), Azure Key Vault credential storage, Microsoft Purview audit log propagation, and Windows 365 Cloud PC pool support for isolated execution environments. Human-in-the-loop checkpoints can be configured for approval steps, and full session replay plus DLP policies extend from the existing Power Platform governance stack, giving enterprises the compliance-grade logging needed for production deployment. Pricing runs on Copilot Credits at roughly $0.04 per step, making it practical for high-frequency, no-API workflows like invoice processing through vendor portals, updating records in legacy systems, and pulling data from internal tools that predate modern integration standards.",
-    "source": "TechHQ",
+    "title": "Google DeepMind’s AlphaProof Nexus Solves Erdős Problems as AI Math Race Moves Beyond Benchmarks",
+    "summary": "Google DeepMind’s AlphaProof Nexus Solves Erdős Problems as AI Math Race Moves Beyond Benchmarks Search Companies, AI Divisions, Projects, Labs Chatbots, AI Assistants, AI Solutions - Windows 10 - Windows 11 - Microsoft Azure - Google Cloud - Amazon Web Services (AWS) - Salesforce Search Go",
+    "content": "Google DeepMind’s AlphaProof Nexus Solves Erdős Problems as AI Math Race Moves Beyond Benchmarks Search Companies, AI Divisions, Projects, Labs Chatbots, AI Assistants, AI Solutions - Windows 10 - Windows 11 - Microsoft Azure - Google Cloud - Amazon Web Services (AWS) - Salesforce Search Go",
+    "source": "Markus Kasanmascheff",
     "date": "2026-05-26",
-    "url": "https://techhq.com/news/microsoft-copilot-studio-computer-use-agents-enterprise/",
-    "category": "Tools"
+    "url": "https://winbuzzer.com/2026/05/26/google-deepmind-says-alphaproof-nexus-is-still-not-agi-xcxwbn/",
+    "category": "Tools",
+    "image": "https://winbuzzer.com/wp-content/uploads/2025/01/Google-DeepMind.jpg"
   },
   {
-    "title": "EU Strikes Deal on AI Act Simplification and Ban on Nudifier Apps",
-    "summary": "EU Parliament and Council negotiators reached a provisional deal to simplify the AI Act, delay high-risk AI obligations to 2027–2028, and introduce new bans on AI systems that generate non-consensual intimate imagery.",
-    "content": "EU Parliament and Council negotiators reached a provisional deal on May 7, 2026 to amend the AI Act as part of the Digital Omnibus package, postponing high-risk AI system obligations to December 2027 for standalone systems and August 2028 for AI embedded in products — giving businesses substantially more time to achieve compliance. The deal explicitly bans AI systems that generate non-consensual sexually explicit content or child sexual abuse material, including AI 'nudification' apps, with companies required to bring their systems into compliance by December 2026. Additional simplifications include removing overlapping requirements for AI in machinery products, narrowing the definition of 'safety component' to avoid automatically triggering high-risk obligations for performance-optimization AI, and extending SME exemptions to small mid-cap enterprises. The agreement also accelerates AI-generated content watermarking requirements, moving the deadline to December 2026, and streamlines enforcement of general-purpose AI systems within the EU AI Office. Co-rapporteur Arba Kokalari said the deal 'makes AI rules more workable in practice, removes overlaps and pauses the high-risk requirements' to help Europe become an AI continent while preserving citizen protections.",
-    "source": "European Parliament",
-    "date": "2026-05-07",
-    "url": "https://www.europarl.europa.eu/news/en/press-room/20260427IPR42011/ai-act-deal-on-simplification-measures-ban-on-nudifier-apps",
-    "category": "Policy"
+    "title": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens_网络游戏新闻_17173.com中国游戏门户站",
+    "summary": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens_网络游戏新闻_17173.com中国游戏门户站 17173>游戏资讯> 科技新闻 > 正文 OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens 2026-05-26 08:06:56 神评论 17173 新闻导语 GPT-5.6模型下月发布！上下文窗口高达150万token，处理超长文本能力飙升，还能生成商用级前端界面，AI能力迎来重大突破。 感谢网友 刺客 的线索投递！ 5 月 26 日消息，多名开发者在 OpenAI Codex 后端日志中发现未官",
+    "content": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens_网络游戏新闻_17173.com中国游戏门户站 17173>游戏资讯> 科技新闻 > 正文 OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens 2026-05-26 08:06:56 神评论 17173 新闻导语 GPT-5.6模型下月发布！上下文窗口高达150万token，处理超长文本能力飙升，还能生成商用级前端界面，AI能力迎来重大突破。 感谢网友 刺客 的线索投递！ 5 月 26 日消息，多名开发者在 OpenAI Codex 后端日志中发现未官",
+    "source": "www.17173.com",
+    "date": "2026-05-26",
+    "url": "https://news.17173.com/content/05262026/080656137.shtml",
+    "category": "Models",
+    "image": "https://ue.17173cdn.com/a/news/final/2014/img/logo-news.png"
   },
   {
-    "title": "Stanford HAI 2026 AI Index: Capability Accelerating, Responsible AI Lagging",
-    "summary": "Stanford HAI's 2026 AI Index finds AI capability is definitively accelerating — not plateauing — with organizational adoption at 88%, coding benchmarks near 100%, and generative AI reaching population-level adoption faster than the PC or internet.",
-    "content": "Stanford HAI's 2026 AI Index Report reveals that AI capability is definitively accelerating: industry produced over 90% of notable frontier models in 2025, several models now exceed human baselines on PhD-level science questions, and SWE-bench Verified coding benchmark performance rose from 60% to near 100% in a single year. Generative AI reached 53% population adoption within three years — faster than the PC or the internet — and the estimated value of generative AI tools to U.S. consumers reached $172 billion annually by early 2026, with the median value per user tripling between 2025 and 2026. The U.S.-China AI performance gap has effectively closed, with models from both countries trading the top position multiple times since early 2025, while U.S. private AI investment reached $285.9 billion in 2025 — over 23 times China's recorded private investment. A major concern is that responsible AI is not keeping pace with capability: documented AI incidents rose to 362 in 2025 (up from 233 in 2024), and the report finds that improving one responsible AI dimension like safety can degrade another like accuracy. The report also flags a talent risk: the number of AI researchers and developers moving to the U.S. has dropped 89% since 2017, with an 80% decline in the last year alone.",
-    "source": "Stanford HAI",
-    "date": "2026-05-01",
-    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
-    "category": "Trends"
+    "title": "Anthropic Says That Mythos Has Also Solved The 80-Year-Old Planar Unit Distance Problem Solved By OpenAI",
+    "summary": "Anthropic Says That Mythos Has Also Solved The 80-Year-Old Planar Unit Distance Problem Solved By OpenAI OpenAI had generated plenty of buzz by coming up with a breakthrough for an 80-year-old Erdős problem, but Anthropic now says that it has also come up with a solution with its Mythos model.",
+    "content": "Anthropic Says That Mythos Has Also Solved The 80-Year-Old Planar Unit Distance Problem Solved By OpenAI OpenAI had generated plenty of buzz by coming up with a breakthrough for an 80-year-old Erdős problem, but Anthropic now says that it has also come up with a solution with its Mythos model. An",
+    "source": "OfficeChai Team",
+    "date": "2026-05-26",
+    "url": "https://officechai.com/ai/anthropic-says-that-mythos-has-also-solved-the-80-year-old-planar-unit-distance-problem-solved-by-openai/",
+    "category": "Industry",
+    "image": "http://officechai.com/wp-content/uploads/2025/05/MixCollage-23-May-2025-11-48-AM-8483.jpg"
   }
 ]
