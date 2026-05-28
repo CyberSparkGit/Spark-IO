@@ -10,14 +10,24 @@
     "image": "https://mpost.io/wp-content/uploads/IMG_8500.jpg"
   },
   {
-    "title": "GPT-5.6 Rumor: What a 1.5 Million Token Context Window Would Mean",
-    "summary": "GPT-5.6 Rumor: What a 1.5 Million Token Context Window Would Mean On May 26, 2026, rumors claimed that several developers had found traces of the still-unannounced GPT-5.6 in OpenAI Codex backend logs. One internal code name was reportedly`iris-alpha`, said to support a 1.5 million token context wi",
-    "content": "GPT-5.6 Rumor: What a 1.5 Million Token Context Window Would Mean On May 26, 2026, rumors claimed that several developers had found traces of the still-unannounced GPT-5.6 in OpenAI Codex backend logs. One internal code name was reportedly`iris-alpha`, said to support a 1.5 million token context wi",
-    "source": "knightli.com",
+    "title": "Claude Managed Agents: Dreaming Arrives for Production",
+    "summary": "Claude Managed Agents: Dreaming Arrives for Production | byteiota Production AI agents have a well-known failure mode: they forget. An agent learns a workaround in one session and has no memory of it in the next, so the same job fails the same way, indefinitely.",
+    "content": "Claude Managed Agents: Dreaming Arrives for Production | byteiota Production AI agents have a well-known failure mode: they forget. An agent learns a workaround in one session and has no memory of it in the next, so the same job fails the same way, indefinitely. On May 6, Anthropic shipped three fe",
+    "source": "ByteBot",
     "date": "2026-05-27",
-    "url": "https://knightli.com/en/2026/05/27/gpt-5-6-rumor-1-5m-context-window/",
+    "url": "https://byteiota.com/claude-managed-agents-dreaming-production/",
     "category": "Models",
-    "image": "https://knightli.com/img/avatar_hu_9fb47e5b83758359.png"
+    "image": "https://byteiota.com/wp-content/uploads/2026/05/featured-image-510.jpg"
+  },
+  {
+    "title": "GPT-5.6 Leak News: 1.5M Context, UI Breakthrough, June 2026",
+    "summary": "GPT-5.6 Leak News: 1.5M Context, UI Breakthrough, June 2026 ↓ content Roughly three weeks after GPT-5.5 shipped, developers reported a new string in OpenAI Codex rollout logs:`gpt-5.6`. Community threads tie the checkpoint to the internal codename iris-alpha, a 1.5 million token conte",
+    "content": "GPT-5.6 Leak News: 1.5M Context, UI Breakthrough, June 2026 ↓ content Roughly three weeks after GPT-5.5 shipped, developers reported a new string in OpenAI Codex rollout logs:`gpt-5.6`. Community threads tie the checkpoint to the internal codename iris-alpha, a 1.5 million token conte",
+    "source": "ChatGPT News Today",
+    "date": "2026-05-27",
+    "url": "https://ai-news-today.github.io/chatgpt/en/articles/gpt-5-6-leak-iris-alpha-2026/",
+    "category": "Models",
+    "image": "https://ai-news-today.github.io/chatgpt/images/og-default.webp"
   },
   {
     "title": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored",
@@ -40,23 +50,13 @@
     "image": "https://the-decoder.com/wp-content/uploads/2026/05/google_deepmind_alpha_evolve_llm_math.png"
   },
   {
-    "title": "Suspended officials, fake references and ChatGPT: Inside SA's AI policy fiasco",
-    "summary": "Suspended officials, fake references and ChatGPT: Inside SA's AI policy fiasco Suspended officials, fake references and ChatGPT: Inside SA's AI policy fiasco Theolin Tembo|Published 23 hours ago 4min Minister of Communications and Digital Technologies Solly Malatsi.",
-    "content": "Suspended officials, fake references and ChatGPT: Inside SA's AI policy fiasco Suspended officials, fake references and ChatGPT: Inside SA's AI policy fiasco Theolin Tembo|Published 23 hours ago 4min Minister of Communications and Digital Technologies Solly Malatsi. Image: Facebook/Department",
-    "source": "iol.co.za",
+    "title": "Anthropic's Colossus Deal Reveals AI’s Hard Limit",
+    "summary": "Anthropic's Colossus Deal Reveals AI’s Hard Limit Anthropic’s SpaceX Data Center Deal Shows How Compute Became the New AI Bottleneck by | May 27, 2026 | Technology (Above) A photo shown at Nvidia’s 2026 conference in San Jose, California, shows the inside of a data center under construction.",
+    "content": "Anthropic's Colossus Deal Reveals AI’s Hard Limit Anthropic’s SpaceX Data Center Deal Shows How Compute Became the New AI Bottleneck by | May 27, 2026 | Technology (Above) A photo shown at Nvidia’s 2026 conference in San Jose, California, shows the inside of a data center under construction.",
+    "source": "John McClane",
     "date": "2026-05-27",
-    "url": "https://iol.co.za/news/south-africa/2026-05-27-suspended-officials-fake-references-and-chatgpt-inside-sas-ai-policy-fiasco/",
-    "category": "Models",
-    "image": "https://iol-prod.appspot.com/image/5cfc63161aae3a8634c9d9840da22fa224060c3d/1000/jpeg"
-  },
-  {
-    "title": "Anthropic Prepares Claude Mythos for Wider Release",
-    "summary": "Anthropic Prepares Claude Mythos for Wider Release | Let's Data Science Feedback Anthropic Prepares Claude Mythos for Wider Release | Let's Data Science main-content) [ ![LDS Logo LDS Let's Data ScienceLEARN • BUILD • STAY AHEAD ](https",
-    "content": "Anthropic Prepares Claude Mythos for Wider Release | Let's Data Science Feedback Anthropic Prepares Claude Mythos for Wider Release | Let's Data Science LDS Logo LDS Let's Data ScienceLEARN • BUILD • STAY AHEAD ](https",
-    "source": "Let's Data Science",
-    "date": "2026-05-26",
-    "url": "https://letsdatascience.com/news/anthropic-prepares-claude-mythos-for-wider-release-9d546366",
-    "category": "Models",
-    "image": "https://i0.wp.com/www.itsecuritynews.info/wp-content/uploads/2023/12/cropped-itsecuritynews-512x512-1.webp?fit=32%2C32&ssl=1"
+    "url": "https://capefearbeacon.com/anthropics-spacex-data-center-deal-shows-how-compute-became-the-new-ai-bottleneck/",
+    "category": "Industry",
+    "image": "https://capefearbeacon.com/wp-content/uploads/2026/05/Build-out-of-data-Center-using-NVIDIA-DSX-as-presented-by-Jensen-Huang.jpg"
   }
 ]
