@@ -1,62 +1,62 @@
 [
   {
-    "title": "Microsoft Launches MAI-Image-2.5, Ranked Third on Arena Leaderboard",
-    "summary": "Microsoft's new MAI-Image-2.5 model debuted at third place on the Arena text-to-image leaderboard, delivering major improvements in text rendering, stylized illustration, and commercial imagery.",
-    "content": "Microsoft released MAI-Image-2.5, their strongest image generation model to date, which immediately ranked third on the Arena text-to-image leaderboard upon launch. The model represents a step change in quality over its predecessor MAI-Image-2, with particular gains in text rendering accuracy, stylized illustration, and product and branding imagery. MAI-Image-2.5 demonstrates strong visual reasoning across objects, scene structure, lighting, scale, and spatial relationships, helping users turn simple instructions into polished, professional images. The model is currently available to try on Arena, with planned rollout to the MAI Playground and Microsoft Foundry within two weeks. Microsoft described it as the latest step in the MAI-Image series, which has seen rapid capability improvements with each successive release.",
-    "source": "Microsoft AI",
+    "title": "xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code",
+    "summary": "xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code | Metaverse Post xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code In Brief xAI launches Grok Build, a beta coding agent for professional developers, available to SuperGrok and X Premium+ users.",
+    "content": "xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code | Metaverse Post xAI Rolls Out Grok Build Beta, Taking Aim At OpenAI Codex And Claude Code In Brief xAI launches Grok Build, a beta coding agent for professional developers, available to SuperGrok and X Premium+ users. Fe",
+    "source": "Alisa Davidson",
     "date": "2026-05-26",
-    "url": "https://microsoft.ai/news/mai-image-2-5-launches-at-no-3-on-arena-ai/",
+    "url": "https://mpost.io/xai-launches-grok-build-beta-taking-aim-at-openai-codex-and-claude-code/",
     "category": "Models",
-    "image": ""
+    "image": "https://mpost.io/wp-content/uploads/IMG_8500.jpg"
   },
   {
-    "title": "Cognition AI Raises $1 Billion at $26 Billion Valuation",
-    "summary": "AI coding startup Cognition AI secured over $1 billion in new funding at a $26 billion valuation, with its revenue run rate soaring from $37 million to $492 million in just one year.",
-    "content": "Cognition AI has raised more than $1 billion in a new funding round at a $26 billion valuation, more than doubling its valuation from a prior round in September 2025. The round was co-led by Lux Capital, General Catalyst, and 8VC, with participation from Ribbit Capital, Atreides Management LP, and Peter Thiel's Founders Fund. The company's revenue run rate has surged from $37 million in May 2025 to $492 million, a more than 13x increase in a single year, reflecting explosive enterprise demand for AI-powered software development tools. Cognition is the maker of Devin, an autonomous AI software engineer that independently handles coding tasks end-to-end. The raise represents one of the largest single funding rounds for an AI coding-focused startup and signals continued investor confidence in agentic developer tools.",
-    "source": "Bloomberg",
+    "title": "DeepSWE Blows Up The AI Coding Leaderboard, Crowns GPT-5.5, And Finds Claude Opus Exploiting A Benchmark Loophole",
+    "summary": "DeepSWE Blows Up The AI Coding Leaderboard, Crowns GPT-5.5, And Finds Claude Opus Exploiting A Benchmark Loophole - Cnznews For months, leading AI coding benchmarks have told enterprise buyers a comforting but misleading story: All the top models are almost the same. OpenAI’s GPT-5 family, Anthropi",
+    "content": "DeepSWE Blows Up The AI Coding Leaderboard, Crowns GPT-5.5, And Finds Claude Opus Exploiting A Benchmark Loophole - Cnznews For months, leading AI coding benchmarks have told enterprise buyers a comforting but misleading story: All the top models are almost the same. OpenAI’s GPT-5 family, Anthropi",
+    "source": "Cnznews",
     "date": "2026-05-27",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/ai-coding-startup-cognition-raises-1-billion-at-26-billion-value",
-    "category": "Industry",
-    "image": ""
+    "url": "https://cnznews.com/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole/",
+    "category": "Models",
+    "image": "https://cnznews.com/wp-content/uploads/2025/12/cropped-file_00000000aaf871fa87090269760aa896.png"
   },
   {
-    "title": "EU Reaches AI Act Omnibus Deal: High-Risk Deadlines Extended, New Bans Added",
-    "summary": "The EU Parliament and Council reached a provisional agreement to simplify the AI Act, extending compliance deadlines for high-risk AI systems and adding new explicit prohibitions on AI-generated non-consensual intimate imagery.",
-    "content": "The EU Parliament and Council have provisionally agreed on the AI Omnibus, a targeted simplification of the EU AI Act that pushes high-risk compliance deadlines back by over a year. Standalone high-risk AI systems—covering areas like employment, education, biometrics, and border control—must now comply by December 2, 2027, while AI embedded in regulated products such as medical devices and machinery faces a deadline of August 2, 2028, replacing the original August 2026 cutoff. The deal adds a new explicit prohibition under Article 5 targeting AI systems used to generate non-consensual intimate imagery or child sexual abuse material (CSAM), effective December 2, 2026, with fines up to €35 million or 7% of global annual turnover. AI literacy obligations were softened from an outcome-based duty to a softer obligation to 'support the development of' literacy, though regulators made clear this does not reduce the expectation for structured training programmes. Formal adoption is expected before August 2, 2026, until which the original compliance date remains technically in force.",
-    "source": "Mishcon de Reya",
-    "date": "2026-05-28",
-    "url": "https://www.mishcon.com/news/eu-ai-act-simplified-unpacking-the-ai-omnibus-agreement-of-may-2026",
-    "category": "Policy",
-    "image": ""
-  },
-  {
-    "title": "Google DeepMind's AlphaProof Nexus Solves Nine Longstanding Erdős Math Problems",
-    "summary": "Google DeepMind's AlphaProof Nexus autonomously solved nine open Erdős mathematical problems—including two unsolved for over 50 years—at just a few hundred dollars per proof in compute costs.",
-    "content": "Google DeepMind's AlphaProof Nexus has autonomously solved nine open problems from the famous Erdős mathematical problem collection, including two that have resisted human solutions for over half a century. Unlike natural-language AI models, AlphaProof Nexus uses the Lean formal proof compiler to automatically verify each step of its proofs, producing rigorous, machine-checked solutions with minimal human intervention. The system achieved these breakthroughs at just a few hundred dollars per problem in inference costs, making frontier mathematical reasoning economically viable at scale. While the 2.5% overall success rate across attempted problems reflects the extreme difficulty of the tasks, each solved problem represents a concrete advance in theoretical mathematics. Researchers view AlphaProof Nexus as evidence that AI is maturing into a genuine intellectual collaborator, capable of contributing to fundamental human knowledge rather than just automating existing processes.",
-    "source": "Machine Brief",
+    "title": "Claude Managed Agents: Dreaming Arrives for Production",
+    "summary": "Claude Managed Agents: Dreaming Arrives for Production | byteiota Production AI agents have a well-known failure mode: they forget. An agent learns a workaround in one session and has no memory of it in the next, so the same job fails the same way, indefinitely.",
+    "content": "Claude Managed Agents: Dreaming Arrives for Production | byteiota Production AI agents have a well-known failure mode: they forget. An agent learns a workaround in one session and has no memory of it in the next, so the same job fails the same way, indefinitely. On May 6, Anthropic shipped three fe",
+    "source": "ByteBot",
     "date": "2026-05-27",
-    "url": "https://www.machinebrief.com/news/google-deepminds-alphaproof-tackles-erdos-problems-with-prec-7hpg",
-    "category": "Industry",
-    "image": "https://the-decoder.com/wp-content/uploads/2026/05/google_deepmind_alpha_evolve_llm_math.png"
+    "url": "https://byteiota.com/claude-managed-agents-dreaming-production/",
+    "category": "Models",
+    "image": "https://byteiota.com/wp-content/uploads/2026/05/featured-image-510.jpg"
   },
   {
-    "title": "IBM and Red Hat Launch $5 Billion Project Lightwell to Secure Open Source AI Infrastructure",
-    "summary": "IBM and Red Hat announced Project Lightwell, a $5 billion commitment deploying 20,000+ engineers and frontier AI to create a trusted security clearinghouse for enterprise open source software.",
-    "content": "IBM and Red Hat launched Project Lightwell, a $5 billion commitment to create a trusted enterprise clearinghouse for securing open source software, backed by a global force of more than 20,000 engineers augmented by advanced AI capabilities. The initiative addresses a growing vulnerability in enterprise infrastructure: over 90% of Fortune 500 companies rely on open source software, while advances in AI are rapidly accelerating the discovery and exploitation of security vulnerabilities—Anthropic's Mythos Preview model alone identified nearly 3,900 high- or critical-severity vulnerabilities in open source code. The clearinghouse will use AI to validate and test security fixes across a broad range of independent open source libraries, AI frameworks, and language toolchains beyond IBM's traditional product portfolio. Early adopters collaborating on the project include Bank of America, Goldman Sachs, JPMorganChase, Mastercard, Visa, and other major financial institutions. IBM CEO Arvind Krishna framed the initiative as a new industry model that 'brings together AI, engineering expertise, and trusted collaboration to secure open source software at its source and across the entire supply chain.'",
-    "source": "Newswire",
-    "date": "2026-05-28",
-    "url": "https://www.newswire.ca/news-releases/ibm-and-red-hat-commit-5-billion-to-redefine-the-future-of-open-source-in-the-ai-era-852070303.html",
-    "category": "Industry",
-    "image": ""
+    "title": "GPT-5.6 Leak News: 1.5M Context, UI Breakthrough, June 2026",
+    "summary": "GPT-5.6 Leak News: 1.5M Context, UI Breakthrough, June 2026 ↓ content Roughly three weeks after GPT-5.5 shipped, developers reported a new string in OpenAI Codex rollout logs:`gpt-5.6`. Community threads tie the checkpoint to the internal codename iris-alpha, a 1.5 million token conte",
+    "content": "GPT-5.6 Leak News: 1.5M Context, UI Breakthrough, June 2026 ↓ content Roughly three weeks after GPT-5.5 shipped, developers reported a new string in OpenAI Codex rollout logs:`gpt-5.6`. Community threads tie the checkpoint to the internal codename iris-alpha, a 1.5 million token conte",
+    "source": "ChatGPT News Today",
+    "date": "2026-05-27",
+    "url": "https://ai-news-today.github.io/chatgpt/en/articles/gpt-5-6-leak-iris-alpha-2026/",
+    "category": "Models",
+    "image": "https://ai-news-today.github.io/chatgpt/images/og-default.webp"
   },
   {
-    "title": "Trump Cancels AI Safety Testing Executive Order After Tech CEO Snub",
-    "summary": "President Trump abruptly canceled an executive order enabling government testing of frontier AI models, after top tech CEOs declined to attend the signing, exposing deep divisions over AI oversight in the US.",
-    "content": "President Trump canceled an executive order that would have allowed US government safety testing of frontier AI models before public release, scrapping the event hours before it was scheduled after learning several top tech CEOs would not attend despite being given only 24 hours notice. The order was prompted partly by Anthropic's flagging of cybersecurity risks in its Mythos model, and aimed to expand voluntary government vetting of AI to protect banks, utilities, and other critical infrastructure from AI-enabled cyberattacks. A central point of conflict was the testing window: the government wanted up to 90 days before model release, while AI labs lobbied for only 14 days. Reports indicate Elon Musk and Mark Zuckerberg helped derail the signing, and Trump himself cited concerns that safety requirements would slow the US lead over China. The cancellation leaves the US without a formal frontier AI safety testing framework even as China accelerates its own AI governance legislation, with its State Council outlining a 2026 plan to 'improve AI governance and accelerate comprehensive legislation.'",
-    "source": "Ars Technica",
-    "date": "2026-05-22",
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
-    "category": "Policy",
-    "image": ""
+    "title": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored",
+    "summary": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored - AIScroll GPT-5.6 has surfaced in OpenAI's Codex logs under the codename 'iris-alpha,' featuring a 1.5-million-token context window and sparking rumors of an early June release, though the developer has not officially confirmed the model.",
+    "content": "GPT-5.6 'Iris' Leak: 1.5M Context, June Rumored - AIScroll GPT-5.6 has surfaced in OpenAI's Codex logs under the codename 'iris-alpha,' featuring a 1.5-million-token context window and sparking rumors of an early June release, though the developer has not officially confirmed the model. GPT-5.6, t",
+    "source": "aiscroll.io",
+    "date": "2026-05-26",
+    "url": "https://aiscroll.io/article/openai/gpt-5-6-iris-june-launch-leak/",
+    "category": "Models",
+    "image": "https://aiscroll.io/assets/images/tech/ai/gpt-5-6-iris-june-launch-leak/thumbnail.webp"
+  },
+  {
+    "title": "Inside OpenAI's Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture",
+    "summary": "Inside OpenAI's Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture - Chat GPT AI Hub Inside OpenAI’s Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture May 27, 2026 Revolutionizing Discrete Geometry: OpenAI’s Breakthrough on",
+    "content": "Inside OpenAI's Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture - Chat GPT AI Hub Inside OpenAI’s Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture May 27, 2026 Revolutionizing Discrete Geometry: OpenAI’s Breakthrough on",
+    "source": "chatgptaihub.com",
+    "date": "2026-05-27",
+    "url": "https://chatgptaihub.com/openai-ai-model-erdos-unit-distance-geometry-breakthrough/",
+    "category": "Models",
+    "image": "https://chatgptaihub.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=14316&type=gif&hash=b4b200df1f4bd6c7132d66e692421844"
   }
 ]
