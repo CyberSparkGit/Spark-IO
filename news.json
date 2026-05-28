@@ -20,6 +20,16 @@
     "image": "https://cnznews.com/wp-content/uploads/2025/12/cropped-file_00000000aaf871fa87090269760aa896.png"
   },
   {
+    "title": "EAGLE 3.1 Solves a Hidden Problem That's Been Slowing Down AI Inference",
+    "summary": "EAGLE 3.1 Solves a Hidden Problem That's Been Slowing Down AI Inference | FrontierNews.ai i 🔍Search Breaking News The Hidden Map of AI Search: How Perplexity and ChatGPT Actually Choose Their Sources Large Language Models·3h ago The Inference Chip Race Just Got Crowded: Why SambaNo",
+    "content": "EAGLE 3.1 Solves a Hidden Problem That's Been Slowing Down AI Inference | FrontierNews.ai i 🔍Search Breaking News The Hidden Map of AI Search: How Perplexity and ChatGPT Actually Choose Their Sources Large Language Models·3h ago The Inference Chip Race Just Got Crowded: Why SambaNo",
+    "source": "FrontierNews.ai",
+    "date": "2026-05-27",
+    "url": "https://www.frontiernews.ai/news/article/eagle-31-solves-a-hidden-problem-thats-been-slowin-b3cb06c8",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=EAGLE%203.1%20Solves%20a%20Hidden%20Problem%20That%27s%20Been%20Slowing%20Down%20AI%20Inference&topic=Agents"
+  },
+  {
     "title": "Claude Managed Agents: Dreaming Arrives for Production",
     "summary": "Claude Managed Agents: Dreaming Arrives for Production | byteiota Production AI agents have a well-known failure mode: they forget. An agent learns a workaround in one session and has no memory of it in the next, so the same job fails the same way, indefinitely.",
     "content": "Claude Managed Agents: Dreaming Arrives for Production | byteiota Production AI agents have a well-known failure mode: they forget. An agent learns a workaround in one session and has no memory of it in the next, so the same job fails the same way, indefinitely. On May 6, Anthropic shipped three fe",
@@ -48,15 +58,5 @@
     "url": "https://aiscroll.io/article/openai/gpt-5-6-iris-june-launch-leak/",
     "category": "Models",
     "image": "https://aiscroll.io/assets/images/tech/ai/gpt-5-6-iris-june-launch-leak/thumbnail.webp"
-  },
-  {
-    "title": "Inside OpenAI's Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture",
-    "summary": "Inside OpenAI's Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture - Chat GPT AI Hub Inside OpenAI’s Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture May 27, 2026 Revolutionizing Discrete Geometry: OpenAI’s Breakthrough on",
-    "content": "Inside OpenAI's Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture - Chat GPT AI Hub Inside OpenAI’s Mathematical Breakthrough: How an AI Model Solved an 80-Year-Old Geometry Conjecture May 27, 2026 Revolutionizing Discrete Geometry: OpenAI’s Breakthrough on",
-    "source": "chatgptaihub.com",
-    "date": "2026-05-27",
-    "url": "https://chatgptaihub.com/openai-ai-model-erdos-unit-distance-geometry-breakthrough/",
-    "category": "Models",
-    "image": "https://chatgptaihub.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=14316&type=gif&hash=b4b200df1f4bd6c7132d66e692421844"
   }
 ]
