@@ -1,62 +1,56 @@
 [
   {
-    "title": "New Claude model drops as Anthropic overtakes OpenAI",
-    "summary": "New Claude model drops as Anthropic overtakes OpenAI New Claude model drops as Anthropic overtakes OpenAI Anthropic closed a $65 billion funding round, launched a new Claude model and surpassed OpenAI - By Dorcas Onasa - May 29, 2026 - 8:05 pm Photo credit: shutterstock.com/gguy For most of t",
-    "content": "New Claude model drops as Anthropic overtakes OpenAI New Claude model drops as Anthropic overtakes OpenAI Anthropic closed a $65 billion funding round, launched a new Claude model and surpassed OpenAI - By Dorcas Onasa - May 29, 2026 - 8:05 pm Photo credit: shutterstock.com/gguy For most of t",
-    "source": "rollingout.com",
-    "date": "2026-05-30",
-    "url": "https://rollingout.com/2026/05/29/new-claude-model-drops-anthropic-openai/",
-    "category": "Models",
-    "image": "https://rollingout.com/wp-content/uploads/2025/09/shutterstock_2645234093-scaled.jpg"
-  },
-  {
-    "title": "Anthropic ships Claude Opus 4.8 with 84% on Online-Mind2Web and cheaper fast mode — AI Chat Daily",
-    "summary": "Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M",
-    "content": "Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M",
-    "source": "Jaeden Schafer",
+    "title": "Anthropic Raises $65 Billion in Series H at $965 Billion Valuation",
+    "summary": "Anthropic secured $65 billion in Series H funding, valuing the company at $965 billion post-money as annual run-rate revenue crossed $47 billion.",
+    "content": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, valuing the company at $965 billion post-money — placing it among the most valuable private companies in history. The company's run-rate revenue crossed $47 billion earlier this month, driven by surging enterprise adoption of Claude across global operations. The funding will advance Anthropic's safety and interpretability research, expand compute, and scale products, including new agreements with Amazon for up to five gigawatts of capacity and with Google, Broadcom, and SpaceX for additional infrastructure. Strategic chip-maker investors include Micron, Samsung, and SK Hynix, alongside $15 billion in previously committed hyperscaler investments. Claude is now the first frontier AI model available across all three major cloud platforms: AWS, Google Cloud, and Microsoft Azure.",
+    "source": "Anthropic",
     "date": "2026-05-28",
-    "url": "https://www.aichatdaily.com/ai-models/anthropic-ships-claude-opus-4-8-84-online-mind2web",
-    "category": "Models",
-    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2Fdf06f24b-c8f7-4746-8d78-cd13e39dd97a%2F3ebfd85e-f93d-489c-8286-746a2c8de2dc.png&w=1200&q=75"
+    "url": "https://www.anthropic.com/news/series-h",
+    "category": "Industry"
   },
   {
-    "title": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers",
-    "summary": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "content": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "source": "Sinisa Markovic",
-    "date": "2026-05-29",
-    "url": "https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/",
-    "category": "Models",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
-  },
-  {
-    "title": "xAI Launches Grok Build 0.1 API for Agentic Coding",
-    "summary": "xAI Launches Grok Build 0.1 API for Agentic Coding - Blockchain.News xAI Launches Grok Build 0.1 API for Agentic Coding Jessie A Ellis May 28, 2026 19:02 xAI rolls out Grok Build 0.1 in public beta via API. Fast, cost-effective solution for agentic coding tasks with 256K token context window.",
-    "content": "xAI Launches Grok Build 0.1 API for Agentic Coding - Blockchain.News xAI Launches Grok Build 0.1 API for Agentic Coding Jessie A Ellis May 28, 2026 19:02 xAI rolls out Grok Build 0.1 in public beta via API. Fast, cost-effective solution for agentic coding tasks with 256K token context window.",
-    "source": "blockchain.news",
-    "date": "2026-05-29",
-    "url": "https://blockchain.news/news/xai-grok-build-0-1-api-launch",
-    "category": "Models",
-    "image": "https://image.blockchain.news:443/features/8A6D364E10667B70266C559AAAD3793038EA7B225A572DDB5616E316563F53D8.jpg"
-  },
-  {
-    "title": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June",
-    "summary": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
-    "content": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
-    "source": "Kyle Belmonte  \n \n \n Published: May 28 2026, 08:15 AM EDT",
+    "title": "Anthropic Releases Claude Opus 4.8 with Dynamic Workflows and Effort Control",
+    "summary": "Claude Opus 4.8 introduces 'dynamic workflows' in Claude Code that spin up hundreds of parallel subagents to tackle codebase-scale problems from start to merge.",
+    "content": "Claude Opus 4.8 builds on Opus 4.7 with improved benchmark performance across coding, agentic tasks, and long-context professional work, available at the same price of $5 per million input tokens and $25 per million output tokens. A major new Dynamic Workflows feature lets Claude Code plan and execute large tasks using hundreds of parallel subagents — enabling full codebase migrations across hundreds of thousands of lines of code from kickoff to merge, using the existing test suite as its quality bar. Users on claude.ai also gain an effort control slider to balance response depth against speed and rate-limit usage, available on all plans. Early testers report Opus 4.8 is around four times less likely than its predecessor to leave flaws in written code unremarked, reflecting notable improvements in honesty and self-correction. Fast mode for Opus 4.8 is now three times cheaper than for previous models, running at 2.5× the speed.",
+    "source": "Anthropic",
     "date": "2026-05-28",
-    "url": "https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/465562/xai.png"
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "category": "Models"
   },
   {
-    "title": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor",
-    "summary": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "content": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "source": "singularity.kiwi",
+    "title": "OpenAI's AI Autonomously Solves 80-Year-Old Math Problem, Verified by Mathematicians",
+    "summary": "An internal OpenAI reasoning model solved the Erdős planar unit distance problem — a prominent open question in mathematics since 1946 — marking the first time AI has autonomously solved an open problem in a recognized field.",
+    "content": "OpenAI announced that an internal general-purpose reasoning model solved the planar unit distance problem, first posed by Paul Erdős in 1946, which asks for the maximum number of point pairs exactly one unit apart on a two-dimensional plane, surpassing the best human upper bound set in 1984. The model used a completely novel approach, applying algebraic number theory to geometric questions in a way that surprised experts — and critically, it was not specifically trained for mathematics or the problem at all. Cambridge professor Tim Gowers, reviewing the proof, said no previous AI-generated proof had come close to the quality of a major mathematics journal submission. External mathematicians verified the work and wrote a companion paper improving the original proof, illustrating an emerging model of human-AI mathematical collaboration. OpenAI framed the result as a proof of concept that AI can contribute meaningfully to genuine frontier research beyond standard benchmarks.",
+    "source": "Yahoo Tech",
+    "date": "2026-05-29",
+    "url": "https://tech.yahoo.com/ai/chatgpt/articles/openais-internal-ai-model-just-151656684.html",
+    "category": "Models"
+  },
+  {
+    "title": "Illinois Passes Nation's Strongest AI Safety Law, Requiring Independent Audits of Frontier Models",
+    "summary": "Illinois lawmakers passed SB 315, which mandates annual third-party safety audits, public safety plans, and 72-hour incident reporting for frontier AI developers, taking effect January 1, 2027.",
+    "content": "The Illinois General Assembly passed SB 315 — with Governor J.B. Pritzker pledging to sign it — creating the nation's most stringent AI safety requirements for frontier model developers. Companies must submit public safety plans, publish results of independent annual third-party audits, and report critical safety incidents to the state within 72 hours, or 24 hours if there is an imminent risk of death or serious physical harm. The law also establishes whistleblower protections for employees who surface emerging safety risks. Both OpenAI and Anthropic supported the legislation, with Anthropic calling it an important baseline that every leading AI developer should meet. The bill arrived days after President Trump canceled a federal AI vetting plan, with state legislators acknowledging they had 'no choice but to step in' as Congress has stalled on national AI regulation.",
+    "source": "Ars Technica",
+    "date": "2026-05-28",
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "category": "Policy"
+  },
+  {
+    "title": "Google Launches Gemini Spark, a 24/7 Personal AI Agent, to Ultra Subscribers in the US",
+    "summary": "Google has rolled out Gemini Spark — a persistent background AI agent that automates calendar, email, Drive, and web tasks — to Google AI Ultra subscribers across the United States.",
+    "content": "Gemini Spark is Google's 24/7 autonomous personal agent, now live in the US for Google AI Ultra subscribers after a brief beta period previewed at Google I/O. Unlike a standard chatbot, Spark runs tasks continuously in the background — managing calendars, drafting and replying to emails, organizing Google Drive, creating Sheets and Slides, and operating a remote browser to interact with websites on the user's behalf. Tasks are defined by three components: a high-level goal, a schedule (triggered by a time or an event), and a skill (reusable instructions for how to complete the task). Example use cases include daily AI news digests, automatic inbox decluttering with unsubscriptions, and business trip planning that coordinates bookings across multiple tools simultaneously. Spark is powered by Gemini 3.5 Flash, Google's newest agentic model, and supports up to 15 concurrent running tasks at any given time.",
+    "source": "9to5Google",
+    "date": "2026-05-29",
+    "url": "https://9to5google.com/2026/05/29/gemini-spark-ultra-us/",
+    "category": "Tools"
+  },
+  {
+    "title": "Anthropic's Restricted Claude Mythos AI Triggers Emergency Briefings at Global Central Banks",
+    "summary": "Anthropic's unreleased Claude Mythos model — capable of autonomously finding and exploiting zero-day software vulnerabilities — has prompted emergency briefings at the Bank of England, ECB, and U.S. Federal Reserve over risks to global financial infrastructure.",
+    "content": "Anthropic's most capable model, Claude Mythos Preview, autonomously identified and exploited zero-day vulnerabilities across all major operating systems and browsers during internal testing — including a 27-year-old flaw in OpenBSD — leading the company to restrict release under a controlled program called Project Glasswing. The Financial Stability Board, chaired by Bank of England Governor Andrew Bailey, convened emergency briefings alongside the ECB, Bank of Canada, UK NCSC, and U.S. Treasury after senior officials concluded the model could systematically compromise legacy banking infrastructure. Unlike specialized security tools, Mythos is a general-purpose frontier model that allows non-expert users to find sophisticated vulnerabilities previously requiring years of specialized training. Anthropic has granted controlled preview access to roughly 50 organizations — including Amazon, Apple, Google, Microsoft, JPMorgan Chase, Nvidia, and CrowdStrike — specifically to let defenders harden critical systems before attackers acquire equivalent capabilities. The Financial Stability Board is expected to release a draft report on AI in financial systems in Q3 2026, with public consultation to follow.",
+    "source": "Make Tech Easier",
     "date": "2026-05-30",
-    "url": "https://singularity.kiwi/grok-v9-medium-cursor-data-15t-parameters/",
-    "category": "Models",
-    "image": "https://singularity.kiwi/images/grok-v9-cursor-developer-data.jpg"
+    "url": "https://maketecheasier.com/anthropics-new-claude-mythos-ai-is-so-good-at-finding-software-vulnerabilities-that-the-company-has-restricted-its-release-and-treasury-officials-central-banks-and-the-global-financial-stability/",
+    "category": "Industry"
   }
 ]
