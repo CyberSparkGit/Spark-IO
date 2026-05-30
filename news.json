@@ -1,13 +1,13 @@
 [
   {
-    "title": "Illinois passes frontier AI safety bill requiring third-party audits — AI Chat Daily",
-    "summary": "Illinois passes frontier AI safety bill requiring third-party audits — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M in additiona",
-    "content": "Illinois passes frontier AI safety bill requiring third-party audits — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M in additiona",
-    "source": "Jaeden Schafer",
-    "date": "2026-05-28",
-    "url": "https://www.aichatdaily.com/ai-security/illinois-passes-frontier-ai-safety-bill-requiring-third-party",
+    "title": "New Claude model drops as Anthropic overtakes OpenAI",
+    "summary": "New Claude model drops as Anthropic overtakes OpenAI New Claude model drops as Anthropic overtakes OpenAI Anthropic closed a $65 billion funding round, launched a new Claude model and surpassed OpenAI - By Dorcas Onasa - May 29, 2026 - 8:05 pm Photo credit: shutterstock.com/gguy For most of t",
+    "content": "New Claude model drops as Anthropic overtakes OpenAI New Claude model drops as Anthropic overtakes OpenAI Anthropic closed a $65 billion funding round, launched a new Claude model and surpassed OpenAI - By Dorcas Onasa - May 29, 2026 - 8:05 pm Photo credit: shutterstock.com/gguy For most of t",
+    "source": "rollingout.com",
+    "date": "2026-05-30",
+    "url": "https://rollingout.com/2026/05/29/new-claude-model-drops-anthropic-openai/",
     "category": "Models",
-    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2Fc0ec469a-12dd-48ec-b592-46e18e135704%2Fb0abe268-0b2b-4493-b2a2-7f25208b7974.png&w=1200&q=75"
+    "image": "https://rollingout.com/wp-content/uploads/2025/09/shutterstock_2645234093-scaled.jpg"
   },
   {
     "title": "Anthropic ships Claude Opus 4.8 with 84% on Online-Mind2Web and cheaper fast mode — AI Chat Daily",
@@ -30,6 +30,16 @@
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
   },
   {
+    "title": "xAI Launches Grok Build 0.1 API for Agentic Coding",
+    "summary": "xAI Launches Grok Build 0.1 API for Agentic Coding - Blockchain.News xAI Launches Grok Build 0.1 API for Agentic Coding Jessie A Ellis May 28, 2026 19:02 xAI rolls out Grok Build 0.1 in public beta via API. Fast, cost-effective solution for agentic coding tasks with 256K token context window.",
+    "content": "xAI Launches Grok Build 0.1 API for Agentic Coding - Blockchain.News xAI Launches Grok Build 0.1 API for Agentic Coding Jessie A Ellis May 28, 2026 19:02 xAI rolls out Grok Build 0.1 in public beta via API. Fast, cost-effective solution for agentic coding tasks with 256K token context window.",
+    "source": "blockchain.news",
+    "date": "2026-05-29",
+    "url": "https://blockchain.news/news/xai-grok-build-0-1-api-launch",
+    "category": "Models",
+    "image": "https://image.blockchain.news:443/features/8A6D364E10667B70266C559AAAD3793038EA7B225A572DDB5616E316563F53D8.jpg"
+  },
+  {
     "title": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June",
     "summary": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
     "content": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
@@ -40,23 +50,13 @@
     "image": "https://d.techtimes.com/en/full/465562/xai.png"
   },
   {
-    "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
-    "summary": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI NVIDIA Introduces X-Token: Projection-Guide",
-    "content": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI NVIDIA Introduces X-Token: Projection-Guide",
-    "source": "Asif Razzaq",
-    "date": "2026-05-29",
-    "url": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/",
+    "title": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor",
+    "summary": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
+    "content": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
+    "source": "singularity.kiwi",
+    "date": "2026-05-30",
+    "url": "https://singularity.kiwi/grok-v9-medium-cursor-data-15t-parameters/",
     "category": "Models",
-    "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/a-sleek-dark-tech-editorial-banner-featu_ZyB0y2dJUWCr5xERKhbPQQ_ZBs3o4pOTiyVjOSDE1R9qQ.png"
-  },
-  {
-    "title": "Illinois passes comprehensive AI safety regulation with support from OpenAI, Anthropic",
-    "summary": "Illinois passes comprehensive AI safety regulation with support from OpenAI, Anthropic - AOL Fri, May 29, 2026 at 4:27 PM UTC 0 SPRINGFIELD, Ill. (WTVO) — The Illinois General Assembly has passed a sweeping AI safety bill designed to regulate the rapidly evolving technology in the absence of acti",
-    "content": "Illinois passes comprehensive AI safety regulation with support from OpenAI, Anthropic - AOL Fri, May 29, 2026 at 4:27 PM UTC 0 SPRINGFIELD, Ill. (WTVO) — The Illinois General Assembly has passed a sweeping AI safety bill designed to regulate the rapidly evolving technology in the absence of acti",
-    "source": "AOL",
-    "date": "2026-05-29",
-    "url": "https://www.aol.com/news/illinois-passes-comprehensive-ai-safety-162741640.html",
-    "category": "Policy",
-    "image": "https://s.yimg.com/lo/mysterio/api/C04C5B57D06E93CDCE5BDB93AFFF7A982BBFB4D658F7D5BC10F7B62615255312/subgraphmysterio/resizefill_w900_h506;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_wtvo_rockford_articles_449%2Fdcb0a450709d80304160870d8a721d5b"
+    "image": "https://singularity.kiwi/images/grok-v9-cursor-developer-data.jpg"
   }
 ]
