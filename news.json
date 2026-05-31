@@ -20,6 +20,16 @@
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
   },
   {
+    "title": "Anthropic launches Claude Opus 4.8 with new controls",
+    "summary": "Anthropic launches Claude Opus 4.8 with new controls CMOtech Ireland - Technology news for CMOs & marketing decision-makers Anthropic launches Claude Opus 4.8 with new controls Fri, 29th May 2026 Anthropic has released Claude Opus 4.8, making the updated artificial intelligence model available",
+    "content": "Anthropic launches Claude Opus 4.8 with new controls CMOtech Ireland - Technology news for CMOs & marketing decision-makers Anthropic launches Claude Opus 4.8 with new controls Fri, 29th May 2026 Anthropic has released Claude Opus 4.8, making the updated artificial intelligence model available",
+    "source": "Sean Mitchell",
+    "date": "2026-05-29",
+    "url": "https://cmotech.ie/story/anthropic-launches-claude-opus-4-8-with-new-controls",
+    "category": "Models",
+    "image": "https://cmotech.ie/uploads/story/2026/05/30/compatible_focused-developer-ai-assistant-dashboard-office-code-panels-illustration.jpg"
+  },
+  {
     "title": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June",
     "summary": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
     "content": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
@@ -48,15 +58,5 @@
     "url": "https://cryptobriefing.com/anthropic-opus-4-8-dynamic-workflow-claude-code/",
     "category": "Models",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/29065619/dynamic-workflows-in-claude-code-anthropic-opens-research-pr-2-1-800x420.jpeg"
-  },
-  {
-    "title": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next",
-    "summary": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next Image by: Anthropic TL;DR Anthropic has released Claude Opus 4.8, an upgrade to its flagship AI model that is four times less likely to let code flaws pass unremarked. The company also teased Mythos-class models, which have a",
-    "content": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next Image by: Anthropic TL;DR Anthropic has released Claude Opus 4.8, an upgrade to its flagship AI model that is four times less likely to let code flaws pass unremarked. The company also teased Mythos-class models, which have a",
-    "source": "Ana Maria Constantin",
-    "date": "2026-05-28",
-    "url": "https://thenextweb.com/news/anthropics-claude-opus-4-8-is-its-most-honest-ai-model-yet-and-mythos-is-coming-in-weeks",
-    "category": "Models",
-    "image": "https://media.thenextweb.com/2026/05/claude-opus-4-8.avif"
   }
 ]
