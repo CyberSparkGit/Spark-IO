@@ -40,16 +40,6 @@
     "image": "https://d.techtimes.com/en/full/465562/xai.png"
   },
   {
-    "title": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor",
-    "summary": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "content": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "source": "singularity.kiwi",
-    "date": "2026-05-30",
-    "url": "https://singularity.kiwi/grok-v9-medium-cursor-data-15t-parameters/",
-    "category": "Models",
-    "image": "https://singularity.kiwi/images/grok-v9-cursor-developer-data.jpg"
-  },
-  {
     "title": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code",
     "summary": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code SEARCH Searching... Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code The latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.",
     "content": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code SEARCH Searching... Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code The latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.",
@@ -58,5 +48,15 @@
     "url": "https://cryptobriefing.com/anthropic-opus-4-8-dynamic-workflow-claude-code/",
     "category": "Models",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/29065619/dynamic-workflows-in-claude-code-anthropic-opens-research-pr-2-1-800x420.jpeg"
+  },
+  {
+    "title": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next",
+    "summary": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next Image by: Anthropic TL;DR Anthropic has released Claude Opus 4.8, an upgrade to its flagship AI model that is four times less likely to let code flaws pass unremarked. The company also teased Mythos-class models, which have a",
+    "content": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next Image by: Anthropic TL;DR Anthropic has released Claude Opus 4.8, an upgrade to its flagship AI model that is four times less likely to let code flaws pass unremarked. The company also teased Mythos-class models, which have a",
+    "source": "Ana Maria Constantin",
+    "date": "2026-05-28",
+    "url": "https://thenextweb.com/news/anthropics-claude-opus-4-8-is-its-most-honest-ai-model-yet-and-mythos-is-coming-in-weeks",
+    "category": "Models",
+    "image": "https://media.thenextweb.com/2026/05/claude-opus-4-8.avif"
   }
 ]
