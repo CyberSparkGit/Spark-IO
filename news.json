@@ -1,15 +1,5 @@
 [
   {
-    "title": "New Claude model drops as Anthropic overtakes OpenAI",
-    "summary": "New Claude model drops as Anthropic overtakes OpenAI New Claude model drops as Anthropic overtakes OpenAI Anthropic closed a $65 billion funding round, launched a new Claude model and surpassed OpenAI - By Dorcas Onasa - May 29, 2026 - 8:05 pm Photo credit: shutterstock.com/gguy For most of t",
-    "content": "New Claude model drops as Anthropic overtakes OpenAI New Claude model drops as Anthropic overtakes OpenAI Anthropic closed a $65 billion funding round, launched a new Claude model and surpassed OpenAI - By Dorcas Onasa - May 29, 2026 - 8:05 pm Photo credit: shutterstock.com/gguy For most of t",
-    "source": "rollingout.com",
-    "date": "2026-05-30",
-    "url": "https://rollingout.com/2026/05/29/new-claude-model-drops-anthropic-openai/",
-    "category": "Models",
-    "image": "https://rollingout.com/wp-content/uploads/2025/09/shutterstock_2645234093-scaled.jpg"
-  },
-  {
     "title": "Anthropic ships Claude Opus 4.8 with 84% on Online-Mind2Web and cheaper fast mode — AI Chat Daily",
     "summary": "Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M",
     "content": "Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M",
@@ -48,6 +38,16 @@
     "url": "https://singularity.kiwi/grok-v9-medium-cursor-data-15t-parameters/",
     "category": "Models",
     "image": "https://singularity.kiwi/images/grok-v9-cursor-developer-data.jpg"
+  },
+  {
+    "title": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code",
+    "summary": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code SEARCH Searching... Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code The latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.",
+    "content": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code SEARCH Searching... Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code The latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.",
+    "source": "Editorial Team",
+    "date": "2026-05-29",
+    "url": "https://cryptobriefing.com/anthropic-opus-4-8-dynamic-workflow-claude-code/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/29065619/dynamic-workflows-in-claude-code-anthropic-opens-research-pr-2-1-800x420.jpeg"
   },
   {
     "title": "Anthropic's Claude Opus 4.8 is four times more honest, Mythos next",
