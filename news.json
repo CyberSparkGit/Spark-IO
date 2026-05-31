@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic ships Claude Opus 4.8 with 84% on Online-Mind2Web and cheaper fast mode — AI Chat Daily",
-    "summary": "Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M",
-    "content": "Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode — AI Chat Daily Live--:--:-- PT Anthropic ships Claude Opus 4.8 with on Online-Mind2Web and cheaper fast mode OpenAI publishes Frontier Governance Framework to align with EU and California rules Meta commits $13M",
-    "source": "Jaeden Schafer",
+    "title": "Anthropic Raises $65B Series H at $965B Valuation, Surpassing OpenAI",
+    "summary": "Anthropic closed a $65 billion Series H round at a $965 billion post-money valuation, surpassing OpenAI's valuation for the first time and signaling a likely IPO.",
+    "content": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, valuing the company at $965 billion post-money — surpassing rival OpenAI, which was last valued at $852 billion. The round marks what may be the company's final private fundraise before an IPO, and includes $15 billion of previously committed investments from hyperscalers, including $5 billion from Amazon. Strategic infrastructure partners Samsung, SK Hynix, and Micron also joined the round as investors. Since its $380 billion Series G in February, Anthropic's run-rate revenue has crossed $47 billion. The funding will advance safety and interpretability research, expand compute capacity to meet growing Claude demand, and scale products and partnerships.",
+    "source": "Anthropic",
     "date": "2026-05-28",
-    "url": "https://www.aichatdaily.com/ai-models/anthropic-ships-claude-opus-4-8-84-online-mind2web",
-    "category": "Models",
-    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2Fdf06f24b-c8f7-4746-8d78-cd13e39dd97a%2F3ebfd85e-f93d-489c-8286-746a2c8de2dc.png&w=1200&q=75"
+    "url": "https://www.anthropic.com/news/series-h",
+    "category": "Industry"
   },
   {
-    "title": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers",
-    "summary": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "content": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "source": "Sinisa Markovic",
-    "date": "2026-05-29",
-    "url": "https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/",
-    "category": "Models",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
+    "title": "Google Launches Gemini 3.5 Flash at I/O 2026 as New Default for Search and Gemini App",
+    "summary": "Google unveiled Gemini 3.5 Flash at Google I/O, its fastest and most capable agentic model yet, now the global default in the Gemini app and AI Mode in Search.",
+    "content": "Google introduced Gemini 3.5 Flash at its I/O 2026 conference, the first release in the new Gemini 3.5 family built around agentic performance. The model outperforms Gemini 3.1 Pro on challenging coding and agentic benchmarks including Terminal-Bench 2.1 (76.2%) and MCP Atlas (83.6%), while delivering tokens four times faster than competing frontier models at equivalent cost. On launch day, Gemini 3.5 Flash became the default model in the Gemini app and AI Mode in Google Search worldwide, reaching over 900 million Gemini app monthly active users. It is also available through Google Antigravity 2.0, the Gemini API, Android Studio, and Gemini Enterprise Agent Platform. Google also announced Gemini Spark, a personal AI agent running 24/7 powered by 3.5 Flash, with a beta rollout to AI Ultra subscribers in the US planned for the following week.",
+    "source": "Google",
+    "date": "2026-05-19",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "category": "Models"
   },
   {
-    "title": "Anthropic launches Claude Opus 4.8 with new controls",
-    "summary": "Anthropic launches Claude Opus 4.8 with new controls CMOtech Ireland - Technology news for CMOs & marketing decision-makers Anthropic launches Claude Opus 4.8 with new controls Fri, 29th May 2026 Anthropic has released Claude Opus 4.8, making the updated artificial intelligence model available",
-    "content": "Anthropic launches Claude Opus 4.8 with new controls CMOtech Ireland - Technology news for CMOs & marketing decision-makers Anthropic launches Claude Opus 4.8 with new controls Fri, 29th May 2026 Anthropic has released Claude Opus 4.8, making the updated artificial intelligence model available",
-    "source": "Sean Mitchell",
-    "date": "2026-05-29",
-    "url": "https://cmotech.ie/story/anthropic-launches-claude-opus-4-8-with-new-controls",
-    "category": "Models",
-    "image": "https://cmotech.ie/uploads/story/2026/05/30/compatible_focused-developer-ai-assistant-dashboard-office-code-panels-illustration.jpg"
-  },
-  {
-    "title": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June",
-    "summary": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
-    "content": "Grok AI New Model Triples Parameter Count, Targets Coding Lead: Release Expected Mid-June x.ai Grok's next generation is nearly ready to ship. On May 25, SpaceXAI chief Elon Musk announced that Grok foundation model V9-Medium — a 1.5 trillion-parameter model three times larger than the version cur",
-    "source": "Kyle Belmonte  \n \n \n Published: May 28 2026, 08:15 AM EDT",
+    "title": "Anthropic Launches Claude Opus 4.8 with Dynamic Workflows and Parallel Subagents",
+    "summary": "Anthropic released Claude Opus 4.8 alongside Dynamic Workflows in research preview, enabling Claude Code to orchestrate up to 1,000 parallel subagents for codebase-scale tasks.",
+    "content": "Anthropic launched Claude Opus 4.8 on May 28, building on Opus 4.7 with benchmark improvements at the same price point. The release includes Dynamic Workflows in research preview, a system that allows Claude Code to plan tasks and orchestrate up to 1,000 parallel subagents per run — with up to 16 running concurrently — enabling codebase-scale migrations across hundreds of thousands of lines of code from start to merge. The model also ships with a 2.5x-faster Fast Mode priced three times cheaper than the equivalent option for Opus 4.7. Claude Opus 4.8 is described as more honest and better calibrated about uncertainty, making it more reliable for long autonomous tasks where unsupported claims can compound. The release also teased Anthropic's upcoming Mythos-class models, which remain restricted due to cybersecurity safety concerns.",
+    "source": "Anthropic",
     "date": "2026-05-28",
-    "url": "https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/465562/xai.png"
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "category": "Models"
   },
   {
-    "title": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor",
-    "summary": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "content": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "source": "singularity.kiwi",
-    "date": "2026-05-30",
-    "url": "https://singularity.kiwi/grok-v9-medium-cursor-data-15t-parameters/",
-    "category": "Models",
-    "image": "https://singularity.kiwi/images/grok-v9-cursor-developer-data.jpg"
+    "title": "Illinois Passes Nation's Strongest AI Safety Law as Federal Efforts Stall",
+    "summary": "Illinois lawmakers passed SB 315, requiring frontier AI companies to publish safety plans, undergo independent audits, and report critical incidents within 72 hours.",
+    "content": "Days after President Trump canceled a federal plan to vet frontier AI models, Illinois lawmakers passed SB 315 — which Governor J.B. Pritzker has confirmed he will sign. The law requires large AI firms to submit public safety plans, publish results of independent third-party safety testing, and report critical incidents to the state within 72 hours, or 24 hours if there is potential imminent risk of death or serious harm. Employees gain whistleblower protections for reporting AI safety risks. Notably, both OpenAI and Anthropic supported the legislation, with Anthropic describing it as establishing 'a baseline that every leading AI developer is expected to meet.' Sponsor Rep. Daniel Didech said states were forced to act because 'Congress has not taken up this issue yet, and the technology is developing at such a rapid pace.' The law takes effect January 1, 2027, and gives Illinois the strongest AI safety framework of any U.S. state.",
+    "source": "Ars Technica",
+    "date": "2026-05-28",
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+    "category": "Policy"
   },
   {
-    "title": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code",
-    "summary": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code SEARCH Searching... Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code The latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.",
-    "content": "Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code SEARCH Searching... Anthropic introduces Opus 4.8 with dynamic workflow for Claude Code The latest model upgrade lets Claude orchestrate hundreds of parallel subagents, migrating a 750,000-line codebase in 11 days with a 99.",
-    "source": "Editorial Team",
+    "title": "Tokens or Humans? Enterprise CFOs Face AI Cost Reckoning",
+    "summary": "Fortune 500 companies are exhausting annual AI budgets in months as token costs outpace ROI, forcing a new trade-off between AI spend and headcount growth.",
+    "content": "Enterprise AI is proving far more expensive than anticipated, and CFOs are now facing a stark trade-off between spending on AI tokens and future headcount. Enterprise AI CEOs told CNBC that companies are exhausting annual AI budgets in one to two months, with each new frontier model release roughly doubling the cost per token compared to its predecessor. Roughly 95% of enterprise AI workloads still run on the most expensive frontier models even for simple tasks — a massive inefficiency where routing work to cheaper model tiers could yield 10x cost savings. Factory AI CEO Matan Grinberg described three corporate phases: initial board pressure to adopt AI, 'tokenmaxxing' regardless of cost, and now a reassessment phase where leadership scrutinizes whether the priciest models are truly needed for every task. Glean CEO Arvind Jain framed it starkly: 'This is the first time ever that I can remember that technology costs the same as people, and you're making that comparison: choose tech or people.'",
+    "source": "CNBC",
     "date": "2026-05-29",
-    "url": "https://cryptobriefing.com/anthropic-opus-4-8-dynamic-workflow-claude-code/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/29065619/dynamic-workflows-in-claude-code-anthropic-opens-research-pr-2-1-800x420.jpeg"
+    "url": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
+    "category": "Trends"
+  },
+  {
+    "title": "SoftBank Commits €75 Billion to Build 5 GW of AI Data Centers in France",
+    "summary": "SoftBank announced an investment of up to €75 billion to develop 5 GW of AI data center capacity across France, partnering with Schneider Electric on a major industrial cluster in Dunkirk.",
+    "content": "SoftBank Group announced on May 31 a commitment to develop and operate 5 GW of AI data center capacity in France, representing an investment of up to €75 billion — the company's largest AI infrastructure commitment in Europe. The first phase will deliver 3.1 GW across sites in the Hauts-de-France region including Dunkirk, Bosquel, and Bouchain by 2031, representing an initial €45 billion investment unveiled at President Macron's Choose France summit. SoftBank will partner with Schneider Electric to build a large-scale industrial production cluster at the Port of Dunkirk, combining SoftBank's robotics and automation capabilities with Schneider's energy technology expertise and local supply chain network. The investment is expected to create thousands of high-skilled jobs across data center development, energy systems, and advanced manufacturing, and will support France's ambition to become a leading European hub for next-generation AI infrastructure and technological sovereignty.",
+    "source": "SoftBank Group",
+    "date": "2026-05-31",
+    "url": "https://group.softbank/en/news/press/20260531_0",
+    "category": "Industry"
   }
 ]
