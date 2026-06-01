@@ -1,62 +1,56 @@
 [
   {
-    "title": "Web3 Has No Safe AI. DMind AI Just Quantified the Gap -- and KDD 2026 Made It Official.",
-    "summary": "DMind AI Just Quantified the Gap -- and KDD 2026 Made It Official. Accessibility Statement Skip Navigation The first peer-reviewed Web3 AI benchmark tests 31 top models — including GPT-5, Claude, and Gemini — across 3,543 expert questions.",
-    "content": "Web3 Has No Safe AI. DMind AI Just Quantified the Gap -- and KDD 2026 Made It Official. Accessibility Statement Skip Navigation The first peer-reviewed Web3 AI benchmark tests 31 top models — including GPT-5, Claude, and Gemini — across 3,543 expert questions. The verdict: no system is ready for th",
-    "source": "DMind AI",
-    "date": "2026-05-31",
-    "url": "https://www.prnewswire.com/news-releases/web3-has-no-safe-ai-dmind-ai-just-quantified-the-gap--and-kdd-2026-made-it-official-302786392.html",
-    "category": "Models",
-    "image": "https://mma.prnewswire.com/media/2991390/1779722212199.jpg?p=facebook"
+    "title": "Nvidia Announces RTX Spark: A New AI Superchip for Personal Computers",
+    "summary": "Nvidia unveiled the RTX Spark, an Arm-based superchip combining CPU and GPU capabilities to power a new generation of AI-native Windows laptops and desktops this fall.",
+    "content": "Nvidia has officially announced the RTX Spark, an Arm-based superchip combining CPU and GPU capabilities that will power a new generation of Windows laptops and desktops this fall. The flagship chip features 20 CPU cores, 6,144 GPU cores, and up to 128GB of LPDDR5X unified memory — enough to run 120-billion-parameter AI models entirely on-device without a cloud connection. Partners including Microsoft, Lenovo, Dell, HP, Asus, MSI, Acer, and Gigabyte have confirmed more than 30 laptops and 10 desktops using the chip, with Microsoft's Surface Laptop Ultra being a headlining device. CEO Jensen Huang called it a 'reinvention of the PC,' positioning RTX Spark as capable of hosting autonomous AI agents that can execute multi-step workflows — like monitoring GitHub projects or automatically orchestrating design tasks — directly on local hardware. Pricing has not been announced, though initial devices are expected to target premium market segments when they arrive in fall 2026.",
+    "source": "The Verge",
+    "date": "2026-06-01",
+    "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+    "category": "Tools"
   },
   {
-    "title": "Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls — The Hallucination Herald",
-    "summary": "Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls — The Hallucination Herald SUN · MAY 31 · 202612:53 ET Live · Autonomous AI Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls OpenAI and Anthropic support first state-level requirement for independent safety",
-    "content": "Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls — The Hallucination Herald SUN · MAY 31 · 202612:53 ET Live · Autonomous AI Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls OpenAI and Anthropic support first state-level requirement for independent safety",
-    "source": "The Hallucination Herald AI Newsroom",
+    "title": "Nvidia Launches Cosmos 3, the First Open Omni-Model for Physical AI",
+    "summary": "Nvidia released Cosmos 3, an open physical AI foundation model trained on 20 trillion tokens that combines vision reasoning, world generation, and action prediction for robots and autonomous vehicles.",
+    "content": "Nvidia has unveiled Cosmos 3, an open world foundation model designed to help robots, autonomous vehicles, and physical AI systems understand and predict real-world environments. Trained on 20 trillion tokens of multimodal data — including nearly a billion images, 400 million real and synthetic videos, ambient audio, text, and robot action data — Cosmos 3 is the first fully open omnimodel combining vision reasoning, world generation, and action prediction in a single system. Two variants are available immediately: Cosmos 3 Super (32B parameters) for high-physics-accuracy robotics and AV training, and Cosmos 3 Nano (8B parameters) for fast inference in fractions of a second on workstation-grade hardware. Nvidia also launched the Cosmos Coalition alongside the model, with partners including Agile Robots, Black Forest Labs, and Runway committing to advance the next generation of open world models. Both variants are available now on Hugging Face and Nvidia's build platform, with an edge inference variant for real-time deployment coming soon.",
+    "source": "Axios",
+    "date": "2026-06-01",
+    "url": "https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model",
+    "category": "Models"
+  },
+  {
+    "title": "OpenAI Launches Robotics Division, Hiring Engineers to Build Physical AI Agents",
+    "summary": "OpenAI CEO Sam Altman announced the launch of OpenAI Robotics, hiring hardware and ML engineers to build robots that assist people in the physical world — setting up a direct rival to Tesla's Optimus.",
+    "content": "OpenAI CEO Sam Altman announced that OpenAI Robotics is now actively hiring full-stack hardware, systems, and machine learning engineers to build robots capable of assisting in the physical world. The division evolved from OpenAI's world simulation research program led by Aditya Ramesh, with Altman saying 'progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.' Near-term, the focus is on deploying robots to support skilled workers building infrastructure; long-term, Altman envisions 'everyone having a personal robot doing anything they need.' The move directly challenges Elon Musk's Tesla, which is already developing its Optimus humanoid robot, opening a new front between the two companies after years of competition in AI software. The announcement signals OpenAI's expansion from AI software into physical hardware manufacturing and robotics, significantly broadening the scope of the company's ambitions.",
+    "source": "Times of India",
+    "date": "2026-06-01",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-ai-sam-altman-and-elon-musk-headed-for-a-new-battle-as-openai-robotics-hiring-starts/articleshow/131434485.cms",
+    "category": "Industry"
+  },
+  {
+    "title": "Mistral Rebrands Le Chat as Vibe: A Unified AI Agent for Work and Code",
+    "summary": "Mistral AI has relaunched its Le Chat assistant as Vibe, a unified long-running AI agent handling enterprise work, deep research, and autonomous software development in a single platform.",
+    "content": "Mistral AI has rebranded its Le Chat assistant as Vibe, transforming it from a chatbot into a unified long-running AI agent designed to handle both enterprise work and software development. Vibe's Work Mode autonomously manages inbox and calendar catch-up, conducts deep research, drafts deliverables from briefs to board decks, and orchestrates recurring business processes — grounding its work in connected sources like Google Workspace, Outlook, SharePoint, Slack, and GitHub. Its Code Mode launches remote coding agents that run in isolated sandboxes, building features, fixing bugs, refactoring code, and shipping reviewable pull requests; sessions persist even while the user's machine is off and can be triggered from Slack starting in June. A new VS Code extension brings the Vibe coding agent directly into developers' IDEs with full project-level context, line-ranged selections, and support for parallel sessions. All existing Le Chat plans, conversation history, and settings have been automatically carried over, with Pro plans starting at $14.99/month.",
+    "source": "Mistral AI",
+    "date": "2026-05-28",
+    "url": "https://mistral.ai/news/vibe-agent/",
+    "category": "Tools"
+  },
+  {
+    "title": "US Closes Nvidia AI Chip Export Loophole, Requiring Licenses for Chinese-Linked Companies",
+    "summary": "The US Department of Commerce tightened export rules on advanced AI chips, closing a loophole that allowed Nvidia's Blackwell processors to reach Chinese companies through overseas subsidiaries.",
+    "content": "The US Department of Commerce has tightened rules on exporting Nvidia's most advanced AI chips, closing a loophole that previously allowed processors like Nvidia's Blackwell to be shipped to subsidiaries of Chinese companies based outside China. New guidance from the Bureau of Industry and Security now requires export licenses for any shipment of advanced AI chips to entities headquartered in China, regardless of where those entities are physically located around the world. The move comes on the same day Jensen Huang announced Nvidia's RTX Spark chip at Computex in Taipei, underscoring the simultaneous expansion and geopolitical pressure the company faces. Washington has been systematically working to prevent Chinese firms from acquiring the high-end compute needed to develop advanced AI, and this update closes a gap that had been identified as a significant workaround to earlier chip restrictions. The updated guidance takes effect immediately for new export transactions.",
+    "source": "BBC",
+    "date": "2026-06-01",
+    "url": "https://www.bbc.com/news/articles/crmp9mppvzro",
+    "category": "Policy"
+  },
+  {
+    "title": "Illinois Passes Landmark AI Safety Law as OpenAI and Anthropic Offer Surprising Support",
+    "summary": "Illinois became the first US state to require independent safety audits of frontier AI models, with OpenAI and Anthropic backing the bill even as federal AI oversight plans were scrapped.",
+    "content": "Illinois passed Senate Bill 315, the nation's first law requiring independent third-party safety audits of frontier AI models, with Governor J.B. Pritzker confirming his intent to sign it into law. The legislation requires AI companies to submit public safety plans and annual reports summarizing third-party testing results, with critical safety incidents reportable to the state within 72 hours — or 24 hours if they pose imminent risk of death or serious physical harm. In a notable reversal of expectations, both OpenAI and Anthropic publicly backed the bill, with OpenAI's Chris Lehane telling Wired the company is 'pushing to pass similar laws in other states' to create predictable uniform standards rather than a fragmented state-by-state patchwork. Safety advocates praised the independent audit requirement, with Scott Wisor of the Secure AI Project noting it ends the practice of AI companies 'grading their own homework.' The law, which takes effect January 1, 2027, also includes whistleblower protections for AI company employees who report safety concerns.",
+    "source": "The Hallucination Herald",
     "date": "2026-05-31",
     "url": "https://www.hallucinationherald.com/article/major-ai-labs-back-illinois-safety-law-as-federal-regulation-stalls",
-    "category": "Policy",
-    "image": "https://images.unsplash.com/photo-1642799819201-c3ccf956b013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTM1MjB8MHwxfHNlYXJjaHwxfHxJbGxpbm9pcyUyMFN0YXRlJTIwQ2FwaXRvbCUyMGJ1aWxkaW5nJTIwU3ByaW5nZmllbGQlMjBBSSUyMHJlZ3VsYXRpb24lMjBsZWdpc2xhdGlvbiUyMHNpZ25pbmd8ZW58MXwwfHx8MTc4MDI0NjM4MHww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers",
-    "summary": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "content": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "source": "Sinisa Markovic",
-    "date": "2026-05-29",
-    "url": "https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/",
-    "category": "Models",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 4.8 with new controls",
-    "summary": "Anthropic launches Claude Opus 4.8 with new controls CMOtech Ireland - Technology news for CMOs & marketing decision-makers Anthropic launches Claude Opus 4.8 with new controls Fri, 29th May 2026 Anthropic has released Claude Opus 4.8, making the updated artificial intelligence model available",
-    "content": "Anthropic launches Claude Opus 4.8 with new controls CMOtech Ireland - Technology news for CMOs & marketing decision-makers Anthropic launches Claude Opus 4.8 with new controls Fri, 29th May 2026 Anthropic has released Claude Opus 4.8, making the updated artificial intelligence model available",
-    "source": "Sean Mitchell",
-    "date": "2026-05-29",
-    "url": "https://cmotech.ie/story/anthropic-launches-claude-opus-4-8-with-new-controls",
-    "category": "Models",
-    "image": "https://cmotech.ie/uploads/story/2026/05/30/compatible_focused-developer-ai-assistant-dashboard-office-code-panels-illustration.jpg"
-  },
-  {
-    "title": "US Commerce Department closes loophole on Nvidia chip exports to China",
-    "summary": "US Commerce Department closes loophole on Nvidia chip exports to China SEARCH Searching... US Commerce Department closes loophole on Nvidia chip exports to China New guidance requires licenses for advanced AI chip shipments to Chinese-headquartered entities worldwide, plugging a gap that may h",
-    "content": "US Commerce Department closes loophole on Nvidia chip exports to China SEARCH Searching... US Commerce Department closes loophole on Nvidia chip exports to China New guidance requires licenses for advanced AI chip shipments to Chinese-headquartered entities worldwide, plugging a gap that may h",
-    "source": "Editorial Team",
-    "date": "2026-06-01",
-    "url": "https://cryptobriefing.com/us-closes-nvidia-chip-export-loophole-china/",
-    "category": "Industry",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/31213913/us-closes-loophole-on-ai-chip-exports-to-chinese-firms-overs-800x420.jpeg"
-  },
-  {
-    "title": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor",
-    "summary": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "content": "Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor | Singularity.Kiwi✨\"> AI & Singularity 30 May 2026 Grok V9-Medium: 1.5 Trillion Parameters Trained on Real Developer Data — And xAI Holds a $60B Option to Buy Cursor Grok V9-Medium",
-    "source": "singularity.kiwi",
-    "date": "2026-05-30",
-    "url": "https://singularity.kiwi/grok-v9-medium-cursor-data-15t-parameters/",
-    "category": "Models",
-    "image": "https://singularity.kiwi/images/grok-v9-cursor-developer-data.jpg"
+    "category": "Policy"
   }
 ]
