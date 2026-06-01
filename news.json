@@ -1,62 +1,62 @@
 [
   {
-    "title": "xAI Opens Grok Build 0.1 to Developers via API",
-    "summary": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com The agentic coding space is getting more crowded. xAI has made Grok Build 0.1, its fastest coding model, available via the xAI API in public beta.",
-    "content": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com The agentic coding space is getting more crowded. xAI has made Grok Build 0.1, its fastest coding model, available via the xAI API in public beta. That means developers can now build directly on top of the same model that powers xAI’s Grok",
-    "source": "Tom Smith",
+    "title": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks from users",
+    "summary": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks from users | PBS News By — Associated Press Associated Press Share Copy URL https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users Share on Facebook Shar",
+    "content": "Florida sues OpenAI and CEO Sam Altman, claiming company hid ChatGPT risks from users | PBS News By — Associated Press Associated Press Share Copy URL https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users Share on Facebook Shar",
+    "source": "pbs.org",
     "date": "2026-06-01",
-    "url": "https://devops.com/xai-opens-grok-build-0-1-to-developers-via-api/",
+    "url": "https://www.pbs.org/newshour/nation/florida-sues-openai-and-ceo-sam-altman-claiming-company-hid-chatgpt-risks-from-users",
     "category": "Models",
-    "image": "https://devops.com/wp-content/uploads/2022/02/coding-gb646cb77a_1280-e1644931732205.jpg"
+    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/06/2026-05-14T154319Z_2126414271_RC239LA56L34_RTRMADP_3_MUSK-OPENAI-COURT-1024x683.jpg"
   },
   {
-    "title": "NVIDIA Cosmos 3 open-sources full physical AI stack",
-    "summary": "NVIDIA Cosmos 3 open-sources full physical AI stack | AI Weekly Key insights - The mixture-of-transformers architecture separates a reasoning tower from a generation tower, removing the need to orchestrate multiple specialized models. - Two model sizes (Nano 8B and Super 32B) ship with NVFP4 qu",
-    "content": "NVIDIA Cosmos 3 open-sources full physical AI stack | AI Weekly Key insights - The mixture-of-transformers architecture separates a reasoning tower from a generation tower, removing the need to orchestrate multiple specialized models. - Two model sizes (Nano 8B and Super 32B) ship with NVFP4 qu",
-    "source": "aiweekly.co",
+    "title": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus",
+    "summary": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science Feedback Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science main-content) [ ![LDS Logo LDS Let's Data ScienceLEARN • BUILD •",
+    "content": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science Feedback Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science LDS Logo LDS Let's Data ScienceLEARN • BUILD •",
+    "source": "Let's Data Science",
     "date": "2026-06-01",
-    "url": "https://aiweekly.co/alerts/nvidia-cosmos-3-open-sources-full-physical-ai-stack",
-    "category": "Industry",
-    "image": "https://aiweekly.co/themes/custom/aiweekly/images/logo.png"
+    "url": "https://letsdatascience.com/news/anthropic-releases-claude-opus-48-with-model-welfare-focus-ee8e400d",
+    "category": "Models",
+    "image": "https://substackcdn.com/image/fetch/$s_!KdMo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d738ca2-7492-42b1-b6ba-6e5a3b46fd53_1672x941.png"
   },
   {
-    "title": "Nvidia unveils Alpamayo 2 Super AI model for safer robotaxis",
-    "summary": "Nvidia unveils Alpamayo 2 Super AI model for safer robotaxis - GamesBeat Nvidia's Alpamayo is bringing on self-driving cars. Source: Nvidia Become a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community in the business of gaming, ente",
-    "content": "Nvidia unveils Alpamayo 2 Super AI model for safer robotaxis - GamesBeat Nvidia's Alpamayo is bringing on self-driving cars. Source: Nvidia Become a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community in the business of gaming, ente",
-    "source": "Dean Takahashi",
-    "date": "2026-06-01",
-    "url": "https://gamesbeat.com/nvidia-unveils-alpamayo-2-super-ai-model-for-safer-robotaxis/",
-    "category": "Industry",
-    "image": "https://gamesbeat.com/wp-content/uploads/2026/05/Alpamayo-Super-Image.jpg"
+    "title": "Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls — The Hallucination Herald",
+    "summary": "Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls — The Hallucination Herald SUN · MAY 31 · 202612:53 ET Live · Autonomous AI Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls OpenAI and Anthropic support first state-level requirement for independent safety",
+    "content": "Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls — The Hallucination Herald SUN · MAY 31 · 202612:53 ET Live · Autonomous AI Major AI Labs Back Illinois Safety Law as Federal Regulation Stalls OpenAI and Anthropic support first state-level requirement for independent safety",
+    "source": "The Hallucination Herald AI Newsroom",
+    "date": "2026-05-31",
+    "url": "https://www.hallucinationherald.com/article/major-ai-labs-back-illinois-safety-law-as-federal-regulation-stalls",
+    "category": "Policy",
+    "image": "https://images.unsplash.com/photo-1642799819201-c3ccf956b013?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4OTM1MjB8MHwxfHNlYXJjaHwxfHxJbGxpbm9pcyUyMFN0YXRlJTIwQ2FwaXRvbCUyMGJ1aWxkaW5nJTIwU3ByaW5nZmllbGQlMjBBSSUyMHJlZ3VsYXRpb24lMjBsZWdpc2xhdGlvbiUyMHNpZ25pbmd8ZW58MXwwfHx8MTc4MDI0NjM4MHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   {
-    "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI",
-    "summary": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI May 31, 2026 News",
-    "content": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI May 31, 2026 News",
-    "source": "investingnews.com",
-    "date": "2026-06-01",
-    "url": "https://investingnews.com/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai/",
-    "category": "Tools",
-    "image": "https://investingnews.com/media-library/image.gif?id=32695260&width=1200&height=600&coordinates=10%2C0%2C10%2C0"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers",
-    "summary": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "content": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "source": "Sinisa Markovic",
+    "title": "Anthropic releases Claude Opus 4.8",
+    "summary": "Anthropic releases Claude Opus 4.8 Search Home Updates Anthropic releases Claude Opus 4.8 Anthropic releases Claude Opus 4.8 May 29, 2026, 12:57 Anthropic has announced its new flagship artificial intelligence model, Claude Opus 4.8, presenting it as the most advanced and reliable AI system i",
+    "content": "Anthropic releases Claude Opus 4.8 Search Home Updates Anthropic releases Claude Opus 4.8 Anthropic releases Claude Opus 4.8 May 29, 2026, 12:57 Anthropic has announced its new flagship artificial intelligence model, Claude Opus 4.8, presenting it as the most advanced and reliable AI system i",
+    "source": "secnews.gr",
     "date": "2026-05-29",
-    "url": "https://www.helpnetsecurity.com/2026/05/29/anthropic-claude-opus-4-8/",
+    "url": "https://www.secnews.gr/en/712199/anthropic-cyclophorei-claude-opus-4-8/",
     "category": "Models",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
+    "image": "https://cdnglobal.secnews.gr/wp-content/uploads/2026/05/29124215/Claude-Opus-4.8-kikloforia.jpg"
   },
   {
-    "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
-    "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI May 31, 2026 News Summary: - NVIDIA",
-    "content": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI May 31, 2026 News Summary: - NVIDIA",
-    "source": "investingnews.com",
+    "title": "NVIDIA Cosmos 3: The Open Model for Physical AI (2026)",
+    "summary": "NVIDIA Cosmos 3: The Open Model for Physical AI (2026) news NVIDIA Cosmos 3: The Open Model for Physical AI (2026) NVIDIA launches Cosmos 3, the first fully open omnimodel for Physical AI: Super 32B and Nano 8B variants with native vision reasoning, world and action generation.",
+    "content": "NVIDIA Cosmos 3: The Open Model for Physical AI (2026) news NVIDIA Cosmos 3: The Open Model for Physical AI (2026) NVIDIA launches Cosmos 3, the first fully open omnimodel for Physical AI: Super 32B and Nano 8B variants with native vision reasoning, world and action generation. 01/06/202",
+    "source": "Pasquale Pillitteri",
     "date": "2026-06-01",
-    "url": "https://investingnews.com/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/",
+    "url": "https://pasqualepillitteri.it/en/news/3945/nvidia-cosmos-3-physical-ai",
+    "category": "Industry",
+    "image": "https://pasqualepillitteri.it/uploads/img/news/nvidia-cosmos-3-physical-ai-cover.webp"
+  },
+  {
+    "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | Press Releases",
+    "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | Press Releases | norfolkdailynews.com You have permission to edit this article. GOP needs to focus on its messaging to have successful midterms News Summary: NVIDIA Cosmos 3 is a n",
+    "content": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | Press Releases | norfolkdailynews.com You have permission to edit this article. What do you think? GOP needs to focus on its messaging to have successful midterms News Summary: NVIDIA Cosmos 3 is a n",
+    "source": "norfolkdailynews.com",
+    "date": "2026-06-01",
+    "url": "https://norfolkdailynews.com/online_features/press_releases/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/article_4346ff96-ead5-5bdb-94cd-87467397881e.html",
     "category": "Models",
-    "image": "https://investingnews.com/media-library/image.gif?id=32695260&width=1200&height=600&coordinates=10%2C0%2C10%2C0"
+    "image": "https://bloximages.newyork1.vip.townnews.com/norfolkdailynews.com/content/tncms/custom/image/72aed2a4-e15d-11e5-99a9-77342f37c000.jpg?resize=600%2C315"
   }
 ]
