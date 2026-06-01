@@ -1,23 +1,23 @@
 [
   {
-    "title": "Nvidia launches Cosmos 3 open world foundation model for physical AI",
-    "summary": "Nvidia launches Cosmos 3 open world foundation model for physical AI - GamesBeat Nvidia's Cosmos 3 world model is aimed at improving robots. Source: Nvidia Become a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community in the business",
-    "content": "Nvidia launches Cosmos 3 open world foundation model for physical AI - GamesBeat Nvidia's Cosmos 3 world model is aimed at improving robots. Source: Nvidia Become a member of GB MAX to gain exclusive access to the industry and to the most influential global B2B leadership community in the business",
-    "source": "Dean Takahashi",
+    "title": "xAI Opens Grok Build 0.1 to Developers via API",
+    "summary": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com The agentic coding space is getting more crowded. xAI has made Grok Build 0.1, its fastest coding model, available via the xAI API in public beta.",
+    "content": "xAI Opens Grok Build 0.1 to Developers via API - DevOps.com The agentic coding space is getting more crowded. xAI has made Grok Build 0.1, its fastest coding model, available via the xAI API in public beta. That means developers can now build directly on top of the same model that powers xAI’s Grok",
+    "source": "Tom Smith",
     "date": "2026-06-01",
-    "url": "https://gamesbeat.com/nvidia-cosmos-3-open-world-foundation-model-for-physical-ai/",
+    "url": "https://devops.com/xai-opens-grok-build-0-1-to-developers-via-api/",
     "category": "Models",
-    "image": "https://gamesbeat.com/wp-content/uploads/2026/05/Cosmos-3.jpg"
+    "image": "https://devops.com/wp-content/uploads/2022/02/coding-gb646cb77a_1280-e1644931732205.jpg"
   },
   {
-    "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
-    "summary": "How Cosmos 3 Helps Physical AI Think Before It Acts | NVIDIA Blog How Cosmos 3 Helps Physical AI Think Before It Acts The new, open NVIDIA world foundation model brings vision reasoning, multimodal generation and action prediction together to help robots, autonomous vehicles and vision AI agents",
-    "content": "How Cosmos 3 Helps Physical AI Think Before It Acts | NVIDIA Blog How Cosmos 3 Helps Physical AI Think Before It Acts The new, open NVIDIA world foundation model brings vision reasoning, multimodal generation and action prediction together to help robots, autonomous vehicles and vision AI agents",
-    "source": "Ming-Yu Liu",
+    "title": "NVIDIA Cosmos 3 open-sources full physical AI stack",
+    "summary": "NVIDIA Cosmos 3 open-sources full physical AI stack | AI Weekly Key insights - The mixture-of-transformers architecture separates a reasoning tower from a generation tower, removing the need to orchestrate multiple specialized models. - Two model sizes (Nano 8B and Super 32B) ship with NVFP4 qu",
+    "content": "NVIDIA Cosmos 3 open-sources full physical AI stack | AI Weekly Key insights - The mixture-of-transformers architecture separates a reasoning tower from a generation tower, removing the need to orchestrate multiple specialized models. - Two model sizes (Nano 8B and Super 32B) ship with NVFP4 qu",
+    "source": "aiweekly.co",
     "date": "2026-06-01",
-    "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
-    "category": "Models",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Featured-image.png"
+    "url": "https://aiweekly.co/alerts/nvidia-cosmos-3-open-sources-full-physical-ai-stack",
+    "category": "Industry",
+    "image": "https://aiweekly.co/themes/custom/aiweekly/images/logo.png"
   },
   {
     "title": "Nvidia unveils Alpamayo 2 Super AI model for safer robotaxis",
@@ -30,6 +30,16 @@
     "image": "https://gamesbeat.com/wp-content/uploads/2026/05/Alpamayo-Super-Image.jpg"
   },
   {
+    "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI",
+    "summary": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI May 31, 2026 News",
+    "content": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI May 31, 2026 News",
+    "source": "investingnews.com",
+    "date": "2026-06-01",
+    "url": "https://investingnews.com/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai/",
+    "category": "Tools",
+    "image": "https://investingnews.com/media-library/image.gif?id=32695260&width=1200&height=600&coordinates=10%2C0%2C10%2C0"
+  },
+  {
     "title": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers",
     "summary": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
     "content": "Anthropic launches Claude Opus 4.8, prepares Mythos-class models for all customers - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
@@ -40,23 +50,13 @@
     "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/27125835/claude-vortex.webp"
   },
   {
-    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-    "summary": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action Enterprise + Article Published June 1, 2026 - +14 Atharva Joshi atharvajoshi10 Follow NVIDIA Cosmos 3 is here - and i",
-    "content": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action Enterprise + Article Published June 1, 2026 - +14 Atharva Joshi atharvajoshi10 Follow NVIDIA Cosmos 3 is here - and i",
-    "source": "huggingface.co",
+    "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
+    "summary": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI May 31, 2026 News Summary: - NVIDIA",
+    "content": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI | INN Australia North America World Investing News NetworkYour trusted source for investing success NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI May 31, 2026 News Summary: - NVIDIA",
+    "source": "investingnews.com",
     "date": "2026-06-01",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "category": "Industry",
-    "image": "https://cdn-uploads.huggingface.co/production/uploads/6799309995f2227228bc38f3/js_kXqJrfpYZd1hZvwPug.png"
-  },
-  {
-    "title": "Anthropic confirms Claude Mythos-class models will be public",
-    "summary": "Anthropic confirms Claude Mythos-class models will be public - InfoSecBulletin Anthropic confirms Claude Mythos-class models will be public Anthropic has said it will release Mythos-class models to the public. They had to delay this because of security concerns for both public and private softwa",
-    "content": "Anthropic confirms Claude Mythos-class models will be public - InfoSecBulletin Anthropic confirms Claude Mythos-class models will be public Anthropic has said it will release Mythos-class models to the public. They had to delay this because of security concerns for both public and private softwa",
-    "source": "infosecbulletin",
-    "date": "2026-05-29",
-    "url": "https://infosecbulletin.com/anthropic-confirms-claude-mythos-class-models-will-be-public/",
+    "url": "https://investingnews.com/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai/",
     "category": "Models",
-    "image": "https://infosecbulletin.com/wp-content/uploads/2026/05/ChatGPT-Image-May-29-2026-09_24_34-AM.png"
+    "image": "https://investingnews.com/media-library/image.gif?id=32695260&width=1200&height=600&coordinates=10%2C0%2C10%2C0"
   }
 ]
