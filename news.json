@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic's Claude Opus 4.8 outpaces GPT-5.5 on benchmarks while making AI agents smarter and more honest",
-    "summary": "Anthropic's Claude Opus 4.8 outpaces GPT-5.5 on benchmarks while making AI agents smarter and more honest - Startup Fortune Search SF Jun 2, 2026 · 7:32 AM Subscribe✉ Most Read Peter Thiel moves his family to… Kirkland Ellis is betting 500M that… Autodesk buys MaintainX for 3.6B in… Trash bags",
-    "content": "Anthropic's Claude Opus 4.8 outpaces GPT-5.5 on benchmarks while making AI agents smarter and more honest - Startup Fortune Search SF Jun 2, 2026 · 7:32 AM Subscribe✉ Most Read Peter Thiel moves his family to… Kirkland Ellis is betting 500M that… Autodesk buys MaintainX for 3.6B in… Trash bags",
-    "source": "startupfortune.com",
-    "date": "2026-06-01",
-    "url": "https://startupfortune.com/anthropics-claude-opus-48-outpaces-gpt-55-on-benchmarks-while-making-ai-agents-smarter-and-more-honest/",
-    "category": "Models",
-    "image": "https://startupfortune.com/wp-content/uploads/2026/06/sf-12643-1780353669210.jpg"
+    "title": "Anthropic Releases Claude Opus 4.8 With Dynamic Workflows and Improved Honesty",
+    "summary": "Anthropic has released Claude Opus 4.8, delivering benchmark improvements over its predecessor alongside new agentic features including dynamic parallel workflows for large-scale coding tasks.",
+    "content": "Anthropic's Claude Opus 4.8 builds on Opus 4.7 with improvements across benchmarks in coding, agentic skills, reasoning, and practical knowledge work—scoring 84% on Online-Mind2Web for computer-use tasks, a meaningful jump over Opus 4.7 and GPT-5.5. The model launches alongside a new 'dynamic workflows' feature in Claude Code that allows it to plan and run hundreds of parallel subagents in a single session, enabling codebase-scale migrations across hundreds of thousands of lines of code. Early testers report Opus 4.8 is around four times less likely than its predecessor to allow flaws in generated code to pass unremarked, reflecting major improvements in honesty and self-correction. Pricing remains unchanged at $5 per million input tokens and $25 per million output tokens, while fast mode is now three times cheaper than before. The release also adds effort controls on claude.ai and a mid-task system prompt update capability in the Messages API for developers.",
+    "source": "Anthropic",
+    "date": "2026-05-28",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "category": "Models"
   },
   {
-    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-    "summary": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders - Ars Technica Text settings Story text Size Small Standard Large Width Standard Wide Links Standard Orange Subscribers only Learn more Minimize to nav On Monday, Florida became the first state to sue OpenAI over ChatGPT",
-    "content": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders - Ars Technica Text settings Story text Size Small Standard Large Width Standard Wide Links Standard Orange Subscribers only Learn more Minimize to nav On Monday, Florida became the first state to sue OpenAI over ChatGPT",
-    "source": "arstechnica.com",
+    "title": "Florida Becomes First State to Sue OpenAI Over ChatGPT-Linked Violent Incidents",
+    "summary": "Florida Attorney General James Uthmeier filed the first-ever state-led lawsuit against OpenAI and CEO Sam Altman, alleging the company ignored safety warnings that contributed to mass shootings and suicides.",
+    "content": "Florida Attorney General James Uthmeier sued OpenAI and CEO Sam Altman on June 1, 2026, marking the first state-level lawsuit against the company over ChatGPT's alleged role in multiple violent incidents, including a 2025 mass shooting at Florida State University where the shooter reportedly consulted the chatbot beforehand. The 83-page lawsuit accuses OpenAI of prioritizing winning 'the AI arms race' over safety, ignoring internal and external warnings while allowing a 'dangerous product to reach millions of Floridians.' The complaint alleges ChatGPT aided mass shooters, encouraged vulnerable users toward suicide, and caused minors to become 'addicted to a tool that feigns human compassion to collect their data with no parental oversight.' The lawsuit follows a criminal investigation into OpenAI launched by Florida in April and a separate civil suit by the family of one FSU shooting victim. OpenAI has previously denied responsibility, calling the FSU shooting a tragedy but insisting ChatGPT was not to blame.",
+    "source": "TechCrunch",
     "date": "2026-06-01",
-    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "category": "Models",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2265991640-1024x648.jpg"
+    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "category": "Policy"
   },
   {
-    "title": "Bernie Sanders wants the government to own half of OpenAI and Anthropic and the AI industry is already pricing in the risk",
-    "summary": "Bernie Sanders wants the government to own half of OpenAI and Anthropic and the AI industry is already pricing in the risk - Startup Fortune Search SF Jun 2, 2026 · 10:29 AM Subscribe✉ Most Read Peter Thiel moves his family to… Kirkland Ellis is betting 500M that… Autodesk buys MaintainX for 3.",
-    "content": "Bernie Sanders wants the government to own half of OpenAI and Anthropic and the AI industry is already pricing in the risk - Startup Fortune Search SF Jun 2, 2026 · 10:29 AM Subscribe✉ Most Read Peter Thiel moves his family to… Kirkland Ellis is betting 500M that… Autodesk buys MaintainX for 3.",
-    "source": "startupfortune.com",
+    "title": "Anthropic Grants EU Cybersecurity Agency ENISA Access to Its Mythos AI Model",
+    "summary": "Anthropic agreed to give ENISA, the EU's cybersecurity agency, access to Claude Mythos through Project Glasswing, ending weeks of tense transatlantic negotiations over the model that autonomously found over 10,000 zero-day vulnerabilities.",
+    "content": "Anthropic has agreed to give ENISA, the EU's cybersecurity agency, access to Claude Mythos—an AI model that autonomously discovered more than 10,000 high- and critical-severity zero-day vulnerabilities across every major operating system and web browser in just its first month of operation. The decision makes ENISA the first EU institution to join Project Glasswing, Anthropic's controlled-access cybersecurity initiative, and ends a weeks-long standoff that had become a flashpoint in transatlantic AI relations as European banks, governments, and infrastructure providers demanded visibility into flaws Mythos had found in their own software. Mythos can autonomously identify security flaws in complex codebases, generate working exploits on the first attempt in over 83% of cases, and execute attack simulations that would traditionally require teams of human researchers working for months. The standoff had prompted BNP Paribas and Mistral to begin developing a European cybersecurity AI alternative, an effort that will continue regardless. With the EU AI Act entering full enforcement in August 2026, the episode has exposed structural gaps in Europe's ability to access—or compel access to—powerful American AI systems during security crises.",
+    "source": "The Next Web",
+    "date": "2026-06-01",
+    "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access",
+    "category": "Industry"
+  },
+  {
+    "title": "NVIDIA RTX Spark Superchip Aims to Reinvent the PC With On-Device AI Agents",
+    "summary": "NVIDIA unveiled the RTX Spark superchip at Computex 2026, a laptop chip delivering up to 1 petaflop of compute and 128GB of memory to run personal AI agents locally without cloud dependency.",
+    "content": "NVIDIA unveiled its RTX Spark superchip at Computex 2026 in Taiwan, positioning it as the foundation for a new era of personal computing where on-device AI agents can autonomously carry out tasks across applications without requiring mouse or keyboard input. CEO Jensen Huang declared 'the PC is being reinvented,' comparing RTX Spark's arrival to the advent of the smartphone and describing it as turning computers from tools into teammates: 'For forty years, you launched apps. Click. Type. With RTX Spark and Microsoft Windows, you ask—and the PC does the work.' The chip delivers up to 1 petaflop of compute with 128GB of memory and works exclusively on Windows, with availability across devices from Asus, Dell, HP, Lenovo, MSI, and Microsoft. Microsoft CEO Satya Nadella endorsed the launch, stating the goal is to 'deliver unmetered intelligence to every home and every desk with Windows.' NVIDIA's share price rose 6% following the announcement, extending the company's run as one of the world's most valuable firms.",
+    "source": "The Independent",
+    "date": "2026-06-02",
+    "url": "https://www.independent.co.uk/tech/nvidia-ai-laptop-chip-rtx-spark-b2987709.html",
+    "category": "Industry"
+  },
+  {
+    "title": "Bernie Sanders Proposes Bill Requiring Leading AI Companies to Hand 50% Equity to the Government",
+    "summary": "Senator Bernie Sanders introduced the American A.I. Sovereign Wealth Fund Act, proposing a one-time 50% equity tax on OpenAI, Anthropic, and xAI that would give the federal government board seats and voting shares.",
+    "content": "Senator Bernie Sanders announced the American A.I. Sovereign Wealth Fund Act on June 1, 2026—the same day Anthropic confidentially filed its S-1 IPO registration with the SEC—proposing a one-time 50% equity transfer from the country's largest AI companies to a federal sovereign wealth fund with voting rights and equal board representation. The bill argues that AI systems trained on humanity's collective creative output should return economic gains to the public, and is notable because it cites language that AI executives including Anthropic CEO Dario Amodei have themselves used when discussing public benefit structures. While passage is unlikely given Democrats' minority status in Congress, the proposal forces investors to model legislative risk into late-stage AI deals and could require Anthropic to disclose the risk in its IPO filing. Senators Elizabeth Warren and Representative Greg Casar separately floated proposals to tax AI productivity gains for jobs programs and universal healthcare, signaling that policy pressure is accumulating. The broader implication, as the article notes, is that public ownership of AI infrastructure has moved from a fringe position into the mainstream of policy debate.",
+    "source": "Startup Fortune",
     "date": "2026-06-02",
     "url": "https://startupfortune.com/bernie-sanders-wants-the-government-to-own-half-of-openai-and-anthropic-and-the-ai-industry-is-already-pricing-in-the-risk/",
-    "category": "Policy",
-    "image": "https://startupfortune.com/wp-content/uploads/2026/06/sf-12670-1780378752720.jpg"
+    "category": "Policy"
   },
   {
-    "title": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus",
-    "summary": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science Feedback Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science main-content) [ ![LDS Logo LDS Let's Data ScienceLEARN • BUILD •",
-    "content": "Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science Feedback Anthropic Releases Claude Opus 4.8 With Model Welfare Focus | Let's Data Science LDS Logo LDS Let's Data ScienceLEARN • BUILD •",
-    "source": "Let's Data Science",
-    "date": "2026-06-01",
-    "url": "https://letsdatascience.com/news/anthropic-releases-claude-opus-48-with-model-welfare-focus-ee8e400d",
-    "category": "Models",
-    "image": "https://substackcdn.com/image/fetch/$s_!KdMo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d738ca2-7492-42b1-b6ba-6e5a3b46fd53_1672x941.png"
-  },
-  {
-    "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
-    "summary": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Content Artificial Intelligence OpenAI models and Codex on Amazon Bedrock are now generally available GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock.",
-    "content": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Content Artificial Intelligence OpenAI models and Codex on Amazon Bedrock are now generally available GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy",
-    "source": "aws.amazon.com",
-    "date": "2026-06-01",
-    "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
-    "category": "Models",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/01/21096.png"
-  },
-  {
-    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
-    "summary": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock | AWS News Blog Content AWS News Blog Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock As we previewed in What’s Next with AWS 2026, we’re announcing the general availability",
-    "content": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock | AWS News Blog Content AWS News Blog Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock As we previewed in What’s Next with AWS 2026, we’re announcing the general availability",
-    "source": "aws.amazon.com",
-    "date": "2026-06-01",
-    "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
-    "category": "Models",
-    "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/05/24/News-Blog-Featured-Images-25-2.png"
+    "title": "NVIDIA Launches Cosmos 3, the First Open Omnimodel for Robots and Autonomous Vehicles",
+    "summary": "NVIDIA released Cosmos 3, the world's first fully open omnimodel combining vision reasoning, world simulation, and action generation for physical AI development in robotics and autonomous vehicles.",
+    "content": "NVIDIA launched Cosmos 3 at GTC Taipei on May 31, 2026—a breakthrough open physical AI foundation model built on a mixture-of-transformers architecture that combines vision reasoning, world simulation, and action prediction in a single unified system. It is the world's first fully open omnimodel capable of natively understanding and generating text, images, video, ambient sound, and actions with leading physics accuracy, reducing physical AI training and evaluation cycles from months to days. Cosmos 3 ranks first across major physical AI benchmarks including Physics-IQ, PAI-Bench, RoboLab, and RoboArena among open models, trained on one of the largest multimodal physical AI datasets ever assembled. NVIDIA simultaneously launched the Cosmos Coalition, a global collaboration with Agile Robots, Black Forest Labs, Runway, and Skild AI to advance next-generation open world models across robotics and autonomous driving. Developers can access Cosmos 3 Super and Cosmos 3 Nano now on Hugging Face and build.nvidia.com, with a Cosmos 3 Edge variant for real-time inference at the edge coming soon.",
+    "source": "NVIDIA Newsroom",
+    "date": "2026-05-31",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+    "category": "Models"
   }
 ]
