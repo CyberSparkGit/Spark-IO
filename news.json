@@ -1,56 +1,62 @@
 [
   {
-    "title": "Microsoft Unveils Seven-Model MAI Family at Build 2026",
-    "summary": "Microsoft launched seven in-house AI models at Build 2026, including its flagship reasoning model MAI-Thinking-1 and a healthcare AI collaboration with Mayo Clinic.",
-    "content": "At Microsoft Build 2026, Mustafa Suleyman unveiled seven new models developed entirely in-house under the MAI brand: MAI-Thinking-1, a 35B-active sparse MoE reasoning model that outperforms Claude Sonnet 4.6 in blind human evaluations and matches it on SWE-Bench Pro; MAI-Code-1-Flash, a 5B-parameter agentic coding model now rolling out to GitHub Copilot users; MAI-Image-2.5 for text-to-image generation and editing; MAI-Transcribe-1.5, claiming state-of-the-art accuracy across 43 languages at 5x the speed of competitors; and MAI-Voice-2, supporting expressive speech in 15 languages. All models were trained from scratch without distillation from third-party models on clean, licensed data. Microsoft also announced a partnership with Mayo Clinic to co-create a frontier healthcare AI model using de-identified clinical data, which will first deploy at Mayo Clinic before becoming available via Azure Foundry to enable earlier and more accurate diagnoses at other institutions.",
-    "source": "Microsoft AI",
+    "title": "NVIDIA Cosmos 3: Open Physical AI Model That Predicts Robot Actions",
+    "summary": "NVIDIA Cosmos 3: Open Physical AI Model That Predicts Robot Actions | byteiota NVIDIA Cosmos 3 — open foundation model for physical AI, robotics, and autonomous vehicles NVIDIA released Cosmos 3 today — an open foundation model for physical AI that does something GPT-4o and Gemini still cannot: it",
+    "content": "NVIDIA Cosmos 3: Open Physical AI Model That Predicts Robot Actions | byteiota NVIDIA Cosmos 3 — open foundation model for physical AI, robotics, and autonomous vehicles NVIDIA released Cosmos 3 today — an open foundation model for physical AI that does something GPT-4o and Gemini still cannot: it",
+    "source": "ByteBot",
     "date": "2026-06-02",
-    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-    "category": "Models"
+    "url": "https://byteiota.com/nvidia-cosmos-3-physical-ai-foundation-model/",
+    "category": "Models",
+    "image": "https://byteiota.com/wp-content/uploads/2026/06/featured-image-22.jpg"
   },
   {
-    "title": "Trump Signs AI Cybersecurity Executive Order with 30-Day Pre-Release Review Window",
-    "summary": "President Trump signed an executive order establishing a voluntary framework for AI developers to give the government 30-day pre-release access to frontier models, scaling back an earlier draft that called for 90 days.",
-    "content": "President Donald Trump signed a cybersecurity-focused AI executive order on June 2, 2026, directing national security and civilian agencies to expand oversight of advanced AI systems while avoiding mandatory preclearance requirements. The order encourages AI developers to voluntarily provide the federal government up to 30 days of pre-public access to 'covered frontier models' — reduced from a 90-day window in an earlier draft that was scrapped after industry pushback over overregulation concerns. The NSA will lead a classified benchmarking process to determine which AI systems qualify as covered frontier models, and a new AI cybersecurity clearinghouse will coordinate between the government, AI companies, and critical infrastructure operators including hospitals, banks, and utilities. The order was shaped partly by the emergence of Anthropic's Mythos and OpenAI's GPT-5.5-Cyber, both of which demonstrated sophisticated cyber capabilities that heightened concerns in Washington. An explicit prohibition on mandatory licensing or preclearance means the administration is seeking visibility into advanced AI systems without creating a formal approval process before public release.",
-    "source": "Nextgov/FCW",
-    "date": "2026-06-02",
-    "url": "https://www.nextgov.com/artificial-intelligence/2026/06/trump-signs-ai-executive-order-after-postponement-last-month/413912/",
-    "category": "Policy"
-  },
-  {
-    "title": "Microsoft Launches Scout: Always-On Autonomous AI Agent for Microsoft 365",
-    "summary": "Microsoft introduced 'Autopilots' — a new category of always-on, identity-bearing AI agents — and launched Scout as its first, integrating autonomously across Microsoft 365 to proactively manage work without prompting.",
-    "content": "Microsoft announced a new class of AI agents called Autopilots at Build 2026, with Scout as its first product. Unlike chatbot-style assistants that respond only when prompted, Scout runs continuously with its own Entra identity, accessing Teams, Outlook, OneDrive, SharePoint, and local browser resources to act on your behalf without requiring constant input. It can proactively schedule meetings across time zones, block calendar time for upcoming deliverables, surface stalled decisions before they become blockers, and prepare briefing materials — all while operating within the organization's existing security and compliance policies. Scout is built on OpenClaw open-source technology, and Microsoft is contributing enterprise-grade policy conformance guardrails back to the OpenClaw project. It is currently available in private preview for select Frontier organizations with GitHub Copilot licenses, with a broader rollout planned for later this summer. Work IQ, Microsoft's new intelligence layer for M365, powers Scout's context-building over time to make it progressively more aligned to each user's priorities.",
-    "source": "Microsoft 365 Blog",
-    "date": "2026-06-02",
-    "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/",
-    "category": "Tools"
-  },
-  {
-    "title": "OpenAI Breaks Ground on $45B Stargate Michigan as Altman Admits AI Industry 'Failed' on Jobs Messaging",
-    "summary": "OpenAI CEO Sam Altman broke ground on a one-gigawatt, $45B AI data center in Michigan while publicly admitting the AI industry has failed to explain how workers stay in control amid AI-driven disruption.",
-    "content": "On June 1, 2026, OpenAI CEO Sam Altman joined Michigan Governor Gretchen Whitmer at the groundbreaking for Stargate Michigan in Saline Township — a one-gigawatt campus carrying a $45+ billion construction price tag, with Oracle's co-CEO estimating an additional $30–40 billion in equipment costs. The facility is OpenAI's first Midwest data center and part of the broader $500 billion Stargate Project. In a notable departure from typical tech triumphalism, Altman acknowledged that 'we have failed to articulate as an industry how people stay in control of determining the future at every step,' calling job anxiety a 'huge challenge' and a 'fair criticism.' In a CNBC interview at the site, Altman said coding models are the single biggest driver of current AI demand, aligning with Anthropic's reported $47 billion annualized revenue run rate driven largely by Claude Code enterprise adoption. OpenAI also announced $45 million in Codex credits for more than 400,000 eligible Michigan students for the 2026–2027 academic year as part of its community investment commitments alongside the data center.",
-    "source": "Unrot.co",
+    "title": "India gets access Anthropic's restricted Mythos Claude under Project Glasswing - Technology News",
+    "summary": "India gets access Anthropic's restricted Mythos Claude under Project Glasswing - Technology News | The Financial Express - Summary - Index Performance - Top Gainers - Top Losers - Gold (1 GM) - Silver (100 GM) - Most Viewed Funds BSE Sensex 73961.45 -0.Nifty 50 23180.7 -1.John Cockerill",
+    "content": "India gets access Anthropic's restricted Mythos Claude under Project Glasswing - Technology News | The Financial Express - Summary - Index Performance - Top Gainers - Top Losers - Gold (1 GM) - Silver (100 GM) - Most Viewed Funds BSE Sensex 73961.45 -0.Nifty 50 23180.7 -1.John Cockerill",
+    "source": "financialexpress.com",
     "date": "2026-06-03",
-    "url": "https://unrot.co/blogs/ai-news-today-june-3-2026",
-    "category": "Industry"
+    "url": "https://www.financialexpress.com/life/technology-india-gets-access-to-anthropics-restricted-mythos-claude-under-project-glasswing-4257660/",
+    "category": "Models",
+    "image": "https://images.financialexpressdigital.com/2026/05/Anthropic-next-generation-MythoAI.jpg"
   },
   {
-    "title": "NVIDIA Launches Alpamayo 2 Super: Open 32B Reasoning Model for Level 4 Robotaxis",
-    "summary": "NVIDIA released Alpamayo 2 Super, its most powerful open model yet — a 32B vision-language-action model that reasons across the full driving stack to accelerate Level 4 autonomous vehicle development.",
-    "content": "NVIDIA introduced Alpamayo 2 Super at GTC Taipei on June 1, 2026 — a 32-billion-parameter open reasoning VLA model that triples the scale of the previous generation and adds full-surround 360-degree perception, high-level meta-action outputs (yield, lane change, stop), and reasoning auto-labeling that can compress annotation cycles from months to days. Built on NVIDIA Cosmos world foundation models, it is designed as a teacher model that can be distilled into compact variants running on NVIDIA DRIVE AGX Thor in-vehicle compute. Alongside the model, NVIDIA launched AlpaGym, an open-source closed-loop reinforcement learning framework that trains AV models on the consequences of their actual driving decisions in simulation, and OmniDreams, a generative world model for photorealistic scenario generation to simulate rare long-tail edge cases at scale. Jensen Huang described the launch as 'the moment cars begin to safely reason, not just drive,' noting that the Alpamayo family has been downloaded nearly 400,000 times since its original release. Model weights will be available on Hugging Face and inference code on GitHub this summer.",
-    "source": "NVIDIA",
-    "date": "2026-06-01",
-    "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Alpamayo-2-Super-Open-Reasoning-Model-for-Robotaxis/default.aspx",
-    "category": "Models"
-  },
-  {
-    "title": "Deloitte Survey: 48% of Enterprises Deploy AI Without Redesigning the Work Around It",
-    "summary": "A Deloitte AI Institute survey of nearly 3,700 professionals finds AI adoption is widespread but genuine transformation is rare — only 12% of organizations have redesigned work at scale, and just 4% report AI value at the board level.",
-    "content": "Deloitte's AI Institute published survey findings from nearly 3,700 professionals on June 2, 2026, identifying three critical gaps in enterprise AI transformation. First, 48% of organizations have introduced AI without redesigning the workflows or roles around it, and only 12% report redesign at scale with a new operating model — meaning most companies are capturing a fraction of AI's potential by layering it onto pre-AI process maps. Second, on governance, 69% of respondents limit AI to either no autonomy or low-risk reversible actions only, while just 12% have reached the mature state where AI can execute end-to-end with humans auditing outcomes rather than approving each step. Third, on ROI, most organizations can measure AI costs but not AI value — only 4% report AI outcomes at the board level. Deloitte warns that organizations not redesigning workflows now face a compounding disadvantage as competitors build AI-native operations, and introduces 'Return on Autonomy' (RoA) as a more useful metric than cost savings alone — measuring how AI expands what the enterprise is capable of, not just how fast it completes existing tasks.",
-    "source": "Deloitte AI Institute",
+    "title": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing",
+    "summary": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing Steven Zeiler 16 hours ago Anthropic is opening access to its most powerful artificial intelligence model Claude Mythos to roughly 150 new organizations, one day after the company confidentially filed for a public offerin",
+    "content": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing Steven Zeiler 16 hours ago Anthropic is opening access to its most powerful artificial intelligence model Claude Mythos to roughly 150 new organizations, one day after the company confidentially filed for a public offerin",
+    "source": "yellow.com",
     "date": "2026-06-02",
-    "url": "https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/blogs/pulse-check-series-latest-ai-developments/ai-transformation-predictions-2026.html",
-    "category": "Trends"
+    "url": "https://yellow.com/news/anthropic-opens-claude-mythos-150-companies-ipo",
+    "category": "Models",
+    "image": "https://media.yellow.com/uploads/shutterstock_2606166425_2331a1caa1.jpg"
+  },
+  {
+    "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+    "summary": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Content Artificial Intelligence OpenAI models and Codex on Amazon Bedrock are now generally available GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock.",
+    "content": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Content Artificial Intelligence OpenAI models and Codex on Amazon Bedrock are now generally available GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy",
+    "source": "aws.amazon.com",
+    "date": "2026-06-01",
+    "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+    "category": "Models",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/01/21096.png"
+  },
+  {
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock | AWS News Blog Content AWS News Blog Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock As we previewed in What’s Next with AWS 2026, we’re announcing the general availability",
+    "content": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock | AWS News Blog Content AWS News Blog Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock As we previewed in What’s Next with AWS 2026, we’re announcing the general availability",
+    "source": "aws.amazon.com",
+    "date": "2026-06-01",
+    "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
+    "category": "Models",
+    "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/05/24/News-Blog-Featured-Images-25-2.png"
+  },
+  {
+    "title": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock",
+    "summary": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock - AWS content GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock Posted on: Jun 1, 2026 You can now use GPT-5.5 and GPT-5.4 in production workloads on Amazon Bed",
+    "content": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock - AWS content GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock Posted on: Jun 1, 2026 You can now use GPT-5.5 and GPT-5.4 in production workloads on Amazon Bed",
+    "source": "aws.amazon.com",
+    "date": "2026-06-01",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/",
+    "category": "Models",
+    "image": null
   }
 ]
