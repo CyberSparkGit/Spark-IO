@@ -1,56 +1,62 @@
 [
   {
-    "title": "Microsoft Launches Seven-Model MAI Family, Including Its First In-House Reasoning Model",
-    "summary": "Microsoft unveiled a family of seven AI models developed entirely in-house, headlined by MAI-Thinking-1, a reasoning model it claims outperforms Claude Sonnet 4.6.",
-    "content": "Microsoft AI launched seven new models spanning reasoning, coding, image generation, transcription, and voice synthesis—all trained from scratch without third-party distillation. The flagship MAI-Thinking-1 is a medium-sized reasoning model that Microsoft says matches top software engineering benchmarks and is preferred over Claude Sonnet 4.6 in blind human evaluations. Alongside the models, Microsoft introduced 'Frontier Tuning,' a customization approach using reinforcement learning that lets enterprises adapt models to their specific workflows while retaining full data ownership—a Frontier Tuning-optimized MAI model for Excel matched GPT 5.4 performance at up to 10x lower cost. The release also includes MAI-Transcribe-1.5, claimed to be the world's best transcription model at five times the speed of competitors across 43 languages, and MAI-Code-1-Flash, an agentic coding model deeply integrated into GitHub Copilot. Microsoft additionally announced a collaboration with the Mayo Clinic to co-create a frontier healthcare AI model using de-identified clinical data.",
-    "source": "Microsoft AI",
-    "date": "2026-06-02",
-    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-    "category": "Models"
-  },
-  {
-    "title": "Google Releases Gemma 4 12B: An Encoder-Free Multimodal Model That Runs on a 16GB Laptop",
-    "summary": "Google DeepMind released Gemma 4 12B, a 12-billion-parameter open-source multimodal model capable of running locally on consumer laptops with 16GB of RAM.",
-    "content": "Google DeepMind introduced Gemma 4 12B, a new open-source model that bridges the gap between its lightweight edge models and the larger 26B Mixture-of-Experts variant while fitting within 16GB of VRAM. Its key innovation is an encoder-free architecture: vision and audio inputs flow directly into the LLM backbone via lightweight embedding modules rather than dedicated encoder systems, reducing latency and memory usage without sacrificing capability. Despite its smaller footprint, Gemma 4 12B achieves benchmark performance nearing the 26B MoE model and supports multi-step reasoning and agentic workflows, making it the first mid-sized Gemma model with native audio input. Released under an Apache 2.0 license, it is compatible with Hugging Face Transformers, llama.cpp, vLLM, and MLX, and is immediately available via LM Studio and Ollama. Gemma 4 models have now crossed 150 million cumulative downloads, with the community having built applications ranging from wearable robotic arms to enterprise-grade AI security systems.",
-    "source": "Google Blog",
+    "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
+    "summary": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
+    "content": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
+    "source": "Asif Razzaq",
     "date": "2026-06-03",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "category": "Models"
+    "url": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+    "category": "Models",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/gemma4-12b-banner-infographic.png"
   },
   {
-    "title": "Anthropic Files Confidential IPO and Expands Claude Mythos Access to 150 Organizations",
-    "summary": "Anthropic confidentially filed for an IPO and expanded its restricted Claude Mythos model to around 150 new organizations across 15 countries as the company eyes going public.",
-    "content": "Anthropic filed a confidential draft S-1 with the SEC, initiating the IPO process just days after closing a $65 billion Series H at a $965 billion post-money valuation—making it the first AI lab to surpass OpenAI in private market value, with an annualized revenue run rate above $47 billion. The filing was timed alongside a major expansion of Project Glasswing, Anthropic's controlled access program for Claude Mythos, which added roughly 150 new organizations across more than 15 countries spanning power, water, healthcare, and communications infrastructure. Early Glasswing participants, including Google, Microsoft, Palo Alto Networks, and JPMorganChase, have already flagged over 10,000 high or critical software vulnerabilities using the model. Anthropic has withheld Claude Mythos from general release due to safety concerns; independent testing by the U.K. AI Security Institute documented the model autonomously executing a 32-step simulated corporate network attack, and Mozilla reported it found and fixed 271 vulnerabilities in Firefox. The company expects rival developers to ship comparable models within six to twelve months, potentially with weaker safeguards in place.",
-    "source": "Yellow",
-    "date": "2026-06-02",
-    "url": "https://yellow.com/news/anthropic-opens-claude-mythos-150-companies-ipo",
-    "category": "Industry"
+    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+    "summary": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
+    "content": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
+    "source": "Chris Alexiuk",
+    "date": "2026-06-04",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "category": "Tools",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Nemotron-3-Ultra-660x370.png"
   },
   {
-    "title": "Trump Signs AI Executive Order; OpenAI Pushes for Civilian Rather Than NSA Oversight",
-    "summary": "President Trump signed an executive order promoting AI innovation and national security, while OpenAI released a competing governance blueprint disagreeing on who should oversee frontier models.",
-    "content": "President Trump signed an executive order directing agencies to upgrade national security systems with AI, establish an AI cybersecurity clearinghouse for vulnerability coordination, and create a voluntary framework allowing the government to test frontier models for up to 30 days before public release—with the NSA designated as the lead evaluator of 'covered frontier models' with advanced cyber capabilities. OpenAI simultaneously released 'Democratic Governance of Frontier AI: A Blueprint for a Federal Framework,' arguing that civilian scientific regulators at the Center for AI Standards and Innovation (CAISI) within the Commerce Department should hold oversight rather than a military agency. CEO Sam Altman visited the White House and met with House Speaker Mike Johnson, who described discussions as focused on a 'light touch' regulatory framework to prevent harm without stifling innovation. OpenAI executive Chris Lehane said the company broadly supports the EO but will push to transfer evaluation authority to CAISI, which has existing working relationships with both OpenAI and Anthropic. A key open question is how the government will define the capability thresholds that would designate a model as a 'covered frontier model' subject to review.",
-    "source": "SiliconAngle",
-    "date": "2026-06-03",
+    "title": "In policy paper, OpenAI diverges from White House on AI safety",
+    "summary": "In policy paper, OpenAI diverges from White House on AI safety - SiliconANGLE SHARE UPDATED 21:56 EDT / JUNE 03 2026 AI In policy paper, OpenAI diverges from White House on AI safety SHARE OpenAI Group PBC’s newly released proposal for how advanced artificial intelligence should be regulat",
+    "content": "In policy paper, OpenAI diverges from White House on AI safety - SiliconANGLE SHARE UPDATED 21:56 EDT / JUNE 03 2026 AI In policy paper, OpenAI diverges from White House on AI safety SHARE OpenAI Group PBC’s newly released proposal for how advanced artificial intelligence should be regulat",
+    "source": "James Farrell",
+    "date": "2026-06-04",
     "url": "https://siliconangle.com/2026/06/03/policy-paper-openai-diverges-white-house-ai-safety/",
-    "category": "Policy"
+    "category": "Policy",
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/White_House_Blue_Sky.jpg"
   },
   {
-    "title": "GitHub Launches Agent-Native Copilot App With Parallel Agent Sessions and Scalable Code Review",
-    "summary": "GitHub debuted its new Copilot desktop app at Microsoft Build, giving developers a unified control center to direct multiple coding agents simultaneously across isolated environments.",
-    "content": "The new GitHub Copilot app introduces a 'My Work' dashboard where developers can monitor multiple simultaneous agent sessions—each running in its own isolated git worktree—alongside pull requests, issues, and background automations, now available in technical preview for all Copilot Pro, Pro+, Business, and Enterprise users. A new 'Canvas' feature provides a bidirectional work surface where agents update plans, pull request diffs, terminal states, and dashboards in real time, while developers can edit, reorder, or redirect the work on the same surface. Cloud and local sandboxes give agents a bounded environment to run code and iterate without touching production, with organizations able to define their own security policies centrally. 'Agent Merge' automates the final steps of code delivery by monitoring CI status, tracking required reviewers, addressing failing checks, and merging pull requests once all conditions are satisfied. The GitHub Copilot SDK is now generally available in six languages—Node.js/TypeScript, Python, Go, .NET, Rust, and Java—allowing teams to build internal tools on the same agentic runtime, as GitHub reported monthly commits crossing 1.4 billion, nearly double year over year.",
-    "source": "GitHub Blog",
-    "date": "2026-06-02",
-    "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
-    "category": "Tools"
+    "title": "Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs",
+    "summary": "Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs | CSO Online Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs News Analysis Jun 4, 20267 mins With over 2.2 billion installs, the flawed Python package offers attackers a h",
+    "content": "Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs | CSO Online Hugging Face Transformers RCE flaw enables stealthy compromise via AI model configs News Analysis Jun 4, 20267 mins With over 2.2 billion installs, the flawed Python package offers attackers a h",
+    "source": "by\t\t\t\t\t\t\t\t\t Lucian Constantin \n\t\t\t\t\t\t\t \n\t\t\n\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t CSO Senior Writer",
+    "date": "2026-06-04",
+    "url": "https://www.csoonline.com/article/4181094/hugging-face-transformers-rce-flaw-enables-stealthy-compromise-via-ai-model-configs.html",
+    "category": "Policy",
+    "image": "https://www.csoonline.com/wp-content/uploads/2026/06/4181094-0-65675100-1780586316-shutterstock_2416896949.jpg?quality=50&strip=all&w=1024"
   },
   {
-    "title": "OpenAI Adds Six Role-Specific Plugins and Interactive Sites to Codex for Non-Technical Workers",
-    "summary": "OpenAI launched six role-specific Codex plugins covering data analytics, sales, creative production, and investing, extending AI-driven automation to knowledge workers without requiring any coding.",
-    "content": "OpenAI unveiled role-specific plugins for Codex that bundle apps, skills, and workflows tailored to specific job functions, with six plugins launching immediately: data analytics, creative production, sales, product design, public equity investing, and investment banking—together covering 62 popular apps and 110 skills. Each plugin integrates with leading third-party tools, such as Snowflake and Tableau for data work, Salesforce and HubSpot for sales, and Figma and Canva for design, enabling complex multi-step task automation for knowledge workers without writing a single line of code. Codex also gained the ability to generate and host interactive 'Sites'—dashboards, project planners, and lightweight apps that teams can share and collaborate on via URL, available in preview for Business and Enterprise customers. A new 'Annotations' feature lets users highlight specific elements in AI-generated documents, spreadsheets, or slides and request targeted refinements, enabling iterative editing without restarting from scratch. OpenAI plans to add more plugins soon, including corporate finance, private equity, marketing strategy, and legal, and is building toward an open ecosystem where third-party partners can create and publish their own plugins directly within Codex and ChatGPT.",
-    "source": "OpenAI",
-    "date": "2026-06-02",
-    "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
-    "category": "Tools"
+    "title": "OpenAI models and Codex on Amazon Bedrock are now generally available",
+    "summary": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Content Artificial Intelligence OpenAI models and Codex on Amazon Bedrock are now generally available GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock.",
+    "content": "OpenAI models and Codex on Amazon Bedrock are now generally available | Artificial Intelligence Content Artificial Intelligence OpenAI models and Codex on Amazon Bedrock are now generally available GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock. Deploy",
+    "source": "aws.amazon.com",
+    "date": "2026-06-01",
+    "url": "https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/",
+    "category": "Models",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/01/21096.png"
+  },
+  {
+    "title": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock",
+    "summary": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock | AWS News Blog Content AWS News Blog Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock As we previewed in What’s Next with AWS 2026, we’re announcing the general availability",
+    "content": "Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock | AWS News Blog Content AWS News Blog Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock As we previewed in What’s Next with AWS 2026, we’re announcing the general availability",
+    "source": "aws.amazon.com",
+    "date": "2026-06-01",
+    "url": "https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
+    "category": "Models",
+    "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/05/24/News-Blog-Featured-Images-25-2.png"
   }
 ]
