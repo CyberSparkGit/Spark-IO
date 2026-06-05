@@ -1,56 +1,62 @@
 [
   {
-    "title": "Anthropic Warns AI Could Soon Help Build Its Own Successors",
-    "summary": "Anthropic research shows that frontier AI models are approaching 'recursive self-improvement' — the ability to autonomously design, build, and train more capable successors without human involvement.",
-    "content": "Anthropic warns that AI is no longer just changing how people work — it is beginning to change how AI itself gets built. New internal data shows frontier models have accelerated coding, debugging, and research tasks, creating a feedback loop likely to yield even more sophisticated successors. In a blog post and interview with Axios, Anthropic co-founder Jack Clark argued that 'in the near future, AI systems could become capable enough to autonomously design, build and train more capable successors on their own,' meaning each new version of Claude could be built by the version before it without human involvement. Clark said progress in science and medicine makes this especially promising, but warned that societies need tools to validate that AI-produced work is correct and aligned with human intentions. Anthropic plans to brief lawmakers on recursive self-improvement in the coming months, wanting them to understand the concept before it becomes a major public issue.",
-    "source": "Axios",
-    "date": "2026-06-04",
-    "url": "https://www.axios.com/2026/06/04/anthropic-warns-ai-build-successors",
-    "category": "Industry"
-  },
-  {
-    "title": "Microsoft Launches Seven In-House MAI Models to Compete on the AI Frontier",
-    "summary": "At Build 2026, Microsoft unveiled the MAI model family — seven in-house AI models including its first reasoning model — signaling a decisive push for independence from OpenAI and Anthropic.",
-    "content": "Microsoft unveiled a family of seven in-house AI models at its annual Build developer conference in San Francisco, the clearest sign yet that the tech giant is moving to reduce its dependence on the AI companies it has poured billions into. The headline release is MAI-Thinking-1, a reasoning model with 35 billion active parameters and a 256,000-token context window, trained from scratch on clean, commercially licensed data without distillation from third-party systems. Microsoft says MAI-Thinking-1 was preferred over Anthropic's Claude Sonnet 4.6 in blind human evaluations and matches Claude Opus 4.6 on coding benchmarks, while projecting ten times better cost efficiency than GPT-5.5 at comparable quality. Alongside it, Microsoft launched MAI-Code-1-Flash for everyday developer workflows, now rolling out in GitHub Copilot and VS Code, plus models for image generation, voice synthesis, and transcription. The launches come as Microsoft's two biggest AI investees — Anthropic and OpenAI — both filed confidentially for IPOs, pushing Microsoft to build its own frontier capabilities rather than continue paying third-party fees.",
-    "source": "Euronews",
+    "title": "GPT-5 Dominates Graph Theory Benchmark, Leaving Rivals Far Behind on Mathematical Reasoning",
+    "summary": "GPT-5 Dominates Graph Theory Benchmark, Leaving Rivals Far Behind on Mathematical Reasoning | FrontierNews.ai i 🔍Search Breaking News Anthropic Warns Claude Could Soon Improve Itself Without Human Help Large Language Models·just now xAI's Rapid-Fire Release Blitz: Grok Gets Voice,",
+    "content": "GPT-5 Dominates Graph Theory Benchmark, Leaving Rivals Far Behind on Mathematical Reasoning | FrontierNews.ai i 🔍Search Breaking News Anthropic Warns Claude Could Soon Improve Itself Without Human Help Large Language Models·just now xAI's Rapid-Fire Release Blitz: Grok Gets Voice,",
+    "source": "FrontierNews.ai",
     "date": "2026-06-03",
-    "url": "https://www.euronews.com/next/2026/06/03/microsoft-launches-its-own-ai-models-to-take-on-openai-and-anthropic",
-    "category": "Models"
+    "url": "https://www.frontiernews.ai/news/article/gpt-5-dominates-graph-theory-benchmark-leaving-riv-82fca1d8",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=GPT-5%20Dominates%20Graph%20Theory%20Benchmark%2C%20Leaving%20Rivals%20Far%20Behind%20on%20Mathematical%20Reasoning&topic=Large%20Language%20Models"
   },
   {
-    "title": "NVIDIA Releases Nemotron 3 Ultra: Open 550B Model Built for Long-Running AI Agents",
-    "summary": "NVIDIA released Nemotron 3 Ultra, a fully open 550B-parameter Mixture-of-Experts model designed to power long-running agentic workflows with 5x faster inference and 30% lower cost than comparable models.",
-    "content": "NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, purpose-built for orchestrating the complex, multi-turn tasks that define modern AI agent workflows. The model introduces several architectural innovations: hybrid Mamba-Transformer layers for efficient long-context handling, NVFP4 quantization enabling up to 5x higher throughput across Hopper, Blackwell, and Ampere GPUs, and multi-token prediction to speed up generation in multi-turn tasks. Benchmarks show it completes agent workflows using up to 30% fewer total tokens than comparable models, directly lowering cost for autonomous tasks. Nemotron 3 Ultra is fully open-source — weights, data, and training recipes are all released — and is available via Hugging Face, NVIDIA NIM, AWS SageMaker, Google Cloud, and over twenty inference providers. Two companion models also launched: Nemotron 3.5 Content Safety, a 4B guardrail model covering 23 safety categories in 12 languages, and Nemotron 3.5 ASR, a multilingual streaming speech model supporting 40+ languages.",
-    "source": "NVIDIA Technical Blog",
+    "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
+    "summary": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
+    "content": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
+    "source": "Asif Razzaq",
+    "date": "2026-06-03",
+    "url": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
+    "category": "Models",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/gemma4-12b-banner-infographic.png"
+  },
+  {
+    "title": "GPT-5.5 dominates $1,500 LLM hacking test while Gemini refuses to even try",
+    "summary": "GPT-5.5 dominates $1,500 LLM hacking test while Gemini refuses to even try - Notebookcheck News A security researcher just published one of the more revealing AI capability tests of the year. The results say a lot about where different models actually stand.",
+    "content": "GPT-5.5 dominates $1,500 LLM hacking test while Gemini refuses to even try - Notebookcheck News A security researcher just published one of the more revealing AI capability tests of the year. The results say a lot about where different models actually stand. Kasra Rahjerdi, who does app security r",
+    "source": "Anubhav Sharma ,  Published  06/04/2026",
+    "date": "2026-06-04",
+    "url": "https://www.notebookcheck.net/GPT-5-5-dominates-1-500-LLM-hacking-test-while-Gemini-refuses-to-even-try.1315097.0.html",
+    "category": "Models",
+    "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Claude-GPT.png"
+  },
+  {
+    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
+    "summary": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
+    "content": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
+    "source": "Chris Alexiuk",
     "date": "2026-06-04",
     "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-    "category": "Models"
+    "category": "Tools",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Nemotron-3-Ultra-660x370.png"
   },
   {
-    "title": "Bipartisan 'Great American AI Act' Would Create Federal AI Governance Framework",
-    "summary": "A bipartisan House draft bill proposes codifying a federal AI standards center with $100M per year in funding, requiring frontier developers to report safety incidents, and preempting a patchwork of state AI laws.",
-    "content": "A bipartisan House discussion draft led by Reps. Lori Trahan and Jay Obernolte proposes a sweeping federal framework for AI governance, arriving just two days after a White House executive order on AI innovation. The bill — dubbed the 'Great American AI Act' — would formally codify the Center for AI Standards and Innovation within the Commerce Department, authorizing $100 million per year from 2027 to 2029 to develop voluntary AI security standards, evaluate AI systems, and monitor AI progress. At nearly 270 pages, the draft would require large frontier AI developers to report critical safety incidents to the government, add criminal penalties for using AI to impersonate government officials, and direct federal surveys to capture AI adoption data. Crucially, it includes preemption provisions barring states from separately regulating the development of frontier AI models, though states would still be allowed to pass general-purpose AI laws and regulate deployed models. The draft is open for public comment before formal introduction, with sponsors describing it as the beginning of a bipartisan conversation on how Congress should shape American AI policy.",
-    "source": "FedScoop",
+    "title": "In policy paper, OpenAI diverges from White House on AI safety",
+    "summary": "In policy paper, OpenAI diverges from White House on AI safety - SiliconANGLE SHARE UPDATED 21:56 EDT / JUNE 03 2026 AI In policy paper, OpenAI diverges from White House on AI safety SHARE OpenAI Group PBC’s newly released proposal for how advanced artificial intelligence should be regulat",
+    "content": "In policy paper, OpenAI diverges from White House on AI safety - SiliconANGLE SHARE UPDATED 21:56 EDT / JUNE 03 2026 AI In policy paper, OpenAI diverges from White House on AI safety SHARE OpenAI Group PBC’s newly released proposal for how advanced artificial intelligence should be regulat",
+    "source": "James Farrell",
     "date": "2026-06-04",
-    "url": "https://fedscoop.com/bipartisan-great-american-ai-act-draft-proposes-new-federal-ai-governance-framework/",
-    "category": "Policy"
+    "url": "https://siliconangle.com/2026/06/03/policy-paper-openai-diverges-white-house-ai-safety/",
+    "category": "Policy",
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/White_House_Blue_Sky.jpg"
   },
   {
-    "title": "Trump Signs Executive Order to Advance AI Innovation and National Cybersecurity",
-    "summary": "President Trump signed a new executive order directing agencies to harden AI-enabled cyber defenses, create a voluntary frontier model testing program, and form an AI cybersecurity clearinghouse with the private sector.",
-    "content": "President Trump signed an executive order on June 2 titled 'Promoting Advanced Artificial Intelligence Innovation and Security,' framing AI capability as essential to U.S. national security while explicitly barring mandatory government licensing or pre-clearance of AI models. The order directs the NSA to develop a classified benchmarking process to assess the cyber capabilities of frontier AI models and designate which qualify as 'covered frontier models,' then design a voluntary framework under which developers would give the government up to 30 days of early access before broader release. It also calls for creation of an AI cybersecurity clearinghouse — a voluntary collaboration between Treasury, NSA, CISA, and private industry — to coordinate scanning for software vulnerabilities and prioritize patches across critical infrastructure. Federal agencies are given 30 days to upgrade cyber defenses, and CISA is directed to expand AI-enabled defensive tools for state, local, and critical infrastructure operators. The order was issued the same week that OpenAI released its own AI governance paper that diverged from the White House on which agency should oversee model safety evaluations.",
-    "source": "The White House",
-    "date": "2026-06-02",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-    "category": "Policy"
-  },
-  {
-    "title": "Meta Launches Business Agent to Give Every Business an AI-Powered Customer Team",
-    "summary": "Meta expanded its Business Agent to all businesses globally across WhatsApp, Messenger, and Instagram, enabling AI-driven customer conversations, sales, and appointment booking with setup in minutes.",
-    "content": "Meta announced the global expansion of its Business Agent — an AI system designed to let businesses respond to every customer inquiry as if they had an unlimited team behind them. More than one million businesses were already using Business Agent on WhatsApp and Messenger, but Meta is now opening access to all businesses worldwide, free to activate on Instagram and WhatsApp, with paid subscription tiers coming later. The agent can answer product questions, make personalized recommendations from a business catalog, book appointments, qualify leads, and close sales — and businesses can set rules for when a human team member steps in. Meta is also launching the Meta Business Agent Platform, an enterprise-grade agentic infrastructure layer that connects to hundreds of third-party systems like Shopify, Zendesk, and Shopee, enabling larger organizations to build, customize, and deploy agents at scale with built-in guardrails and measurement. With over one billion active daily business threads across WhatsApp, Messenger, and Instagram, Meta positions the Business Agent as the practical AI layer sitting atop its existing global messaging network.",
-    "source": "Meta",
+    "title": "Sam Altman to urge US lawmakers against requiring AI model approvals — AI Chat Daily",
+    "summary": "Sam Altman to urge US lawmakers against requiring AI model approvals — AI Chat Daily Live--:--:-- PT Quilty bets AI can predict box-office hits — and gets Sinners wrong About 90 investors hold stakes in both OpenAI and Anthropic AI companies pivot to serif fonts to look more human Meta's AI suppor",
+    "content": "Sam Altman to urge US lawmakers against requiring AI model approvals — AI Chat Daily Live--:--:-- PT Quilty bets AI can predict box-office hits — and gets Sinners wrong About 90 investors hold stakes in both OpenAI and Anthropic AI companies pivot to serif fonts to look more human Meta's AI suppor",
+    "source": "Jaeden Schafer",
     "date": "2026-06-03",
-    "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
-    "category": "Tools"
+    "url": "https://www.aichatdaily.com/ai-security/sam-altman-urge-us-lawmakers-against-requiring-ai",
+    "category": "Policy",
+    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2F158a78ef-47cc-4e8e-b399-33e3eaf421ba%2F0b369059-b4e0-44fb-887d-84feea0916ec.png&w=1200&q=75"
   }
 ]
