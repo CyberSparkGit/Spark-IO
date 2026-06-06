@@ -1,62 +1,56 @@
 [
   {
-    "title": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models",
-    "summary": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models - gHacks Tech News OpenAI has announced an update that enhances the GPT-5.5 Instant model and retires several older models from ChatGPT, including o3 and GPT-4.5. The company shared this information in an updated relea",
-    "content": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models - gHacks Tech News OpenAI has announced an update that enhances the GPT-5.5 Instant model and retires several older models from ChatGPT, including o3 and GPT-4.5. The company shared this information in an updated relea",
-    "source": "Arthur Kay",
-    "date": "2026-06-03",
-    "url": "https://www.ghacks.net/2026/06/03/openai-upgrades-gpt-5-5-instant-and-confirms-retirement-of-o3-and-gpt-4-5-models/",
-    "category": "Models",
-    "image": "https://www.ghacks.net/wp-content/uploads/2026/06/gHacks-articles-2026-06-03T102602.267.png"
+    "title": "Trump Signs AI National Security Memo to Accelerate 'War Fighting' AI",
+    "summary": "President Trump issued a national security memorandum directing federal agencies to accelerate AI use across intelligence and war-fighting domains, giving the Pentagon 90 days to update its weapons autonomy directive.",
+    "content": "President Trump signed a national security memorandum on June 5, 2026, directing the United States to 'responsibly accelerate the use of AI across intelligence and war fighting domains in line with American values.' Defense Secretary Pete Hegseth was given 90 days to update an existing directive on the autonomy of weapons systems to 'ensure the deliberate adoption of AI systems that respect the chain of command.' The order came as Anthropic simultaneously warned that AI systems are increasingly being used to build their own successors, with over 80 percent of code merged into Anthropic's systems now authored by Claude — and the company predicting Claude could handle weeks-long human tasks by 2027. Anthropic proposed a global coordination mechanism to slow or pause frontier AI development, though the company acknowledged such a pause would require multiple labs in multiple countries agreeing simultaneously with credible verification. The moves highlight growing tension between the U.S. push for AI supremacy in defense and concerns about humans losing control over AI systems.",
+    "source": "ABC News",
+    "date": "2026-06-06",
+    "url": "https://www.abc.net.au/news/2026-06-06/trump-to-accelerate-development-of-ai-for-war/106767300",
+    "category": "Policy"
   },
   {
-    "title": "Anthropic Launches Claude Opus 4.8 for Enterprises [Model Behavior]",
-    "summary": "Anthropic Launches Claude Opus 4.8 for Enterprises [Model Behavior] - Channel: Neural Newscast - Length: 06:03 - Views: 23 - Likes: 0 - Published: 2026-06-03T21:57:29-07:00 - Category: People & Blogs - Language: en Description On May 28, 2026, Anthropic debuted Claude Opus 4.8, its most adva",
-    "content": "Anthropic Launches Claude Opus 4.8 for Enterprises [Model Behavior] - Channel: Neural Newscast - Length: 06:03 - Views: 23 - Likes: 0 - Published: 2026-06-03T21:57:29-07:00 - Category: People & Blogs - Language: en Description On May 28, 2026, Anthropic debuted Claude Opus 4.8, its most adva",
-    "source": "Neural Newscast",
-    "date": "2026-06-04",
-    "url": "https://www.youtube.com/watch?v=2jJ62Yj7QyU",
-    "category": "Models",
-    "image": "https://i.ytimg.com/vi/2jJ62Yj7QyU/sddefault.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYSyBaKGUwDw==&rs=AOn4CLBfGJ1bu-JDS0bOXuCAFBVyb_IOqA"
+    "title": "Great American AI Act Would Freeze State AI Laws for Three Years, Sparks Revolt",
+    "summary": "A bipartisan House bill proposes the first comprehensive federal AI framework, requiring semi-annual audits for major AI labs while barring states from enacting new AI development laws for three years.",
+    "content": "Reps. Jay Obernolte (R-CA) and Lori Trahan (D-MA) released the 269-page Great American Artificial Intelligence Act of 2026 on June 5, which would impose a three-year preemption on state laws governing how AI models are built — freezing California's AI transparency requirements and similar laws in New York and Illinois. AI developers with over $500 million in annual revenue — including Anthropic, OpenAI, xAI, and Google DeepMind — would face mandatory semi-annual audits by licensed 'independent verification organizations' across cybersecurity, biosecurity, CBRN, and loss-of-control risk categories, with civil penalties reaching $1 million per day for non-compliance. The bill drew near-universal opposition: the AFL-CIO called it a 'hard no,' the House Commission on AI and the Innovation Economy said it 'cannot serve as the basis for productive dialogue,' and consumer advocates called it a 'disastrous proposal that Big Tech is celebrating.' State legislatures had already introduced over 1,561 AI-related bills across 45 states as of March 2026, addressing harms that Congress has yet to act on, including algorithmic discrimination and worker surveillance. As a discussion draft, the bill has not yet been formally introduced and faces significant legislative obstacles.",
+    "source": "TechTimes",
+    "date": "2026-06-06",
+    "url": "http://www.techtimes.com/articles/317903/20260606/federal-ai-regulation-bill-freezes-state-consumer-protections-three-years-sparks-revolt.htm",
+    "category": "Policy"
   },
   {
-    "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
-    "summary": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
-    "content": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
-    "source": "Asif Razzaq",
-    "date": "2026-06-03",
-    "url": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
-    "category": "Models",
-    "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/gemma4-12b-banner-infographic.png"
-  },
-  {
-    "title": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute, Expands Global Access",
-    "summary": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute, Expands Global Access openai.com OpenAI published a substantial update to GPT-Rosalind on June 3, 2026, deepening the domain-specialized model's performance across drug discovery, genomics, and wet-lab research — and opening the res",
-    "content": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute, Expands Global Access openai.com OpenAI published a substantial update to GPT-Rosalind on June 3, 2026, deepening the domain-specialized model's performance across drug discovery, genomics, and wet-lab research — and opening the res",
-    "source": "Shannon Harwood  \n \n \n Published: Jun 04 2026, 06:55 AM EDT",
-    "date": "2026-06-04",
-    "url": "https://www.techtimes.com/articles/317754/20260604/gpt-rosalind-drug-discovery-update-openai-cuts-genomics-compute-expands-global-access.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466013/gpt-rosalind.png"
-  },
-  {
-    "title": "OpenAI in talks to give U.S. government an equity stake in $850 billion AI startup as IPO nears",
-    "summary": "government an equity stake in $850 billion AI startup as IPO nears - Tech Startups - Trust & Safety - Editorial Policy June 6, 2026 - Trust & Safety - Editorial Policy - Top Startups - Startup List - Submit Your Startup - Free Startup Valuation Calculator OpenAI",
-    "content": "OpenAI in talks to give U.S. government an equity stake in $850 billion AI startup as IPO nears - Tech Startups - Trust & Safety - Editorial Policy June 6, 2026 - Trust & Safety - Editorial Policy - Top Startups - Startup List - Submit Your Startup - Free Startup Valuation Calculator OpenAI",
-    "source": "Daniel Levi",
+    "title": "Anthropic Warns AI May Soon Begin Recursive Self-Improvement",
+    "summary": "Anthropic published a landmark blog post warning that AI systems are approaching 'recursive self-improvement' — the ability to design and build their own successors — and calling for a global coordination mechanism to slow frontier AI development.",
+    "content": "In a June 4 blog post titled 'When AI Builds Itself,' Anthropic warned that AI may be nearing the point of recursive self-improvement, where systems can design their own successors with little human input. The company cited its own operations as evidence: Claude now writes more than 80 percent of the code merged into Anthropic's systems — up from low single digits before Claude Code launched in early 2025 — and engineers ship roughly eight times as much code per quarter as they did a few years ago. Anthropic proposed a 'global coordination mechanism' modeled loosely on nuclear arms-control treaties, requiring multiple well-resourced labs in multiple countries to agree to pause under the same conditions with credible verification. The proposal arrived just days after Anthropic confidentially filed for an IPO at a near-$1 trillion valuation, leading critics to question whether it was genuine safety advocacy or competitive strategy. Skeptics, including Georgia Tech professor Mark Riedl, dismissed the framing as 'the big AI companies jumping on the recursive self-improvement hype train,' while mathematician Noah Giansiracusa called a coordinated pause 'literally impossible.'",
+    "source": "Scientific American",
     "date": "2026-06-05",
-    "url": "https://techstartups.com/2026/06/05/openai-in-talks-to-give-u-s-government-an-equity-stake-in-850-billion-ai-startup-as-ipo-nears/",
-    "category": "Policy",
-    "image": "https://techstartups.com/wp-content/uploads/2025/03/Altman.jpg"
+    "url": "https://www.scientificamerican.com/article/anthropic-warns-ai-may-soon-begin-recursive-self-improvement/",
+    "category": "Industry"
   },
   {
-    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
-    "summary": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
-    "content": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
-    "source": "Chris Alexiuk",
-    "date": "2026-06-04",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-    "category": "Tools",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Nemotron-3-Ultra-660x370.png"
+    "title": "Microsoft Unveils Seven In-House AI Models at Build 2026 to Rival OpenAI and Anthropic",
+    "summary": "Microsoft launched a family of seven proprietary AI models at its Build 2026 conference, including its first reasoning model, as it moves to reduce dependence on OpenAI and Anthropic while both prepare for record-breaking IPOs.",
+    "content": "At Build 2026 in San Francisco, Microsoft unveiled seven in-house AI models signaling a strategic shift to reduce reliance on OpenAI and Anthropic — companies it has invested a combined $18 billion in. The flagship release, MAI-Thinking-1, is Microsoft's first reasoning model trained from scratch on commercially licensed data, featuring 35 billion active parameters and a 256,000-token context window; blind human evaluations showed it was preferred over Anthropic's Claude Sonnet 4.6 and matched Claude Opus 4.6 on coding benchmarks. MAI-Code-1-Flash, a fast coding model converting text to source code, began rolling out to GitHub Copilot users in Visual Studio Code. CEO Satya Nadella framed the launch as a turning point: 'We believe the time has come for every company to move from consuming a frontier model to fully participating at the frontier.' Microsoft AI CEO Mustafa Suleiman claimed the models outperformed GPT-5.5 on quality with ten times better cost efficiency for McKinsey clients. By running models on its own Azure infrastructure, Microsoft can sidestep fees paid to third-party providers and pass savings to developers.",
+    "source": "Euronews",
+    "date": "2026-06-03",
+    "url": "https://www.euronews.com/next/2026/06/03/microsoft-launches-its-own-ai-models-to-take-on-openai-and-anthropic",
+    "category": "Models"
+  },
+  {
+    "title": "OpenAI Rolls Out Lockdown Mode to Guard Against Prompt Injection Attacks",
+    "summary": "OpenAI launched an optional Lockdown Mode for ChatGPT that limits network-dependent features to protect users and organizations handling sensitive data from prompt injection attacks and data exfiltration.",
+    "content": "OpenAI began rolling out Lockdown Mode on June 5, an optional security setting for ChatGPT designed as a last line of defense against prompt injection attacks — where malicious instructions hidden on webpages or in documents attempt to manipulate AI systems into leaking sensitive data. The feature is targeted at organizations and individuals handling sensitive information, and when enabled it restricts ChatGPT from pulling images from the internet, downloading files to analyze, and disables Deep Research and Agent Mode entirely. The restriction is focused on limiting outbound network requests that attackers could exploit for data exfiltration, rather than trying to prevent injection attempts from appearing in processed content. Lockdown Mode is free and available to all accounts including the free tier, and can be toggled in ChatGPT's Settings under Safety and Security. OpenAI simultaneously launched an active session manager that shows all devices and browsers with active account access, allowing users to log out of individual sessions or all sessions at once.",
+    "source": "Engadget",
+    "date": "2026-06-05",
+    "url": "https://www.engadget.com/2188537/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/",
+    "category": "Tools"
+  },
+  {
+    "title": "Meta Launches Business Agent Globally to Help Every Business Field Customer Conversations at Scale",
+    "summary": "Meta is expanding its AI Business Agent to all business sizes worldwide on WhatsApp, Messenger, and Instagram, with a new enterprise platform allowing deep integration into Shopify, Zendesk, and hundreds of other business systems.",
+    "content": "Meta announced the global launch of its Business Agent on June 3, an AI system that allows businesses of any size to respond to customers around the clock in their local languages across WhatsApp, Messenger, and Instagram. More than one million businesses were already using the agent on WhatsApp and Messenger before the global expansion, with over one billion active daily threads between users and businesses across Meta's messaging platforms. The Business Agent can answer business-specific questions, make product recommendations, book appointments, qualify leads, and close sales — with controls allowing human team members to step in when needed. Alongside the expansion, Meta introduced the Business Agent Platform, an enterprise-grade agentic infrastructure that connects to hundreds of systems including Shopify, Zendesk, and Shopee, giving agents the ability to take direct actions on behalf of businesses with built-in guardrails and measurement. Meta also announced that users will soon be able to discover Business Agent-powered companies directly through WhatsApp search, creating a new customer acquisition channel. Activation on Instagram is free, with paid subscription tiers planned in coming months.",
+    "source": "Meta Newsroom",
+    "date": "2026-06-03",
+    "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
+    "category": "Industry"
   }
 ]
