@@ -1,62 +1,56 @@
 [
   {
-    "title": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows",
-    "summary": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows On June 3, 2026, Google DeepMind announced",
-    "content": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows On June 3, 2026, Google DeepMind announced",
-    "source": "marketersindex.com",
+    "title": "Microsoft Launches Seven New MAI Models at Build 2026",
+    "summary": "Microsoft AI unveiled a full multimodal family of seven in-house models—spanning reasoning, coding, image generation, transcription, and voice—marking a major strategic break from its OpenAI dependency.",
+    "content": "At Build 2026, Microsoft AI announced seven new models built entirely in-house under the MAI brand, including MAI-Thinking-1, a 35B-active-parameter reasoning model that matches Claude Opus 4.6 on coding benchmarks and outperforms it in blind human evaluations. The family also includes MAI-Code-1-Flash for agentic coding in GitHub Copilot, MAI-Image-2.5 for text-to-image and editing, MAI-Transcribe-1.5 for multilingual speech-to-text across 43 languages, and MAI-Voice-2 for natural speech synthesis. Alongside the models, Microsoft announced Frontier Tuning—a reinforcement-learning system that lets enterprises train MAI models on their own workflows—and a healthcare-specific frontier model co-created with Mayo Clinic. Microsoft AI CEO Mustafa Suleyman confirmed the company was formally released from OpenAI contract restrictions about six months ago to pursue what he calls 'Humanist Superintelligence,' aiming to build advanced AI that serves people rather than replaces them.",
+    "source": "Microsoft AI",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "category": "Models"
+  },
+  {
+    "title": "NVIDIA Releases Nemotron 3 Ultra: Open 550B Model for Long-Running Agents",
+    "summary": "NVIDIA launched Nemotron 3 Ultra, a fully open 550B-parameter mixture-of-experts model delivering 5x faster inference and 30% lower cost for complex, multi-step agentic workflows.",
+    "content": "NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters purpose-built for orchestrating long-running AI agent workflows. The model achieves 5x higher throughput compared to other open models in its class and reduces agentic task costs by up to 30% by completing benchmarks with fewer tokens per turn. Key architectural innovations include hybrid Mamba-Transformer layers for efficient long-context handling up to 1M tokens, NVFP4 quantization enabling a single checkpoint to run across Hopper, Blackwell, and Ampere GPUs, and a novel Multi-Teacher On-Policy Distillation (MOPD) training method that uses over ten specialized teacher models to improve reasoning across domains. The model is fully open—weights, data, and training recipes—and supports fine-tuning via LoRA, SFT, and reinforcement learning through NVIDIA's NeMo libraries. It is available on Hugging Face, NVIDIA NIM, Perplexity, OpenRouter, and through major cloud providers including AWS, Google Cloud, and Microsoft Foundry.",
+    "source": "NVIDIA Technical Blog",
+    "date": "2026-06-04",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "category": "Models"
+  },
+  {
+    "title": "OpenAI Unveils ChatGPT Lockdown Mode to Guard Against Prompt Injection",
+    "summary": "OpenAI launched Lockdown Mode for ChatGPT Business accounts, disabling live browsing and agent features to reduce data exfiltration risks from prompt injection attacks.",
+    "content": "OpenAI announced Lockdown Mode, a new ChatGPT security feature designed to reduce the risk of prompt injection attacks—where malicious instructions are hidden in web content, uploaded files, or other external sources. When enabled, Lockdown Mode disables live web browsing (limiting access to cached content only), web image retrieval, deep research, and agent mode to minimize the attack surface for potential data exfiltration. OpenAI acknowledges the feature does not eliminate prompt injection risk entirely, as cached content and uploaded files could still carry injections that affect response behavior or accuracy. The company positions Lockdown Mode specifically for organizations and individuals handling sensitive data, not as a default experience for general users. It is currently rolling out to self-serve ChatGPT Business accounts and eligible personal accounts, representing OpenAI's first dedicated enterprise security hardening feature.",
+    "source": "TechCrunch",
     "date": "2026-06-06",
-    "url": "https://marketersindex.com/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-artificial-intelligence-and-agentic-workflows/",
-    "category": "Models",
-    "image": "https://marketersindex.com/wp-content/uploads/2026/06/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-artificial-intelligence-and-agentic-workflows-1024x405.webp"
+    "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "category": "Tools"
   },
   {
-    "title": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade",
-    "summary": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade SEARCH Searching... OpenAI launches advanced memory system for ChatGPT with ‘Dreaming V3’ upgrade The new architecture lets ChatGPT maintain fresher, more continuous context across conversations, rolling out first to",
-    "content": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade SEARCH Searching... OpenAI launches advanced memory system for ChatGPT with ‘Dreaming V3’ upgrade The new architecture lets ChatGPT maintain fresher, more continuous context across conversations, rolling out first to",
-    "source": "Editorial Team",
-    "date": "2026-06-05",
-    "url": "https://cryptobriefing.com/openai-chatgpt-dreaming-v3-memory-system/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05061050/openai-makes-chatgpt-memory-more-active-with-dreaming-startu-1-800x420.jpeg"
+    "title": "Trump Signs Executive Order on AI Innovation and National Security",
+    "summary": "President Trump signed an executive order directing federal agencies to harden cybersecurity with AI, form an industry vulnerability clearinghouse, and establish a voluntary early-access framework for frontier AI models.",
+    "content": "On June 2, 2026, President Trump signed an executive order titled 'Promoting Advanced Artificial Intelligence Innovation and Security,' directing coordinated federal action to advance AI adoption while securing national systems against AI-enabled threats. The order gives agencies 30 days to prioritize cyber defense of national security and civilian federal systems, establish AI-enabled defensive tools, and form an AI cybersecurity clearinghouse through voluntary private-sector collaboration to identify and patch software vulnerabilities. Within 60 days, the NSA, CISA, and Treasury must develop a classified benchmarking process to assess the cyber capabilities of frontier AI models and designate those crossing a threshold as 'covered frontier models.' A voluntary framework would give developers the option to provide the government up to 30 days of early access to covered models before release to trusted partners—while explicitly prohibiting any mandatory government licensing or preclearance requirement for model releases. The order also directs the Attorney General to prioritize prosecution of crimes involving AI-assisted unauthorized computer access.",
+    "source": "The White House",
+    "date": "2026-06-02",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "category": "Policy"
   },
   {
-    "title": "ChatGPT 5.6 release date rumors point to June but OpenAI has not confirmed it",
-    "summary": "ChatGPT 5.6 release date rumors point to June but OpenAI has not confirmed it The cleanest answer is also the one many readers will not like: there is no official ChatGPT 5.6 release date as of June 4, 2026. OpenAI has published public material for GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, G",
-    "content": "ChatGPT 5.6 release date rumors point to June but OpenAI has not confirmed it The cleanest answer is also the one many readers will not like: there is no official ChatGPT 5.6 release date as of June 4, 2026. OpenAI has published public material for GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, G",
-    "source": "Jan Bielik",
+    "title": "Bipartisan 'Great American AI Act' Draft Proposes Federal AI Governance Framework",
+    "summary": "House lawmakers released a sweeping bipartisan draft bill that would codify a federal AI standards center, preempt state AI laws on frontier models, and require developers to report critical safety incidents to the government.",
+    "content": "Representatives Lori Trahan (D-MA) and Jay Obernolte (R-CA) released the nearly 270-page 'Great American AI Act' discussion draft, proposing a comprehensive federal framework for AI governance two days after the White House issued its own AI executive order. The bill would formally codify the Center for AI Standards and Innovation within the Commerce Department, authorizing $100 million per year from fiscal 2027–2029 to develop voluntary security guidelines, evaluate AI systems, and monitor AI progress. A key provision would preempt states from passing laws specifically regulating frontier AI model development, while still allowing state laws of general applicability and post-deployment regulation—a direct response to a growing patchwork of conflicting state AI bills. The draft also requires large frontier AI developers to report critical safety incidents to the federal government, adds penalties for using AI to impersonate government officials, and creates a joint DOE-NIST testbed for AI system evaluation. The bill would direct the Energy Department and NIST to lead international AI standards development in coalition with allies, expressly to counter Chinese influence.",
+    "source": "FedScoop",
     "date": "2026-06-04",
-    "url": "https://webiano.digital/chatgpt-5-6-release-date-rumors-point-to-june-but-openai-has-not-confirmed-it/",
-    "category": "Models",
-    "image": "https://webiano.digital/wp-content/uploads/2026/06/ChatGPT-5.6-release-date-rumors-point-to-June-but-OpenAI-has-not-confirmed-it.webp"
+    "url": "https://fedscoop.com/bipartisan-great-american-ai-act-draft-proposes-new-federal-ai-governance-framework/",
+    "category": "Policy"
   },
   {
-    "title": "ChatGPT’s upgraded memory system is rolling out to everyone.",
-    "summary": "ChatGPT’s upgraded memory system is rolling out to everyone. | The Verge The homepageThe Verge logo.",
-    "content": "ChatGPT’s upgraded memory system is rolling out to everyone. | The Verge The homepageThe Verge logo. The homepageThe Verge logo. Posted Jun 4, 2026 at 8:43 PM UTC E ChatGPT’s upgraded memory system is rolling out to everyone. OpenAI is building upon its “dreaming” feature that allows ChatGPT t",
-    "source": "Emma Roth",
-    "date": "2026-06-04",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/943552/chatgpts-upgraded-memory-system-is-rolling-out-to-everyone",
-    "category": "Models",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
-  },
-  {
-    "title": "Claude writes 80% of its code, calls for AI pause",
-    "summary": "Claude writes of its code, calls for AI pause Image by: Anthropic TL;DR Anthropic reveals that Claude now writes over of its production code, with engineers shipping 8x more code per quarter than in 2024. The company’s new Anthropic Institute paper maps the path to recursive self-imp",
-    "content": "Claude writes of its code, calls for AI pause Image by: Anthropic TL;DR Anthropic reveals that Claude now writes over of its production code, with engineers shipping 8x more code per quarter than in 2024. The company’s new Anthropic Institute paper maps the path to recursive self-imp",
-    "source": "Alina Maria Stan",
-    "date": "2026-06-05",
-    "url": "https://thenextweb.com/news/anthropic-claude-recursive-self-improvement-code",
-    "category": "Models",
-    "image": "https://media.thenextweb.com/2026/05/claude-opus-4-8.avif"
-  },
-  {
-    "title": "NVIDIA AI Releases Nemotron 3: A Hybrid Mamba-Transformer Open to 550B Experts, a Mixture of Experts for Long-Running Agents - AI-trends.today",
-    "summary": "NVIDIA AI Releases Nemotron 3: A Hybrid Mamba-Transformer Open to 550B Experts, a Mixture of Experts for Long-Running Agents - AI-trends.today Close Trending - Meet Harness-1, a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness on gpt – oss-20b - Goo",
-    "content": "NVIDIA AI Releases Nemotron 3: A Hybrid Mamba-Transformer Open to 550B Experts, a Mixture of Experts for Long-Running Agents - AI-trends.today Close Trending - Meet Harness-1, a 20B retrieval subagent trained with reinforcement learning inside a stateful search harness on gpt – oss-20b - Goo",
-    "source": "Gavin Wallace",
-    "date": "2026-06-05",
-    "url": "https://ai-trends.today/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/",
-    "category": "Models",
-    "image": "https://ai-trends.today/wp-content/uploads/2025/05/Can-LLMs-Really-Judge-with-Reasoning-Microsoft-and-Tsinghua-Researchers.webp.webp"
+    "title": "Meta Launches Business Agent Globally for WhatsApp, Messenger, and Instagram",
+    "summary": "Meta expanded its AI Business Agent to all businesses worldwide, enabling automated customer conversations, lead qualification, sales, and appointment booking across its messaging platforms.",
+    "content": "Meta introduced Meta Business Agent as a globally available product for businesses of all sizes on WhatsApp, Messenger, and Instagram—scaling from an earlier deployment where over one million businesses were already using a version of it. The agent can answer business-specific questions, recommend products from a catalog, book appointments, qualify incoming leads, close sales, and hand off to human team members when needed, all in the customer's local language. Meta also launched the Meta Business Agent Platform, an enterprise agentic infrastructure that integrates with hundreds of third-party systems including Shopify, Zendesk, and Shopee, enabling agents to take direct actions on behalf of businesses with enterprise-grade controls and guardrails. A companion briefing feature delivers business owners a morning summary of overnight customer conversations along with thread insights and analytics. With more than one billion active daily threads between users and businesses across Meta's messaging apps, the Business Agent rollout positions Meta's AI stack as a major force in commercial customer engagement at global scale.",
+    "source": "Meta Newsroom",
+    "date": "2026-06-03",
+    "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
+    "category": "Industry"
   }
 ]
