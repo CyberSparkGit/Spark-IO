@@ -1,62 +1,62 @@
 [
   {
-    "title": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models",
-    "summary": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models - gHacks Tech News OpenAI has announced an update that enhances the GPT-5.5 Instant model and retires several older models from ChatGPT, including o3 and GPT-4.5. The company shared this information in an updated relea",
-    "content": "OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models - gHacks Tech News OpenAI has announced an update that enhances the GPT-5.5 Instant model and retires several older models from ChatGPT, including o3 and GPT-4.5. The company shared this information in an updated relea",
-    "source": "Arthur Kay",
-    "date": "2026-06-03",
-    "url": "https://www.ghacks.net/2026/06/03/openai-upgrades-gpt-5-5-instant-and-confirms-retirement-of-o3-and-gpt-4-5-models/",
-    "category": "Models",
-    "image": "https://www.ghacks.net/wp-content/uploads/2026/06/gHacks-articles-2026-06-03T102602.267.png"
-  },
-  {
-    "title": "Anthropic Launches Claude Opus 4.8 for Enterprises [Model Behavior]",
-    "summary": "Anthropic Launches Claude Opus 4.8 for Enterprises [Model Behavior] - Channel: Neural Newscast - Length: 06:03 - Views: 23 - Likes: 0 - Published: 2026-06-03T21:57:29-07:00 - Category: People & Blogs - Language: en Description On May 28, 2026, Anthropic debuted Claude Opus 4.8, its most adva",
-    "content": "Anthropic Launches Claude Opus 4.8 for Enterprises [Model Behavior] - Channel: Neural Newscast - Length: 06:03 - Views: 23 - Likes: 0 - Published: 2026-06-03T21:57:29-07:00 - Category: People & Blogs - Language: en Description On May 28, 2026, Anthropic debuted Claude Opus 4.8, its most adva",
-    "source": "Neural Newscast",
-    "date": "2026-06-04",
-    "url": "https://www.youtube.com/watch?v=2jJ62Yj7QyU",
-    "category": "Models",
-    "image": "https://i.ytimg.com/vi/2jJ62Yj7QyU/sddefault.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYSyBaKGUwDw==&rs=AOn4CLBfGJ1bu-JDS0bOXuCAFBVyb_IOqA"
-  },
-  {
-    "title": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop",
-    "summary": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
-    "content": "Google DeepMind Releases Gemma 4 12B: An Encoder-Free Multimodal Model with Native audio that runs on a 16 GB laptop - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Releases Gemma 4 12B: An Encoder-Fre",
-    "source": "Asif Razzaq",
-    "date": "2026-06-03",
-    "url": "https://www.marktechpost.com/2026/06/03/google-deepmind-releases-gemma-4-12b-an-encoder-free-multimodal-model-with-native-audio-that-runs-on-a-16-gb-laptop/",
-    "category": "Models",
-    "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/gemma4-12b-banner-infographic.png"
-  },
-  {
-    "title": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute, Expands Global Access",
-    "summary": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute, Expands Global Access openai.com OpenAI published a substantial update to GPT-Rosalind on June 3, 2026, deepening the domain-specialized model's performance across drug discovery, genomics, and wet-lab research — and opening the res",
-    "content": "GPT-Rosalind Drug Discovery Update: OpenAI Cuts Genomics Compute, Expands Global Access openai.com OpenAI published a substantial update to GPT-Rosalind on June 3, 2026, deepening the domain-specialized model's performance across drug discovery, genomics, and wet-lab research — and opening the res",
-    "source": "Shannon Harwood  \n \n \n Published: Jun 04 2026, 06:55 AM EDT",
-    "date": "2026-06-04",
-    "url": "https://www.techtimes.com/articles/317754/20260604/gpt-rosalind-drug-discovery-update-openai-cuts-genomics-compute-expands-global-access.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466013/gpt-rosalind.png"
-  },
-  {
-    "title": "OpenAI in talks to give U.S. government an equity stake in $850 billion AI startup as IPO nears",
-    "summary": "government an equity stake in $850 billion AI startup as IPO nears - Tech Startups - Trust & Safety - Editorial Policy June 6, 2026 - Trust & Safety - Editorial Policy - Top Startups - Startup List - Submit Your Startup - Free Startup Valuation Calculator OpenAI",
-    "content": "OpenAI in talks to give U.S. government an equity stake in $850 billion AI startup as IPO nears - Tech Startups - Trust & Safety - Editorial Policy June 6, 2026 - Trust & Safety - Editorial Policy - Top Startups - Startup List - Submit Your Startup - Free Startup Valuation Calculator OpenAI",
-    "source": "Daniel Levi",
+    "title": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade",
+    "summary": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade SEARCH Searching... OpenAI launches advanced memory system for ChatGPT with ‘Dreaming V3’ upgrade The new architecture lets ChatGPT maintain fresher, more continuous context across conversations, rolling out first to",
+    "content": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade SEARCH Searching... OpenAI launches advanced memory system for ChatGPT with ‘Dreaming V3’ upgrade The new architecture lets ChatGPT maintain fresher, more continuous context across conversations, rolling out first to",
+    "source": "Editorial Team",
     "date": "2026-06-05",
-    "url": "https://techstartups.com/2026/06/05/openai-in-talks-to-give-u-s-government-an-equity-stake-in-850-billion-ai-startup-as-ipo-nears/",
-    "category": "Policy",
-    "image": "https://techstartups.com/wp-content/uploads/2025/03/Altman.jpg"
+    "url": "https://cryptobriefing.com/openai-chatgpt-dreaming-v3-memory-system/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05061050/openai-makes-chatgpt-memory-more-active-with-dreaming-startu-1-800x420.jpeg"
   },
   {
-    "title": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents",
-    "summary": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
-    "content": "NVIDIA Nemotron 3 Ultra Powers Faster, More Efficient Reasoning for Long-Running Agents Published: 2026-06-04 Author: Chris Alexiuk AI-generated summary - NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters, optimized for orchestrating compl",
-    "source": "Chris Alexiuk",
+    "title": "ChatGPT 5.6 release date rumors point to June but OpenAI has not confirmed it",
+    "summary": "ChatGPT 5.6 release date rumors point to June but OpenAI has not confirmed it The cleanest answer is also the one many readers will not like: there is no official ChatGPT 5.6 release date as of June 4, 2026. OpenAI has published public material for GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, G",
+    "content": "ChatGPT 5.6 release date rumors point to June but OpenAI has not confirmed it The cleanest answer is also the one many readers will not like: there is no official ChatGPT 5.6 release date as of June 4, 2026. OpenAI has published public material for GPT-5, GPT-5.1, GPT-5.2, GPT-5.3, GPT-5.4, G",
+    "source": "Jan Bielik",
     "date": "2026-06-04",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-    "category": "Tools",
-    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Nemotron-3-Ultra-660x370.png"
+    "url": "https://webiano.digital/chatgpt-5-6-release-date-rumors-point-to-june-but-openai-has-not-confirmed-it/",
+    "category": "Models",
+    "image": "https://webiano.digital/wp-content/uploads/2026/06/ChatGPT-5.6-release-date-rumors-point-to-June-but-OpenAI-has-not-confirmed-it.webp"
+  },
+  {
+    "title": "ChatGPT’s upgraded memory system is rolling out to everyone.",
+    "summary": "ChatGPT’s upgraded memory system is rolling out to everyone. | The Verge The homepageThe Verge logo.",
+    "content": "ChatGPT’s upgraded memory system is rolling out to everyone. | The Verge The homepageThe Verge logo. The homepageThe Verge logo. Posted Jun 4, 2026 at 8:43 PM UTC E ChatGPT’s upgraded memory system is rolling out to everyone. OpenAI is building upon its “dreaming” feature that allows ChatGPT t",
+    "source": "Emma Roth",
+    "date": "2026-06-04",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/943552/chatgpts-upgraded-memory-system-is-rolling-out-to-everyone",
+    "category": "Models",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
+  },
+  {
+    "title": "Claude writes 80% of its code, calls for AI pause",
+    "summary": "Claude writes of its code, calls for AI pause Image by: Anthropic TL;DR Anthropic reveals that Claude now writes over of its production code, with engineers shipping 8x more code per quarter than in 2024. The company’s new Anthropic Institute paper maps the path to recursive self-imp",
+    "content": "Claude writes of its code, calls for AI pause Image by: Anthropic TL;DR Anthropic reveals that Claude now writes over of its production code, with engineers shipping 8x more code per quarter than in 2024. The company’s new Anthropic Institute paper maps the path to recursive self-imp",
+    "source": "Alina Maria Stan",
+    "date": "2026-06-05",
+    "url": "https://thenextweb.com/news/anthropic-claude-recursive-self-improvement-code",
+    "category": "Models",
+    "image": "https://media.thenextweb.com/2026/05/claude-opus-4-8.avif"
+  },
+  {
+    "title": "Anthropic says Claude now writes over 90% of its code and wants the world to have an AI pause button",
+    "summary": "Anthropic says Claude now writes over of its code and wants the world to have an AI pause button Anthropic says Claude now writes over of its code and wants the world to have an AI pause button Jun 5, 2026 Nano Banana Pro prompted by THE DECODER Key Points - Anthropic has shared in",
+    "content": "Anthropic says Claude now writes over of its code and wants the world to have an AI pause button Anthropic says Claude now writes over of its code and wants the world to have an AI pause button Jun 5, 2026 Nano Banana Pro prompted by THE DECODER Key Points - Anthropic has shared in",
+    "source": "Matthias Bastian",
+    "date": "2026-06-05",
+    "url": "https://the-decoder.com/anthropic-says-claude-now-writes-over-90-of-its-code-and-wants-the-world-to-have-an-ai-pause-button/",
+    "category": "Models",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/06/anthropic_claude_clone.png"
+  },
+  {
+    "title": "Anthropic’s Rumored Claude Oceanus Could Be the Mythos for Everyone | by Joe Njenga | AI Software Engineer | Jun, 2026",
+    "summary": "Anthropic’s Rumored Claude Oceanus Could Be the Mythos for Everyone | by Joe Njenga | AI Software Engineer | Jun, 2026 | Medium Sign up Get app Sign up AI Software Engineer Sharing ideas about using AI for software development and integrating AI systems into existing software workflows.",
+    "content": "Anthropic’s Rumored Claude Oceanus Could Be the Mythos for Everyone | by Joe Njenga | AI Software Engineer | Jun, 2026 | Medium Sign up Get app Sign up AI Software Engineer Sharing ideas about using AI for software development and integrating AI systems into existing software workflows. We e",
+    "source": "Joe Njenga",
+    "date": "2026-06-04",
+    "url": "https://medium.com/ai-software-engineer/anthropics-rumored-claude-oceanus-could-be-the-mythos-for-everyone-400db303a8a4",
+    "category": "Models",
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*O6k-O9Zh1FDGwznj92oy0w.png"
   }
 ]
