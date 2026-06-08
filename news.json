@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks",
+    "summary": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks GPT-Rosalind bests other models on LifeSciBench, including GPT-5.5, Grok 4.3 and Gemini 3.1 Pro. The benchmark does not include Anthropic’s Claude models.",
+    "content": "OpenAI research and product leads detail GPT-Rosalind capabilities and benchmarks GPT-Rosalind bests other models on LifeSciBench, including GPT-5.5, Grok 4.3 and Gemini 3.1 Pro. The benchmark does not include Anthropic’s Claude models. Solving humanity’s biggest problems has been OpenAI’s stated",
+    "source": "Brian Buntz",
+    "date": "2026-06-06",
+    "url": "https://www.rdworldonline.com/openai-research-and-product-leads-detail-gpt-rosalind-capabilities-and-benchmarks/",
+    "category": "Models",
+    "image": "https://www.rdworldonline.com/wp-content/uploads/2026/06/LifeSciBench-Overall-Scores.png"
+  },
+  {
     "title": "OpenAI 'Dreaming': ChatGPT's Memory Now Rewrites Itself",
     "summary": "OpenAI 'Dreaming': ChatGPT's Memory Now Rewrites Itself | ThePlanetTools.ai 9 min readVerified June 7, 2026Tested hands-on OpenAI's \"Dreaming\" reframes ChatGPT memory: a background process synthesizes context from many conversations instead of reading a fixed list of saved memories.",
     "content": "OpenAI 'Dreaming': ChatGPT's Memory Now Rewrites Itself | ThePlanetTools.ai 9 min readVerified June 7, 2026Tested hands-on OpenAI's \"Dreaming\" reframes ChatGPT memory: a background process synthesizes context from many conversations instead of reading a fixed list of saved memories. OpenAI announ",
@@ -10,53 +20,43 @@
     "image": "https://jnzbohshyskcshyjftrn.supabase.co/storage/v1/object/public/content-images/articles/openai-chatgpt-dreaming-memory-overhaul-june-2026/hero-clean-1780810969834.png"
   },
   {
-    "title": "ChatGPT Overhauled: OpenAI Boosts Recall Accuracy",
-    "summary": "ChatGPT Overhauled: OpenAI Boosts Recall Accuracy - News Usa Today Search Search Sunday, June 7, 2026 Top Posts Saturday Showdown: Top MLB DFS DraftKings Picks for August 24 Lessons Learned: NFL Rookies Jayden Daniels and Malik Nabers Reflect on... Chiefs Set to Make Creed Humphrey the NFL’s",
-    "content": "ChatGPT Overhauled: OpenAI Boosts Recall Accuracy - News Usa Today Search Search Sunday, June 7, 2026 Top Posts Saturday Showdown: Top MLB DFS DraftKings Picks for August 24 Lessons Learned: NFL Rookies Jayden Daniels and Malik Nabers Reflect on... Chiefs Set to Make Creed Humphrey the NFL’s",
-    "source": "Business Editor: Nolan Hartidge, CFA",
-    "date": "2026-06-07",
-    "url": "https://news-usa.today/chatgpt-overhauled-openai-boosts-recall-accuracy/",
+    "title": "Anthropic SpaceX Compute Deal: Claude Limits Boosted",
+    "summary": "Anthropic SpaceX Compute Deal: Claude Limits Boosted Close Facebook X (Twitter) Instagram Facebook X (Twitter) Instagram Anthropic secured the entire output of SpaceX's Colossus 1 data center — 220,000 NVIDIA GPUs — to lift Claude's usage limits. Share Anthropic is paying Elon Musk’s Spac",
+    "content": "Anthropic SpaceX Compute Deal: Claude Limits Boosted Close Facebook X (Twitter) Instagram Facebook X (Twitter) Instagram Anthropic secured the entire output of SpaceX's Colossus 1 data center — 220,000 NVIDIA GPUs — to lift Claude's usage limits. Share Anthropic is paying Elon Musk’s Spac",
+    "source": "Amitabh Sarkar",
+    "date": "2026-06-05",
+    "url": "https://witho2.com/news/anthropic-spacex-compute-deal-claude-usage-limits-2026",
     "category": "Models",
-    "image": "https://news-usa.today/wp-content/uploads/2026/06/chatgpt-memory-dreaming-v3-overhaul-2026.DwL9MKH0.jpg"
+    "image": "https://witho2.com/wp-content/uploads/2026/06/anthropic-spacex-compute-deal-claude-usage-limits-2026.webp"
   },
   {
-    "title": "OpenAI Bolsters ChatGPT with Lockdown Mode and Advanced Memory Capabilities",
-    "summary": "OpenAI Bolsters ChatGPT with Lockdown Mode and Advanced Memory Capabilities | NeuraFeed Summary OpenAI has rolled out significant updates to ChatGPT, introducing \"Lockdown Mode\" to enhance security against prompt injection attacks and a major upgrade to its \"Dreaming\" memory architecture.",
-    "content": "OpenAI Bolsters ChatGPT with Lockdown Mode and Advanced Memory Capabilities | NeuraFeed Summary OpenAI has rolled out significant updates to ChatGPT, introducing \"Lockdown Mode\" to enhance security against prompt injection attacks and a major upgrade to its \"Dreaming\" memory architecture. These ch",
-    "source": "NeuraFeed",
-    "date": "2026-06-07",
-    "url": "https://feed.neuraspheres.com/articles/HikD3ZLWmES0qOeTyW7E",
+    "title": "OpenAI Rolls Out Advanced Memory System for ChatGPT",
+    "summary": "OpenAI Rolls Out Advanced Memory System for ChatGPT - Blockchain.News OpenAI Rolls Out Advanced Memory System for ChatGPT Joerg Hiller Jun 04, 2026 17:14 OpenAI upgrades ChatGPT's memory system, improving personalization, context retention, and scalability for Free, Plus, and Pro users.",
+    "content": "OpenAI Rolls Out Advanced Memory System for ChatGPT - Blockchain.News OpenAI Rolls Out Advanced Memory System for ChatGPT Joerg Hiller Jun 04, 2026 17:14 OpenAI upgrades ChatGPT's memory system, improving personalization, context retention, and scalability for Free, Plus, and Pro users. OpenAI",
+    "source": "blockchain.news",
+    "date": "2026-06-05",
+    "url": "https://blockchain.news/news/openai-chatgpt-advanced-memory-system",
     "category": "Models",
-    "image": "https://www.engadget.com/img/gallery/openai-rolls-out-a-lockdown-mode-for-extra-protection-against-prompt-injection-attacks/l-intro-1780687911.jpg"
+    "image": "https://image.blockchain.news:443/features/D11B7CFCA58E34BD7D45FE96B9319DC677103B086D2B5DC6241654AB7083E58E.jpg"
   },
   {
-    "title": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows",
-    "summary": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows On June 3, 2026, Google DeepMind announced",
-    "content": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows On June 3, 2026, Google DeepMind announced",
+    "title": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal AI Integration",
+    "summary": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal AI Integration Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal AI Integration The landscape of open-source artificial intelligence underwent a significant transformation on June 3, 2",
+    "content": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal AI Integration Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal AI Integration The landscape of open-source artificial intelligence underwent a significant transformation on June 3, 2",
     "source": "marketersindex.com",
-    "date": "2026-06-06",
-    "url": "https://marketersindex.com/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-artificial-intelligence-and-agentic-workflows/",
+    "date": "2026-06-05",
+    "url": "https://marketersindex.com/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-ai-integration/",
     "category": "Models",
-    "image": "https://marketersindex.com/wp-content/uploads/2026/06/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-artificial-intelligence-and-agentic-workflows-1024x405.webp"
+    "image": "https://marketersindex.com/wp-content/uploads/2026/06/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-ai-integration-1024x405.webp"
   },
   {
-    "title": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade",
-    "summary": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade SEARCH Searching... OpenAI launches advanced memory system for ChatGPT with ‘Dreaming V3’ upgrade The new architecture lets ChatGPT maintain fresher, more continuous context across conversations, rolling out first to",
-    "content": "OpenAI launches advanced memory system for ChatGPT with 'Dreaming V3' upgrade SEARCH Searching... OpenAI launches advanced memory system for ChatGPT with ‘Dreaming V3’ upgrade The new architecture lets ChatGPT maintain fresher, more continuous context across conversations, rolling out first to",
-    "source": "Editorial Team",
-    "date": "2026-06-05",
-    "url": "https://cryptobriefing.com/openai-chatgpt-dreaming-v3-memory-system/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05061050/openai-makes-chatgpt-memory-more-active-with-dreaming-startu-1-800x420.jpeg"
-  },
-  {
-    "title": "OpenAI Introduces Smarter ChatGPT Memory, Adds Dreaming Architecture",
-    "summary": "OpenAI Introduces Smarter ChatGPT Memory, Adds Dreaming Architecture AI Styling Studio — Infinite avatar looks from just 1 photo. Submit your Tool Submit your Tool 10,000+ AI tools already listed 10K+Tools 180K+/moViews 60K+/moVisitors Discover Resources AI News OpenAI Introduc",
-    "content": "OpenAI Introduces Smarter ChatGPT Memory, Adds Dreaming Architecture AI Styling Studio — Infinite avatar looks from just 1 photo. Try it now. Submit your Tool Submit your Tool 10,000+ AI tools already listed 10K+Tools 180K+/moViews 60K+/moVisitors Discover Resources AI News OpenAI Introduc",
-    "source": "poweredbyai.app",
-    "date": "2026-06-05",
-    "url": "https://poweredbyai.app/ai-news/openai-introduces-smarter-chatgpt-memory-adds-dreaming-architecture",
-    "category": "Models",
-    "image": "https://teenyfy-assets.s3.us-east-1.amazonaws.com/temp_openai_int_939a984b1f.jpg"
+    "title": "OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders' Summit",
+    "summary": "OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders' Summit OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit By Amit Chowdhry • Today at 11:56 PM OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit Op",
+    "content": "OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders' Summit OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit By Amit Chowdhry • Today at 11:56 PM OpenAI Calls For International Youth AI Safety Institute Ahead Of G7 Leaders’ Summit Op",
+    "source": "Amit Chowdhry",
+    "date": "2026-06-08",
+    "url": "https://pulse2.com/openai-calls-for-international-youth-ai-safety-institute-ahead-of-g7-leaders-summit/",
+    "category": "Industry",
+    "image": "https://cdn.pulse2.com/cdn/2024/06/OpenAI-Logo.jpeg"
   }
 ]
