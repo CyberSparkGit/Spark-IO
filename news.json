@@ -1,56 +1,62 @@
 [
   {
-    "title": "Apple Unveils Siri AI: A Full Conversational Overhaul at WWDC 2026",
-    "summary": "Two years after its initial promise, Apple debuted a ground-up rebuilt Siri at WWDC 2026, transforming it from a voice assistant into a full conversational AI companion powered by Apple Intelligence.",
-    "content": "Two years after promising but failing to launch a smarter Siri, Apple unveiled its overhauled AI-powered assistant at WWDC 2026 on June 8. The new 'Siri AI' can draw on current world knowledge, access information on a user's device, and respond based on what's displayed on their screen — competing directly with ChatGPT, Claude, and Gemini. A dedicated Siri app will sync conversation history across iPhone, iPad, Mac, Apple Watch, and Vision Pro via iCloud. The revamp includes 'Write with Siri,' which can mirror a user's personal communication style when drafting emails and messages, plus improved system-wide dictation with automatic punctuation and capitalization. Siri AI is built on a new architecture for Apple Intelligence using on-device and Private Cloud Compute, ensuring user data is never stored or accessible to Apple; developer beta is available now, with a public beta arriving later this year.",
-    "source": "TechCrunch",
+    "title": "OpenAI plans biggest ChatGPT overhaul yet to build a superapp ahead of potential IPO: FT",
+    "summary": "OpenAI plans biggest ChatGPT overhaul yet to build a superapp ahead of potential IPO: FT SEARCH Searching... OpenAI plans biggest ChatGPT overhaul yet to build a superapp ahead of potential IPO: FT The overhaul will bundle coding tools, AI agents, and third-party integrations from Canva and Bo",
+    "content": "OpenAI plans biggest ChatGPT overhaul yet to build a superapp ahead of potential IPO: FT SEARCH Searching... OpenAI plans biggest ChatGPT overhaul yet to build a superapp ahead of potential IPO: FT The overhaul will bundle coding tools, AI agents, and third-party integrations from Canva and Bo",
+    "source": "Editorial Team",
     "date": "2026-06-08",
-    "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-    "category": "Models"
+    "url": "https://cryptobriefing.com/openai-chatgpt-superapp-revamp/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/08135609/OpenAI-plans-biggest-ChatGPT-overhaul-yet-to-build-a-superapp-ahead-of-potential-IPO-800x418.jpg"
   },
   {
-    "title": "Microsoft AI Launches Seven-Model MAI Family, Partners with Mayo Clinic on Healthcare AI",
-    "summary": "Microsoft AI unveiled a family of seven in-house models spanning reasoning, coding, image, voice, and transcription — plus a collaboration with Mayo Clinic to build a frontier healthcare AI model.",
-    "content": "On June 2, Microsoft AI announced the MAI model family — seven models built entirely in-house without distilling from other labs, led by MAI-Thinking-1, a 35B-active sparse Mixture-of-Experts reasoning model that matches Claude Opus 4.6 on SWE-Bench Pro and outperforms Sonnet 4.6 in blind human evaluations. MAI-Code-1-Flash is an inference-efficient agentic coding model deeply integrated with GitHub Copilot and VS Code, while MAI Transcribe-1.5 claims the best transcription accuracy in the world at 5x the speed of competitors across 43 languages. Microsoft also introduced 'Frontier Tuning,' a reinforcement-learning approach that lets enterprises train MAI models on their own proprietary workflow data — early results show a tuned MAI Excel model matching GPT 5.4 at up to 10x lower cost. Separately, Microsoft and Mayo Clinic announced a collaboration to co-create a frontier healthcare AI model using de-identified clinical data, which will be owned by Mayo Clinic and later made available to other healthcare organizations via Microsoft Foundry.",
-    "source": "Microsoft AI",
-    "date": "2026-06-02",
-    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-    "category": "Models"
-  },
-  {
-    "title": "NVIDIA Releases Nemotron 3 Ultra: Open 550B Model Built for Long-Running Agents",
-    "summary": "NVIDIA launched Nemotron 3 Ultra, a fully open 550B-parameter model achieving 5x faster inference than comparable open models, purpose-built for orchestrating complex multi-step agentic workflows.",
-    "content": "NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters that achieves 5x higher throughput compared to other open models in its class and lowers cost-per-task completion by up to 30% on benchmarks like SWE-bench and Terminal Bench 2.0. The model uses a novel hybrid Mamba-Transformer architecture — Mamba layers handle long-context efficiency while Transformer layers preserve precise fact recall — combined with NVFP4 quantization that runs a single checkpoint across Hopper, Blackwell, and Ampere GPUs. A new training technique called Multi-Teacher On-Policy Distillation (MOPD) trains the model using feedback from over 10 specialized domain teachers, enabling continuous capability improvement across coding, legal reasoning, and knowledge retrieval. Weights, training data, and full recipes are released openly under the Linux Foundation's OpenMDW-1.1 license, and the model is available on Hugging Face and across major cloud platforms including AWS, Google Cloud, and Microsoft Foundry. NVIDIA also launched Nemotron 3.5 Content Safety — a 4B guardrail model covering 23 safety categories — and Nemotron 3.5 ASR with sub-100ms latency across 40+ languages.",
-    "source": "NVIDIA Technical Blog",
-    "date": "2026-06-04",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-    "category": "Models"
-  },
-  {
-    "title": "Trump Signs AI Executive Order: Voluntary Frontier Model Framework and Cyber Crackdown",
-    "summary": "President Trump signed an executive order on June 2 establishing a voluntary government framework for frontier AI models, a new AI cybersecurity clearinghouse, and heightened criminal enforcement against AI-facilitated cyberattacks.",
-    "content": "On June 2, 2026, President Trump signed 'Promoting Advanced Artificial Intelligence Innovation and Security,' an executive order that directs federal agencies to take sweeping action on AI and cybersecurity within 30–60 days. CISA must issue Binding Operational Directives to deploy AI-powered defensive tools across federal civilian systems and extend those capabilities to critical infrastructure operators including rural hospitals and community banks. The Treasury Department is directed to establish an 'AI cybersecurity clearinghouse' — a voluntary coordination hub with AI companies for scanning, validating, and patching software vulnerabilities. Within 60 days, the NSA must develop a classified benchmarking methodology for designating 'covered frontier models,' and participating developers can voluntarily provide the government a 30-day pre-release evaluation window with full IP and confidentiality protections. Crucially, the EO explicitly prohibits any mandatory government licensing or permitting requirement for AI models, and the Attorney General is directed to prioritize prosecution of AI-facilitated cybercrimes including scenarios where autonomous AI agents are used to collect data for criminal purposes.",
-    "source": "ArentFox Schiff",
+    "title": "ChatGPT Memory Just Got 5x Smarter: Inside OpenAI's Dreaming V3 Upgrade",
+    "summary": "ChatGPT Memory Just Got 5x Smarter: Inside OpenAI's Dreaming V3 Upgrade | OpenTools 7 min readUpdated yesterday Memory Architecture ChatGPT Memory Just Got 5x Smarter: Inside OpenAI's Dreaming V3 Upgrade OpenAI has rolled out Dreaming V3, a revolutionary memory architecture for ChatGPT that au",
+    "content": "ChatGPT Memory Just Got 5x Smarter: Inside OpenAI's Dreaming V3 Upgrade | OpenTools 7 min readUpdated yesterday Memory Architecture ChatGPT Memory Just Got 5x Smarter: Inside OpenAI's Dreaming V3 Upgrade OpenAI has rolled out Dreaming V3, a revolutionary memory architecture for ChatGPT that au",
+    "source": "opentools.ai",
     "date": "2026-06-08",
-    "url": "https://www.afslaw.com/perspectives/ai-law-blog/trumps-new-ai-eo-voluntary-frameworks-cyber-crackdowns-and-what-it-means",
-    "category": "Policy"
+    "url": "https://opentools.ai/news/chatgpt-memory-just-got-5x-smarter-inside-openai-s-dreaming-v3-upgrade",
+    "category": "Models",
+    "image": "https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/d268b774-88c2-44e2-eadb-91dcb5791d00/contentbanner"
   },
   {
-    "title": "EU AI Act Gets First Amendments: Deadline Extensions, New Prohibitions on Deepfakes",
-    "summary": "EU negotiators reached a provisional agreement in May 2026 on the Digital Omnibus — the first set of AI Act amendments — postponing high-risk AI compliance deadlines by up to 16 months and banning AI-generated non-consensual intimate imagery.",
-    "content": "On May 7, 2026, the EU Council, Parliament, and Commission reached a provisional agreement on the Digital Omnibus, marking the first amendments to the EU AI Act since its 2024 adoption. The most significant change is a 16-month deferral for use-based high-risk AI system obligations (Annex III), shifting the compliance deadline from August 2026 to December 2027, with product-regulated systems (Annex I) delayed to August 2028. New prohibitions targeting AI-generated non-consensual intimate imagery and child sexual abuse material will take effect in December 2026, making it illegal to place on the market or use AI systems that generate such content without explicit consent. The Machinery Regulation was moved from Annex I Section A to Section B, reducing compliance burden for AI-enabled industrial machinery by making sector-specific safety rules paramount rather than requiring dual compliance with both the AI Act and sectoral frameworks. A new Article 4a creates a narrow but viable pathway for using special category personal data to detect and correct AI bias, subject to strict safeguards including pseudonymization, access controls, and mandatory data deletion after correction. Formal adoption is anticipated in June, with publication in July ahead of the August 2026 general application milestone.",
-    "source": "Global Policy Watch",
-    "date": "2026-06-02",
-    "url": "https://www.globalpolicywatch.com/2026/06/eu-ai-act-update-timeline-relief-targeted-simplification-and-new-prohibitions-2/",
-    "category": "Policy"
+    "title": "OpenAI 'Dreaming': ChatGPT's Memory Now Rewrites Itself",
+    "summary": "OpenAI 'Dreaming': ChatGPT's Memory Now Rewrites Itself | ThePlanetTools.ai 9 min readVerified June 7, 2026Tested hands-on OpenAI's \"Dreaming\" reframes ChatGPT memory: a background process synthesizes context from many conversations instead of reading a fixed list of saved memories.",
+    "content": "OpenAI 'Dreaming': ChatGPT's Memory Now Rewrites Itself | ThePlanetTools.ai 9 min readVerified June 7, 2026Tested hands-on OpenAI's \"Dreaming\" reframes ChatGPT memory: a background process synthesizes context from many conversations instead of reading a fixed list of saved memories. OpenAI announ",
+    "source": "ThePlanetTools.ai",
+    "date": "2026-06-07",
+    "url": "https://theplanettools.ai/blog/openai-chatgpt-dreaming-memory-overhaul-june-2026",
+    "category": "Models",
+    "image": "https://jnzbohshyskcshyjftrn.supabase.co/storage/v1/object/public/content-images/articles/openai-chatgpt-dreaming-memory-overhaul-june-2026/hero-clean-1780810969834.png"
   },
   {
-    "title": "Meta Launches Business Agent Globally, Enabling AI-Powered Customer Engagement at Scale",
-    "summary": "Meta rolled out Meta Business Agent globally, allowing businesses of all sizes to deploy AI across WhatsApp, Messenger, and Instagram to handle customer inquiries, book appointments, close sales, and provide personalized experiences around the clock.",
-    "content": "Meta launched Meta Business Agent globally on June 3, 2026, expanding beyond the one million businesses already using it on WhatsApp and Messenger to businesses of all sizes worldwide. Businesses can set up the agent in minutes to answer product questions, make catalog recommendations, book appointments, qualify leads, and close sales — all while responding in customers' local languages with the brand's own tone. A 'morning briefing' feature acts as a business partner, summarizing overnight customer chats and providing insights on conversation threads to help owners stay caught up. Meta also introduced the Meta Business Agent Platform, an enterprise agentic infrastructure connecting to hundreds of third-party systems including Shopify, Zendesk, and Shopee, giving larger businesses the ability to build, customize, and deploy agents with enterprise-grade controls, guardrails, and measurement. The service launches free with paid subscription tiers coming in the months ahead, and Meta is also adding discoverability on WhatsApp so customers can find businesses by typing their name in the search bar.",
-    "source": "Meta",
-    "date": "2026-06-03",
-    "url": "https://about.fb.com/news/2026/06/meta-business-agent/",
-    "category": "Tools"
+    "title": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows",
+    "summary": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows On June 3, 2026, Google DeepMind announced",
+    "content": "Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows Google DeepMind Unveils Gemma 4 12B Unified: A New Paradigm for Local Multimodal Artificial Intelligence and Agentic Workflows On June 3, 2026, Google DeepMind announced",
+    "source": "marketersindex.com",
+    "date": "2026-06-06",
+    "url": "https://marketersindex.com/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-artificial-intelligence-and-agentic-workflows/",
+    "category": "Models",
+    "image": "https://marketersindex.com/wp-content/uploads/2026/06/google-deepmind-unveils-gemma-4-12b-unified-a-new-paradigm-for-local-multimodal-artificial-intelligence-and-agentic-workflows-1024x405.webp"
+  },
+  {
+    "title": "Claude Mythos: Anthropic's Most Restricted AI Explained",
+    "summary": "Claude Mythos: Anthropic's Most Restricted AI Explained Image: Flickr / Wikimedia Commons / Unsplash This article was produced by the AETW editorial team. Anthropic expanded Project Glasswing to 150 new organizations across 15 countries on June 2, bringing its restricted Claude Mythos Preview mod",
+    "content": "Claude Mythos: Anthropic's Most Restricted AI Explained Image: Flickr / Wikimedia Commons / Unsplash This article was produced by the AETW editorial team. Anthropic expanded Project Glasswing to 150 new organizations across 15 countries on June 2, bringing its restricted Claude Mythos Preview mod",
+    "source": "AI Eating The World",
+    "date": "2026-06-08",
+    "url": "https://www.aieatingtheworld.com/articles/claude-mythos-project-glasswing-expansion",
+    "category": "Models",
+    "image": "https://cdn.sanity.io/images/xagfvf3t/production/10b76cabb4218c4bd69e4ab474d6b9879ba7c79a-1672x941.png"
+  },
+  {
+    "title": "Why Anthropic just doubled Claude Cowork limits at no charge",
+    "summary": "Why Anthropic just doubled Claude Cowork limits at no charge - The New Stack TNS OK VOXPOP As a JavaScript developer, what non-React tools do you use most often? ✓ Angular ✓ Astro ✓ Svelte ✓ Vue.js ✓ Other ✓ I only use React ✓ I don't use JavaScript SUB",
+    "content": "Why Anthropic just doubled Claude Cowork limits at no charge - The New Stack TNS OK VOXPOP As a JavaScript developer, what non-React tools do you use most often? ✓ Angular ✓ Astro ✓ Svelte ✓ Vue.js ✓ Other ✓ I only use React ✓ I don't use JavaScript SUB",
+    "source": "Adrian Bridgwater",
+    "date": "2026-06-08",
+    "url": "https://thenewstack.io/anthropic-claude-cowork-promotion/",
+    "category": "Models",
+    "image": "https://cdn.thenewstack.io/media/2026/06/45cbee79-papermax-studio-zepajz3hiom-unsplash-scaled.jpg"
   }
 ]
