@@ -1,62 +1,56 @@
 [
   {
-    "title": "6/9: Mythos Finally Comes Out - by Theo Jaffee",
-    "summary": "6/9: Mythos Finally Comes Out - by Theo Jaffee - MTS MTS SubscribeSign in 6/9: Mythos Finally Comes Out Anthropic releases Claude Fable 5, plus: NASA announces Artemis III, China plans huge AI capex Jun 10, 2026 4 Share It’s Tuesday, monitors, and thanks to Anthropic, one of the most",
-    "content": "6/9: Mythos Finally Comes Out - by Theo Jaffee - MTS MTS SubscribeSign in 6/9: Mythos Finally Comes Out Anthropic releases Claude Fable 5, plus: NASA announces Artemis III, China plans huge AI capex Jun 10, 2026 4 Share It’s Tuesday, monitors, and thanks to Anthropic, one of the most",
-    "source": "Theo Jaffee",
-    "date": "2026-06-10",
-    "url": "https://mtslive.substack.com/p/69-mythos-finally-comes-out",
-    "category": "Models",
-    "image": "https://substackcdn.com/image/fetch/$s_!8iXt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa868a792-a57d-4b8b-8367-bcd413aa7a9b_1920x1080.webp"
-  },
-  {
-    "title": "Anthropic Unveils Claude Fable 5 With Enhanced Software Engineering, Vision, And Long-Context Performance",
-    "summary": "Anthropic Unveils Claude Fable 5 With Enhanced Software Engineering, Vision, And Long-Context Performance | Metaverse Post Anthropic Unveils Claude Fable 5 With Enhanced Software Engineering, Vision, And Long-Context Performance In Brief Anthropic has launched Claude Fable 5, its most advanced",
-    "content": "Anthropic Unveils Claude Fable 5 With Enhanced Software Engineering, Vision, And Long-Context Performance | Metaverse Post Anthropic Unveils Claude Fable 5 With Enhanced Software Engineering, Vision, And Long-Context Performance In Brief Anthropic has launched Claude Fable 5, its most advanced",
-    "source": "Alisa Davidson",
-    "date": "2026-06-10",
-    "url": "https://mpost.io/anthropic-unveils-claude-fable-5-with-enhanced-software-engineering-vision-and-long-context-performance/",
-    "category": "Models",
-    "image": "https://mpost.io/wp-content/uploads/IMG_8718.jpg"
-  },
-  {
-    "title": "xAI Finishes Training Grok V9 at 1.5 Trillion Parameters While",
-    "summary": "xAI Finishes Training Grok V9 at 1.5 Trillion Parameters While Press release xAI Finishes Training Grok V9 at 1.5 Trillion Parameters While Ruvi (RUVI) Meters 20+ AI Models 06-10-2026 09:25 AM CET | Business, Economy, Finances, Banking & Insurance Press release from: Institutional Business",
-    "content": "xAI Finishes Training Grok V9 at 1.5 Trillion Parameters While Press release xAI Finishes Training Grok V9 at 1.5 Trillion Parameters While Ruvi (RUVI) Meters 20+ AI Models 06-10-2026 09:25 AM CET | Business, Economy, Finances, Banking & Insurance Press release from: Institutional Business",
-    "source": "Institutional Business Press",
-    "date": "2026-06-10",
-    "url": "https://www.openpr.com/news/4544443/xai-finishes-training-grok-v9-at-1-5-trillion-parameters-while",
-    "category": "Models",
-    "image": "https://cdn.open-pr.com/L/6/L610856099_g.jpg"
-  },
-  {
-    "title": "Anthropic Launches Claude Fable 5 at Half the Price of Mythos Preview — Benchmarks Top All Rivals",
-    "summary": "Anthropic Launches Claude Fable 5 at Half the Price of Mythos Preview — Benchmarks Top All Rivals – Bitcoin News Powered by News Published:Jun 9, 2026, 4:27 PM Anthropic Launches Claude Fable 5 at Half the Price of Mythos Preview — Benchmarks Top All Rivals Anthropic launched Claude Fable 5 on",
-    "content": "Anthropic Launches Claude Fable 5 at Half the Price of Mythos Preview — Benchmarks Top All Rivals – Bitcoin News Powered by News Published:Jun 9, 2026, 4:27 PM Anthropic Launches Claude Fable 5 at Half the Price of Mythos Preview — Benchmarks Top All Rivals Anthropic launched Claude Fable 5 on",
-    "source": "Jamie Redman",
+    "title": "Anthropic Launches Claude Fable 5: A Mythos-Class Model for General Use",
+    "summary": "Anthropic released Claude Fable 5 on June 9, its most powerful publicly available model, introducing a new Mythos class that surpasses the Opus line in capability across coding, vision, and scientific research.",
+    "content": "Anthropic launched Claude Fable 5 on June 9, 2026, the first Mythos-class model made available to general users, delivering state-of-the-art performance across software engineering, vision, knowledge work, and scientific research. The model includes new safety classifiers that route sensitive cybersecurity and biology queries to Claude Opus 4.8 as a fallback, triggering in fewer than 5% of sessions. Stripe reported that Fable 5 compressed months of engineering into days, completing a codebase-wide migration of a 50-million-line Ruby codebase in a single day. Alongside it, Anthropic released Claude Mythos 5 — the same underlying model with safeguards lifted — exclusively for vetted cybersecurity partners via Project Glasswing. Both models are priced at $10 per million input tokens and $50 per million output tokens, less than half the cost of the predecessor Mythos Preview.",
+    "source": "Anthropic",
     "date": "2026-06-09",
-    "url": "https://news.bitcoin.com/anthropic-launches-claude-fable-5-at-half-the-price-of-mythos-preview-benchmarks-top-all-rivals/",
-    "category": "Models",
-    "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/06/anthropic-launches-claude-fable-5-at-half-the-price-of-mythos-preview--benchmarks-top-all-rivals_nwmk.png"
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "category": "Models"
   },
   {
-    "title": "Fable and Mythos: How Anthropic Shipped Its Most Powerful Model to Everyone",
-    "summary": "Fable and Mythos: How Anthropic Shipped Its Most Powerful Model to Everyone - Artificial Intelligence Max Fable and Mythos: How Anthropic Shipped Its Most Powerful Model to Everyone Anthropic launched Claude Fable 5, a safeguarded Mythos-class model, while reserving Mythos 5 for trusted partners",
-    "content": "Fable and Mythos: How Anthropic Shipped Its Most Powerful Model to Everyone - Artificial Intelligence Max Fable and Mythos: How Anthropic Shipped Its Most Powerful Model to Everyone Anthropic launched Claude Fable 5, a safeguarded Mythos-class model, while reserving Mythos 5 for trusted partners",
-    "source": "Artificial Intelligence",
-    "date": "2026-06-09",
-    "url": "https://artificialintelligencemax.com/ai-work/fable-and-mythos-how-anthropic-shipped-its-most-powerful-model-to-everyone/",
-    "category": "Models",
-    "image": "https://artificialintelligencemax.com/wp-content/uploads/2026/06/fable-and-mythos-how-anthropic-shipped-its-most-powerful-model-to-everyone-featured.jpg"
+    "title": "Apple Unveils Siri AI: A Complete Rebuild Powered by Apple Intelligence",
+    "summary": "Apple announced Siri AI at WWDC 2026, a ground-up rebuild of Siri with conversational depth, personal context understanding, and multimodal capabilities across all Apple platforms.",
+    "content": "Apple introduced Siri AI at WWDC 2026, a completely reimagined version of Siri built on a new Apple Intelligence architecture that brings conversational depth, broad web knowledge, and onscreen awareness to every Apple device. The new Siri can surface information from a user's messages, emails, and photos, answer real-time questions from the web, and take actions across apps including drafting emails and editing documents. An all-new dedicated Siri app syncs conversation history privately across iPhone, iPad, Mac, Apple Watch, and Vision Pro via iCloud. Visual Intelligence now extends to iPad and Mac for the first time, letting users ask Siri questions about anything on their screen. The features are available to developers today across iOS 27, iPadOS 27, and macOS 27, with a public beta planned later in 2026.",
+    "source": "Apple",
+    "date": "2026-06-01",
+    "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+    "category": "Tools"
   },
   {
-    "title": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing",
-    "summary": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing Search Companies, AI Divisions, Projects, Labs Chatbots, AI Assistants, AI Solutions - Windows 10 - Windows 11 - Microsoft Azure - Google Cloud - Amazon Web Services (AWS) - Salesforce Search Anthropic Unveils C",
-    "content": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing Search Companies, AI Divisions, Projects, Labs Chatbots, AI Assistants, AI Solutions - Windows 10 - Windows 11 - Microsoft Azure - Google Cloud - Amazon Web Services (AWS) - Salesforce Search Anthropic Unveils C",
-    "source": "Markus Kasanmascheff",
+    "title": "Google Launches Gemini 3.5 Live Translate with Real-Time Speech in 70+ Languages",
+    "summary": "Google released Gemini 3.5 Live Translate, an AI audio model that performs near real-time speech-to-speech translation across more than 70 languages without any manual configuration.",
+    "content": "Google's Gemini 3.5 Live Translate is the company's most advanced audio model for simultaneous speech translation, automatically detecting and translating over 70 languages while preserving the speaker's intonation, pacing, and pitch. Unlike turn-by-turn systems that wait for a pause, it streams translations continuously, staying just a few seconds behind the speaker with no awkward interruptions. The model is rolling out to developers via the Gemini Live API and Google AI Studio, to enterprise Google Workspace customers through Google Meet in private preview, and to consumers globally in the Google Translate app on Android and iOS. A new Android 'listening mode' lets users hear translations privately through their phone's earpiece without headphones. Ride-sharing company Grab, which handles over 10 million voice calls per month, is already testing the model to enable multilingual communication between drivers and riders.",
+    "source": "Google",
     "date": "2026-06-09",
-    "url": "https://winbuzzer.com/2026/06/10/anthropic-opens-claude-fable-5-with-safety-routing-xcxwbn/",
-    "category": "Models",
-    "image": "https://winbuzzer.com/wp-content/uploads/2025/05/Anthropic-Claude.jpg"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
+    "category": "Tools"
+  },
+  {
+    "title": "Trump Signs Executive Order on AI Innovation and National Cybersecurity",
+    "summary": "President Trump signed an executive order directing federal agencies to upgrade AI-powered cyber defenses and establish a voluntary framework for reviewing frontier AI models before release.",
+    "content": "President Trump's AI executive order, signed June 2, 2026, directs federal agencies to prioritize AI-powered cybersecurity across national security, military, and civilian government systems within 30 days. A new AI cybersecurity clearinghouse will coordinate vulnerability scanning and patch distribution across government agencies and critical infrastructure operators including rural hospitals and community banks. The order establishes a voluntary framework for developers of 'covered frontier models' to share access with the federal government up to 30 days before broader release, without creating any mandatory licensing or preclearance requirement. The Attorney General is directed to prioritize prosecution of anyone using AI to illegally access computer systems or further criminal activity. The order explicitly rejects imposing burdensome new AI regulations, positioning U.S. AI leadership through industry collaboration rather than bureaucratic constraint.",
+    "source": "The White House",
+    "date": "2026-06-02",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "category": "Policy"
+  },
+  {
+    "title": "World's First AI-Designed Vaccine Completes First Human Trial",
+    "summary": "Researchers at the University of Cambridge successfully tested the world's first AI-designed vaccine in humans, targeting a broad family of coronaviruses including potential future pandemic threats.",
+    "content": "Scientists at the University of Cambridge used artificial intelligence to design a vaccine targeting the sarbecovirus family — which includes the viruses behind both SARS and COVID-19 — by scanning thousands of related viral genomes to identify genetic features that remain stable across strains and are unlikely to mutate. The AI-designed DNA vaccine is more stable than mRNA vaccines, easier to store without cold-chain infrastructure, and can be delivered needle-free via a high-pressure liquid injector. In its first human trial, the vaccine successfully stimulated antibody production against multiple sarbecovirus types and was found safe and well tolerated. While immune responses were modest and larger efficacy trials are still needed, the results demonstrate AI's potential to design broad-spectrum, variant-proof vaccines capable of protecting against pandemic threats before they emerge. Researchers say a universal coronavirus vaccine may now be within reach years sooner than previously possible.",
+    "source": "ScienceAlert",
+    "date": "2026-06-10",
+    "url": "https://www.sciencealert.com/worlds-first-ai-designed-vaccine-tested-in-humans-for-the-first-time",
+    "category": "Industry"
+  },
+  {
+    "title": "Meta Partners with Reliance on 168 MW AI Data Center in India",
+    "summary": "Meta announced its first AI infrastructure deal in India, partnering with Reliance Industries to build a 168-megawatt renewable-powered data center in Gujarat as India cements its status as a global AI infrastructure hub.",
+    "content": "Meta is partnering with India's Reliance Industries to build a 168-megawatt AI-enabled data center in Jamnagar, Gujarat — the company's first major AI infrastructure investment in the country, expanding a relationship that began with Meta's $5.7 billion investment in Jio Platforms in 2020. The facility will be powered entirely by renewable energy and cooled with desalinated seawater, with Meta covering all energy and water costs; Reliance will handle design, construction, and ongoing operations. The deal reflects a broader surge in AI data center investment in India, where Microsoft, Amazon, Google, OpenAI, and Uber have all made recent commitments, and Blackstone-backed AirTrunk separately pledged $30 billion to build 5 gigawatts of capacity by 2030. India's installed data center capacity has grown from 375 megawatts in 2020 to 1.5 gigawatts in 2025, with industry projections pointing to over 8 gigawatts by decade's end. Meta also contracted nearly 1 gigawatt of new renewable energy in India through separate agreements with CleanMax and Fourth Partner Energy.",
+    "source": "TechCrunch",
+    "date": "2026-06-10",
+    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "category": "Industry"
   }
 ]
