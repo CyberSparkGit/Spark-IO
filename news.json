@@ -1,62 +1,56 @@
 [
   {
-    "title": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture",
-    "summary": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return21.26 % Invest Now Business News› AI› AI Insights›ChatGPT gets smarter memory as OpenAI launches Dreaming architecture The Economic Ti",
-    "content": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return21.26 % Invest Now Business News› AI› AI Insights›ChatGPT gets smarter memory as OpenAI launches Dreaming architecture The Economic Ti",
-    "source": "economictimes.indiatimes.com",
-    "date": "2026-06-10",
-    "url": "https://economictimes.indiatimes.com/ai/ai-insights/chatgpt-gets-smarter-memory-as-openai-launches-dreaming-architecture/articleshow/131628350.cms",
-    "category": "Models",
-    "image": "https://img.etimg.com/thumb/msid-131628644,width-1200,height-630,imgsize-1900490,overlay-economictimes/articleshow.jpg"
-  },
-  {
-    "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",
-    "summary": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users - The Hindu You are logged in Loading... LOGOUT You don’t have any Active Subscription.",
-    "content": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users - The Hindu You are logged in Loading... LOGOUT You don’t have any Active Subscription. Subscribed with another email? Logout and Login with that one. Your active subscription(s) Account subscription benefit",
-    "source": "AP",
-    "date": "2026-06-11",
-    "url": "https://www.thehindu.com/sci-tech/technology/visa-plugs-its-payment-network-into-chatgpt-letting-ai-agents-shop-and-pay-for-users/article71087521.ece",
-    "category": "Models",
-    "image": "https://th-i.thgim.com/public/incoming/1nkyuz/article71087524.ece/alternates/LANDSCAPE_1200/2026-04-28T190640Z_935299809_RC26FJAYJWCB_RTRMADP_3_VISA-RESULTS.JPG"
-  },
-  {
-    "title": "Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in parallel · Digg",
-    "summary": "Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in parallel · Digg /Tech17h ago Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in paralle",
-    "content": "Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in parallel · Digg /Tech17h ago Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in paralle",
-    "source": "digg.com",
-    "date": "2026-06-10",
-    "url": "https://digg.com/tech/z4mvl1gb",
-    "category": "Industry",
-    "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/cluster-share-cards/f5cdc716-adc3-4507-aafa-a737dfb10176/1781172792175.png"
-  },
-  {
-    "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
-    "summary": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark | VentureBeat 4:16 pm, PT, June 10, 2026 Credit: VentureBeat made with Google Nano Banana 2 Researchers from the University of California, Berkeley's Center for Responsible, Decentralized Intelligence (RDI), al",
-    "content": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark | VentureBeat 4:16 pm, PT, June 10, 2026 Credit: VentureBeat made with Google Nano Banana 2 Researchers from the University of California, Berkeley's Center for Responsible, Decentralized Intelligence (RDI), al",
-    "source": "Carl Franzen",
-    "date": "2026-06-10",
-    "url": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5g96PMK4kOzVQ2whYWfVDW/168843358a4bd8c35031a71071d33f9d/Gemini_Generated_Image_3ru7ln3ru7ln3ru7__1_.png?w=800&q=75"
-  },
-  {
-    "title": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing",
-    "summary": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing Search Companies, AI Divisions, Projects, Labs Chatbots, AI Assistants, AI Solutions - Windows 10 - Windows 11 - Microsoft Azure - Google Cloud - Amazon Web Services (AWS) - Salesforce Search Anthropic Unveils C",
-    "content": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing Search Companies, AI Divisions, Projects, Labs Chatbots, AI Assistants, AI Solutions - Windows 10 - Windows 11 - Microsoft Azure - Google Cloud - Amazon Web Services (AWS) - Salesforce Search Anthropic Unveils C",
-    "source": "Markus Kasanmascheff",
+    "title": "Anthropic Launches Claude Fable 5: A Mythos-Class Model for General Use",
+    "summary": "Anthropic released Claude Fable 5, its most capable publicly available model, alongside Claude Mythos 5 for cybersecurity professionals, both priced at under half the cost of their predecessor.",
+    "content": "Claude Fable 5 is a Mythos-class model — Anthropic's top capability tier — now made safe for general use through new AI safety classifiers that route sensitive queries to Claude Opus 4.8 as a fallback. The model is state-of-the-art on nearly all tested benchmarks, excelling in software engineering, scientific research, vision, and long-horizon agentic tasks. Stripe reported that Fable 5 compressed months of engineering work into days, completing a codebase-wide migration of 50 million lines of Ruby code in a single day. Claude Mythos 5, available only to cybersecurity partners through Project Glasswing, is the same underlying model with safeguards lifted in select areas and is described as having the strongest cybersecurity capabilities of any model in the world. Both models are priced at $10 per million input tokens and $50 per million output tokens — less than half the price of Claude Mythos Preview.",
+    "source": "Anthropic",
     "date": "2026-06-09",
-    "url": "https://winbuzzer.com/2026/06/10/anthropic-opens-claude-fable-5-with-safety-routing-xcxwbn/",
-    "category": "Models",
-    "image": "https://winbuzzer.com/wp-content/uploads/2025/05/Anthropic-Claude.jpg"
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "category": "Models"
   },
   {
-    "title": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public",
-    "summary": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Advertisement Advertisement Advertisement Advertisement Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Anthropic on Tuesday announced the official launch of Claude",
-    "content": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Advertisement Advertisement Advertisement Advertisement Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Anthropic on Tuesday announced the official launch of Claude",
-    "source": "tech.yahoo.com",
-    "date": "2026-06-09",
-    "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-rolls-claude-mythos-5-183837982.html",
-    "category": "Models",
-    "image": "https://s.yimg.com/lo/mysterio/api/f9bd77ccc9605b53cd3c6d368ceb2b00b750c815efc71982ba70d74911b372db/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F5636b8d864f5a9ed1a35dea1d31b775c"
+    "title": "Google Open-Sources DiffusionGemma: 4x Faster Text Generation on Consumer GPUs",
+    "summary": "Google released DiffusionGemma, an experimental open-weights model that uses text diffusion to generate entire blocks of text in parallel, achieving up to four times faster output than traditional LLMs.",
+    "content": "Google released DiffusionGemma, a 26B-parameter open model that applies image-diffusion techniques to text generation — producing 256 tokens simultaneously instead of one at a time, yielding up to 4x faster inference. The model can generate over 1,000 tokens per second on a single NVIDIA H100 and over 700 tokens per second on a consumer GeForce RTX 5090, making frontier-class inference practical on high-end desktop hardware. Based on the Gemma 4 26B architecture with a mixture-of-experts design, it activates only 3.8 billion of its 26 billion parameters per query, sharply reducing memory usage. 'DiffusionGemma changes this by shifting how models use hardware,' wrote Google research scientists Brendan O'Donoghue and Sebastian Flennerhag. The model is available on Hugging Face under the permissive Apache 2.0 license, targeting developers exploring speed-critical workflows like inline editing and rapid prototyping.",
+    "source": "SiliconAngle",
+    "date": "2026-06-10",
+    "url": "https://siliconangle.com/2026/06/10/google-open-sources-speedy-diffusiongemma-text-diffusion-model/",
+    "category": "Models"
+  },
+  {
+    "title": "Microsoft AI Unveils Seven Proprietary MAI Models, Announces Healthcare Partnership with Mayo Clinic",
+    "summary": "Microsoft AI launched a family of seven in-house models — built without distilling from third-party labs — and revealed a joint initiative with Mayo Clinic to build a frontier clinical AI model.",
+    "content": "Microsoft AI revealed seven new models at Build 2026, all developed from scratch: MAI-Thinking-1, a 35B-active/~1T-total-parameter reasoning model preferred over Sonnet 4.6 in blind evaluations; MAI-Code-1-Flash, an agentic coding model deeply integrated into GitHub Copilot and VS Code; and MAI Transcribe-1.5, claimed to be the world's most accurate transcription model at five times the speed of competitors across 43 languages. CEO Mustafa Suleyman framed the release as the launch of a 'hill-climbing machine' — a self-improving AI lab committed to clean, traceable training data and first-principles model development. Microsoft also announced a collaboration with Mayo Clinic to co-create a frontier healthcare AI model using de-identified clinical data from the world's leading hospital system, with plans to make it available to other health organizations through Microsoft Foundry once validated.",
+    "source": "Microsoft AI",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "category": "Industry"
+  },
+  {
+    "title": "Apple Introduces Siri AI: A Ground-Up Rebuilt Assistant Powered by Apple Intelligence",
+    "summary": "Apple unveiled Siri AI at WWDC 2026, a completely reimagined assistant with personal context understanding, onscreen awareness, and cross-device conversation history synced via iCloud.",
+    "content": "Apple announced Siri AI at WWDC 2026, a fundamentally redesigned assistant built on the next generation of Apple Intelligence that can answer questions from the web, surface information from a user's personal messages, emails, and photos, and take action across apps with natural conversational back-and-forth. A new dedicated Siri app syncs conversation history across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro via iCloud, allowing users to continue conversations seamlessly across devices. Visual Intelligence — previously iPhone-only — now extends to iPad, Mac, and Apple Vision Pro, letting users ask questions about on-screen content or physical objects in their environment. Siri AI is available for developer testing today on iOS 27, iPadOS 27, macOS 27, and visionOS 27, with a public beta planned for later in 2026; it will initially be unavailable on mobile in the EU and in China due to regulatory requirements.",
+    "source": "Apple",
+    "date": "2026-06-01",
+    "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+    "category": "Industry"
+  },
+  {
+    "title": "Trump Signs Executive Order Promoting AI Innovation and National Security",
+    "summary": "President Trump signed an executive order directing federal agencies to upgrade AI-era cybersecurity and establishing a voluntary framework for securing frontier AI models before public release.",
+    "content": "President Trump signed the 'Promoting Advanced Artificial Intelligence Innovation and Security' executive order on June 2, 2026, directing agencies to upgrade cybersecurity of national security systems and civilian government networks within 30 days. The order creates an AI cybersecurity clearinghouse — a voluntary collaboration between government, AI companies, and critical infrastructure operators — to coordinate vulnerability scanning, validation, and patch distribution. It also establishes a classified benchmarking process to identify 'covered frontier models' and a voluntary framework under which AI developers provide the federal government up to 30 days of pre-release access to such models. Crucially, the order explicitly prohibits mandatory government licensing or preclearance requirements for AI model development or release, maintaining an innovation-first posture consistent with the administration's prior AI directives.",
+    "source": "The White House",
+    "date": "2026-06-02",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "category": "Policy"
+  },
+  {
+    "title": "Congress Unveils Bipartisan Great American AI Act Discussion Draft",
+    "summary": "A bipartisan group of House lawmakers released a 269-page discussion draft of the Great American AI Act, the most comprehensive federal AI governance framework ever proposed by Congress.",
+    "content": "Representatives Lori Trahan (D-MA) and Jay Obernolte (R-CA), joined by four bipartisan co-sponsors on the House Energy and Commerce Committee, released the Great American AI Act discussion draft on June 4, 2026. The 269-page document proposes a federal framework governing frontier AI systems while preempting a fragmented patchwork of state laws, addressing national security, workforce displacement, and cybersecurity risks simultaneously. Trahan stated the bill 'protects workers, establishes real accountability for the most powerful frontier systems, and positions the United States to set the global standard on AI.' Lawmakers emphasized the draft is intended for public and stakeholder comment before formal introduction, inviting feedback from workers, researchers, and businesses at GAAIA@mail.house.gov. The bill represents the first serious bipartisan congressional attempt to establish unified federal AI governance as state-level AI laws multiply across the country.",
+    "source": "U.S. House of Representatives",
+    "date": "2026-06-04",
+    "url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3783",
+    "category": "Policy"
   }
 ]
