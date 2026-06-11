@@ -1,13 +1,43 @@
 [
   {
-    "title": "Google's New AI Model Hits 1,000 Tokens Per Second On Nvidia GPUs",
-    "summary": "Google's New AI Model Hits 1,000 Tokens Per Second On Nvidia GPUs Murtuza Merchant 20 minutes ago Google DeepMind released DiffusionGemma on June 10, 2026, a new text-generation model that produces text in parallel blocks rather than sequentially. The company says it reaches up to 1,000 tokens",
-    "content": "Google's New AI Model Hits 1,000 Tokens Per Second On Nvidia GPUs Murtuza Merchant 20 minutes ago Google DeepMind released DiffusionGemma on June 10, 2026, a new text-generation model that produces text in parallel blocks rather than sequentially. The company says it reaches up to 1,000 tokens",
-    "source": "yellow.com",
+    "title": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture",
+    "summary": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return21.26 % Invest Now Business News› AI› AI Insights›ChatGPT gets smarter memory as OpenAI launches Dreaming architecture The Economic Ti",
+    "content": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return21.26 % Invest Now Business News› AI› AI Insights›ChatGPT gets smarter memory as OpenAI launches Dreaming architecture The Economic Ti",
+    "source": "economictimes.indiatimes.com",
     "date": "2026-06-10",
-    "url": "https://yellow.com/news/google-diffusiongemma-1000-tokens-nvidia-gpu",
+    "url": "https://economictimes.indiatimes.com/ai/ai-insights/chatgpt-gets-smarter-memory-as-openai-launches-dreaming-architecture/articleshow/131628350.cms",
+    "category": "Models",
+    "image": "https://img.etimg.com/thumb/msid-131628644,width-1200,height-630,imgsize-1900490,overlay-economictimes/articleshow.jpg"
+  },
+  {
+    "title": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users",
+    "summary": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users - The Hindu You are logged in Loading... LOGOUT You don’t have any Active Subscription.",
+    "content": "Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users - The Hindu You are logged in Loading... LOGOUT You don’t have any Active Subscription. Subscribed with another email? Logout and Login with that one. Your active subscription(s) Account subscription benefit",
+    "source": "AP",
+    "date": "2026-06-11",
+    "url": "https://www.thehindu.com/sci-tech/technology/visa-plugs-its-payment-network-into-chatgpt-letting-ai-agents-shop-and-pay-for-users/article71087521.ece",
+    "category": "Models",
+    "image": "https://th-i.thgim.com/public/incoming/1nkyuz/article71087524.ece/alternates/LANDSCAPE_1200/2026-04-28T190640Z_935299809_RC26FJAYJWCB_RTRMADP_3_VISA-RESULTS.JPG"
+  },
+  {
+    "title": "Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in parallel · Digg",
+    "summary": "Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in parallel · Digg /Tech17h ago Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in paralle",
+    "content": "Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in parallel · Digg /Tech17h ago Google DeepMind releases DiffusionGemma, an experimental 26B open-weights text diffusion model that generates 256-token blocks in paralle",
+    "source": "digg.com",
+    "date": "2026-06-10",
+    "url": "https://digg.com/tech/z4mvl1gb",
     "category": "Industry",
-    "image": "https://media.yellow.com/uploads/Chat_GPT_Image_Jun_10_2026_11_25_38_PM_ce056241f6.jpg"
+    "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/cluster-share-cards/f5cdc716-adc3-4507-aafa-a737dfb10176/1781172792175.png"
+  },
+  {
+    "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
+    "summary": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark | VentureBeat 4:16 pm, PT, June 10, 2026 Credit: VentureBeat made with Google Nano Banana 2 Researchers from the University of California, Berkeley's Center for Responsible, Decentralized Intelligence (RDI), al",
+    "content": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark | VentureBeat 4:16 pm, PT, June 10, 2026 Credit: VentureBeat made with Google Nano Banana 2 Researchers from the University of California, Berkeley's Center for Responsible, Decentralized Intelligence (RDI), al",
+    "source": "Carl Franzen",
+    "date": "2026-06-10",
+    "url": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
+    "category": "Models",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5g96PMK4kOzVQ2whYWfVDW/168843358a4bd8c35031a71071d33f9d/Gemini_Generated_Image_3ru7ln3ru7ln3ru7__1_.png?w=800&q=75"
   },
   {
     "title": "Anthropic Unveils Claude Fable 5 as a Mythos Class AI Model With Safety Routing",
@@ -28,35 +58,5 @@
     "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-rolls-claude-mythos-5-183837982.html",
     "category": "Models",
     "image": "https://s.yimg.com/lo/mysterio/api/f9bd77ccc9605b53cd3c6d368ceb2b00b750c815efc71982ba70d74911b372db/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdecrypt_157%2F5636b8d864f5a9ed1a35dea1d31b775c"
-  },
-  {
-    "title": "Anthropic Launches Claude Fable 5: Most Powerful Public Model, Gated by Safeguards",
-    "summary": "Anthropic Launches Claude Fable 5: Most Powerful Public Model, Gated by Safeguards Claude Fable 5 and Claude Mythos 5 anthropic.com Anthropic launched Claude Fable 5 on June 9, 2026, calling it the most capable model it has ever released to the general public. Alongside it, the company released Cl",
-    "content": "Anthropic Launches Claude Fable 5: Most Powerful Public Model, Gated by Safeguards Claude Fable 5 and Claude Mythos 5 anthropic.com Anthropic launched Claude Fable 5 on June 9, 2026, calling it the most capable model it has ever released to the general public. Alongside it, the company released Cl",
-    "source": "Richard L. Wells  \n \n \n Published: Jun 09 2026, 15:28 PM EDT",
-    "date": "2026-06-09",
-    "url": "https://www.techtimes.com/articles/318082/20260609/anthropic-launches-claude-fable-5-most-powerful-public-model-gated-safeguards.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466387/claude-fable-5-claude-mythos-5.png"
-  },
-  {
-    "title": "Gemma 4 12B: Google's multimodal AI model for laptops",
-    "summary": "Gemma 4 12B: Google's multimodal AI model for laptops | TPS model release Google DeepMind Google DeepMind releases Gemma 4 12B: encoder-free multimodal model runs on 16GB RAM TL;DR Google DeepMind has released Gemma 4 12B, a 12-billion parameter multimodal model that runs locally on laptops wi",
-    "content": "Gemma 4 12B: Google's multimodal AI model for laptops | TPS model release Google DeepMind Google DeepMind releases Gemma 4 12B: encoder-free multimodal model runs on 16GB RAM TL;DR Google DeepMind has released Gemma 4 12B, a 12-billion parameter multimodal model that runs locally on laptops wi",
-    "source": "tpsreport.news",
-    "date": "2026-06-09",
-    "url": "https://tpsreport.news/news/gemma-4-12b-encoder-free-multimodal-model",
-    "category": "Models",
-    "image": null
-  },
-  {
-    "title": "DeepSeek V4 Pro Just Quietly Beat GPT-5.3 Pro. This Changes Everything.",
-    "summary": "DeepSeek V4 Pro Just Quietly Beat GPT-5.3 Pro. | Signal Reads Share Post Share Copy Link Marcus Webb — Infrastructure engineer turned tech writer.",
-    "content": "DeepSeek V4 Pro Just Quietly Beat GPT-5.3 Pro. This Changes Everything. | Signal Reads Share Post Share Copy Link Marcus Webb — Infrastructure engineer turned tech writer. Writes about AI, DevOps, and security. > Bottom line: DeepSeek V4 Pro recently outperformed OpenAI's GPT-5.3 Pro in a",
-    "source": "Marcus Webb",
-    "date": "2026-06-08",
-    "url": "https://signalreads.com/articles/deepseek-v4-pro-just-quietly-beat-gpt-55-pro-this-/",
-    "category": "Models",
-    "image": "https://pub-3824226b5dbb47f2a8d71f768661ecda.r2.dev/deepseek-v4-pro-just-quietly-beat-gpt-55-pro-this-/2026/06/08/image_03.png"
   }
 ]
