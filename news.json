@@ -1,62 +1,62 @@
 [
   {
-    "title": "Anthropic Launches Claude Fable 5: Its Most Capable Model for General Use",
-    "summary": "Anthropic released Claude Fable 5, a Mythos-class AI that surpasses all previous generally available models, alongside Claude Mythos 5 for select cybersecurity partners.",
-    "content": "Anthropic launched Claude Fable 5 on June 9, 2026, its first publicly available Mythos-class model, which exceeds all previously released models on nearly every benchmark spanning software engineering, knowledge work, vision, and scientific research. The model ships with safety classifiers that route certain high-risk queries — covering cybersecurity, biology and chemistry, and model distillation — to the previous flagship Claude Opus 4.8 instead, with fallbacks triggering in fewer than 5% of sessions. Early adopters reported dramatic gains: Stripe compressed months of engineering work into days on a 50-million-line Ruby codebase migration, while IMC found the model aced their trading-analysis evaluations almost across the board. Alongside Fable 5, Anthropic also launched Claude Mythos 5 — the same underlying model but with cyber safeguards lifted — exclusively for Project Glasswing cybersecurity partners, describing it as the strongest cybersecurity-capable model in the world. Both models are priced at $10 per million input tokens and $50 per million output tokens, less than half the cost of the previous Mythos Preview.",
-    "source": "Anthropic",
-    "date": "2026-06-09",
-    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "title": "Tech Daily Insider",
+    "summary": "Tech Daily Insider - Anthropic Unveils Claude Fable 5 Public Release Balancing Power and Safety Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Launch Brings Flagship AI and Gaming Features to Affordable Smartphones Qira Cross-Device AI Assistant Platform Launches Transforming Seamless Connectiv",
+    "content": "Tech Daily Insider - Anthropic Unveils Claude Fable 5 Public Release Balancing Power and Safety Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Launch Brings Flagship AI and Gaming Features to Affordable Smartphones Qira Cross-Device AI Assistant Platform Launches Transforming Seamless Connectiv",
+    "source": "Chelsea Bonner",
+    "date": "2026-06-11",
+    "url": "https://techdailyinsider.com/anthropic-unveils-claude-fable-5-public-release-balancing-power-and-safety/",
     "category": "Models",
     "image": null
   },
   {
-    "title": "Jeff Bezos's Prometheus Raises $12B to Build an 'Artificial General Engineer'",
-    "summary": "Physical AI startup Prometheus, co-founded by Jeff Bezos, secured $12 billion in funding at a $41 billion valuation to automate the design and manufacturing of complex physical systems.",
-    "content": "Prometheus, the physical AI startup co-founded by Jeff Bezos and Vik Bajaj, raised $12 billion at a $41 billion valuation from investors including JPMorgan Chase, Goldman Sachs, and BlackRock, making it one of the most richly valued AI startups ever funded. The company is building what it calls an 'artificial general engineer' — software capable of automating the design and manufacturing of complex physical systems ranging from jet engines to drug compounds, with the ambition of replacing large swaths of traditional engineering work with AI. This is Prometheus's second fundraise, following an initial raise of $6.2 billion when it launched late last year, and the company currently operates with 150 employees across offices in San Francisco, London, and Zurich. Bezos predicts AI-driven productivity gains will create 'labor scarcity' — a world where demand for human workers actually outpaces supply — putting him at odds with those who warn of widespread job displacement. A large portion of the new capital will go toward the company's massive compute infrastructure needs.",
-    "source": "TechCrunch",
-    "date": "2026-06-11",
-    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-    "category": "Industry",
-    "image": null
-  },
-  {
-    "title": "Visa Embeds Payment Network in ChatGPT, Enabling AI Agents to Shop for Users",
-    "summary": "Visa has integrated its global payment infrastructure directly into ChatGPT, allowing AI agents to independently discover and complete purchases on behalf of users at any Visa-accepting merchant worldwide.",
-    "content": "Visa announced it has embedded its payment network inside ChatGPT so that AI agents can not only recommend products but independently complete purchases at any merchant that accepts Visa, vastly expanding on earlier limited attempts like OpenAI's retired Instant Checkout feature. OpenAI provides the agent intelligence and decision-making layer while Visa handles payment authorization, fraud monitoring, and dispute resolution at scale — a division of responsibilities that resolves the merchant adoption bottleneck of earlier approaches. The integration ships with guardrails including user-defined spending limits, required approval steps, and an approved-merchant list to protect against fraud and unauthorized transactions. Visa's chief product officer Jack Forestell described a gradual trust-building arc where most transactions initially require human approval before users grow comfortable letting agents buy autonomously over time, noting that establishing underlying infrastructure security is the key to crossing that trust threshold. Rival Mastercard is also developing its own AI purchasing capabilities, signaling that AI-powered commerce is rapidly becoming a major battleground for global payment networks.",
-    "source": "AP / TechXplore",
-    "date": "2026-06-11",
-    "url": "https://techxplore.com/news/2026-06-visa-payment-network-chatgpt-ai.html",
-    "category": "Tools",
-    "image": null
-  },
-  {
-    "title": "Google Releases DiffusionGemma: An Open Model That Generates Text 4x Faster",
-    "summary": "Google DeepMind released DiffusionGemma, an experimental open-source 26B model that uses text diffusion instead of sequential token generation to achieve up to 4x faster inference on dedicated GPUs.",
-    "content": "Google DeepMind introduced DiffusionGemma, a 26B Mixture of Experts open model released under Apache 2.0 that replaces the standard left-to-right token-by-token generation with a diffusion approach — drafting entire 256-token blocks simultaneously and iteratively refining them in parallel passes. The model achieves over 1,000 tokens per second on a single NVIDIA H100 and 700+ on an RTX 5090, a roughly 4x speedup over autoregressive alternatives, by shifting the decode bottleneck from memory bandwidth to compute rather than running sequentially. With only 3.8B parameters active during inference, it fits within 18GB VRAM on consumer hardware, making local deployment practical on high-end GPUs without cloud infrastructure. Its bidirectional attention architecture — where every generated token can attend to every other simultaneously — makes it especially well suited for tasks like code infilling, in-line editing, and scientific sequence generation where future context shapes earlier tokens. While overall output quality is lower than production-grade autoregressive Gemma 4 models, DiffusionGemma opens a new research path for speed-critical interactive local AI workflows.",
-    "source": "Google",
+    "title": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture",
+    "summary": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return20.91 % Invest Now Business News› AI› AI Insights›ChatGPT gets smarter memory as OpenAI launches Dreaming architecture The Economic Ti",
+    "content": "ChatGPT gets smarter memory as OpenAI launches Dreaming architecture - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return20.91 % Invest Now Business News› AI› AI Insights›ChatGPT gets smarter memory as OpenAI launches Dreaming architecture The Economic Ti",
+    "source": "economictimes.indiatimes.com",
     "date": "2026-06-10",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+    "url": "https://economictimes.indiatimes.com/ai/ai-insights/chatgpt-gets-smarter-memory-as-openai-launches-dreaming-architecture/articleshow/131628350.cms",
     "category": "Models",
-    "image": null
+    "image": "https://img.etimg.com/thumb/msid-131628644,width-1200,height-630,imgsize-1900490,overlay-economictimes/articleshow.jpg"
   },
   {
-    "title": "Anthropic CEO Dario Amodei Calls for Binding AI Audits and Cold War-Style Tech Coalitions",
-    "summary": "Anthropic CEO Dario Amodei published a sweeping policy essay calling for mandatory third-party audits of frontier AI, democratic supply-chain coalitions to counter authoritarian rivals, and a tiered safety net for AI-driven job losses.",
-    "content": "In an essay titled 'Policy on the AI Exponential,' Anthropic CEO Dario Amodei shifted from transparency advocacy to calling for mandatory testing of frontier AI models by qualified independent auditors across four risk areas: cybersecurity, biological weapons, loss of control, and automated R&D that could accelerate those risks — using the FAA's aircraft inspection regime as his model. Amodei's Advanced AI Framework targets developers training models above 10^25 FLOP who either generate over $500 million in AI revenue or spend more than $1 billion annually on AI research, requiring published safety frameworks, system cards, and incident reports within 15 days of serious security events. The geopolitical framing is stark: Amodei compares AI to nuclear weapons and advocates for democratic nations to form tight supply-chain alliances while denying adversaries access through tighter chip export controls, warning that an AI-equipped nation against one without it would resemble a modern military force against medieval soldiers. A companion economic framework stages government interventions by unemployment level — from universal capital accounts at tier one (~5% unemployment) to potential universal basic income and AI sovereign wealth funds if joblessness hits historic highs — with Anthropic pledging to fund elements of the plan itself. These proposals were filed the same week Anthropic launched Claude Fable 5 and submitted a draft IPO prospectus to the SEC.",
-    "source": "The Decoder",
-    "date": "2026-06-11",
-    "url": "https://the-decoder.com/dario-amodeis-new-essay-reads-like-a-cold-war-playbook-for-the-ai-age/",
-    "category": "Policy",
-    "image": null
+    "title": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone — Google DeepMind",
+    "summary": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone — Google DeepMind June 9, 2026 Responsibility & Safety Measuring the impact of learning with AI in Sierra Leone and beyond Zoubin Ghahramani Share Today, we are sharing the results and technical report from a",
+    "content": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone — Google DeepMind June 9, 2026 Responsibility & Safety Measuring the impact of learning with AI in Sierra Leone and beyond Zoubin Ghahramani Share Today, we are sharing the results and technical report from a",
+    "source": "Zoubin Ghahramani",
+    "date": "2026-06-09",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "category": "Models",
+    "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w1200-h630-n-nu-rw"
   },
   {
-    "title": "Google DeepMind Launches $10M Research Fund on Risks of Millions of AI Agents Interacting",
-    "summary": "Google DeepMind is partnering with Schmidt Sciences, the UK's ARIA agency, and others to fund a $10 million research initiative studying what happens — and what can go wrong — when vast numbers of AI agents operate and interact simultaneously online.",
-    "content": "Google DeepMind, together with Schmidt Sciences, ARIA (the UK government's moonshot agency), the Cooperative AI Foundation, and Google.org, announced a $10 million funding initiative to establish academic research into multi-agent safety — a field that barely exists yet, according to DeepMind's head of AGI safety and alignment Rohin Shah. The concern is that as AI agents proliferate and begin receiving and relaying instructions to one another at internet scale, risks compound in ways that single-agent testing cannot predict: supercharged scams, prompt injection attacks that hijack agents into self-directing malware, and coordinated cyberattacks top the list of scenarios researchers want to model. Shah's team wants researchers to run large-scale sandboxed simulations of agent populations to observe emergent behaviors that only appear when millions of interactions occur simultaneously, arguing that studying small groups of agents in isolation is simply insufficient. The initiative coincides with Anthropic publishing zero-trust deployment guidelines for AI agents, and cybersecurity experts warning that existing security models — built around deterministic software — break down entirely when agents can reason, improvise, and be redirected by a single malicious sentence embedded in a document they were asked to read. Shah estimates there are still a few months before agent deployment reaches a scale where these risks become a live concern, framing the fund explicitly as an effort to get ahead of that inflection point.",
-    "source": "MIT Technology Review",
+    "title": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public",
+    "summary": "Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
+    "content": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
+    "source": "Marko Nguyen",
     "date": "2026-06-11",
-    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-    "category": "Trends",
-    "image": null
+    "url": "https://memeburn.com/what-is-claude-fable-5/",
+    "category": "Models",
+    "image": "https://memeburn.com/wp-content/uploads/2026/06/What-Is-Claude-Fable-5-Anthropic-Finally-Releases-Its-Restricted-Mythos-AI-to-Public.jpg"
+  },
+  {
+    "title": "OpenAI Could Launch GPT-5.6 This Month with Big Upgrades",
+    "summary": "OpenAI Could Launch GPT-5.6 This Month with Big Upgrades X Dark Light Light Smartphone Deals News Android Android Games Android OS Android Phones Google Pixel OnePlus - All OnePlus News - OnePlus 13 - OnePlus 15 - OnePlus Open Samsung News - All Samsung News - Samsung Galaxy S25 - Samsun",
+    "content": "OpenAI Could Launch GPT-5.6 This Month with Big Upgrades X Dark Light Light Smartphone Deals News Android Android Games Android OS Android Phones Google Pixel OnePlus - All OnePlus News - OnePlus 13 - OnePlus 15 - OnePlus Open Samsung News - All Samsung News - Samsung Galaxy S25 - Samsun",
+    "source": "Jean Leon",
+    "date": "2026-06-11",
+    "url": "https://www.androidheadlines.com/2026/06/openai-gpt-5-6-release-date-chatgpt-overhaul-ipo-plans.html",
+    "category": "Models",
+    "image": "https://www.androidheadlines.com/wp-content/uploads/2024/10/ChatGPT-Tablet-App.jpg"
+  },
+  {
+    "title": "Anthropic Releases Claude Fable 5: Its Most Powerful...",
+    "summary": "Anthropic Releases Claude Fable 5: Its Most Powerful... Anthropic Releases Claude Fable 5: Its Most Powerful...",
+    "content": "Anthropic Releases Claude Fable 5: Its Most Powerful... Loading... Anthropic Releases Claude Fable 5: Its Most Powerful... Today's Startup News Open Loading... [Back to News",
+    "source": "TSN-Team",
+    "date": "2026-06-10",
+    "url": "https://www.todaysstartupnews.com/news/anthropic-releases-claude-fable-5-mythos-class-model-public-cybersecurity-safeguards",
+    "category": "Models",
+    "image": "https://res.cloudinary.com/dfn2h3yx4/image/upload/v1781068960/iyosrmigg3ysebzq8l7p.webp"
   }
 ]
