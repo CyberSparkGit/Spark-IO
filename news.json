@@ -20,16 +20,6 @@
     "image": "https://img.etimg.com/thumb/msid-131628644,width-1200,height-630,imgsize-1900490,overlay-economictimes/articleshow.jpg"
   },
   {
-    "title": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone — Google DeepMind",
-    "summary": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone — Google DeepMind June 9, 2026 Responsibility & Safety Measuring the impact of learning with AI in Sierra Leone and beyond Zoubin Ghahramani Share Today, we are sharing the results and technical report from a",
-    "content": "Gemini’s guided learning: results from a randomized controlled trial in Sierra Leone — Google DeepMind June 9, 2026 Responsibility & Safety Measuring the impact of learning with AI in Sierra Leone and beyond Zoubin Ghahramani Share Today, we are sharing the results and technical report from a",
-    "source": "Zoubin Ghahramani",
-    "date": "2026-06-09",
-    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-    "category": "Models",
-    "image": "https://lh3.googleusercontent.com/5g2RQPPxqVGuOzfaYj1-8r_6B-Ytp79c9mpWXzBIrk2vUhtxZmA7bMywH41h-8b0EJAdW_K4l7kqHZlfS-QTFk8kFB5MA2bgxZ4hxbuAiOuDIn3ohA=w1200-h630-n-nu-rw"
-  },
-  {
     "title": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public",
     "summary": "Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
     "content": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
@@ -48,6 +38,16 @@
     "url": "https://www.androidheadlines.com/2026/06/openai-gpt-5-6-release-date-chatgpt-overhaul-ipo-plans.html",
     "category": "Models",
     "image": "https://www.androidheadlines.com/wp-content/uploads/2024/10/ChatGPT-Tablet-App.jpg"
+  },
+  {
+    "title": "DiffusionGemma: Google AI Model Hits 1000 Tokens/Sec",
+    "summary": "DiffusionGemma: Google AI Model Hits 1000 Tokens/Sec Google's DiffusionGemma AI model generates text 4x faster with parallel processing approach 10 Jun 2026, 10:55 PM UTC Reviewed by Nidhi Govil 10 Sources Share Google DeepMind released DiffusionGemma, an experimental open-source AI model th",
+    "content": "DiffusionGemma: Google AI Model Hits 1000 Tokens/Sec Google's DiffusionGemma AI model generates text 4x faster with parallel processing approach 10 Jun 2026, 10:55 PM UTC Reviewed by Nidhi Govil 10 Sources Share Google DeepMind released DiffusionGemma, an experimental open-source AI model th",
+    "source": "theoutpost.ai",
+    "date": "2026-06-10",
+    "url": "https://theoutpost.ai/news-story/google-deep-mind-releases-diffusion-gemma-with-4x-faster-text-generation-optimized-for-nvidia-gp-us-27226/",
+    "category": "Tools",
+    "image": "https://cdn.theoutpost.ai/files/article_463856_Hero_Visual_width_2200_format_webp_1152x648_1781132117938_16ebc082b1.png"
   },
   {
     "title": "Anthropic Releases Claude Fable 5: Its Most Powerful...",
