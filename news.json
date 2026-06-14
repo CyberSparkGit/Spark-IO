@@ -1,62 +1,62 @@
 [
   {
-    "title": "Tech Daily Insider",
-    "summary": "Tech Daily Insider - Anthropic Unveils Claude Fable 5 Public Release Balancing Power and Safety Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Launch Brings Flagship AI and Gaming Features to Affordable Smartphones Qira Cross-Device AI Assistant Platform Launches Transforming Seamless Connectiv",
-    "content": "Tech Daily Insider - Anthropic Unveils Claude Fable 5 Public Release Balancing Power and Safety Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Launch Brings Flagship AI and Gaming Features to Affordable Smartphones Qira Cross-Device AI Assistant Platform Launches Transforming Seamless Connectiv",
-    "source": "Chelsea Bonner",
-    "date": "2026-06-11",
-    "url": "https://techdailyinsider.com/anthropic-unveils-claude-fable-5-public-release-balancing-power-and-safety/",
+    "title": "US Government Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+    "summary": "The Trump administration issued an unprecedented order for Anthropic to cut off all foreign nationals from its most advanced AI models, citing a jailbreak vulnerability and national security concerns.",
+    "content": "The US Commerce Department issued an unprecedented order to Anthropic to suspend access to its Fable 5 and Mythos 5 models for any foreign national 'whether inside or outside the United States,' citing national security concerns. Anthropic complied by shutting off access to both models for all customers worldwide, not just foreign users, to ensure compliance. The US government reportedly issued the order after Amazon researchers discovered that Fable 5 — a recently released Mythos-class model with some cybersecurity safeguards in place — could still be jailbroken to bypass those guardrails. Anthropic publicly pushed back, stating it disagrees 'that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,' warning the standard would effectively halt all new frontier model deployments across the industry. The move threatens to set a sweeping precedent for US AI companies and has alarmed industry leaders who have long argued that the US should promote global adoption of American AI rather than restrict it.",
+    "source": "The Business Times",
+    "date": "2026-06-14",
+    "url": "https://www.businesstimes.com.sg/startups-tech/anthropic-pulls-its-most-advanced-ai-models-including-mythos-after-us-bars-foreign-access",
+    "category": "Policy",
+    "image": null
+  },
+  {
+    "title": "Google Releases DiffusionGemma: Open Model Delivers 4x Faster Text Generation",
+    "summary": "Google DeepMind released DiffusionGemma, an experimental open model that generates text up to 4x faster than standard autoregressive LLMs by producing entire 256-token blocks simultaneously.",
+    "content": "Google DeepMind introduced DiffusionGemma, an experimental open model released under an Apache 2.0 license that applies image-diffusion techniques to text generation instead of the standard token-by-token approach used by most LLMs. Rather than predicting words sequentially like a typewriter, DiffusionGemma drafts an entire 256-token block at once, delivering up to 4x faster output on dedicated GPUs — exceeding 1,000 tokens per second on a single NVIDIA H100 and 700+ tokens per second on an RTX 5090. The model uses a 26B Mixture of Experts architecture but activates only 3.8B parameters during inference, fitting within 18GB of VRAM when quantized, making it accessible to high-end consumer hardware. Its bi-directional attention lets every token attend to all others simultaneously, unlocking advantages for non-linear tasks like inline code editing, code infilling, amino acid sequence design, and real-time interactive workflows. Google notes a trade-off in overall output quality versus speed and recommends standard Gemma 4 for production use, positioning DiffusionGemma primarily as a research and speed-critical tool for developers.",
+    "source": "Google Blog",
+    "date": "2026-06-10",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
     "category": "Models",
     "image": null
   },
   {
-    "title": "Google opens DiffusionGemma: text in parallel blocks",
-    "summary": "Google opens DiffusionGemma: text in parallel blocks Breaking US government orders Anthropic to suspend access to Claude Fable 5 and Mythos 5 Hong Kong to open its first 24-hour convenience store staffed by a humanoid robot OpenAI buys Ona so Codex can move from suggesting code to running long task",
-    "content": "Google opens DiffusionGemma: text in parallel blocks Breaking US government orders Anthropic to suspend access to Claude Fable 5 and Mythos 5 Hong Kong to open its first 24-hour convenience store staffed by a humanoid robot OpenAI buys Ona so Codex can move from suggesting code to running long task",
-    "source": "Toki AI \n         Generative AI \n         \n           June 11, 2026 \n           3 min read",
+    "title": "Google DeepMind Launches $10M Fund to Study Safety Risks of Millions of AI Agents Interacting",
+    "summary": "Google DeepMind and partners including Schmidt Sciences and the UK's ARIA agency are funding $10 million in research to understand the emergent safety risks when large populations of AI agents operate and interact at scale.",
+    "content": "Google DeepMind has partnered with Schmidt Sciences, the UK government's ARIA moonshot agency, the Cooperative AI Foundation, and Google.org to launch a $10 million research fund aimed at studying what happens when millions of autonomous AI agents interact with each other online. The initiative is driven by concerns that mass deployment of agents — which can carry out tasks without human oversight and receive instructions from other agents — creates an entirely new class of safety risk not captured by studying individual models. Researchers have identified supercharged versions of existing internet threats as primary concerns: large-scale scams, prompt injection attacks where an agent is fed malicious instructions and turns into self-guiding malware, and coordinated cyberattacks operating at machine speed and scale. The fund aims to establish multi-agent safety as a formal research discipline, with particular emphasis on realistic sandbox simulations to study emergent collective behavior before it appears in the wild. Google DeepMind's Rohin Shah, who leads AGI safety and alignment research, warns that economywide agent deployment may be only months away, making proactive research critical.",
+    "source": "MIT Technology Review",
     "date": "2026-06-11",
-    "url": "https://diaryofatoken.com/en/article/google-deepmind-diffusiongemma-parallel-block-text-generation/",
-    "category": "Models",
-    "image": "https://diaryofatoken.com/assets/logos/logo-light.png"
-  },
-  {
-    "title": "DiffusionGemma: Google Brings Diffusion Models into Text Generation",
-    "summary": "DiffusionGemma: Google Brings Diffusion Models into Text Generation Google DeepMind has released`DiffusionGemma`, an experimental new branch in the Gemma family. It does not keep pushing along the traditional autoregressive path of predicting one token at a time.",
-    "content": "DiffusionGemma: Google Brings Diffusion Models into Text Generation Google DeepMind has released`DiffusionGemma`, an experimental new branch in the Gemma family. It does not keep pushing along the traditional autoregressive path of predicting one token at a time. Instead, it brings the idea of diff",
-    "source": "knightli.com",
-    "date": "2026-06-12",
-    "url": "https://knightli.com/en/2026/06/12/diffusiongemma-text-diffusion-model/",
+    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "category": "Industry",
-    "image": "https://knightli.com/img/avatar_hu_9fb47e5b83758359.png"
+    "image": null
   },
   {
-    "title": "Google DiffusionGemma 26B-A4B: 4x faster open model",
-    "summary": "Google DiffusionGemma 26B-A4B: 4x faster open model Google releases DiffusionGemma 26B-A4B 11-06-2026 DiffusionGemma 26B-A4B is Google DeepMind's experimental open text diffusion model, generating 256-token blocks in parallel for up to 4x faster output at the cost of a few benchmark points agai",
-    "content": "Google DiffusionGemma 26B-A4B: 4x faster open model Google releases DiffusionGemma 26B-A4B 11-06-2026 DiffusionGemma 26B-A4B is Google DeepMind's experimental open text diffusion model, generating 256-token blocks in parallel for up to 4x faster output at the cost of a few benchmark points agai",
-    "source": "datanorth.ai",
-    "date": "2026-06-11",
-    "url": "https://datanorth.ai/news/google-releases-diffusiongemma",
-    "category": "Industry",
-    "image": "https://datanorth.ai/wp-content/uploads/2026/06/google-releases-diffusiongemma-26b-a4b.png"
-  },
-  {
-    "title": "China’s DeepSeek V3.2 AI Outperforms GPT-5 with Less Compute: Revolutionizing AI Efficiency (2026)",
-    "summary": "China’s DeepSeek V3.2 AI Outperforms GPT-5 with Less Compute: Revolutionizing AI Efficiency (2026) { style = event.detail.style; message = event.detail.message; show = true; }); \"> China’s DeepSeek V3.2 AI Outperforms GPT-5 with Less Compute: Revolutionizing AI Efficiency (2026) China's DeepSee",
-    "content": "China’s DeepSeek V3.2 AI Outperforms GPT-5 with Less Compute: Revolutionizing AI Efficiency (2026) { style = event.detail.style; message = event.detail.message; show = true; }); \"> China’s DeepSeek V3.2 AI Outperforms GPT-5 with Less Compute: Revolutionizing AI Efficiency (2026) China's DeepSee",
-    "source": "ngontinh24.com",
+    "title": "Google Sues Chinese Cybercrime Ring That Used Gemini AI to Build 9,000 Fraudulent Websites",
+    "summary": "Google has filed a lawsuit against a suspected Chinese cybercrime network called the Outsider Enterprise for using its own Gemini chatbot to generate code for phishing sites that targeted hundreds of thousands of Android users.",
+    "content": "Google filed a lawsuit against a suspected Chinese cybercrime network it calls the Outsider Enterprise, alleging the group sent over 2.5 million fraudulent text messages to Android users over two weeks in May 2026. The group allegedly used Google's own Gemini chatbot to write custom code for malicious websites, coordinated operations through Telegram, and created 9,000 fake sites and more than one million fraudulent URLs that impersonated Google and other trusted brands. Once victims clicked the links, they were redirected to phishing sites designed to harvest personal information including passwords and financial data. The case marks a significant escalation in AI-assisted cybercrime — where Lighthouse, the target of Google's prior RICO lawsuit, sold ready-made phishing kits, Outsider Enterprise members used generative AI to build their own custom fraudulent infrastructure from scratch. Google worked with AT&T, T-Mobile, and Verizon to block the fraudulent messages, reflecting the scale of cross-industry coordination required, and the case comes as Google's own Threat Intelligence Group has documented state-sponsored actors from China, Russia, and North Korea using AI for vulnerability research, malware development, and supply chain attacks.",
+    "source": "The Next Web",
     "date": "2026-06-12",
-    "url": "https://ngontinh24.com/article/china-s-deepseek-v3-2-ai-outperforms-gpt-5-with-less-compute-revolutionizing-ai-efficiency",
-    "category": "Models",
-    "image": "https://i0.wp.com/www.artificialintelligence-news.com/wp-content/uploads/2025/01/hero-deepseek-v3-logo.png"
+    "url": "https://thenextweb.com/news/google-gemini-outsider-enterprise-scam-lawsuit",
+    "category": "Industry",
+    "image": null
   },
   {
-    "title": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public",
-    "summary": "Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
-    "content": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
-    "source": "Marko Nguyen",
+    "title": "States Push Ahead with AI Regulation Despite Trump's Attempts to Block Them",
+    "summary": "Six months after Trump issued an executive order threatening states that passed AI laws, more states than ever — including Republican-led ones — are advancing targeted AI legislation on chatbots, employment, and catastrophic risk.",
+    "content": "Despite a Trump executive order directing the attorney general to challenge state AI laws and threatening federal funding cuts, more states are advancing AI legislation in 2026 than in any prior year, with bills drawing bipartisan support across Republican- and Democratic-led legislatures. Congress has stalled on producing a federal framework, leaving a regulatory vacuum that states including Illinois, Colorado, Connecticut, and California are filling with more targeted laws. Illinois passed a bill requiring AI developers to submit to independent audits verifying compliance with their own safety policies — a measure that drew near-unanimous bipartisan support. California is advancing the 'No Robo Bosses Act of 2026' to bar employers from relying solely on AI to fire or discipline workers, and Colorado now requires companies to disclose when AI is used to influence consequential decisions in employment, housing, education, and banking. The White House has not yet enforced its executive order in court or withheld funding from any state, and a new bipartisan House draft for federal AI legislation drew withering criticism from both parties, leaving the regulatory field fragmented and predominantly driven by state-level action.",
+    "source": "ABC News",
+    "date": "2026-06-14",
+    "url": "https://abcnews.com/US/wireStory/trump-block-state-ai-regulations-states-forging-ahead-133859386",
+    "category": "Policy",
+    "image": null
+  },
+  {
+    "title": "Researchers Warn AI Is Advancing Faster Than Our Ability to Understand It",
+    "summary": "Microsoft's chief scientific officer and an EPFL researcher are sounding the alarm that the window for meaningful AI interpretability research is rapidly closing as AI systems grow more powerful and influential.",
+    "content": "Microsoft chief scientific officer Eric Horvitz and EPFL researcher Robert West published a warning that AI capabilities are advancing faster than humanity's ability to understand or explain them, calling for urgent investment in interpretability research before the gap becomes irreversible. Despite years of work on 'explainable AI,' today's most advanced systems remain largely opaque black boxes — researchers can observe outputs but cannot reliably predict when or why models will fail. Three converging trends are deepening the problem: AI systems are increasingly used to evaluate and train other AI systems, creating recursive loops humans can no longer fully audit; networks of interacting AI agents are developing communication patterns that diverge from human-legible language; and AI models are building ever-more-sophisticated models of human psychology and behavior even as human understanding of AI stagnates. The researchers identify a 'striking asymmetry' — while human understanding of AI declines, AI's understanding of humans deepens — and call for new capability benchmarks, better evaluation methods, and lasting norms around responsible disclosure to prevent the situation from becoming locked in.",
+    "source": "Singularity Hub",
     "date": "2026-06-11",
-    "url": "https://memeburn.com/what-is-claude-fable-5/",
-    "category": "Models",
-    "image": "https://memeburn.com/wp-content/uploads/2026/06/What-Is-Claude-Fable-5-Anthropic-Finally-Releases-Its-Restricted-Mythos-AI-to-Public.jpg"
+    "url": "https://singularityhub.com/2026/06/11/ai-is-advancing-faster-than-our-ability-to-understand-it-researchers-warn/",
+    "category": "Trends",
+    "image": null
   }
 ]
