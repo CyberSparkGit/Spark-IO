@@ -1,56 +1,62 @@
 [
   {
-    "title": "Anthropic Launches Claude Fable 5, Its Most Capable Model Yet",
-    "summary": "Anthropic released Claude Fable 5, a Mythos-class model safe for general use, alongside Claude Mythos 5 for specialized cybersecurity and research applications.",
-    "content": "Anthropic launched Claude Fable 5 on June 9, 2026, calling it state-of-the-art on nearly all tested benchmarks across software engineering, knowledge work, vision, and scientific research. The model is the same underlying system as Claude Mythos 5, but Fable ships with new safety classifiers that route sensitive cybersecurity and biology queries to Claude Opus 4.8 instead, affecting fewer than 5% of sessions. Early partners including Stripe, GitHub, and Cursor reported that Fable 5 compresses months of engineering into days and outperforms prior models on long-horizon agentic coding tasks. Mythos 5, sharing the same model weights, is initially restricted to cybersecurity partners in the US government's Project Glasswing program and features the strongest cybersecurity capabilities of any model in the world. Both models are priced at $10 per million input tokens and $50 per million output tokens—less than half the price of Claude Mythos Preview.",
-    "source": "Anthropic",
-    "date": "2026-06-09",
-    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "category": "Models"
+    "title": "Google Unveils Lyria 3 AI Model for Music Generation - BitRss",
+    "summary": "Google Unveils Lyria 3 AI Model for Music Generation - BitRss - Crypto World News Google Unveils Lyria 3 AI Model for Music Generation ForkLog 3 months ago 225 Google DeepMind has introduced the Lyria 3 AI model for music generation. The corporation has integrated it into the Gemini c",
+    "content": "Google Unveils Lyria 3 AI Model for Music Generation - BitRss - Crypto World News Google Unveils Lyria 3 AI Model for Music Generation ForkLog 3 months ago 225 Google DeepMind has introduced the Lyria 3 AI model for music generation. The corporation has integrated it into the Gemini c",
+    "source": "bitrss.com",
+    "date": "2026-06-12",
+    "url": "https://bitrss.com/google-unveils-lyria-3-ai-model-for-music-generation-185473",
+    "category": "Models",
+    "image": "https://forklog.com/wp-content/uploads/uchenye-AI-science-iskusstvennyj-intellekt-artificial-intelligence-audio-golosovoj-rezhim-chatgpt-chatgpt-voice-mode-1.webp"
   },
   {
-    "title": "Apple Introduces Siri AI: A Completely Rebuilt Assistant Powered by Apple Intelligence",
-    "summary": "Apple unveiled Siri AI, a ground-up redesign of Siri with world knowledge, onscreen awareness, and personal context understanding, available for developer testing on iOS 27.",
-    "content": "Apple introduced Siri AI on June 1, 2026, a completely reimagined version of Siri powered by the next generation of Apple Intelligence that can answer questions about virtually any topic by searching the web, surfacing information from personal messages, emails, and photos, and understanding content displayed on screen. The new assistant features a dedicated app that syncs conversation history across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro via iCloud, while a new Siri mode in the iPhone Camera app lets users point the camera at anything and receive contextual help. Siri AI is built on a new architecture using on-device Apple Foundation Models and Private Cloud Compute, which Apple says prevents user data from being stored or accessed by Apple or third parties. Apple also expanded Visual Intelligence to iPad and Mac for the first time, allowing users to select content on their screen and ask Siri questions about it. Developer testing is now available across iOS 27, iPadOS 27, macOS 27, and visionOS 27, with a public beta planned for later this year.",
-    "source": "Apple",
-    "date": "2026-06-01",
-    "url": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
-    "category": "Tools"
+    "title": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide",
+    "summary": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide - The Logic Canada's Business and Tech Newsroom - Professional Subscription - Partnerships & Advertising - Licensing & Syndication Listen Now 0:00 1x 0.75x 1x 1.25x 1.5x 2x OpenAI CEO Sam Altman.",
+    "content": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide - The Logic Canada's Business and Tech Newsroom - Professional Subscription - Partnerships & Advertising - Licensing & Syndication Listen Now 0:00 1x 0.75x 1x 1.25x 1.5x 2x OpenAI CEO Sam Altman. A suit against the",
+    "source": "Martin Patriquin",
+    "date": "2026-06-12",
+    "url": "https://thelogic.co/news/openai-suicide-lawsuit-new-brunswick/",
+    "category": "Models",
+    "image": "https://thelogic.co/wp-content/uploads/2026/06/Sam_Altman_OpenAI_Capitol_Hill-Washington-May_2025-Jose_Luis_Magana-AP_Photo-CP174840489-1920x1280-1.jpeg"
   },
   {
-    "title": "Microsoft Launches Seven MAI Models, Including Flagship Reasoning and Transcription AI",
-    "summary": "Microsoft AI unveiled a family of seven in-house models spanning reasoning, coding, image generation, transcription, and voice, alongside a healthcare AI partnership with Mayo Clinic.",
-    "content": "Microsoft AI launched a family of seven models on June 2, 2026, led by MAI-Thinking-1, a 35B-active-parameter sparse Mixture of Experts reasoning model that matches leading models on software engineering benchmarks and outperforms Claude Sonnet 4.6 in blind human side-by-side evaluations. The release also includes MAI-Code-1-Flash for agentic coding deeply integrated into GitHub Copilot and VS Code, MAI-Transcribe-1.5 (described as the world's most accurate multilingual transcription model, running 5x faster than competitors across 43 languages), MAI-Image-2.5 for text-to-image generation, and MAI-Voice-2 for speech synthesis across 15 languages. Microsoft introduced 'Frontier Tuning,' a reinforcement learning approach that lets organizations train customized MAI models on their own workflow data, with early results showing up to 10x efficiency gains over general-purpose models. Separately, Microsoft announced a collaboration with Mayo Clinic to co-create a frontier healthcare AI model using de-identified clinical data, intended for deployment within Mayo Clinic before becoming available to other health systems via Microsoft Foundry.",
-    "source": "Microsoft AI",
-    "date": "2026-06-02",
-    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-    "category": "Models"
+    "title": "Anthropic Launches $150M Claude Corps Fellowship",
+    "summary": "Anthropic Launches $150M Claude Corps Fellowship Anthropic Launches Claude Corps, a $150 Million AI Fellowship for Nonprofits Written by InsideAiWorld June 12, 2026 As artificial intelligence continues to reshape the global economy, the gap between well-funded corporate enterprises and under-r",
+    "content": "Anthropic Launches $150M Claude Corps Fellowship Anthropic Launches Claude Corps, a $150 Million AI Fellowship for Nonprofits Written by InsideAiWorld June 12, 2026 As artificial intelligence continues to reshape the global economy, the gap between well-funded corporate enterprises and under-r",
+    "source": "insideaiworld.com",
+    "date": "2026-06-12",
+    "url": "https://insideaiworld.com/anthropic-launches-claude-corps-nonprofit-fellowship/",
+    "category": "Models",
+    "image": "https://insideaiworld.com/wp-content/uploads/2026/06/anthropic-claude-corps-fellowship-nonprofit-collaboration-1024x572.webp"
   },
   {
-    "title": "EU Parliament Votes on AI Act Overhaul: Delayed Timelines and Ban on AI Nudifier Apps",
-    "summary": "The European Parliament is voting on amendments to the 2024 AI Act that delay high-risk AI compliance deadlines and add a new outright ban on AI tools that generate non-consensual intimate imagery.",
-    "content": "European Parliament MEPs voted on June 16, 2026 to ratify the 'Digital Omnibus on AI,' a package of amendments that delays and simplifies key provisions of the 2024 EU AI Act. Under the revised timeline, legal obligations for high-risk AI systems in areas like biometrics, employment, and critical infrastructure are pushed from August 2026 to December 2027, while AI systems embedded in regulated products like medical devices face a deadline of August 2028. The amendments introduce two new prohibited AI practices taking effect December 2026: an outright ban on AI systems that generate or manipulate non-consensual intimate imagery ('nudifier' apps) and a parallel ban on AI tools that generate child sexual abuse material. Separately, the European Commission published a voluntary Code of Practice on marking and labelling AI-generated content on June 10, setting practical steps for providers to meet transparency obligations requiring deepfakes and AI-generated public-interest content to be clearly labelled starting August 2026.",
-    "source": "European Parliament",
-    "date": "2026-06-11",
-    "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/9/ai-act-simplification-measures-ban-on-nudifier-apps",
-    "category": "Policy"
+    "title": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively",
+    "summary": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively share this! Tweet Share June 11, 2026 Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively by Glenn Gamboa edited by Andrew Zinin Add as preferred source Anthropic co-f",
+    "content": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively share this! Tweet Share June 11, 2026 Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively by Glenn Gamboa edited by Andrew Zinin Add as preferred source Anthropic co-f",
+    "source": "techxplore.com",
+    "date": "2026-06-12",
+    "url": "https://techxplore.com/news/2026-06-anthropic-claude-corps-nonprofits-ai.html",
+    "category": "Models",
+    "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-announces-cl.jpg"
   },
   {
-    "title": "NVIDIA Releases Nemotron 3 Ultra: A 550B Open Model Built for Long-Running AI Agents",
-    "summary": "NVIDIA launched Nemotron 3 Ultra, a fully open 550B-parameter model designed for cost-efficient multi-step agent orchestration with 5x faster inference than comparable open models.",
-    "content": "NVIDIA released Nemotron 3 Ultra on June 4, 2026, a 550B-parameter Mixture-of-Experts model with 55B active parameters designed to orchestrate complex, long-running AI agent workflows at lower cost than competing models. The model achieves 5x higher inference throughput through NVFP4 quantization running on NVIDIA Hopper, Blackwell, and Ampere GPUs from a single checkpoint, and reduces total token consumption on agentic tasks by up to 30% compared to peers. Key architectural innovations include hybrid Mamba-Transformer layers for efficient long-context handling, LatentMoE for expert routing, and Multi-Teacher On-Policy Distillation (MOPD), which trains the model using feedback from over 10 specialized domain-expert teacher models simultaneously. NVIDIA released the model fully open—including weights, training data, and recipes—under the permissive OpenMDW-1.1 license, available on Hugging Face, OpenRouter, Amazon SageMaker, Google Cloud, Microsoft Foundry, and dozens of other platforms. NVIDIA also launched Nemotron 3.5 Content Safety, a 4B guardrail model covering 23 safety categories across 12 languages, and a new multilingual Nemotron 3.5 ASR model supporting 40+ languages.",
-    "source": "NVIDIA Technical Blog",
-    "date": "2026-06-04",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
-    "category": "Models"
+    "title": "DiffusionGemma: Google Brings Diffusion Models into Text Generation",
+    "summary": "DiffusionGemma: Google Brings Diffusion Models into Text Generation Google DeepMind has released`DiffusionGemma`, an experimental new branch in the Gemma family. It does not keep pushing along the traditional autoregressive path of predicting one token at a time.",
+    "content": "DiffusionGemma: Google Brings Diffusion Models into Text Generation Google DeepMind has released`DiffusionGemma`, an experimental new branch in the Gemma family. It does not keep pushing along the traditional autoregressive path of predicting one token at a time. Instead, it brings the idea of diff",
+    "source": "knightli.com",
+    "date": "2026-06-12",
+    "url": "https://knightli.com/en/2026/06/12/diffusiongemma-text-diffusion-model/",
+    "category": "Industry",
+    "image": "https://knightli.com/img/avatar_hu_9fb47e5b83758359.png"
   },
   {
-    "title": "OpenAI Launches $150M Partner Network to Accelerate Enterprise AI Adoption",
-    "summary": "OpenAI unveiled the OpenAI Partner Network, a new global program backed by a $150M investment targeting 300,000 certified consultants to help enterprises deploy AI at scale.",
-    "content": "OpenAI announced the OpenAI Partner Network on June 14, 2026, a structured global program enabling systems integrators, management consultants, and technology firms to build, sell, and deliver AI solutions using OpenAI's models and products. The company is investing $150 million into the ecosystem and aims to train and certify 300,000 consultants by the end of 2026, with partners progressing through Select, Advanced, and Elite tiers based on sales performance, technical capability, co-sell engagement, and deployment experience. Partners can earn specializations in high-demand areas including Codex, cybersecurity, and agents, helping customers identify firms with proven expertise in their areas of AI transformation. Launch partners include Accenture, McKinsey, BCG, Bain, and PwC, with the program grounded in OpenAI's view that the core barrier to enterprise AI value is no longer model capability but workflow redesign, system integration, and change management at scale. OpenAI is also piloting a Forward Deployed Experts program to give partner practitioners deeper access to OpenAI engineering playbooks for complex enterprise deployments.",
-    "source": "OpenAI",
-    "date": "2026-06-14",
-    "url": "https://openai.com/index/introducing-openai-partner-network/",
-    "category": "Industry"
+    "title": "DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems",
+    "summary": "DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems – Intelligent CIO North America Light Dark Get Industry Insights & Whitepapers! DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems DXC Techno",
+    "content": "DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems – Intelligent CIO North America Light Dark Get Industry Insights & Whitepapers! DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems DXC Techno",
+    "source": "intelligentcio.com",
+    "date": "2026-06-12",
+    "url": "https://www.intelligentcio.com/north-america/2026/06/12/dxc-and-anthropic-form-global-ai-alliance-to-deploy-claude-across-mission-critical-enterprise-systems/",
+    "category": "Models",
+    "image": "https://www.intelligentcio.com/wp-content/uploads/2026/05/NA-offcanvas.png"
   }
 ]
