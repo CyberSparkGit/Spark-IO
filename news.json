@@ -1,23 +1,43 @@
 [
   {
-    "title": "Tech Daily Insider",
-    "summary": "Tech Daily Insider - Anthropic Unveils Claude Fable 5 Public Release Balancing Power and Safety Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Launch Brings Flagship AI and Gaming Features to Affordable Smartphones Qira Cross-Device AI Assistant Platform Launches Transforming Seamless Connectiv",
-    "content": "Tech Daily Insider - Anthropic Unveils Claude Fable 5 Public Release Balancing Power and Safety Qualcomm Snapdragon 6 Gen 5 and 4 Gen 5 Launch Brings Flagship AI and Gaming Features to Affordable Smartphones Qira Cross-Device AI Assistant Platform Launches Transforming Seamless Connectiv",
-    "source": "Chelsea Bonner",
-    "date": "2026-06-11",
-    "url": "https://techdailyinsider.com/anthropic-unveils-claude-fable-5-public-release-balancing-power-and-safety/",
+    "title": "Google Unveils Lyria 3 AI Model for Music Generation - BitRss",
+    "summary": "Google Unveils Lyria 3 AI Model for Music Generation - BitRss - Crypto World News Google Unveils Lyria 3 AI Model for Music Generation ForkLog 3 months ago 218 Google DeepMind has introduced the Lyria 3 AI model for music generation. The corporation has integrated it into the Gemini c",
+    "content": "Google Unveils Lyria 3 AI Model for Music Generation - BitRss - Crypto World News Google Unveils Lyria 3 AI Model for Music Generation ForkLog 3 months ago 218 Google DeepMind has introduced the Lyria 3 AI model for music generation. The corporation has integrated it into the Gemini c",
+    "source": "bitrss.com",
+    "date": "2026-06-12",
+    "url": "https://bitrss.com/google-unveils-lyria-3-ai-model-for-music-generation-185473",
     "category": "Models",
-    "image": null
+    "image": "https://forklog.com/wp-content/uploads/uchenye-AI-science-iskusstvennyj-intellekt-artificial-intelligence-audio-golosovoj-rezhim-chatgpt-chatgpt-voice-mode-1.webp"
   },
   {
-    "title": "Google opens DiffusionGemma: text in parallel blocks",
-    "summary": "Google opens DiffusionGemma: text in parallel blocks Breaking US government orders Anthropic to suspend access to Claude Fable 5 and Mythos 5 Hong Kong to open its first 24-hour convenience store staffed by a humanoid robot OpenAI buys Ona so Codex can move from suggesting code to running long task",
-    "content": "Google opens DiffusionGemma: text in parallel blocks Breaking US government orders Anthropic to suspend access to Claude Fable 5 and Mythos 5 Hong Kong to open its first 24-hour convenience store staffed by a humanoid robot OpenAI buys Ona so Codex can move from suggesting code to running long task",
-    "source": "Toki AI \n         Generative AI \n         \n           June 11, 2026 \n           3 min read",
-    "date": "2026-06-11",
-    "url": "https://diaryofatoken.com/en/article/google-deepmind-diffusiongemma-parallel-block-text-generation/",
+    "title": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide",
+    "summary": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide - The Logic Canada's Business and Tech Newsroom - Professional Subscription - Partnerships & Advertising - Licensing & Syndication Listen Now 0:00 1x 0.75x 1x 1.25x 1.5x 2x OpenAI CEO Sam Altman.",
+    "content": "Canadian mother sues OpenAI claiming ChatGPT encouraged her daughter’s suicide - The Logic Canada's Business and Tech Newsroom - Professional Subscription - Partnerships & Advertising - Licensing & Syndication Listen Now 0:00 1x 0.75x 1x 1.25x 1.5x 2x OpenAI CEO Sam Altman. A suit against the",
+    "source": "Martin Patriquin",
+    "date": "2026-06-12",
+    "url": "https://thelogic.co/news/openai-suicide-lawsuit-new-brunswick/",
     "category": "Models",
-    "image": "https://diaryofatoken.com/assets/logos/logo-light.png"
+    "image": "https://thelogic.co/wp-content/uploads/2026/06/Sam_Altman_OpenAI_Capitol_Hill-Washington-May_2025-Jose_Luis_Magana-AP_Photo-CP174840489-1920x1280-1.jpeg"
+  },
+  {
+    "title": "Anthropic Launches $150M Claude Corps Fellowship",
+    "summary": "Anthropic Launches $150M Claude Corps Fellowship Anthropic Launches Claude Corps, a $150 Million AI Fellowship for Nonprofits Written by InsideAiWorld June 12, 2026 As artificial intelligence continues to reshape the global economy, the gap between well-funded corporate enterprises and under-r",
+    "content": "Anthropic Launches $150M Claude Corps Fellowship Anthropic Launches Claude Corps, a $150 Million AI Fellowship for Nonprofits Written by InsideAiWorld June 12, 2026 As artificial intelligence continues to reshape the global economy, the gap between well-funded corporate enterprises and under-r",
+    "source": "insideaiworld.com",
+    "date": "2026-06-12",
+    "url": "https://insideaiworld.com/anthropic-launches-claude-corps-nonprofit-fellowship/",
+    "category": "Models",
+    "image": "https://insideaiworld.com/wp-content/uploads/2026/06/anthropic-claude-corps-fellowship-nonprofit-collaboration-1024x572.webp"
+  },
+  {
+    "title": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively",
+    "summary": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively share this! Tweet Share June 11, 2026 Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively by Glenn Gamboa edited by Andrew Zinin Add as preferred source Anthropic co-f",
+    "content": "Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively share this! Tweet Share June 11, 2026 Anthropic announces 'Claude Corps' to teach nonprofits to use AI more effectively by Glenn Gamboa edited by Andrew Zinin Add as preferred source Anthropic co-f",
+    "source": "techxplore.com",
+    "date": "2026-06-12",
+    "url": "https://techxplore.com/news/2026-06-anthropic-claude-corps-nonprofits-ai.html",
+    "category": "Models",
+    "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/anthropic-announces-cl.jpg"
   },
   {
     "title": "DiffusionGemma: Google Brings Diffusion Models into Text Generation",
@@ -30,33 +50,13 @@
     "image": "https://knightli.com/img/avatar_hu_9fb47e5b83758359.png"
   },
   {
-    "title": "Google DiffusionGemma 26B-A4B: 4x faster open model",
-    "summary": "Google DiffusionGemma 26B-A4B: 4x faster open model Google releases DiffusionGemma 26B-A4B 11-06-2026 DiffusionGemma 26B-A4B is Google DeepMind's experimental open text diffusion model, generating 256-token blocks in parallel for up to 4x faster output at the cost of a few benchmark points agai",
-    "content": "Google DiffusionGemma 26B-A4B: 4x faster open model Google releases DiffusionGemma 26B-A4B 11-06-2026 DiffusionGemma 26B-A4B is Google DeepMind's experimental open text diffusion model, generating 256-token blocks in parallel for up to 4x faster output at the cost of a few benchmark points agai",
-    "source": "datanorth.ai",
-    "date": "2026-06-11",
-    "url": "https://datanorth.ai/news/google-releases-diffusiongemma",
-    "category": "Industry",
-    "image": "https://datanorth.ai/wp-content/uploads/2026/06/google-releases-diffusiongemma-26b-a4b.png"
-  },
-  {
-    "title": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public",
-    "summary": "Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
-    "content": "What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public - Memeburn What Is Claude Fable 5? Anthropic Finally Releases Its Restricted Mythos AI to the Public After months of restricting its most powerful AI model to a handful of cybersecurity partners, Anthropic",
-    "source": "Marko Nguyen",
-    "date": "2026-06-11",
-    "url": "https://memeburn.com/what-is-claude-fable-5/",
+    "title": "DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems",
+    "summary": "DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems – Intelligent CIO North America Light Dark Get Industry Insights & Whitepapers! DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems DXC Techno",
+    "content": "DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems – Intelligent CIO North America Light Dark Get Industry Insights & Whitepapers! DXC and Anthropic form global AI alliance to deploy Claude across mission-critical enterprise systems DXC Techno",
+    "source": "intelligentcio.com",
+    "date": "2026-06-12",
+    "url": "https://www.intelligentcio.com/north-america/2026/06/12/dxc-and-anthropic-form-global-ai-alliance-to-deploy-claude-across-mission-critical-enterprise-systems/",
     "category": "Models",
-    "image": "https://memeburn.com/wp-content/uploads/2026/06/What-Is-Claude-Fable-5-Anthropic-Finally-Releases-Its-Restricted-Mythos-AI-to-Public.jpg"
-  },
-  {
-    "title": "Anthropic Launches Claude Fable 5 and Mythos 5 AI Models",
-    "summary": "Anthropic Launches Claude Fable 5 and Mythos 5 AI Models Close Weekly Breaking AI News This Weekly AI News June 7–13 2026 round-up covers the most important artificial intelligence developments… Facebook X (Twitter) Instagram Facebook X (Twitter) Instagram Sunday, June 14 Share Anthropi",
-    "content": "Anthropic Launches Claude Fable 5 and Mythos 5 AI Models Close Weekly Breaking AI News This Weekly AI News June 7–13 2026 round-up covers the most important artificial intelligence developments… Facebook X (Twitter) Instagram Facebook X (Twitter) Instagram Sunday, June 14 Share Anthropi",
-    "source": "Art Ryan",
-    "date": "2026-06-11",
-    "url": "https://breakingai.news/anthropic-launches-claude-fable-5-and-mythos-5-ai-models/",
-    "category": "Models",
-    "image": "https://breakingai.news/wp-content/uploads/2026/06/Anthropic-Launches-Claude-Fable-5-and-Mythos-5-AI-Models.jpg"
+    "image": "https://www.intelligentcio.com/wp-content/uploads/2026/05/NA-offcanvas.png"
   }
 ]
