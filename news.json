@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro",
-    "summary": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
-    "content": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
-    "source": "Editorial Team",
+    "title": "Inside the Fight Over Claude Mythos 5",
+    "summary": "The Trump administration issued an emergency export control directive forcing Anthropic to shut down its Mythos 5 and Fable 5 models globally over national security fears.",
+    "content": "At 5:21 PM on June 13, Anthropic received a US Commerce Department export control directive ordering it to suspend all access to its Mythos 5 and Fable 5 models — including by foreign national Anthropic employees — forcing the company to take its flagship AI systems completely offline. The government's concern centered on a reported jailbreak of Fable 5's cybersecurity safeguards, though Anthropic countered that the same capability was 'widely available from other models including OpenAI's GPT-5.5.' CEO Dario Amodei flew to Washington and personally spoke with Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick in urgent negotiations to restore access. Over 80 cybersecurity executives from Nvidia, Adobe, and other major firms signed an open letter warning that the ban could give China a significant AI advantage, noting Chinese models are only months behind US frontier systems. As of June 16, the dispute remained unresolved, with legal experts questioning whether existing export control regulations even have jurisdiction over AI models accessed via remote API.",
+    "source": "The Verge",
     "date": "2026-06-16",
-    "url": "https://cryptobriefing.com/anthropic-claude-fable-5-epoch-capabilities-index/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15201706/anthropic-claude-screenshot-12-800x420.jpeg"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "category": "Policy"
   },
   {
-    "title": "OpenAI Ships GPT-Realtime-2 Voice Across 70 Languages as Ruvi",
-    "summary": "OpenAI Ships GPT-Realtime-2 Voice Across 70 Languages as Ruvi Press release OpenAI Ships GPT-Realtime-2 Voice Across 70 Languages as Ruvi (RUVI) Crosses 3,000 Holders Onchain 06-15-2026 11:08 PM CET | Business, Economy, Finances, Banking & Insurance Press release from: Institutional Busines",
-    "content": "OpenAI Ships GPT-Realtime-2 Voice Across 70 Languages as Ruvi Press release OpenAI Ships GPT-Realtime-2 Voice Across 70 Languages as Ruvi (RUVI) Crosses 3,000 Holders Onchain 06-15-2026 11:08 PM CET | Business, Economy, Finances, Banking & Insurance Press release from: Institutional Busines",
-    "source": "Institutional Business Press",
+    "title": "ChatGPT Hits 1 Billion Users as All Three AI CEOs Convene at G7",
+    "summary": "ChatGPT became the fastest consumer app in history to reach 1 billion monthly active users, while the CEOs of OpenAI, Anthropic, and Google DeepMind appeared together before G7 world leaders for the first time.",
+    "content": "OpenAI's ChatGPT crossed 1 billion monthly active users, surpassing TikTok and Instagram at equivalent growth milestones and arriving just ahead of OpenAI's September 2026 IPO at an $852 billion valuation. The broader AI market showed no signs of consolidation around a single winner: Claude grew 640% year-over-year and Meta AI grew 973% YoY, driven by its integration across WhatsApp and Instagram. Simultaneously, Sam Altman (OpenAI), Dario Amodei (Anthropic), and Demis Hassabis (Google DeepMind) appeared together at the G7 summit in Évian-les-Bains, France — the first time the CEOs of the three most powerful AI labs have stood before the leaders of the world's seven largest economies at once. Frontier AI risks, youth safety, and cybersecurity threats were on the formal agenda, with Macron personally inviting Altman. All three CEOs also recently co-signed a letter to Congress calling for stricter regulations on AI-related biological threats.",
+    "source": "AI Tools Recap",
+    "date": "2026-06-16",
+    "url": "https://aitoolsrecap.com/Blog/ai-news-june-16-2026",
+    "category": "Industry"
+  },
+  {
+    "title": "EU Parliament Votes to Ban AI Nudifier Apps and Extend Compliance Deadlines",
+    "summary": "European MEPs approved landmark amendments to the EU AI Act, banning non-consensual AI-generated intimate imagery and pushing high-risk AI compliance deadlines back by over a year.",
+    "content": "European MEPs voted on June 16 to approve the 'Digital Omnibus on AI,' a set of amendments to the 2024 EU AI Act that represent the regulation's first major revision since adoption. The amendments postpone legal obligations for high-risk AI systems — including those used in biometrics, education, employment, and critical infrastructure — from August 2026 to December 2027, and push obligations for AI used as safety components in regulated products to August 2028. Most significantly, the legislation introduces a complete ban on all AI tools that generate non-consensual intimate imagery ('nudifier' apps) or child sexual abuse material, taking effect December 2026 and covering any realistic depictions of identifiable persons without explicit consent. The package also removes overlapping compliance obligations for products already covered by sector-specific safety rules, aiming to reduce regulatory burden while maintaining the Act's core protections.",
+    "source": "European Parliament",
+    "date": "2026-06-16",
+    "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-06-15/9/ai-act-simplification-measures-ban-on-nudifier-apps",
+    "category": "Policy"
+  },
+  {
+    "title": "NVIDIA Releases Nemotron 3 Ultra: Open 550B Model for Agentic AI",
+    "summary": "NVIDIA launched Nemotron 3 Ultra, a fully open 550B-parameter model that delivers 5x faster throughput than comparable open models and cuts agentic task costs by up to 30%.",
+    "content": "NVIDIA released Nemotron 3 Ultra, a 550B-parameter Mixture-of-Experts model with 55B active parameters built specifically to orchestrate complex, long-running AI agent workflows. The model achieves 5x higher throughput than comparable open models and reduces total cost for agentic tasks by up to 30% through hybrid Mamba-Transformer layers for efficient long-context handling, NVFP4 quantization enabling cross-architecture GPU deployment, and a novel LatentMoE expert routing system. A training breakthrough called Multi-Teacher On-Policy Distillation (MOPD) trains the model with dense feedback from more than ten specialized domain-specific teacher models, yielding SWE-bench Verified scores of 65–70% across major agent frameworks like OpenHands, Hermes Agent, and OpenCode. Nemotron 3 Ultra is fully open — weights, training data, and recipes all released under the Linux Foundation's permissive OpenMDW-1.1 license — and is immediately available as an NVIDIA NIM microservice deployable across Hopper, Blackwell, and Ampere GPU architectures.",
+    "source": "NVIDIA Developer Blog",
+    "date": "2026-06-04",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents/",
+    "category": "Models"
+  },
+  {
+    "title": "AlphaGo Creator's $5B Startup Bets on Google Cloud for Superintelligence",
+    "summary": "Ineffable Intelligence, the London AI lab founded by AlphaGo creator David Silver with a $5.1B valuation, named Google Cloud as its infrastructure partner to build a self-learning 'superlearner' AI system.",
+    "content": "Ineffable Intelligence, the London-based frontier AI lab founded by David Silver — the DeepMind researcher behind AlphaGo and the self-teaching AlphaZero — named Google Cloud as its exclusive infrastructure partner in a deal announced at Google Cloud's London summit on June 16. The partnership provides Ineffable access to one of the largest clusters of Google's A5X instances, powered by Nvidia's forthcoming Vera Rubin NVL72 GPUs, to pursue what the company calls a 'superlearner': an AI system designed to discover knowledge from its own experience in real time rather than from static human-generated training datasets. Ineffable raised a $1.1 billion seed round — billed as the largest in European history — and was later valued at $5.1 billion by Sequoia and Nvidia, all without a product, revenue, or public roadmap; investors are pricing the founder's track record on systems that genuinely taught themselves. Silver selected Google's integrated AI Hypercomputer architecture over plain GPU-rental alternatives, citing the need for tightly coupled training and inference at unprecedented scale. The deal also reinforces Ineffable's positioning as a potential cornerstone of Europe's frontier AI ambitions at a moment of acute anxiety about US dominance of the sector.",
+    "source": "The Next Web",
+    "date": "2026-06-16",
+    "url": "https://thenextweb.com/news/alphagos-david-silver-puts-his-superintelligence-bet-on-google-cloud",
+    "category": "Industry"
+  },
+  {
+    "title": "Sakana AI Launches Marlin: An 8-Hour Deep Research Agent for Enterprises",
+    "summary": "Sakana AI launched Marlin, an autonomous enterprise research agent that runs continuous reasoning loops for up to eight hours to produce 100-page strategy reports, targeting corporations, financial institutions, and think tanks.",
+    "content": "Tokyo-based Sakana AI launched Marlin, its first commercial product, billed as a 'Virtual CSO' (Chief Strategy Officer) that trades speed for depth: instead of generating responses in seconds, Marlin runs continuous self-governing reasoning loops for up to eight hours to deliver fully cited, 100-page strategy reports and executive slide decks. The system is powered by an Adaptive Branching Monte Carlo Tree Search (AB-MCTS) engine — derived from research featured in Nature — which treats research as a branching tree of possibilities, dynamically invoking different frontier AI models for each sub-task as it gathers, cross-references, and verifies findings. Pricing runs from pay-as-you-go (100 credits per run) up to a $2,495/month Team plan, with a strict enterprise-only data policy: customer inputs are never used for model training without explicit opt-in consent. Sakana was co-founded by Llion Jones, co-author of the 2017 'Attention Is All You Need' paper that introduced the transformer architecture, and David Ha, former Google Brain researcher, and has attracted investment from Nvidia, Google, MUFG, and Salesforce at a $2.6 billion valuation.",
+    "source": "VentureBeat",
     "date": "2026-06-15",
-    "url": "https://www.openpr.com/news/4550495/openai-ships-gpt-realtime-2-voice-across-70-languages-as-ruvi",
-    "category": "Models",
-    "image": "https://cdn.open-pr.com/L/6/L615121528_g.jpg"
-  },
-  {
-    "title": "Introducing Gemma 4 models on Amazon Bedrock",
-    "summary": "Introducing Gemma 4 models on Amazon Bedrock | Artificial Intelligence Content Artificial Intelligence Introducing Gemma 4 models on Amazon Bedrock Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the",
-    "content": "Introducing Gemma 4 models on Amazon Bedrock | Artificial Intelligence Content Artificial Intelligence Introducing Gemma 4 models on Amazon Bedrock Today, we are announcing the availability of the Gemma 4 family on Amazon Bedrock. Built by Google DeepMind and released under the",
-    "source": "aws.amazon.com",
-    "date": "2026-06-15",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-gemma-4-models-on-amazon-bedrock/",
-    "category": "Industry",
-    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/Gemma4-1.png"
-  },
-  {
-    "title": "Anthropic Claude Fable 5: Public Access to Advanced AI",
-    "summary": "Anthropic Claude Fable 5: Public Access to Advanced AI | LLM News & AI Updates Breaking Nextdoor’s AI Strategy: Leveraging Codex and GPT-5.5 for Engineering Velocity· Anthropic Claude Fable 5: Decoding the Mythos-Class Revolution· The Autonomy Paradox: What We Actually Want From Next-Gen AI Assist",
-    "content": "Anthropic Claude Fable 5: Public Access to Advanced AI | LLM News & AI Updates Breaking Nextdoor’s AI Strategy: Leveraging Codex and GPT-5.5 for Engineering Velocity· Anthropic Claude Fable 5: Decoding the Mythos-Class Revolution· The Autonomy Paradox: What We Actually Want From Next-Gen AI Assist",
-    "source": "imai.news",
-    "date": "2026-06-13",
-    "url": "https://imai.news/article/anthropic-unveils-claude-fable-5-public-access-to-mythos-class-ai-mqcdvapb",
-    "category": "Models",
-    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-f9af9d9f-7ca0-4f76-bb1c-ebbc567fdc20-1781356845618.jpg"
-  },
-  {
-    "title": "Gemma 4 12B: Google's Unified Multimodal Breakthrough",
-    "summary": "Gemma 4 12B: Google's Unified Multimodal Breakthrough | LLM News & AI Updates Breaking Anthropic's Dual AI Release: Mythos 5 for Security, Fable 5 for Public· Google Unveils Gemini 3.5 Live Translate: The Future of Real-Time Communication· The Algorithmic Pivot: Decoding Apple’s Shift to Personali",
-    "content": "Gemma 4 12B: Google's Unified Multimodal Breakthrough | LLM News & AI Updates Breaking Anthropic's Dual AI Release: Mythos 5 for Security, Fable 5 for Public· Google Unveils Gemini 3.5 Live Translate: The Future of Real-Time Communication· The Algorithmic Pivot: Decoding Apple’s Shift to Personali",
-    "source": "imai.news",
-    "date": "2026-06-13",
-    "url": "https://imai.news/article/beyond-the-vision-encoder-google-deepmind-unveils-gemma-4-12b-mqcair9a",
-    "category": "Models",
-    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-d56b2c2e-3ced-4af6-8c4f-de2f2b96bede-1781351222869.jpg"
-  },
-  {
-    "title": "Claude Fable 5: Anthropic's Mythos-Class AI Explained",
-    "summary": "Claude Fable 5: Anthropic's Mythos-Class AI Explained | LLM News & AI Updates Breaking Lucid Motors Sees Executive Departure Amid Leadership Overhaul· Google Slashes AI Subscription Prices in Strategic Move to Capture Market Share· The New Architect of Frontier Capital: How Justin Ernest Bypassed",
-    "content": "Claude Fable 5: Anthropic's Mythos-Class AI Explained | LLM News & AI Updates Breaking Lucid Motors Sees Executive Departure Amid Leadership Overhaul· Google Slashes AI Subscription Prices in Strategic Move to Capture Market Share· The New Architect of Frontier Capital: How Justin Ernest Bypassed",
-    "source": "imai.news",
-    "date": "2026-06-13",
-    "url": "https://imai.news/article/anthropic-claude-fable-5-decoding-the-mythos-class-revolution-mqd0l2su",
-    "category": "Models",
-    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-27bcc9cf-218c-4a0f-a618-90691da7f5fd-1781395001484.jpg"
+    "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+    "category": "Tools"
   }
 ]
