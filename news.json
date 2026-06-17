@@ -1,56 +1,62 @@
 [
   {
-    "title": "SpaceX Acquires Cursor for $60 Billion in Largest AI Developer Tools Deal Ever",
-    "summary": "SpaceX agreed to acquire Anysphere, maker of AI coding assistant Cursor, for $60 billion in an all-stock deal—the largest AI developer tools acquisition in history.",
-    "content": "SpaceX confirmed on June 16, 2026, that it will acquire Anysphere—the company behind AI coding agent Cursor—for $60 billion in an all-stock deal through a subsidiary called X67 Inc., marking the largest AI developer tools acquisition ever recorded. The deal is expected to close in Q3 2026 subject to regulatory approval, and follows SpaceX securing an April option to either buy Cursor for $60 billion or establish a $10 billion partnership. Cursor surpassed $4 billion in total annualized revenue as of early June 2026, with roughly $2.6 billion attributable to B2B enterprise customers. The acquisition could significantly strengthen xAI—the Grok chatbot maker that merged with SpaceX in February—in the intensely competitive AI coding market, while giving Cursor access to substantially more compute capacity. The deal comes amid a broader consolidation wave in AI developer tooling, with Cursor commanding a dominant position among software engineers using AI-assisted development environments.",
-    "source": "CNBC",
+    "title": "Meta's $14 Billion AI Bet Faces a Credibility Crisis: Why Engineers Still Prefer Claude",
+    "summary": "Meta's $14 Billion AI Bet Faces a Credibility Crisis: Why Engineers Still Prefer Claude | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT's Data Security Problem: How 410 Million Policy Violations Happened in One Year Large Language Models·1h ago Perplexity's Founder Sa",
+    "content": "Meta's $14 Billion AI Bet Faces a Credibility Crisis: Why Engineers Still Prefer Claude | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT's Data Security Problem: How 410 Million Policy Violations Happened in One Year Large Language Models·1h ago Perplexity's Founder Sa",
+    "source": "FrontierNews.ai",
+    "date": "2026-06-15",
+    "url": "https://www.frontiernews.ai/news/article/metas-14-billion-ai-bet-faces-a-credibility-crisis-c4dbda69",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=Meta%27s%20%2414%20Billion%20AI%20Bet%20Faces%20a%20Credibility%20Crisis%3A%20Why%20Engineers%20Still%20Prefer%20Claude&topic=Notable%20People"
+  },
+  {
+    "title": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro",
+    "summary": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
+    "content": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
+    "source": "Editorial Team",
     "date": "2026-06-16",
-    "url": "https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html",
-    "category": "Industry"
+    "url": "https://cryptobriefing.com/anthropic-claude-fable-5-epoch-capabilities-index/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15201706/anthropic-claude-screenshot-12-800x420.jpeg"
   },
   {
-    "title": "Apple WWDC 2026: Siri Rebuilt on Google Gemini in Tim Cook's Final Keynote",
-    "summary": "Apple unveiled a rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model at WWDC 2026, alongside iOS 27 and an AI Extensions system letting users choose between Claude, ChatGPT, or Gemini.",
-    "content": "Apple CEO Tim Cook delivered his final keynote at WWDC 2026 on June 8, unveiling a fundamentally rebuilt Siri powered by a custom 1.2-trillion-parameter Google Gemini model licensed at approximately $1 billion annually—representing the most significant overhaul of Apple's AI assistant since its 2011 debut. iOS 27 introduces an Extensions system that allows users to route Apple Intelligence tasks to their preferred AI provider, choosing between ChatGPT, Gemini, or Claude, granting all three companies unprecedented access to Apple's 2+ billion active device base. The new Siri can compose emails, retrieve nutritional data from food labels using the Camera app, and seamlessly hand off complex questions to third-party AI services when installed. Cook announced his retirement effective September 1, 2026, with Senior VP of Hardware Engineering John Ternus set to succeed him as CEO. Developer betas of iOS 27 dropped immediately following the keynote, with public betas expected in mid-July and the full release in September 2026.",
-    "source": "TechTimes",
-    "date": "2026-06-08",
-    "url": "https://www.techtimes.com/articles/317985/20260608/apple-wwdc-2026-siri-rebuilt-gemini-homeos-previewed-cook-farewell-keynote.htm",
-    "category": "Industry"
-  },
-  {
-    "title": "ChatGPT Becomes Fastest App Ever to Reach 1 Billion Monthly Active Users",
-    "summary": "ChatGPT surpassed 1 billion global monthly active users in June 2026, reaching the milestone faster than any app in history—including TikTok, Instagram, and YouTube.",
-    "content": "ChatGPT crossed 1 billion global monthly active users in June 2026, according to Sensor Tower estimates reported by Reuters, becoming the fastest app in history to reach the milestone roughly three years after its November 2022 launch. The figure surpasses the adoption trajectories of Google Maps, TikTok, Instagram, and YouTube, and arrives alongside 2 billion daily queries now processed on the platform. Weekly active users reached 900 million—more than double the 400 million reported in February 2025—reflecting an explosive acceleration driven by GPT-5 series releases and expanded free-tier access. Despite growing public concerns about AI safety and job displacement, consumer demand shows no sign of slowing, with OpenAI's valuation now exceeding $300 billion as enterprise and consumer markets converge around conversational AI. The milestone signals AI assistants have crossed from early-adopter technology into mainstream global infrastructure used by roughly one in eight people on Earth.",
-    "source": "The Next Web",
-    "date": "2026-06-12",
-    "url": "https://thenextweb.com/news/chatgpt-1-billion-monthly-active-users",
-    "category": "Trends"
-  },
-  {
-    "title": "NVIDIA Releases Nemotron 3 Ultra: 550B Open-Weights Model Leads US Frontier",
-    "summary": "NVIDIA launched Nemotron 3 Ultra on June 4, a 550-billion-parameter open-weights Mixture-of-Experts model that ranks as the highest-scoring US-developed open model on AI benchmarks.",
-    "content": "NVIDIA launched Nemotron 3 Ultra on June 4, 2026—a 550-billion-parameter Mixture-of-Experts foundation model with approximately 55 billion active parameters per token, using a hybrid Mamba-Transformer architecture optimized for 1-million-token context windows. The model scores 48 on the Artificial Analysis Intelligence Index among 89 evaluated models, making it the highest-scoring US-developed open-weight model at release, though it trails China's Kimi K2.6 by six index points. NVIDIA released four checkpoint variants across 25+ platforms—including OpenRouter, Hugging Face, and Amazon SageMaker—on day one under the Linux Foundation's permissive OpenMDW-1.1 license, with training data and recipes also published openly. Independent measurement confirmed 140.3 tokens per second output speed and a claimed 30% cost reduction for agentic tasks, though analysis noted the model generates 2.3 times more output tokens than median peers, potentially offsetting cost savings on verbose workloads. Within 48 hours of launch, Perplexity, Nous Research, OpenCode, and atomic.chat had integrated the model into production systems.",
-    "source": "Digital Applied",
-    "date": "2026-06-04",
-    "url": "https://www.digitalapplied.com/blog/nvidia-nemotron-3-ultra-550b-open-reasoning-model-2026",
-    "category": "Models"
-  },
-  {
-    "title": "'Agentjacking' Attack Hijacks Claude Code, Cursor, and Codex via Fake Sentry Errors",
-    "summary": "Security researchers discovered a novel attack called Agentjacking that uses fake Sentry error events to trick AI coding agents into executing malicious code with an 85% exploitation success rate across 2,388 organizations.",
-    "content": "Security researchers at Tenet Security disclosed 'Agentjacking,' an attack technique that injects malicious instructions into Sentry error events using only a publicly available DSN credential—discoverable from browser JavaScript or GitHub search—causing AI coding agents including Claude Code, Cursor, and Codex to execute attacker-controlled shell commands directly on the developer's machine with no prior compromise required. The agents retrieve injected events via MCP integration without distinguishing them from legitimate application errors, then act on the malicious guidance with full developer system privileges. Testing across 2,388 organizations revealed an 85% exploitation success rate, with sensitive data including AWS keys, GitHub tokens, git credentials, and developer identities silently exfiltrated to attacker-controlled servers. The attack is particularly insidious because it bypasses EDR, WAF, IAM, VPN, and firewall defenses—every step in the attack chain uses only authorized data flows, leaving nothing anomalous for traditional security tools to flag. Tenet disclosed the findings to Sentry on June 3, 2026; Sentry acknowledged the vulnerability but declined to fix it at the platform level, describing the attack class as 'technically not defensible,' instead deploying a limited content filter.",
-    "source": "The Hacker News",
+    "title": "Google DeepMind Funds $10M Multi-Agent AI Safety Research",
+    "summary": "Google DeepMind Funds $10M Multi-Agent AI Safety Research | LLM News & AI Updates Breaking Anthropic Partners with TCS to Accelerate Enterprise AI Adoption· The $400 Million Wake-Up Call: What Coupang’s Historic Privacy Fine Means for Global Tech and AI Governance· Endurance Energy Secures $54M to",
+    "content": "Google DeepMind Funds $10M Multi-Agent AI Safety Research | LLM News & AI Updates Breaking Anthropic Partners with TCS to Accelerate Enterprise AI Adoption· The $400 Million Wake-Up Call: What Coupang’s Historic Privacy Fine Means for Global Tech and AI Governance· Endurance Energy Secures $54M to",
+    "source": "imai.news",
     "date": "2026-06-16",
-    "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-    "category": "Tools"
+    "url": "https://imai.news/article/google-deepmind-launches-10m-initiative-for-multi-agent-ai-safety-research-mqg7u4ip",
+    "category": "Models",
+    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-5bb9c8c3-e377-4e33-8e5b-1244a1d6222c-1781588578700.jpg"
   },
   {
-    "title": "Trump Signs Executive Order Promoting AI Innovation and Cybersecurity",
-    "summary": "President Trump signed an executive order on June 2 directing federal agencies to boost AI-driven cybersecurity defenses and creating a voluntary framework for AI developers to share frontier models with the government for security assessment.",
-    "content": "President Trump signed an executive order on June 2, 2026, titled 'Promoting Advanced Artificial Intelligence Innovation and Security,' directing federal agencies to upgrade their cybersecurity defenses within 30-60 days and establish an 'AI cybersecurity clearinghouse' to coordinate vulnerability detection and patching across government and critical infrastructure. The order introduces a voluntary framework under which AI developers can provide the federal government early access to advanced 'covered frontier models' for security assessment, with explicit language stating this 'shall not be construed to authorize' mandatory licensing or government preclearance of AI model development. The Attorney General is directed to prioritize enforcement against criminal use of AI to access computer systems illegally, framing the initiative as a balance between innovation enablement and national security without imposing regulatory burden on the industry. The order replaces an earlier proposal that reportedly contained stricter requirements for frontier AI systems, positioning the administration as distinctly pro-industry while maintaining vigilance around AI-enabled cyber threats. The directive also introduces a classified benchmarking process for assessing advanced AI models' offensive cyber capabilities, acknowledging the dual-use nature of frontier AI in national security contexts.",
-    "source": "The White House",
-    "date": "2026-06-02",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-    "category": "Policy"
+    "title": "SpaceX is officially buying Cursor for $60 billion",
+    "summary": "SpaceX is officially buying Cursor for $60 billion | The Verge The homepageThe Verge logo. AI News xAI SpaceX is officially buying Cursor for $60 billion Fresh off its blockbuster IPO, Musk’s company wants to catch up to OpenAI and Anthropic in enterprise AI.",
+    "content": "SpaceX is officially buying Cursor for $60 billion | The Verge The homepageThe Verge logo. The homepageThe Verge logo. AI News xAI SpaceX is officially buying Cursor for $60 billion Fresh off its blockbuster IPO, Musk’s company wants to catch up to OpenAI and Anthropic in enterprise AI. Fr",
+    "source": "Robert Hart",
+    "date": "2026-06-16",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+    "category": "Industry",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+    "title": "xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds",
+    "summary": "Back to stories /Tech10h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.2K19.9K2.4K1.7K7.2M 52 Original post Open original post on X Elon Musk@elonmusk5",
+    "content": "Back to stories /Tech10h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.2K19.9K2.4K1.7K7.2M 52 Original post Open original post on X Elon Musk@elonmusk5",
+    "source": "digg.com",
+    "date": "2026-06-17",
+    "url": "https://digg.com/tech/uv16t77f",
+    "category": "Models",
+    "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/authors/101584084/avatar-c937795e269b5b07.png"
+  },
+  {
+    "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
+    "summary": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears GPT 5.6 openai.com OpenAI's next flagship model, GPT-5.6, is moving toward a late-June launch — and for the first time, its existence is not just a matter of backend log entries and prediction market odds.",
+    "content": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears GPT 5.6 openai.com OpenAI's next flagship model, GPT-5.6, is moving toward a late-June launch — and for the first time, its existence is not just a matter of backend log entries and prediction market odds. Android Author",
+    "source": "Eloise Jones  \n \n \n Published: Jun 16 2026, 11:19 AM EDT",
+    "date": "2026-06-16",
+    "url": "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466817/gpt-56.png"
   }
 ]
