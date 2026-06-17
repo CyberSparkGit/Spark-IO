@@ -30,24 +30,14 @@
     "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-5bb9c8c3-e377-4e33-8e5b-1244a1d6222c-1781588578700.jpg"
   },
   {
-    "title": "SpaceX is officially buying Cursor for $60 billion",
-    "summary": "SpaceX is officially buying Cursor for $60 billion | The Verge The homepageThe Verge logo. AI News xAI SpaceX is officially buying Cursor for $60 billion Fresh off its blockbuster IPO, Musk’s company wants to catch up to OpenAI and Anthropic in enterprise AI.",
-    "content": "SpaceX is officially buying Cursor for $60 billion | The Verge The homepageThe Verge logo. The homepageThe Verge logo. AI News xAI SpaceX is officially buying Cursor for $60 billion Fresh off its blockbuster IPO, Musk’s company wants to catch up to OpenAI and Anthropic in enterprise AI. Fr",
-    "source": "Robert Hart",
-    "date": "2026-06-16",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-    "category": "Industry",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB355_SPACEX_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-  },
-  {
-    "title": "xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds",
-    "summary": "Back to stories /Tech10h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.2K19.9K2.4K1.7K7.2M 52 Original post Open original post on X Elon Musk@elonmusk5",
-    "content": "Back to stories /Tech10h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.2K19.9K2.4K1.7K7.2M 52 Original post Open original post on X Elon Musk@elonmusk5",
+    "title": "xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds · Digg",
+    "summary": "Back to stories /Tech14h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.4K22.8K2.7K1.9K8.9M Open Brian Roemmele on digg Open Zhiting Hu on digg Open Guodon",
+    "content": "Back to stories /Tech14h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.4K22.8K2.7K1.9K8.9M Open Brian Roemmele on digg Open Zhiting Hu on digg Open Guodon",
     "source": "digg.com",
     "date": "2026-06-17",
     "url": "https://digg.com/tech/uv16t77f",
     "category": "Models",
-    "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/authors/101584084/avatar-c937795e269b5b07.png"
+    "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/cluster-share-cards/6045486c-7ffd-41cd-bf21-148bd0f07ab8/1781718121167.png"
   },
   {
     "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
@@ -58,5 +48,15 @@
     "url": "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
     "category": "Models",
     "image": "https://d.techtimes.com/en/full/466817/gpt-56.png"
+  },
+  {
+    "title": "DiffusionGemma: Google DeepMind's 4x Faster Text Generation AI",
+    "summary": "DiffusionGemma: Google DeepMind's 4x Faster Text Generation AI | LLM News & AI Updates Breaking Visa Powers Autonomous AI Agents for Seamless Retail Transactions· OpenAI Joins EU Initiative to Enhance AI Transparency and Provenance· The Atomic Foundation of Intelligence: Why China’s Nuclear Surge",
+    "content": "DiffusionGemma: Google DeepMind's 4x Faster Text Generation AI | LLM News & AI Updates Breaking Visa Powers Autonomous AI Agents for Seamless Retail Transactions· OpenAI Joins EU Initiative to Enhance AI Transparency and Provenance· The Atomic Foundation of Intelligence: Why China’s Nuclear Surge",
+    "source": "imai.news",
+    "date": "2026-06-15",
+    "url": "https://imai.news/article/diffusiongemma-achieves-4x-faster-text-generation-mqf569v0",
+    "category": "Models",
+    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-d89359cd-f6cf-4f64-9809-00b7dd657a62-1781523640209.jpg"
   }
 ]
