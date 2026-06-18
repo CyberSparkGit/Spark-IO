@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro",
-    "summary": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
-    "content": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
-    "source": "Editorial Team",
+    "title": "SpaceX Acquires AI Coding Platform Cursor for $60 Billion",
+    "summary": "SpaceX agreed to acquire Cursor, the popular AI-powered coding assistant, in a $60 billion all-stock deal just days after its landmark IPO.",
+    "content": "SpaceX agreed to acquire AI coding startup Cursor in a $60 billion all-stock transaction, finalized just days after SpaceX's landmark IPO on June 12, 2026. The deal aims to strengthen SpaceX's AI division—merged with Elon Musk's xAI earlier in 2026—and gain access to Cursor's large developer user base and growing enterprise revenue of $2.6–4 billion annualized. Cursor's parent company Anysphere had raised $900 million in Series C funding and was valued near $29 billion before SpaceX intervened, having been preparing to close a new $2 billion round at a $50 billion valuation from Andreessen Horowitz and Nvidia. SpaceX stock surged from its $135 IPO price to over $200 in pre-market trading, adding approximately $1 trillion in market value. The acquisition is expected to close in Q3 2026, pending regulatory approval.",
+    "source": "TechCrunch",
     "date": "2026-06-16",
-    "url": "https://cryptobriefing.com/anthropic-claude-fable-5-epoch-capabilities-index/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15201706/anthropic-claude-screenshot-12-800x420.jpeg"
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "category": "Industry"
   },
   {
-    "title": "Unlocking UK house-building with AI-accelerated planning — Google DeepMind",
-    "summary": "Unlocking UK house-building with AI-accelerated planning — Google DeepMind June 16, 2026 Responsibility & Safety Unlocking UK house-building with AI-accelerated planning Owen Larter and David Thacker Share New UK government AI planning prototype built with Gemini aims to halve the time it tak",
-    "content": "Unlocking UK house-building with AI-accelerated planning — Google DeepMind June 16, 2026 Responsibility & Safety Unlocking UK house-building with AI-accelerated planning Owen Larter and David Thacker Share New UK government AI planning prototype built with Gemini aims to halve the time it tak",
-    "source": "Owen Larter and David Thacker",
-    "date": "2026-06-16",
-    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "category": "Models",
-    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw"
+    "title": "Anthropic Confidentially Files for IPO at $965 Billion Valuation",
+    "summary": "Anthropic submitted a confidential IPO filing with the SEC, positioning the Claude maker as one of the world's most valuable companies ahead of a potential fall public offering.",
+    "content": "Anthropic confidentially filed with the U.S. Securities and Exchange Commission for a proposed initial public offering on June 1, 2026, after raising $65 billion in private funding at a $965 billion valuation—surpassing rival OpenAI's reported $852 billion valuation. The five-year-old Claude maker is now generating $47 billion in annualized revenue and is on pace for its first profitable quarter, reporting an expected $10.9 billion in Q2 2026 revenue. Top analysts called the filing 'the opening of the floodgates for the AI IPO market,' with dot-com bubble comparisons flying across Wall Street. Anthropic would potentially leapfrog longtime rival OpenAI in racing toward a Wall Street debut as early as fall 2026. The move reflects a broader wave of AI infrastructure companies testing public markets amid soaring enterprise demand for AI services.",
+    "source": "Fortune",
+    "date": "2026-06-01",
+    "url": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/",
+    "category": "Industry"
   },
   {
-    "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-    "summary": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem | VentureBeat Featured Michael Nuñez 12:00 pm, PT, June 17, 2026 Credit: Anthropic Add to Google Preferred Source When Anthropic quietly released Claude Design in",
-    "content": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem | VentureBeat Featured Michael Nuñez 12:00 pm, PT, June 17, 2026 Credit: Anthropic Add to Google Preferred Source When Anthropic quietly released Claude Design in",
-    "source": "Michael Nuñez",
-    "date": "2026-06-17",
-    "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=800&q=75"
+    "title": "White House AI Executive Order Promotes Innovation While Barring Mandatory Licensing",
+    "summary": "The White House signed an executive order directing federal agencies to upgrade AI cybersecurity defenses while explicitly prohibiting mandatory government licensing of AI models.",
+    "content": "The executive order 'Promoting Advanced Artificial Intelligence Innovation and Security,' signed June 2, 2026, directs federal agencies to prioritize cyber defense of National Security Systems within 30 days and authorizes CISA to release directives protecting civilian government systems and critical infrastructure including rural hospitals, community banks, and local utilities. A Treasury-led AI cybersecurity clearinghouse will coordinate vulnerability scanning and patch distribution across government. The order establishes a voluntary framework where NSA and CISA will develop classified benchmarking to assess AI model capabilities and allow developers early federal access up to 30 days before public release. Critically, the order explicitly states 'Nothing in this section shall be construed to authorize a mandatory governmental licensing, preclearance, or permitting requirement,' drawing a sharp line against regulatory overreach. The administration framed the policy as balancing AI innovation with security through public-private collaboration rather than top-down mandates.",
+    "source": "The White House",
+    "date": "2026-06-02",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "category": "Policy"
   },
   {
-    "title": "Grok on Amazon Bedrock",
-    "summary": "Grok on Amazon Bedrock | xAI Back to news Jun 17, 2026 Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Today, we’re excited to announce that Grok 4.3 is now generally available on Amazon Bedrock.",
-    "content": "Grok on Amazon Bedrock | xAI Back to news Jun 17, 2026 Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Today, we’re excited to announce that Grok 4.3 is now generally available on Amazon Bedrock. Grok 4.3 achieves the lowest hallucination rate among frontier mod",
-    "source": "x.ai",
-    "date": "2026-06-17",
-    "url": "https://x.ai/news/grok-amazon-bedrock",
-    "category": "Models",
-    "image": "https://x.ai/images/news/grok-aws-bedrock.jpg"
+    "title": "Five Eyes Nations Issue First Joint Agentic AI Security Guidance",
+    "summary": "The intelligence agencies of the US, UK, Australia, Canada, and New Zealand jointly published landmark guidance warning that autonomous AI agents inside critical infrastructure pose urgent and underestimated security risks.",
+    "content": "The Five Eyes cybersecurity alliance—comprising CISA, NSA, Australia's ASD ACSC, Canada's Centre for Cyber Security, New Zealand's NCSC, and the UK's NCSC—jointly released guidance titled 'Careful Adoption of Agentic AI Services,' marking the first time all five nations have issued coordinated policy on a single AI attack surface. The guidance warns that autonomous AI systems capable of executing real-world network actions are already deployed within critical infrastructure, and most organizations are granting these systems access exceeding their monitoring and control capabilities. The document identifies five risk categories: privilege risk (excessive access grants), design flaws, behavioral risk (agents acting in unpredicted ways), structural risk (cascading failures across interconnected agents), and an accountability gap in decision-making audit trails. Agencies recommend applying zero trust and least-privilege principles to agentic AI, mandating verified cryptographic agent identities, and requiring human approval for high-impact actions. The guidance acknowledges the security field has not fully matured regarding these systems and calls for continued international research collaboration.",
+    "source": "CyberScoop",
+    "date": "2026-05-01",
+    "url": "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
+    "category": "Policy"
   },
   {
-    "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
-    "summary": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears GPT 5.6 openai.com OpenAI's next flagship model, GPT-5.6, is moving toward a late-June launch — and for the first time, its existence is not just a matter of backend log entries and prediction market odds.",
-    "content": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears GPT 5.6 openai.com OpenAI's next flagship model, GPT-5.6, is moving toward a late-June launch — and for the first time, its existence is not just a matter of backend log entries and prediction market odds. Android Author",
-    "source": "Eloise Jones  \n \n \n Published: Jun 16 2026, 11:19 AM EDT",
-    "date": "2026-06-16",
-    "url": "https://www.techtimes.com/articles/318492/20260616/gpt-56-openai-chief-scientist-calls-it-meaningful-leap-june-launch-nears.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466817/gpt-56.png"
+    "title": "OpenAI Launches Six Codex Plugins Targeting White-Collar Enterprise Workers",
+    "summary": "OpenAI released six specialized Codex plugins designed to extend its AI platform into enterprise roles including data analytics, sales, equity investing, and investment banking.",
+    "content": "OpenAI released six industry-specific Codex plugins targeting data analytics, creative production, sales, product design, equity investing, and investment banking on June 2, 2026, moving the platform beyond software development into broader enterprise workflows. The company reported Codex now has more than 5 million weekly active users—up more than 6x since the desktop app launched in February—with knowledge workers comprising 20 percent of users and growing three times faster than developer users. New features include a Sites capability allowing Codex to output work as hosted interactive websites via partnerships with Wix, Figma, and Replit, and an Annotations feature enabling more targeted commands on specific document sections. The enterprise push follows OpenAI's launch of the OpenAI Deployment Company three weeks earlier, backed by over $4 billion in funding aimed at deeper business integration. The move mirrors initiatives from competitor Anthropic, which launched enterprise agent programs in February and May 2026.",
+    "source": "TechCrunch",
+    "date": "2026-06-02",
+    "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "category": "Tools"
   },
   {
-    "title": "DiffusionGemma: Google DeepMind's 4x Faster Text Generation AI",
-    "summary": "DiffusionGemma: Google DeepMind's 4x Faster Text Generation AI | LLM News & AI Updates Breaking Visa Powers Autonomous AI Agents for Seamless Retail Transactions· OpenAI Joins EU Initiative to Enhance AI Transparency and Provenance· The Atomic Foundation of Intelligence: Why China’s Nuclear Surge",
-    "content": "DiffusionGemma: Google DeepMind's 4x Faster Text Generation AI | LLM News & AI Updates Breaking Visa Powers Autonomous AI Agents for Seamless Retail Transactions· OpenAI Joins EU Initiative to Enhance AI Transparency and Provenance· The Atomic Foundation of Intelligence: Why China’s Nuclear Surge",
-    "source": "imai.news",
-    "date": "2026-06-15",
-    "url": "https://imai.news/article/diffusiongemma-achieves-4x-faster-text-generation-mqf569v0",
-    "category": "Models",
-    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-d89359cd-f6cf-4f64-9809-00b7dd657a62-1781523640209.jpg"
+    "title": "Microsoft Build 2026: Seven In-House MAI Models Signal Agent-First Era",
+    "summary": "Microsoft unveiled seven self-developed AI models at Build 2026, signaling its move away from exclusive reliance on OpenAI and the arrival of what it calls the 'agent-first' era.",
+    "content": "At Microsoft Build 2026, the company unveiled seven AI models trained from scratch without third-party distillation: MAI-Thinking-1 (flagship reasoning model), MAI-Code-1-Flash (a 5-billion-parameter model for GitHub Copilot), MAI-Image-2.5 (text-to-image generation with editing), MAI-Transcribe-1.5 (five times faster than competitors with support for 43 languages), and MAI-Voice-2 (natural speech in 15 languages). Microsoft introduced Scout, an always-on AI agent integrated with Teams that manages emails, calendars, and meetings, alongside the open-source Agent Control Specification (ACS) to govern cross-platform agent behavior. Security featured prominently, with Microsoft unveiling MXC (Microsoft Execution Containers) for system-level process isolation and Project Solara, an Android-based platform designed specifically for running AI agents rather than traditional apps. The Surface RTX Spark Dev Box delivers 1 Petaflop of AI computing power using NVIDIA's RTX Spark chip and 128GB unified memory for intensive AI development workloads. The announcements collectively position Microsoft as an independent AI model developer rather than primarily an OpenAI distribution partner.",
+    "source": "PANews",
+    "date": "2026-06-02",
+    "url": "https://www.panewslab.com/en/articles/019e8b42-434b-75bc-b75a-e84e401eae43",
+    "category": "Models"
   }
 ]
