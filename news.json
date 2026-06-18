@@ -1,15 +1,5 @@
 [
   {
-    "title": "Meta's $14 Billion AI Bet Faces a Credibility Crisis: Why Engineers Still Prefer Claude",
-    "summary": "Meta's $14 Billion AI Bet Faces a Credibility Crisis: Why Engineers Still Prefer Claude | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT's Data Security Problem: How 410 Million Policy Violations Happened in One Year Large Language Models·1h ago Perplexity's Founder Sa",
-    "content": "Meta's $14 Billion AI Bet Faces a Credibility Crisis: Why Engineers Still Prefer Claude | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT's Data Security Problem: How 410 Million Policy Violations Happened in One Year Large Language Models·1h ago Perplexity's Founder Sa",
-    "source": "FrontierNews.ai",
-    "date": "2026-06-15",
-    "url": "https://www.frontiernews.ai/news/article/metas-14-billion-ai-bet-faces-a-credibility-crisis-c4dbda69",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Meta%27s%20%2414%20Billion%20AI%20Bet%20Faces%20a%20Credibility%20Crisis%3A%20Why%20Engineers%20Still%20Prefer%20Claude&topic=Notable%20People"
-  },
-  {
     "title": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro",
     "summary": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
     "content": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
@@ -20,24 +10,34 @@
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15201706/anthropic-claude-screenshot-12-800x420.jpeg"
   },
   {
-    "title": "Google DeepMind Funds $10M Multi-Agent AI Safety Research",
-    "summary": "Google DeepMind Funds $10M Multi-Agent AI Safety Research | LLM News & AI Updates Breaking Anthropic Partners with TCS to Accelerate Enterprise AI Adoption· The $400 Million Wake-Up Call: What Coupang’s Historic Privacy Fine Means for Global Tech and AI Governance· Endurance Energy Secures $54M to",
-    "content": "Google DeepMind Funds $10M Multi-Agent AI Safety Research | LLM News & AI Updates Breaking Anthropic Partners with TCS to Accelerate Enterprise AI Adoption· The $400 Million Wake-Up Call: What Coupang’s Historic Privacy Fine Means for Global Tech and AI Governance· Endurance Energy Secures $54M to",
-    "source": "imai.news",
+    "title": "Unlocking UK house-building with AI-accelerated planning — Google DeepMind",
+    "summary": "Unlocking UK house-building with AI-accelerated planning — Google DeepMind June 16, 2026 Responsibility & Safety Unlocking UK house-building with AI-accelerated planning Owen Larter and David Thacker Share New UK government AI planning prototype built with Gemini aims to halve the time it tak",
+    "content": "Unlocking UK house-building with AI-accelerated planning — Google DeepMind June 16, 2026 Responsibility & Safety Unlocking UK house-building with AI-accelerated planning Owen Larter and David Thacker Share New UK government AI planning prototype built with Gemini aims to halve the time it tak",
+    "source": "Owen Larter and David Thacker",
     "date": "2026-06-16",
-    "url": "https://imai.news/article/google-deepmind-launches-10m-initiative-for-multi-agent-ai-safety-research-mqg7u4ip",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "category": "Models",
-    "image": "https://qkabliffivitavkpbabd.supabase.co/storage/v1/object/public/media/generated/unsplash-5bb9c8c3-e377-4e33-8e5b-1244a1d6222c-1781588578700.jpg"
+    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw"
   },
   {
-    "title": "xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds · Digg",
-    "summary": "Back to stories /Tech14h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.4K22.8K2.7K1.9K8.9M Open Brian Roemmele on digg Open Zhiting Hu on digg Open Guodon",
-    "content": "Back to stories /Tech14h ago xAI releases Grok Imagine Video 1.5, including a fast model that generates 720p video in 25 seconds It includes multi-agent tools for consistent multi-shot narrative sequences. 3.4K22.8K2.7K1.9K8.9M Open Brian Roemmele on digg Open Zhiting Hu on digg Open Guodon",
-    "source": "digg.com",
+    "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
+    "summary": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem | VentureBeat Featured Michael Nuñez 12:00 pm, PT, June 17, 2026 Credit: Anthropic Add to Google Preferred Source When Anthropic quietly released Claude Design in",
+    "content": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem | VentureBeat Featured Michael Nuñez 12:00 pm, PT, June 17, 2026 Credit: Anthropic Add to Google Preferred Source When Anthropic quietly released Claude Design in",
+    "source": "Michael Nuñez",
     "date": "2026-06-17",
-    "url": "https://digg.com/tech/uv16t77f",
+    "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
     "category": "Models",
-    "image": "https://cnl5taoq5on9lswk.public.blob.vercel-storage.com/cluster-share-cards/6045486c-7ffd-41cd-bf21-148bd0f07ab8/1781718121167.png"
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=800&q=75"
+  },
+  {
+    "title": "Grok on Amazon Bedrock",
+    "summary": "Grok on Amazon Bedrock | xAI Back to news Jun 17, 2026 Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Today, we’re excited to announce that Grok 4.3 is now generally available on Amazon Bedrock.",
+    "content": "Grok on Amazon Bedrock | xAI Back to news Jun 17, 2026 Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Today, we’re excited to announce that Grok 4.3 is now generally available on Amazon Bedrock. Grok 4.3 achieves the lowest hallucination rate among frontier mod",
+    "source": "x.ai",
+    "date": "2026-06-17",
+    "url": "https://x.ai/news/grok-amazon-bedrock",
+    "category": "Models",
+    "image": "https://x.ai/images/news/grok-aws-bedrock.jpg"
   },
   {
     "title": "GPT-5.6: OpenAI Chief Scientist Calls It a Meaningful Leap, June Launch Nears",
