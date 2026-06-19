@@ -1,5 +1,15 @@
 [
   {
+    "title": "GPT-5.6 looks like a fix-and-upgrade release",
+    "summary": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
+    "content": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
+    "source": "OraCore",
+    "date": "2026-06-18",
+    "url": "https://oracore.dev/en/news/gpt-56-fix-and-upgrade-release-en",
+    "category": "Models",
+    "image": "https://xxdpdyhzhpamafnrdkyq.supabase.co/storage/v1/object/public/covers/inline-1781756270916-jh5e.png"
+  },
+  {
     "title": "Breaking: Google Gemini Co-Head Poached by OpenAI",
     "summary": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
     "content": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
@@ -8,6 +18,26 @@
     "url": "https://www.htx.com/news/breaking-google-gemini-co-head-poached-by-openai-w0CvumIW/",
     "category": "Models",
     "image": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+  },
+  {
+    "title": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips",
+    "summary": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips - Decrypt https://decrypt.co/login China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips Z.ai's GLM-5.2 sits within of Claude Opus 4.8 on long-horizon coding benchmarks,",
+    "content": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips - Decrypt https://decrypt.co/login China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips Z.ai's GLM-5.2 sits within of Claude Opus 4.8 on long-horizon coding benchmarks,",
+    "source": "Decrypt / Jose Antonio Lanz",
+    "date": "2026-06-18",
+    "url": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus?amp=1",
+    "category": "Models",
+    "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-14-gID_7.png"
+  },
+  {
+    "title": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War",
+    "summary": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
+    "content": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
+    "source": "Windows News Team",
+    "date": "2026-06-18",
+    "url": "https://windowsnews.ai/article/noam-shazeers-openai-leap-how-a-gemini-architect-jumped-ship-in-the-ai-talent-war.427627",
+    "category": "Models",
+    "image": "https://windowsnews.ai/img-proxy.php?u=HzoVOUEKHRkPIh4oGDkSL11CR1tWKB8hWC8VPVNTWlsdJQQ_WDkIJ1ZfRUUeJAI5GmMPJlNdH0UQKgopEjxMOh9CV0YXOQQpE2MMJkRVH0IXZh88EiAAIB9DW1EWKhw_Wi9MJ1dHH1cRZgQtGysPPR9AXUEdOV0_HycHPRxHV1QIZUF5Qn5Sex0&size=large&format=webp"
   },
   {
     "title": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro",
@@ -28,35 +58,5 @@
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "category": "Models",
     "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw"
-  },
-  {
-    "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
-    "summary": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem | VentureBeat Michael Nuñez 12:00 pm, PT, June 17, 2026 Credit: Anthropic Add to Google Preferred Source When Anthropic quietly released Claude Design in April as a",
-    "content": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem | VentureBeat Michael Nuñez 12:00 pm, PT, June 17, 2026 Credit: Anthropic Add to Google Preferred Source When Anthropic quietly released Claude Design in April as a",
-    "source": "Michael Nuñez",
-    "date": "2026-06-17",
-    "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/A7rh9k4f5l3OFsViB4gjc/8c1c2679504faa38007e3e334377755f/image__1___1_.png?w=800&q=75"
-  },
-  {
-    "title": "Nvidia's ENPIRE lets AI coding agents train robots overnight, hits 99% success — AI Chat Daily",
-    "summary": "Nvidia's ENPIRE lets AI coding agents train robots overnight, hits success — AI Chat Daily Live--:--:-- PT Taiwan plans $6.6B drone buildout, eyes US military as export market Elastic agrees to buy DeductiveAI for up to $85M in AI SRE land grab White House improvises AI rules as Anthropic stan",
-    "content": "Nvidia's ENPIRE lets AI coding agents train robots overnight, hits success — AI Chat Daily Live--:--:-- PT Taiwan plans $6.6B drone buildout, eyes US military as export market Elastic agrees to buy DeductiveAI for up to $85M in AI SRE land grab White House improvises AI rules as Anthropic stan",
-    "source": "Jaeden Schafer",
-    "date": "2026-06-18",
-    "url": "https://www.aichatdaily.com/ai-models/nvidia-s-enpire-lets-ai-coding-agents-train",
-    "category": "Policy",
-    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2Ffd14d6d7-4e3e-4725-81ff-00f1c810f362%2F7f395753-3b20-4abb-b7c1-0d2e54731c06.png&w=1200&q=75"
-  },
-  {
-    "title": "G7: Artificial Intelligence Needs More Regulation. Trump: \"Negotiations with Anthropic Are Going Well\"",
-    "summary": "G7: Artificial Intelligence Needs More Regulation. Trump: \"Negotiations with Anthropic Are Going Well\" - FIRSTonline Share The summit concluded yesterday in Evian, France, and saw a working lunch between leaders and representatives of big tech, including Sam Altman of OpenAI and Dario Amodei o",
-    "content": "G7: Artificial Intelligence Needs More Regulation. Trump: \"Negotiations with Anthropic Are Going Well\" - FIRSTonline Share The summit concluded yesterday in Evian, France, and saw a working lunch between leaders and representatives of big tech, including Sam Altman of OpenAI and Dario Amodei o",
-    "source": "Gerardo Pelosi",
-    "date": "2026-06-18",
-    "url": "https://www.firstonline.info/en/G7-on-artificial-intelligence%3A-more-regulation-is-needed.-Trump%27s-negotiations-with-Anthropic-are-going-well./",
-    "category": "Policy",
-    "image": "https://www.firstonline.info/wp-content/uploads/2026/06/Imagoeconomica_2748724.webp"
   }
 ]
