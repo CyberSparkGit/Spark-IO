@@ -1,56 +1,62 @@
 [
   {
-    "title": "AI CEOs Pitch G7 Leaders on Global AI Standards Forum",
-    "summary": "OpenAI, Anthropic, and Google DeepMind CEOs proposed a US-led international forum for establishing global AI standards at the G7 summit in France.",
-    "content": "At a G7 summit lunch on June 17, 2026, leading AI executives including OpenAI's Sam Altman, Anthropic's Dario Amodei, Google DeepMind's Demis Hassabis, and Meta's Alexandr Wang met with world leaders to propose an international forum for governing advanced AI models. OpenAI's Chris Lehane described broad agreement among countries and companies about creating such a forum to enable democratic nations to collaborate on AI governance. Canadian Prime Minister Mark Carney drew a parallel to the Financial Stability Board, suggesting a similar institutional model for AI oversight. Anthropic CEO Amodei urged international cooperation on structured access to frontier models and chip trade that excludes China. The discussions reflect growing consensus that coordinated international frameworks are necessary to manage rapidly advancing AI technologies.",
-    "source": "Semafor",
-    "date": "2026-06-17",
-    "url": "https://www.semafor.com/article/06/17/2026/ai-ceos-talk-global-standards-at-g7",
-    "category": "Policy"
-  },
-  {
-    "title": "Claude Fable 5 Restored After 6-Day Government Shutdown",
-    "summary": "Anthropic's most advanced AI model came back online after a White House-ordered export ban triggered by national security concerns over SK Telecom ties and model vulnerabilities.",
-    "content": "Claude Fable 5 was restored on June 18, 2026, following six days of government-forced shutdown and negotiations between Anthropic technical staff and White House officials. The model was taken offline on June 12 after two converging concerns: the White House requested access revocation for SK Telecom — a $100M Anthropic investor suspected of ties to China — and Amazon researchers separately identified potential vulnerabilities in the model. Anthropic CEO Dario Amodei declined an ultimatum from White House AI advisor David Sacks to voluntarily de-deploy Fable 5, prompting a formal export control directive. The shutdown set a landmark precedent, demonstrating that governments can disable frontier AI models globally within hours and causing widespread enterprise workflow disruption with no advance warning. The episode highlights the growing collision between national security policy and commercial AI deployment at the frontier level.",
-    "source": "Build Fast With AI",
+    "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+    "summary": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises | VentureBeat Featured Carl Franzen 4:18 pm, PT, June 18, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source Anthropic announced a potentia",
+    "content": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises | VentureBeat Featured Carl Franzen 4:18 pm, PT, June 18, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source Anthropic announced a potentia",
+    "source": "Carl Franzen",
     "date": "2026-06-18",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-18-2026",
-    "category": "Policy"
+    "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+    "category": "Models",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=800&q=75"
   },
   {
-    "title": "Google Deploys Gemini 2.5 Flash as Default Across All Products",
-    "summary": "Google made Gemini 2.5 Flash its default AI model across the Gemini app, Search, Workspace, and Android, prioritizing speed and ubiquity over raw benchmark performance.",
-    "content": "Google deployed Gemini 2.5 Flash as the default model across all Gemini products on June 18, 2026, including the Gemini app, Google Search, Workspace, and Android assistants. The move prioritizes speed and efficiency over raw benchmark performance, with the model delivering 284 tokens per second output speed and a one-million-token context window. The strategic shift leverages Google's massive distribution advantage — 3.5 billion Android devices and 3 billion Chrome browsers — aiming to establish Gemini as the ubiquitous AI layer before Apple's competing AI assistant launches later this year. By choosing responsiveness over raw power, Google is betting that default presence at scale will prove more durable than top benchmark rankings. The decision effectively makes Gemini 2.5 Flash one of the most widely deployed AI models in history by sheer default user reach.",
-    "source": "Build Fast With AI",
+    "title": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days",
+    "summary": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days Codex openai.com OpenAI extended its most autonomous developer tooling to users in the European Economic Area, the United Kingdom, and Switzerland on Tuesday, June 16, pushing four capabilities that had bee",
+    "content": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days Codex openai.com OpenAI extended its most autonomous developer tooling to users in the European Economic Area, the United Kingdom, and Switzerland on Tuesday, June 16, pushing four capabilities that had bee",
+    "source": "Jerry Owens  \n \n \n Published: Jun 18 2026, 20:15 PM EDT",
+    "date": "2026-06-19",
+    "url": "https://www.techtimes.com/articles/318664/20260618/openai-codex-reaches-europe-computer-use-memories-gpt-45-exits-chatgpt-9-days.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466503/codex.png"
+  },
+  {
+    "title": "GPT-5.6 looks like a fix-and-upgrade release",
+    "summary": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
+    "content": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
+    "source": "OraCore",
     "date": "2026-06-18",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-18-2026",
-    "category": "Models"
+    "url": "https://oracore.dev/en/news/gpt-56-fix-and-upgrade-release-en",
+    "category": "Models",
+    "image": "https://xxdpdyhzhpamafnrdkyq.supabase.co/storage/v1/object/public/covers/inline-1781756270916-jh5e.png"
   },
   {
-    "title": "Anthropic Opens Seoul Office with Major Korean Enterprise Deployments",
-    "summary": "Anthropic inaugurated its Seoul office with simultaneous AI deployments across NAVER, Samsung SDS, and LG CNS, marking its biggest Asia-Pacific commercial milestone to date.",
-    "content": "Anthropic opened its Seoul office on June 17-18, 2026, announcing simultaneous AI deployments across major Korean enterprises despite the ongoing Fable 5 export controversy. NAVER deployed Claude Code across thousands of engineers, while Samsung SDS and LG CNS expanded Claude access across their entire conglomerate structures; gaming and tech firms Nexon, Hanwha, and Channel Corp also announced significant adoption. Anthropic's Managing Director of International, Chris Ciauri, called it 'the most commercially significant day in Anthropic's Asia-Pacific history.' Simultaneously, Anthropic signed an MOU with South Korea's Ministry of Science and ICT establishing cooperation on Korean-language model safety evaluations and AI-enabled cybersecurity research, with access extended to 60 researchers across KAIST, Korea University, Yonsei, and POSTECH. The expansion signals Anthropic's aggressive global growth strategy and underscores that enterprise confidence in its platform remains strong even amid regulatory turbulence.",
-    "source": "Build Fast With AI",
+    "title": "Breaking: Google Gemini Co-Head Poached by OpenAI",
+    "summary": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
+    "content": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
+    "source": "htx.com",
     "date": "2026-06-18",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-19-2026",
-    "category": "Industry"
+    "url": "https://www.htx.com/news/breaking-google-gemini-co-head-poached-by-openai-w0CvumIW/",
+    "category": "Models",
+    "image": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
   },
   {
-    "title": "June 2026 Becomes the Biggest AI Model Launch Month in History",
-    "summary": "Google's Gemini 3.5 Pro, xAI's Grok 5, Anthropic's Fable 5, and OpenAI's GPT-5.5 all shipped within the same month, collapsing the frontier model competitive cycle from quarters to weeks.",
-    "content": "June 2026 saw an unprecedented wave of frontier AI model launches, with Google's Gemini 3.5 Pro, xAI's Grok 5, Anthropic's Fable 5 and Mythos 5, and OpenAI's GPT-5.5 all releasing within the same month alongside NVIDIA's Nemotron 3 Ultra (550B), Microsoft's MAI-Code-1-Flash, and Zhipu AI's GLM-5.2. Analysis reveals that 'the gap between first and fourth place has shrunk to statistical noise on most evaluations,' indicating that meaningful performance differentiation has largely disappeared among frontier models. The compressed timeline signals that competitive advantages at the model layer now last only weeks rather than quarters, fundamentally reshaping how AI companies think about defensibility. Experts draw parallels to historical technology cycles like the browser wars and cloud computing, noting that winners will be decided not by benchmark scores but by developer experience, distribution, and enterprise relationships. The real defensible assets are now proprietary data, fine-tuning pipelines, user experience, and distribution — not the underlying model weights themselves.",
-    "source": "Value Add VC",
-    "date": "2026-06-15",
-    "url": "https://valueaddvc.com/pulse/june-2026-biggest-ai-model-launch-month-ever",
-    "category": "Models"
+    "title": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War",
+    "summary": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
+    "content": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
+    "source": "Windows News Team",
+    "date": "2026-06-18",
+    "url": "https://windowsnews.ai/article/noam-shazeers-openai-leap-how-a-gemini-architect-jumped-ship-in-the-ai-talent-war.427627",
+    "category": "Models",
+    "image": "https://windowsnews.ai/img-proxy.php?u=HzoVOUEKHRkPIh4oGDkSL11CR1tWKB8hWC8VPVNTWlsdJQQ_WDkIJ1ZfRUUeJAI5GmMPJlNdH0UQKgopEjxMOh9CV0YXOQQpE2MMJkRVH0IXZh88EiAAIB9DW1EWKhw_Wi9MJ1dHH1cRZgQtGysPPR9AXUEdOV0_HycHPRxHV1QIZUF5Qn5Sex0&size=large&format=webp"
   },
   {
-    "title": "79% of Enterprises Face AI Adoption Challenges Despite Record Investment",
-    "summary": "A global survey of 1,550 AI decision-makers finds that while AI is widely deployed, only 10% of companies say it is truly core to their operations — revealing a deepening readiness gap.",
-    "content": "Publicis Sapient's 2026 Global Enterprise AI Report found that while 73% of surveyed decision-makers say AI is used regularly across most business processes, only 10% consider it truly core to how their organization operates. The gap between adoption and readiness widened significantly from 2025, with 79% of organizations facing challenges in scaling AI — a double-digit increase year-over-year — and 54% of C-suite executives admitting that AI adoption is creating serious internal organizational conflict. The research identifies structural barriers as the primary obstacle, with 42% of respondents acknowledging their organizations are simply 'not built to capture' the value AI creates. Regional variations reveal the U.K. leading with 51% reporting fundamental business transformation, while France lags at 24% due largely to data infrastructure constraints. The report concludes that enterprise success depends on redesigning operating models and modernizing legacy systems around AI, rather than simply deploying more tools on top of existing structures.",
-    "source": "Publicis Sapient",
-    "date": "2026-06-12",
-    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
-    "category": "Trends"
+    "title": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro",
+    "summary": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
+    "content": "Anthropic's Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro SEARCH Searching... Anthropic’s Claude Fable 5 scores 161 on Epoch Capabilities Index, surpassing GPT-5.5 Pro Anthropic's new Mythos-class model takes the top spot on AI benchmarks with dominant performan",
+    "source": "Editorial Team",
+    "date": "2026-06-16",
+    "url": "https://cryptobriefing.com/anthropic-claude-fable-5-epoch-capabilities-index/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15201706/anthropic-claude-screenshot-12-800x420.jpeg"
   }
 ]
