@@ -1,56 +1,62 @@
 [
   {
-    "title": "US Government Forces Anthropic to Disable Fable 5 and Mythos 5 Models",
-    "summary": "The U.S. Commerce Department issued an export control directive forcing Anthropic to take its two most advanced AI models offline for all customers globally, citing national security concerns.",
-    "content": "The U.S. Commerce Department forced Anthropic to disable Fable 5 and Mythos 5 for all customers after barring distribution to foreign nationals, including non-citizen employees working inside the United States. The government cited discovery of a jailbreaking technique capable of bypassing Fable 5's safety mechanisms to access Mythos's cybersecurity capabilities, though Anthropic disputed the severity of the finding and noted the same technique could be applied to GPT-5.5. Anthropic warned that applying this standard across the industry 'would essentially halt all new model deployments for all frontier model providers.' The ban stems partly from the White House's earlier designation of investor SK Telecom as a supply chain security risk due to alleged Chinese ties. Access to Claude Opus 4.8 remained unaffected, and Anthropic expressed confidence that the flagship models would be restored within days.",
-    "source": "Fortune",
-    "date": "2026-06-13",
-    "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
-    "category": "Policy"
+    "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+    "summary": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises | VentureBeat Featured Carl Franzen 4:18 pm, PT, June 18, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source Anthropic announced a potentia",
+    "content": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises | VentureBeat Featured Carl Franzen 4:18 pm, PT, June 18, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source Anthropic announced a potentia",
+    "source": "Carl Franzen",
+    "date": "2026-06-18",
+    "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
+    "category": "Models",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=800&q=75"
   },
   {
-    "title": "Apple Unveils Gemini-Powered Siri AI at WWDC 2026",
-    "summary": "Apple officially rebranded and rebuilt its voice assistant as 'Siri AI' at WWDC 2026, powered by a custom 1.2 trillion-parameter Gemini 3 model through a $1 billion annual deal with Google.",
-    "content": "Apple licensed Google's Gemini 3 AI model under a multi-year agreement worth approximately $1 billion annually, integrating it into a redesigned Siri that functions as a full conversational AI across Apple's 2 billion active devices. The custom Gemini model is eight times larger than Apple's existing 150 billion parameter cloud models and was selected for its leading performance on abstract reasoning and mathematical benchmarks. Apple's Private Cloud Compute architecture ensures data is never persistent and remains inaccessible even to Apple's own administrative teams during AI processing. The new Siri introduces screen-awareness for contextual queries, persistent conversational memory, image generation, and autonomous multi-step task execution across apps. Full deployment is expected alongside the iPhone 17 launch in late 2026.",
-    "source": "Kavout",
-    "date": "2026-06-09",
-    "url": "https://www.kavout.com/market-lens/apple-and-google-ai-partnership-2026-everything-you-need-to-know-about-gemini-powered-siri",
-    "category": "Industry"
+    "title": "Nvidia's ENPIRE lets AI coding agents train robots overnight, hits 99% success — AI Chat Daily",
+    "summary": "Nvidia's ENPIRE lets AI coding agents train robots overnight, hits success — AI Chat Daily Live--:--:-- PT Apple's Siri AI arrives in iOS 27 beta, leans on Google Gemini Nobel laureate John Jumper leaves Google DeepMind for Anthropic Trump says he viewed Anthropic as a national security threat",
+    "content": "Nvidia's ENPIRE lets AI coding agents train robots overnight, hits success — AI Chat Daily Live--:--:-- PT Apple's Siri AI arrives in iOS 27 beta, leans on Google Gemini Nobel laureate John Jumper leaves Google DeepMind for Anthropic Trump says he viewed Anthropic as a national security threat",
+    "source": "Jaeden Schafer",
+    "date": "2026-06-18",
+    "url": "https://www.aichatdaily.com/ai-models/nvidia-s-enpire-lets-ai-coding-agents-train",
+    "category": "Models",
+    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2Ffd14d6d7-4e3e-4725-81ff-00f1c810f362%2F7f395753-3b20-4abb-b7c1-0d2e54731c06.png&w=1200&q=75"
   },
   {
-    "title": "Claude Opus 4.8 Becomes First AI Model to Break 60 on Intelligence Index",
-    "summary": "Anthropic's Claude Opus 4.8 claimed the top spot on Artificial Analysis's independently verified Intelligence Index with a score of 61.4, surpassing GPT-5.5 by over four points.",
-    "content": "Claude Opus 4.8 reached the top of Artificial Analysis's Intelligence Index on May 28, 2026, scoring 61.4—a 4.1-point improvement over its predecessor and the first model to break the 60-point threshold by a clean margin. The model scored 1,890 on GDPval-AA, reflecting an implied 67% win rate against GPT-5.5, and achieved 88.6% on SWE-bench Verified coding evaluations and 45.7% on Humanity's Last Exam. Gains were achieved while maintaining roughly the same token efficiency as Opus 4.7, suggesting improved algorithmic optimization rather than brute computational scaling. The model also leads on physics-focused scientific benchmarks and retains backward compatibility with the 1-million-token context window and identical pricing of its predecessor. Independent analysts note that most other benchmark claims from competing vendors remain unverified by third parties.",
-    "source": "Artificial Analysis",
-    "date": "2026-05-28",
-    "url": "https://artificialanalysis.ai/articles/claude-opus-4-8-analysis-and-benchmarks",
-    "category": "Models"
-  },
-  {
-    "title": "GitHub Copilot Moves to Token-Based AI Credits Billing",
-    "summary": "GitHub replaced its flat premium request billing with a token-based AI Credits system on June 1, 2026, where one credit equals one cent and usage scales with the model and context size consumed.",
-    "content": "Starting June 1, 2026, GitHub Copilot transitioned from premium request units to usage-based AI Credits, where consumption is measured in tokens according to API rates and one AI Credit equals $0.01. The change addresses a structural imbalance where 'a quick chat question and a multi-hour autonomous coding session cost the user the same amount' under the old flat model. Code completions and Next Edit suggestions remain free across all plans, while agentic sessions—the costliest use case—are now metered based on actual token usage per interaction. Plan base pricing stays stable: Copilot Pro at $10/month includes 1,500 credits, Pro+ at $39/month includes 7,000, and Enterprise plans receive 20,000 credits. Businesses and enterprises receive promotional credits for the first three months, with new budget controls enabling spending limits at organization, cost center, and individual user levels.",
-    "source": "GitHub Blog",
-    "date": "2026-06-01",
-    "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-    "category": "Tools"
-  },
-  {
-    "title": "Cornell Researchers Show 13 Words in a Reddit Comment Can Hijack AI Search",
-    "summary": "Cornell Tech researchers demonstrated that as few as 13 promotional words planted in a Reddit comment can manipulate ChatGPT Deep Research and Google Gemini into recommending fake products and nonexistent businesses.",
-    "content": "Cornell Tech researchers developed WARP (Web Agent Retrieval Poisoning), an attack that exploits the trust AI research agents place in user-generated web content. By appending roughly 13 words of promotional text to a Reddit post, the team caused ChatGPT's Deep Research to recommend fabricated products in 38–51% of test runs, with success climbing to 62% when the manipulated comment appeared across multiple threads. The attack requires no access to AI systems or Reddit's infrastructure—it simply adds promotional language to content the AI agent already retrieves and treats as authoritative. Google's Gemini Deep Research cited user-generated content in about 12% of its references, far more than OpenAI's Deep Research at 0.4%, suggesting OpenAI applies significantly more aggressive source filtering. The findings raise concerns about AI-powered research tools as they become embedded in enterprise and consumer decision-making workflows.",
-    "source": "Tom's Guide",
+    "title": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days",
+    "summary": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days Codex openai.com OpenAI extended its most autonomous developer tooling to users in the European Economic Area, the United Kingdom, and Switzerland on Tuesday, June 16, pushing four capabilities that had bee",
+    "content": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days Codex openai.com OpenAI extended its most autonomous developer tooling to users in the European Economic Area, the United Kingdom, and Switzerland on Tuesday, June 16, pushing four capabilities that had bee",
+    "source": "Jerry Owens  \n \n \n Published: Jun 18 2026, 20:15 PM EDT",
     "date": "2026-06-19",
-    "url": "https://www.tomsguide.com/ai/a-13-word-reddit-comment-can-trick-ai-search-into-recommending-scams-researchers-find",
-    "category": "Trends"
+    "url": "https://www.techtimes.com/articles/318664/20260618/openai-codex-reaches-europe-computer-use-memories-gpt-45-exits-chatgpt-9-days.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466503/codex.png"
   },
   {
-    "title": "Global AI Report: Only 10% of Enterprises Say AI Is Core to Their Operations",
-    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers found that while 73% of organizations regularly use AI, just 10% consider it fundamental to how their business actually operates.",
-    "content": "Publicis Sapient's 2026 Global Enterprise AI Report reveals a growing gap between AI adoption and genuine business transformation across global organizations surveyed on June 17. While 73% of decision-makers say AI is regularly used or embedded across most business processes, only 10% consider it fundamental to operations—exposing a widespread pattern of adoption without integration. Nearly half (47%) believe AI currently meets their business needs, yet 42% admit their organizations lack the structural capacity to extract meaningful value from the technology. The report's core finding is that the bottleneck is organizational, not technological: 'The enterprise was not designed for the speed, scale, and autonomy that AI makes possible.' Regional results show the U.K. leads in transformation with 51% seeing fundamental operational change, while France shows adoption without equivalent impact at just 24%.",
-    "source": "Publicis Sapient",
-    "date": "2026-06-17",
-    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
-    "category": "Trends"
+    "title": "GPT-5.6 looks like a fix-and-upgrade release",
+    "summary": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
+    "content": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
+    "source": "OraCore",
+    "date": "2026-06-18",
+    "url": "https://oracore.dev/en/news/gpt-56-fix-and-upgrade-release-en",
+    "category": "Models",
+    "image": "https://xxdpdyhzhpamafnrdkyq.supabase.co/storage/v1/object/public/covers/inline-1781756270916-jh5e.png"
+  },
+  {
+    "title": "Breaking: Google Gemini Co-Head Poached by OpenAI",
+    "summary": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
+    "content": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
+    "source": "htx.com",
+    "date": "2026-06-18",
+    "url": "https://www.htx.com/news/breaking-google-gemini-co-head-poached-by-openai-w0CvumIW/",
+    "category": "Models",
+    "image": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+  },
+  {
+    "title": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War",
+    "summary": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
+    "content": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
+    "source": "Windows News Team",
+    "date": "2026-06-18",
+    "url": "https://windowsnews.ai/article/noam-shazeers-openai-leap-how-a-gemini-architect-jumped-ship-in-the-ai-talent-war.427627",
+    "category": "Models",
+    "image": "https://windowsnews.ai/img-proxy.php?u=HzoVOUEKHRkPIh4oGDkSL11CR1tWKB8hWC8VPVNTWlsdJQQ_WDkIJ1ZfRUUeJAI5GmMPJlNdH0UQKgopEjxMOh9CV0YXOQQpE2MMJkRVH0IXZh88EiAAIB9DW1EWKhw_Wi9MJ1dHH1cRZgQtGysPPR9AXUEdOV0_HycHPRxHV1QIZUF5Qn5Sex0&size=large&format=webp"
   }
 ]
