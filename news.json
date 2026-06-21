@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-    "summary": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises | VentureBeat Featured Carl Franzen 4:18 pm, PT, June 18, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source Anthropic announced a potentia",
-    "content": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises | VentureBeat Featured Carl Franzen 4:18 pm, PT, June 18, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source Anthropic announced a potentia",
-    "source": "Carl Franzen",
-    "date": "2026-06-18",
-    "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2rGZZLXFe3kRoiPC50Ycwv/a32853493a91cece13baf19f06f38fbb/ChatGPT_Image_Jun_18__2026__07_12_17_PM.png?w=800&q=75"
+    "title": "White House Signs Executive Order to Advance AI Innovation and Security",
+    "summary": "The Trump administration issued a sweeping AI executive order on June 2, 2026, prioritizing industry partnership over regulation while directing federal agencies to upgrade cybersecurity infrastructure.",
+    "content": "This June 2, 2026 executive order commits the administration to promote AI innovation and security by partnering with private industry rather than imposing heavy regulatory burdens on developers. Key directives include upgrading federal cybersecurity systems within 30-60 days, establishing an AI vulnerability clearinghouse coordinated across Treasury, Defense, and Homeland Security agencies, and creating a voluntary framework for assessing advanced AI models. The order explicitly prohibits mandatory government licensing requirements for AI model development and release, reflecting a deregulatory stance at the federal level. The administration also directed the Attorney General to establish a task force to challenge burdensome state AI laws and prioritized criminal enforcement against those misusing AI for fraud or unauthorized computer access.",
+    "source": "The White House",
+    "date": "2026-06-02",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "category": "Policy"
   },
   {
-    "title": "OpenAI eyes GPT-5.6 launch next week with 1.5M token context — AI Insiders",
-    "summary": "OpenAI eyes GPT-5.6 launch next week with 1.5M token context — AI Insiders Home/ Models/ OpenAI eyes GPT-5.6 launch next week with 1.5M t… MODELS OpenAI eyes GPT-5.6 launch next week with 1.5M token context Reported specs include a 50 percent larger context window, faster Codex responses, and",
-    "content": "OpenAI eyes GPT-5.6 launch next week with 1.5M token context — AI Insiders Home/ Models/ OpenAI eyes GPT-5.6 launch next week with 1.5M t… MODELS OpenAI eyes GPT-5.6 launch next week with 1.5M token context Reported specs include a 50 percent larger context window, faster Codex responses, and",
-    "source": "Alessandro Benigni",
-    "date": "2026-06-20",
-    "url": "https://aiinsiders.net/article/openai-eyes-gpt-56-launch-next-week-with-15m-token-context",
-    "category": "Models",
-    "image": "https://aiinsiders.net/featured/openai-eyes-gpt-56-launch-next-week-with-15m-token-context.png"
+    "title": "Microsoft Launches Seven In-House MAI Models to Reduce OpenAI Dependence",
+    "summary": "Microsoft unveiled a family of seven proprietary MAI models — including a reasoning model, coding assistant, image generator, and voice tools — designed to give enterprises alternatives to third-party AI providers.",
+    "content": "Microsoft announced a family of seven new MAI (Microsoft AI) models designed to work across real-world enterprise tasks and reduce reliance on OpenAI. The flagship MAI-Thinking-1 is a reasoning model that matches leading frontier models on key software engineering benchmarks and outperforms competitors in human evaluations. Supporting models include MAI-Code-1-Flash for software development, MAI-Image-2.5 for image generation and editing, MAI-Transcribe-1.5 for high-accuracy speech-to-text across 43 languages, and MAI-Voice-2 for natural speech synthesis. A major accompanying capability is Microsoft Frontier Tuning, which enables organizations to customize these models using their own workflow data, creating enterprise-specific AI systems that are significantly more efficient and cost-effective than general-purpose alternatives.",
+    "source": "Microsoft AI",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "category": "Models"
   },
   {
-    "title": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days",
-    "summary": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days Codex openai.com OpenAI extended its most autonomous developer tooling to users in the European Economic Area, the United Kingdom, and Switzerland on Tuesday, June 16, pushing four capabilities that had bee",
-    "content": "OpenAI Codex Reaches Europe With Computer Use and Memories, GPT-4.5 Exits ChatGPT in 9 Days Codex openai.com OpenAI extended its most autonomous developer tooling to users in the European Economic Area, the United Kingdom, and Switzerland on Tuesday, June 16, pushing four capabilities that had bee",
-    "source": "Jerry Owens  \n \n \n Published: Jun 18 2026, 20:15 PM EDT",
+    "title": "June 2026 Becomes the Biggest AI Model Launch Month Ever",
+    "summary": "With Google shipping Gemini 3.5 Pro, Anthropic launching Fable 5 and Mythos 5, and xAI releasing Grok 5 in a single month, June 2026 has compressed the AI competitive cycle to a matter of weeks.",
+    "content": "June 2026 witnessed an unprecedented wave of frontier AI model releases, with Google deploying Gemini 3.5 Pro, Anthropic launching Fable 5 and Mythos 5, and xAI releasing Grok 5, representing four major frontier launches within a single 30-day window. The significance lies in the dramatic compression of competitive advantage — model leadership now has a shelf life measured in weeks, not quarters, fundamentally altering how AI companies and their customers plan roadmaps. Performance gaps between these frontier models have narrowed to near-statistical equivalence on benchmark evaluations, signaling that foundational model capabilities are becoming increasingly commoditized. This acceleration reshapes startup strategy, as companies building atop these models can no longer rely on a single provider's technological superiority for defensibility, making flexible multi-provider API infrastructure the new strategic moat.",
+    "source": "Value Add Pulse",
     "date": "2026-06-19",
-    "url": "https://www.techtimes.com/articles/318664/20260618/openai-codex-reaches-europe-computer-use-memories-gpt-45-exits-chatgpt-9-days.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466503/codex.png"
+    "url": "https://valueaddvc.com/pulse/june-2026-biggest-ai-model-launch-month-ever",
+    "category": "Industry"
   },
   {
-    "title": "GPT-5.6 looks like a fix-and-upgrade release",
-    "summary": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
-    "content": "GPT-5.6 looks like a fix-and-upgrade release | OraCore.dev GPT-5.6 appears to be a late-June OpenAI release that mixes alignment fixes with new model gains. OpenAI has not announced GPT-5.6 yet, but one public clue is hard to ignore: Polymarket traders put $960,325 behind a June 22 to June 28 laun",
-    "source": "OraCore",
-    "date": "2026-06-18",
-    "url": "https://oracore.dev/en/news/gpt-56-fix-and-upgrade-release-en",
-    "category": "Models",
-    "image": "https://xxdpdyhzhpamafnrdkyq.supabase.co/storage/v1/object/public/covers/inline-1781756270916-jh5e.png"
+    "title": "EU AI Act, California SB 53, and Colorado Law Create Complex 2026 Compliance Landscape",
+    "summary": "A wave of AI laws taking effect in 2026 — spanning the EU, Colorado, and California — is forcing companies to navigate overlapping risk assessment, disclosure, and governance requirements across jurisdictions.",
+    "content": "The EU AI Act's most stringent requirements for high-risk applications become effective August 2, 2026, creating global compliance demands for AI tools used in employment, healthcare, education, and financial services. At the state level, California's SB 53 (Transparency in Frontier AI Act) requires developers of large frontier models to publish risk frameworks, report safety incidents, and implement whistleblower protections, with penalties reaching $1 million per violation for companies with over $500 million in revenue. Colorado replaced its original AI Act with the narrower SB 26-189, which regulates automated decision-making technology that materially influences consequential decisions, effective January 1, 2027. Consumer-facing AI regulations in California and New York now require clear disclosures when users interact with chatbots or face algorithmic pricing, with penalties up to $5,000 per violation, while the Trump administration simultaneously challenges certain state laws through federal litigation and funding restrictions.",
+    "source": "Gunderson Dettmer",
+    "date": "2026-06-10",
+    "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+    "category": "Policy"
   },
   {
-    "title": "Breaking: Google Gemini Co-Head Poached by OpenAI",
-    "summary": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
-    "content": "Breaking: Google Gemini Co-Head Poached by OpenAI | HTX Insights Breaking: Google Gemini Co-Head Poached by OpenAI marsbitPublished on 2026-06-18Last updated on 2026-06-18 Abstract In a significant industry move, Noam Shazeer, a former DeepMind researcher and co-lead of Google's Gemini pro",
-    "source": "htx.com",
-    "date": "2026-06-18",
-    "url": "https://www.htx.com/news/breaking-google-gemini-co-head-poached-by-openai-w0CvumIW/",
-    "category": "Models",
-    "image": "https://hbg-prod-fed-public.hbfile.net/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+    "title": "Survey: Only 10% of Enterprises Consider AI Core to Operations Despite Record Adoption",
+    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers finds that 73% of organizations use AI regularly, but only 10% have made it core to how their business actually operates.",
+    "content": "Publicis Sapient's global survey of 1,550 AI decision-makers reveals a deepening gap between widespread AI adoption and genuine organizational readiness. While 73% of enterprises report regular AI use across business processes, only 10% consider it core to operations — exposing a significant 'deployment without transformation' dynamic. The research identifies organizational structure as the primary bottleneck: 42% of companies acknowledge they lack the systems and workflows needed to capture AI's value, and 22% cite their operating model itself as the main barrier to success. CEO Nigel Vaz emphasized that 'deployment alone does not create advantage,' noting companies must redesign operations and workflows — not just add AI tools — to realize strategic benefits. Regional variation is stark, with the U.K. leading business transformation efforts at 51% while France lags behind at just 24% reporting fundamental change driven by AI.",
+    "source": "Publicis Sapient",
+    "date": "2026-06-11",
+    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
+    "category": "Trends"
   },
   {
-    "title": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War",
-    "summary": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
-    "content": "Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War - Windows News Live Noam Shazeer's OpenAI Leap: How a Gemini Architect Jumped Ship in the AI Talent War·MSFT +0.OpenAI Signs South Korea AI Safety Pact — Windows Admins Face New Compliance Reality·NVDA +0.Ope",
-    "source": "Windows News Team",
+    "title": "Snowflake Launches AI Agents for Knowledge Workers and Data Teams",
+    "summary": "Snowflake's June 2026 AI Pulse event introduced CoWork and CoCo — new AI agents targeting knowledge workers and data engineers — alongside Adaptive Compute for automatic workload scaling.",
+    "content": "Snowflake unveiled a suite of enterprise AI tools at its June 2026 AI Pulse product event, signaling a shift toward agentic capabilities embedded directly in the data cloud. The company introduced Snowflake CoWork, described as 'the secure personal agent for knowledge workers,' enabling employees to interact with enterprise data through natural language without leaving governed workflows. Alongside CoWork, Snowflake launched CoCo, a data-native AI coding agent that simplifies complex SQL and pipeline workflows through conversational interfaces, reducing the barrier for non-engineers to work with large datasets. The event also featured Adaptive Compute, which automatically scales performance based on evolving workloads, and enhanced Snowpark with optimized batch inference workflows that accelerate the path from AI experimentation to production deployment.",
+    "source": "Snowflake",
     "date": "2026-06-18",
-    "url": "https://windowsnews.ai/article/noam-shazeers-openai-leap-how-a-gemini-architect-jumped-ship-in-the-ai-talent-war.427627",
-    "category": "Models",
-    "image": "https://windowsnews.ai/img-proxy.php?u=HzoVOUEKHRkPIh4oGDkSL11CR1tWKB8hWC8VPVNTWlsdJQQ_WDkIJ1ZfRUUeJAI5GmMPJlNdH0UQKgopEjxMOh9CV0YXOQQpE2MMJkRVH0IXZh88EiAAIB9DW1EWKhw_Wi9MJ1dHH1cRZgQtGysPPR9AXUEdOV0_HycHPRxHV1QIZUF5Qn5Sex0&size=large&format=webp"
+    "url": "https://www.snowflake.com/en/ai-pulse/june-2026/",
+    "category": "Tools"
   }
 ]
