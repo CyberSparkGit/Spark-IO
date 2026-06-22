@@ -1,56 +1,62 @@
 [
   {
-    "title": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI",
-    "summary": "Noam Shazeer, co-author of the transformer architecture paper and Google's Gemini co-lead, has departed to join OpenAI as Lead for AI Architecture Research.",
-    "content": "Noam Shazeer, Vice President of Engineering and Gemini co-lead at Google DeepMind, announced on June 18, 2026 that he is leaving Google to join OpenAI as Lead for AI Architecture Research. Shazeer is best known as co-author of the landmark 2017 paper 'Attention Is All You Need,' which introduced the Transformer architecture that underpins virtually every major large language model today. Google had reportedly paid approximately $2.7 billion to bring him back from Character.AI just 22 months earlier, making this one of the most significant talent movements in AI history. OpenAI CEO Sam Altman welcomed Shazeer enthusiastically, calling him 'one of the people I have most wanted to work with' and noting the partnership was 'only 10 years in the making.' Shazeer's deep knowledge of Gemini's architectural strengths and weaknesses will now reside within OpenAI, potentially informing the company's next-generation model development.",
-    "source": "CNBC",
-    "date": "2026-06-18",
-    "url": "https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html",
-    "category": "Industry"
-  },
-  {
-    "title": "AI Regulation Is a Mess, and Anthropic Is Caught in the Crosshairs",
-    "summary": "The U.S. government's abrupt export control directive pulling Anthropic's Fable 5 offline reveals a dangerous lack of consistent AI governance frameworks.",
-    "content": "Anthropic's advanced Fable 5 model was swiftly removed from all customers after the Trump administration deemed it a national security risk following reports of a jailbreak vulnerability—a decision Anthropic publicly disagreed with. Because Anthropic could not filter foreign nationals from domestic users in real time, the company disabled both Fable 5 and Mythos 5 globally, leaving all subscribers without access. Fable 5 had demonstrated superior performance with 70% PASS@1 on the DeepSWE coding benchmark—three points ahead of GPT-5.5—before being taken offline. Experts warn this opaque regulatory approach could stifle American AI innovation, noting 'there is no transparent, consistent framework for regulating AI' in the United States. The incident has reignited urgent calls for clear, predictable AI governance protocols before regulatory unpredictability causes lasting damage to the sector.",
-    "source": "CNN",
+    "title": "What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT",
+    "summary": "OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT - Memeburn What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT OpenAI has not officially announced GPT 5.6, but prediction markets show odds for a late June launch.",
+    "content": "What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT - Memeburn What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT OpenAI has not officially announced GPT 5.6, but prediction markets show odds for a late June launch. Users report sharper",
+    "source": "Marko Nguyen",
     "date": "2026-06-21",
-    "url": "https://ktvz.com/money/cnn-business-consumer/2026/06/21/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
-    "category": "Policy"
+    "url": "https://memeburn.com/what-is-gpt-5-6-openais-next-ai-model-is-already-being-tested-inside-chatgpt/",
+    "category": "Models",
+    "image": "https://memeburn.com/wp-content/uploads/2026/06/What-Is-GPT-5.6-OpenAIs-Next-AI-Model-Is-Already-Being-Tested-Inside-ChatGPT.jpg"
   },
   {
-    "title": "China Plans $295 Billion Nationwide AI Infrastructure Buildout",
-    "summary": "Beijing is directing 2 trillion yuan toward a national network of AI data centers, deliberately mandating 80% domestic components to exclude NVIDIA and AMD.",
-    "content": "China is launching a state-backed program directing approximately 2 trillion yuan ($295 billion) toward AI infrastructure over five years, aiming to create a unified national computing environment by 2028 through interconnected data centers and hubs. The National Development and Reform Commission is coordinating the initiative, with state-owned providers China Mobile and China Telecom operating the bulk of facilities. A key strategic requirement mandates that Chinese suppliers provide at least 80% of all infrastructure components—including AI processors—effectively shutting out NVIDIA and AMD while benefiting domestic vendors like Huawei. Funding will flow primarily from sovereign debt, special government bonds, and state investment funds, though total investment could exceed 5 trillion yuan when electricity grid upgrades are included. The plan reflects Beijing's broader push for technological self-sufficiency amid intensifying US-China competition, accelerated by the US export control directive that disabled Anthropic's Fable 5 globally.",
-    "source": "Techstrong AI",
-    "date": "2026-06-12",
-    "url": "https://techstrong.ai/articles/china-plans-295-billion-ai-investment-focused-on-interconnected-network/",
-    "category": "Industry"
-  },
-  {
-    "title": "Google Gemini 3.1 Pro Tops AI Benchmarks While Cutting Costs",
-    "summary": "Gemini 3.1 Pro now leads the Artificial Analysis Intelligence Index, outperforming Claude Opus 4.6 by four points at less than half the cost of comparable models.",
-    "content": "Google's Gemini 3.1 Pro now leads the Artificial Analysis Intelligence Index, outperforming Anthropic's Claude Opus 4.6 by four points while operating at less than half the cost of top competitors from OpenAI and Anthropic. The model achieved the highest scores across six of ten evaluation parameters, with improvements spanning enhanced reasoning, advanced coding, reduced hallucinations, and superior performance on professional tasks. Brendan Foody, CEO of AI hiring platform Mercor, confirmed 'Gemini 3.1 Pro is now at the top of the APEX-Agents leaderboard,' having successfully completed five tasks no other model has achieved. This combination of benchmark leadership with significantly lower pricing positions Google as the primary choice for enterprise-scale AI integration. The release signals a new phase in the AI model race where cost efficiency is becoming as strategically important as raw capability.",
-    "source": "PROEVERYTHING",
-    "date": "2026-06-19",
-    "url": "https://proeverything.news/en/news/google-gemini-31-pro-leads-benchmarks-with-lower-costs",
-    "category": "Models"
-  },
-  {
-    "title": "Gemini 3.5 Flash: Google's New Default AI Built to Act, Not Just Answer",
-    "summary": "Google has made Gemini 3.5 Flash the default across Search AI Mode, the Gemini app, and Workspace in 200 countries, shifting AI from Q&A to autonomous multi-step task execution.",
-    "content": "Google unveiled Gemini 3.5 Flash as its new default AI model across Google Search AI Mode, the Gemini app, and Workspace features in nearly 200 countries and 98 languages. Unlike previous models focused on answering questions, Gemini 3.5 Flash is built for agentic workflows requiring planning and iteration across complex multi-step processes, delivering frontier-level performance at four times the speed of comparable models at less than half the cost. It powers Gemini Spark, a personal AI agent that continuously handles tasks like booking appointments and managing schedules with minimal human intervention. The model scores 76.2% on Terminal-bench 2.1 and 84.2% on CharXiv Reasoning, and through Google's Antigravity platform it can deploy multiple subagents in parallel to tackle demanding enterprise workloads. This marks a fundamental shift in how Google positions its AI—from a tool that answers queries to an agent that completes tasks.",
-    "source": "Digital Trends",
+    "title": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics",
+    "summary": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=5YeoCkrM_5zgyWTtFYFB732g3DRCWXBbLxLgBieDPSs-1782128588.2188628-1.2.1.1-CF91mWSgJSYZ4Z4tqNPygXitQP6VBM0w49wDV5fz_ks Sha",
+    "content": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=5YeoCkrM_5zgyWTtFYFB732g3DRCWXBbLxLgBieDPSs-1782128588.2188628-1.2.1.1-CF91mWSgJSYZ4Z4tqNPygXitQP6VBM0w49wDV5fz_ks Sha",
+    "source": "aitechnews.today",
     "date": "2026-06-21",
-    "url": "https://www.digitaltrends.com/computing/gemini-3-5-flash-is-googles-new-default-ai-model-and-its-built-to-act-not-just-answer/",
-    "category": "Models"
+    "url": "https://aitechnews.today/elon-musk-unveils-grok-3-as-xai-targets-ai-supremacy-perplexity-launches-deep-research-tool-and-meta-ventures-into-humanoid-robotics/",
+    "category": "Models",
+    "image": "https://aitechnews.today/wp-content/uploads/2025/02/7229a95c-0e6e-4adb-8576-8ed65ba0b703_output1.jpg"
   },
   {
-    "title": "June 2026 Is the Biggest AI Model Launch Month in History",
-    "summary": "Four frontier AI models launched within 30 days in June 2026, compressing competitive moats from years to weeks and turning AI models into commodity infrastructure.",
-    "content": "June 2026 saw an unprecedented concentration of frontier AI releases: Google shipped Gemini 3.5 Pro, Anthropic launched Fable 5 and Mythos 5, xAI released Grok 5, and Microsoft expanded its MAI model family—all within 30 days. According to a new analysis, 'the gap between first and fourth place has shrunk to statistical noise on most evaluations,' signaling that frontier model capabilities have effectively reached near-parity across providers. This compressed competitive timeline means switching costs between AI providers have dropped to near zero, making the integration layer—proprietary data, fine-tuning, and user experience—the only defensible asset for AI startups. The dynamics mirror the browser wars and early cloud computing era, where winners were ultimately determined by developer experience and enterprise relationships rather than marginal performance differences. This acceleration confirms that the AI model business has transitioned from a moat-based competition to a commodity-input market where builders must differentiate beyond the model itself.",
-    "source": "Value Add Pulse",
-    "date": "2026-06-20",
-    "url": "https://valueaddvc.com/pulse/june-2026-biggest-ai-model-launch-month-ever",
-    "category": "Trends"
+    "title": "OpenAI lands Samsung as major ChatGPT Enterprise customer",
+    "summary": "OpenAI lands Samsung as major ChatGPT Enterprise customer - The Korea Times 1. Tech & Science OpenAI lands Samsung as major ChatGPT Enterprise customer ListenListen Text Size Print By Lee Gyu-lee - Published Jun 22, 2026 2:43 pm KST OpenAI signs deal to supply ChatGPT, Codex",
+    "content": "OpenAI lands Samsung as major ChatGPT Enterprise customer - The Korea Times 1. Business 2. Tech & Science OpenAI lands Samsung as major ChatGPT Enterprise customer ListenListen Text Size Print By Lee Gyu-lee - Published Jun 22, 2026 2:43 pm KST OpenAI signs deal to supply ChatGPT, Codex",
+    "source": "koreatimes.co.kr",
+    "date": "2026-06-22",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260622/openai-lands-samsung-as-major-chatgpt-enterprise-customer",
+    "category": "Models",
+    "image": "https://newsimg.koreatimes.co.kr/2026/06/22/59fbd473-d471-4cf9-b988-8d0c3a236de0.jpg"
+  },
+  {
+    "title": "Meta Unveils ChatGPT Competitor at LamaCon, OpenAI Responds to User Concerns Amidst AI Code Revolution",
+    "summary": "Meta Unveils ChatGPT Competitor at LamaCon, OpenAI Responds to User Concerns Amidst AI Code Revolution - AI Tech News Today https://aitechnews.today/cdn-cgi/content?id=LPla2KKrsC7uv47W9Qg7Le3cIZLtQidZ0e2V8bcv_Uk-1782129193.8911185-1.2.1.1-nT7w445.1Z2R.D.Aoa2Tgi1kvxrMnStAR_OqbrSi1io Share your lo",
+    "content": "Meta Unveils ChatGPT Competitor at LamaCon, OpenAI Responds to User Concerns Amidst AI Code Revolution - AI Tech News Today https://aitechnews.today/cdn-cgi/content?id=LPla2KKrsC7uv47W9Qg7Le3cIZLtQidZ0e2V8bcv_Uk-1782129193.8911185-1.2.1.1-nT7w445.1Z2R.D.Aoa2Tgi1kvxrMnStAR_OqbrSi1io Share your lo",
+    "source": "aitechnews.today",
+    "date": "2026-06-21",
+    "url": "https://aitechnews.today/meta-unveils-chatgpt-competitor-at-lamacon-openai-responds-to-user-concerns-amidst-ai-code-revolution/",
+    "category": "Models",
+    "image": "https://aitechnews.today/wp-content/uploads/2025/05/ef871c4a-4c7c-49ee-8510-f37bc78891dc.webp"
+  },
+  {
+    "title": "Anthropic Ships Claude Fable 5 With 1M Context While Ruvi (RUVI)",
+    "summary": "Anthropic Ships Claude Fable 5 With 1M Context While Ruvi (RUVI) Press release Anthropic Ships Claude Fable 5 With 1M Context While Ruvi (RUVI) Opens 20+ AI Models at $0.028 Entry 06-22-2026 06:30 AM CET | Business, Economy, Finances, Banking & Insurance Press release from: Institutional Bu",
+    "content": "Anthropic Ships Claude Fable 5 With 1M Context While Ruvi (RUVI) Press release Anthropic Ships Claude Fable 5 With 1M Context While Ruvi (RUVI) Opens 20+ AI Models at $0.028 Entry 06-22-2026 06:30 AM CET | Business, Economy, Finances, Banking & Insurance Press release from: Institutional Bu",
+    "source": "Institutional Business Press",
+    "date": "2026-06-22",
+    "url": "https://www.openpr.com/news/4556605/anthropic-ships-claude-fable-5-with-1m-context-while-ruvi-ruvi",
+    "category": "Models",
+    "image": "https://cdn.open-pr.com/L/6/L622397101_g.jpg"
+  },
+  {
+    "title": "Google Releases Gemini 3 AI Model Gemini App",
+    "summary": "Google Releases Gemini 3 AI Model Gemini App Close Google has released Gemini 3, a new flagship AI model offering significant improvements in speed and reasoning capability. The model is now the default version in Google’s Gemini app, replacing Gemini 2.5 Flash, which Google developed for hig",
+    "content": "Google Releases Gemini 3 AI Model Gemini App Close Google has released Gemini 3, a new flagship AI model offering significant improvements in speed and reasoning capability. The model is now the default version in Google’s Gemini app, replacing Gemini 2.5 Flash, which Google developed for hig",
+    "source": "Protik Hossain",
+    "date": "2026-06-22",
+    "url": "https://inews.zoombangla.com/google-releases-gemini-3-with-major-speed-and-intelligence-gains/",
+    "category": "Models",
+    "image": "https://inews.zoombangla.com/wp-content/uploads/2026/02/Gemini.jpg"
   }
 ]
