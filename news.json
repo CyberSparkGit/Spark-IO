@@ -1,62 +1,56 @@
 [
   {
-    "title": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making",
-    "summary": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making Advertisement Advertisement Advertisement Advertisement Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making Noam Shazeer, Vice President of Engineering and Ge",
-    "content": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making Advertisement Advertisement Advertisement Advertisement Google Gemini Co-Lead Noam Shazeer Joins OpenAI—Sam Altman Says It's '10 Years' In The Making Noam Shazeer, Vice President of Engineering and Ge",
-    "source": "tech.yahoo.com",
-    "date": "2026-06-19",
-    "url": "https://tech.yahoo.com/ai/gemini/articles/google-gemini-co-lead-noam-223113611.html",
-    "category": "Models",
-    "image": "https://s.yimg.com/lo/mysterio/api/f07bd1199d11dab73ec5bda9d4d5ba249d1c647386ca28da378176edd75c9fa3/lightyear_networkapi/resizefill_h80;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2Fc8b99440-2b77-11eb-b7ac-5fcb20b6685c"
+    "title": "Google Gemini Co-Lead Noam Shazeer Joins OpenAI",
+    "summary": "Noam Shazeer, co-author of the transformer architecture paper and Google's Gemini co-lead, has departed to join OpenAI as Lead for AI Architecture Research.",
+    "content": "Noam Shazeer, Vice President of Engineering and Gemini co-lead at Google DeepMind, announced on June 18, 2026 that he is leaving Google to join OpenAI as Lead for AI Architecture Research. Shazeer is best known as co-author of the landmark 2017 paper 'Attention Is All You Need,' which introduced the Transformer architecture that underpins virtually every major large language model today. Google had reportedly paid approximately $2.7 billion to bring him back from Character.AI just 22 months earlier, making this one of the most significant talent movements in AI history. OpenAI CEO Sam Altman welcomed Shazeer enthusiastically, calling him 'one of the people I have most wanted to work with' and noting the partnership was 'only 10 years in the making.' Shazeer's deep knowledge of Gemini's architectural strengths and weaknesses will now reside within OpenAI, potentially informing the company's next-generation model development.",
+    "source": "CNBC",
+    "date": "2026-06-18",
+    "url": "https://www.cnbc.com/2026/06/18/google-gemini-co-lead-noam-shazeer-leaves-for-openai.html",
+    "category": "Industry"
   },
   {
-    "title": "MeitY Releases Draft Safety Framework for Humanoid Robots in India",
-    "summary": "MeitY Releases Draft Safety Framework for Humanoid Robots in India - RobotWale News India's humanoid robots library · Specs, prices, news and buying guides - no hype. info@robotwale.com Reviews & Opinion MeitY Releases Draft Safety Framework for Humanoid Robots in India - RobotWale News 📅 9 h",
-    "content": "MeitY Releases Draft Safety Framework for Humanoid Robots in India - RobotWale News India's humanoid robots library · Specs, prices, news and buying guides - no hype. info@robotwale.com Reviews & Opinion MeitY Releases Draft Safety Framework for Humanoid Robots in India - RobotWale News 📅 9 h",
-    "source": "RobotWale Editors",
-    "date": "2026-06-22",
-    "url": "https://robotwale.com/news/meit-y-releases-draft-safety-framework-for-humanoid-robots-in-india",
-    "category": "Industry",
-    "image": "https://robotwale.com/assets/img/og-default.png"
-  },
-  {
-    "title": "Gemini 3.5 Flash Becomes Default in Google AI Mode",
-    "summary": "Gemini 3.5 Flash Becomes Default in Google AI Mode - Search Engines Google makes Gemini 3.5 Flash the default behind AI Mode worldwide - Julia Hansen - June 21, 2026 Google has made Gemini 3.5 Flash the default model behind AI Mode for searchers worldwide, the company confirmed as it detailed",
-    "content": "Gemini 3.5 Flash Becomes Default in Google AI Mode - Search Engines Google makes Gemini 3.5 Flash the default behind AI Mode worldwide - Julia Hansen - June 21, 2026 Google has made Gemini 3.5 Flash the default model behind AI Mode for searchers worldwide, the company confirmed as it detailed",
-    "source": "invasion24.com",
-    "date": "2026-06-21",
-    "url": "https://invasion24.com/google-gemini-flash-default-ai-mode-global/",
-    "category": "Models",
-    "image": "https://invasion24.com/wp-content/uploads/2026/06/Google-makes-Gemini-3.5-Flash-the-default-behind-AI-Mode-worldwide.jpg"
-  },
-  {
-    "title": "AI regulation is a mess, and Anthropic is caught in the crosshairs",
-    "summary": "AI regulation is a mess, and Anthropic is caught in the crosshairs - KTVZ Livestreams - KTVZ News - KTVZ+ News Local Alert Weather Sports - Beyond The Score - Prep Scoreboard Decision 2026 - Election Results - Interactive Election Map - Voter Guide - Voter Resources Problem Solvers - The P",
-    "content": "AI regulation is a mess, and Anthropic is caught in the crosshairs - KTVZ Livestreams - KTVZ News - KTVZ+ News Local Alert Weather Sports - Beyond The Score - Prep Scoreboard Decision 2026 - Election Results - Interactive Election Map - Voter Guide - Voter Resources Problem Solvers - The P",
-    "source": "CNN Newsource",
+    "title": "AI Regulation Is a Mess, and Anthropic Is Caught in the Crosshairs",
+    "summary": "The U.S. government's abrupt export control directive pulling Anthropic's Fable 5 offline reveals a dangerous lack of consistent AI governance frameworks.",
+    "content": "Anthropic's advanced Fable 5 model was swiftly removed from all customers after the Trump administration deemed it a national security risk following reports of a jailbreak vulnerability—a decision Anthropic publicly disagreed with. Because Anthropic could not filter foreign nationals from domestic users in real time, the company disabled both Fable 5 and Mythos 5 globally, leaving all subscribers without access. Fable 5 had demonstrated superior performance with 70% PASS@1 on the DeepSWE coding benchmark—three points ahead of GPT-5.5—before being taken offline. Experts warn this opaque regulatory approach could stifle American AI innovation, noting 'there is no transparent, consistent framework for regulating AI' in the United States. The incident has reignited urgent calls for clear, predictable AI governance protocols before regulatory unpredictability causes lasting damage to the sector.",
+    "source": "CNN",
     "date": "2026-06-21",
     "url": "https://ktvz.com/money/cnn-business-consumer/2026/06/21/ai-regulation-is-a-mess-and-anthropic-is-caught-in-the-crosshairs/",
-    "category": "Policy",
-    "image": "https://ktvz.b-cdn.net/2026/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFpbGVtZ2QwMDAwM2I2cjVycmV0cWll-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcWlncTAwODAwMHkyN3BlYXN1cDl4OXY-300-860x574.jpg"
+    "category": "Policy"
   },
   {
-    "title": "Google Gemini 3.1 Pro leads benchmarks with lower costs",
-    "summary": "Google Gemini 3.1 Pro leads benchmarks with lower costs Смартфон під кутом, на екрані якого відображається кольоровий логотип Google, а на задньому плані — великий градієнтний напис Gemini зі зіркою. · Image source: Stocktwits According to Stocktwits, Google's latest release of Gemini 3.1 Pro repr",
-    "content": "Google Gemini 3.1 Pro leads benchmarks with lower costs Смартфон під кутом, на екрані якого відображається кольоровий логотип Google, а на задньому плані — великий градієнтний напис Gemini зі зіркою. · Image source: Stocktwits According to Stocktwits, Google's latest release of Gemini 3.1 Pro repr",
-    "source": "PROEVERYTHING Newsroom",
+    "title": "China Plans $295 Billion Nationwide AI Infrastructure Buildout",
+    "summary": "Beijing is directing 2 trillion yuan toward a national network of AI data centers, deliberately mandating 80% domestic components to exclude NVIDIA and AMD.",
+    "content": "China is launching a state-backed program directing approximately 2 trillion yuan ($295 billion) toward AI infrastructure over five years, aiming to create a unified national computing environment by 2028 through interconnected data centers and hubs. The National Development and Reform Commission is coordinating the initiative, with state-owned providers China Mobile and China Telecom operating the bulk of facilities. A key strategic requirement mandates that Chinese suppliers provide at least 80% of all infrastructure components—including AI processors—effectively shutting out NVIDIA and AMD while benefiting domestic vendors like Huawei. Funding will flow primarily from sovereign debt, special government bonds, and state investment funds, though total investment could exceed 5 trillion yuan when electricity grid upgrades are included. The plan reflects Beijing's broader push for technological self-sufficiency amid intensifying US-China competition, accelerated by the US export control directive that disabled Anthropic's Fable 5 globally.",
+    "source": "Techstrong AI",
+    "date": "2026-06-12",
+    "url": "https://techstrong.ai/articles/china-plans-295-billion-ai-investment-focused-on-interconnected-network/",
+    "category": "Industry"
+  },
+  {
+    "title": "Google Gemini 3.1 Pro Tops AI Benchmarks While Cutting Costs",
+    "summary": "Gemini 3.1 Pro now leads the Artificial Analysis Intelligence Index, outperforming Claude Opus 4.6 by four points at less than half the cost of comparable models.",
+    "content": "Google's Gemini 3.1 Pro now leads the Artificial Analysis Intelligence Index, outperforming Anthropic's Claude Opus 4.6 by four points while operating at less than half the cost of top competitors from OpenAI and Anthropic. The model achieved the highest scores across six of ten evaluation parameters, with improvements spanning enhanced reasoning, advanced coding, reduced hallucinations, and superior performance on professional tasks. Brendan Foody, CEO of AI hiring platform Mercor, confirmed 'Gemini 3.1 Pro is now at the top of the APEX-Agents leaderboard,' having successfully completed five tasks no other model has achieved. This combination of benchmark leadership with significantly lower pricing positions Google as the primary choice for enterprise-scale AI integration. The release signals a new phase in the AI model race where cost efficiency is becoming as strategically important as raw capability.",
+    "source": "PROEVERYTHING",
     "date": "2026-06-19",
     "url": "https://proeverything.news/en/news/google-gemini-31-pro-leads-benchmarks-with-lower-costs",
-    "category": "Models",
-    "image": "https://proeverything.news/static/images/google-gemini-31-pro-leads-benchmarks-with-lower-costs.webp"
+    "category": "Models"
   },
   {
-    "title": "Senate Passes AI Accountability Act in 68–29 Vote After Months of Closed-Door Talks — Credence Wire",
-    "summary": "Senate Passes AI Accountability Act in 68–29 Vote After Months of Closed-Door Talks — Credence Wire Policy Breaking Senate Passes AI Accountability Act in 68–29 Vote After Months of Closed-Door Talks The bill requires federal contractors to document high-risk AI systems, mandates incident repor",
-    "content": "Senate Passes AI Accountability Act in 68–29 Vote After Months of Closed-Door Talks — Credence Wire Policy Breaking Senate Passes AI Accountability Act in 68–29 Vote After Months of Closed-Door Talks The bill requires federal contractors to document high-risk AI systems, mandates incident repor",
-    "source": "Credence Wire",
-    "date": "2026-06-22",
-    "url": "https://credencewire.com/article/senate-passes-ai-accountability-act-june-2026",
-    "category": "Policy",
-    "image": "https://credencewire.com/favicon.png"
+    "title": "Gemini 3.5 Flash: Google's New Default AI Built to Act, Not Just Answer",
+    "summary": "Google has made Gemini 3.5 Flash the default across Search AI Mode, the Gemini app, and Workspace in 200 countries, shifting AI from Q&A to autonomous multi-step task execution.",
+    "content": "Google unveiled Gemini 3.5 Flash as its new default AI model across Google Search AI Mode, the Gemini app, and Workspace features in nearly 200 countries and 98 languages. Unlike previous models focused on answering questions, Gemini 3.5 Flash is built for agentic workflows requiring planning and iteration across complex multi-step processes, delivering frontier-level performance at four times the speed of comparable models at less than half the cost. It powers Gemini Spark, a personal AI agent that continuously handles tasks like booking appointments and managing schedules with minimal human intervention. The model scores 76.2% on Terminal-bench 2.1 and 84.2% on CharXiv Reasoning, and through Google's Antigravity platform it can deploy multiple subagents in parallel to tackle demanding enterprise workloads. This marks a fundamental shift in how Google positions its AI—from a tool that answers queries to an agent that completes tasks.",
+    "source": "Digital Trends",
+    "date": "2026-06-21",
+    "url": "https://www.digitaltrends.com/computing/gemini-3-5-flash-is-googles-new-default-ai-model-and-its-built-to-act-not-just-answer/",
+    "category": "Models"
+  },
+  {
+    "title": "June 2026 Is the Biggest AI Model Launch Month in History",
+    "summary": "Four frontier AI models launched within 30 days in June 2026, compressing competitive moats from years to weeks and turning AI models into commodity infrastructure.",
+    "content": "June 2026 saw an unprecedented concentration of frontier AI releases: Google shipped Gemini 3.5 Pro, Anthropic launched Fable 5 and Mythos 5, xAI released Grok 5, and Microsoft expanded its MAI model family—all within 30 days. According to a new analysis, 'the gap between first and fourth place has shrunk to statistical noise on most evaluations,' signaling that frontier model capabilities have effectively reached near-parity across providers. This compressed competitive timeline means switching costs between AI providers have dropped to near zero, making the integration layer—proprietary data, fine-tuning, and user experience—the only defensible asset for AI startups. The dynamics mirror the browser wars and early cloud computing era, where winners were ultimately determined by developer experience and enterprise relationships rather than marginal performance differences. This acceleration confirms that the AI model business has transitioned from a moat-based competition to a commodity-input market where builders must differentiate beyond the model itself.",
+    "source": "Value Add Pulse",
+    "date": "2026-06-20",
+    "url": "https://valueaddvc.com/pulse/june-2026-biggest-ai-model-launch-month-ever",
+    "category": "Trends"
   }
 ]
