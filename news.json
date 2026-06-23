@@ -1,15 +1,5 @@
 [
   {
-    "title": "Getty Images Announces Display Partnership with OpenAI",
-    "summary": "Getty Images Announces Display Partnership with OpenAI Getty Images Announces Display Partnership with OpenAI Multi-year agreement brings Getty Images’ licensed content into OpenAI search and discovery experiences in ChatGPT June 21, 2026 20:00 ET | Source: Getty Images, Inc.",
-    "content": "Getty Images Announces Display Partnership with OpenAI Getty Images Announces Display Partnership with OpenAI Multi-year agreement brings Getty Images’ licensed content into OpenAI search and discovery experiences in ChatGPT June 21, 2026 20:00 ET | Source: Getty Images, Inc. Follow Getty Im",
-    "source": "Getty Images (US), Inc. (PR)",
-    "date": "2026-06-22",
-    "url": "https://www.globenewswire.com/news-release/2026/06/22/3315003/0/en/Getty-Images-Announces-Display-Partnership-with-OpenAI.html",
-    "category": "Models",
-    "image": "https://ml.globenewswire.com/Resource/Download/cf9f2742-f643-483c-9686-733ab95f85c4"
-  },
-  {
     "title": "What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT",
     "summary": "OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT - Memeburn What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT OpenAI has not officially announced GPT 5.6, but prediction markets show odds for a late June launch.",
     "content": "What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT - Memeburn What Is GPT 5.6? OpenAI's Next AI Model Is Already Being Tested Inside ChatGPT OpenAI has not officially announced GPT 5.6, but prediction markets show odds for a late June launch. Users report sharper",
@@ -21,13 +11,33 @@
   },
   {
     "title": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics",
-    "summary": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=11nL1p_KU_MsrVUbIiSNJEEKRzOgCxmut7uozwYs1Ro-1782158355.3410838-1.2.1.1-hVVDZoZcPjgCM0NRwSdLdsWvkKNhTJHRM4wgrYfcXcA Sha",
-    "content": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=11nL1p_KU_MsrVUbIiSNJEEKRzOgCxmut7uozwYs1Ro-1782158355.3410838-1.2.1.1-hVVDZoZcPjgCM0NRwSdLdsWvkKNhTJHRM4wgrYfcXcA Sha",
+    "summary": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=fq1kQ3ExlTn8hR4ZY5o_5CAjKyj8eJcP6prPBJweBhc-1782177538.0419064-1.2.1.1-9KEX9dF54bLcMqeisKZCz_xg6uTSGgVcK4KuAY.txbI Sha",
+    "content": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=fq1kQ3ExlTn8hR4ZY5o_5CAjKyj8eJcP6prPBJweBhc-1782177538.0419064-1.2.1.1-9KEX9dF54bLcMqeisKZCz_xg6uTSGgVcK4KuAY.txbI Sha",
     "source": "aitechnews.today",
     "date": "2026-06-21",
     "url": "https://aitechnews.today/elon-musk-unveils-grok-3-as-xai-targets-ai-supremacy-perplexity-launches-deep-research-tool-and-meta-ventures-into-humanoid-robotics/",
     "category": "Models",
     "image": "https://aitechnews.today/wp-content/uploads/2025/02/7229a95c-0e6e-4adb-8576-8ed65ba0b703_output1.jpg"
+  },
+  {
+    "title": "Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped — AI DOERS",
+    "summary": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
+    "content": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
+    "source": "Madhuranjan Kumar June 24, 2026  ·  3  min read",
+    "date": "2026-06-24",
+    "url": "https://www.aidoers.io/blog/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped",
+    "category": "Models",
+    "image": "https://www.aidoers.io/blog/img/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped.jpg"
+  },
+  {
+    "title": "Meta Unveils ChatGPT Competitor at LamaCon, OpenAI Responds to User Concerns Amidst AI Code Revolution",
+    "summary": "Meta Unveils ChatGPT Competitor at LamaCon, OpenAI Responds to User Concerns Amidst AI Code Revolution - AI Tech News Today https://aitechnews.today/cdn-cgi/content?id=T_TUZKuMUkVctfboWQCH1o7mfxC9VlfZ.Ddpri2Ges0-1782165710.8601658-1.2.1.1-y8LFqoMKN1i73UZmH7TG7btMqJXaKtwpXV4ZQ_DzZQc Share your lo",
+    "content": "Meta Unveils ChatGPT Competitor at LamaCon, OpenAI Responds to User Concerns Amidst AI Code Revolution - AI Tech News Today https://aitechnews.today/cdn-cgi/content?id=T_TUZKuMUkVctfboWQCH1o7mfxC9VlfZ.Ddpri2Ges0-1782165710.8601658-1.2.1.1-y8LFqoMKN1i73UZmH7TG7btMqJXaKtwpXV4ZQ_DzZQc Share your lo",
+    "source": "aitechnews.today",
+    "date": "2026-06-21",
+    "url": "https://aitechnews.today/meta-unveils-chatgpt-competitor-at-lamacon-openai-responds-to-user-concerns-amidst-ai-code-revolution/",
+    "category": "Models",
+    "image": "https://aitechnews.today/wp-content/uploads/2025/05/ef871c4a-4c7c-49ee-8510-f37bc78891dc.webp"
   },
   {
     "title": "Anthropic Ships Claude Fable 5 With 1M Context While Ruvi (RUVI)",
@@ -40,23 +50,13 @@
     "image": "https://cdn.open-pr.com/L/6/L622397101_g.jpg"
   },
   {
-    "title": "OpenAI's GPT-5.6 Arrives This Week With 43% Larger Memory and 'Hands' to Execute Tasks",
-    "summary": "OpenAI's GPT-5.6 Arrives This Week With Larger Memory and 'Hands' to Execute Tasks | FrontierNews.ai i 🔍Search Breaking News View All → Samsung's Codex Gamble: Can AI Finally Replace the IT Help Desk? Large Language Models·5h ago Europe's AI Supercomputer Boom: 35 New NVIDIA S",
-    "content": "OpenAI's GPT-5.6 Arrives This Week With Larger Memory and 'Hands' to Execute Tasks | FrontierNews.ai i 🔍Search Breaking News View All → Samsung's Codex Gamble: Can AI Finally Replace the IT Help Desk? Large Language Models·5h ago Europe's AI Supercomputer Boom: 35 New NVIDIA S",
-    "source": "FrontierNews.ai",
-    "date": "2026-06-21",
-    "url": "https://www.frontiernews.ai/news/article/openais-gpt-56-arrives-this-week-with-43-larger-me-8f75cb50",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=OpenAI%27s%20GPT-5.6%20Arrives%20This%20Week%20With%2043%25%20Larger%20Memory%20and%20%27Hands%27%20to%20Execute%20Tasks&topic=Large%20Language%20Models"
-  },
-  {
-    "title": "Google Releases Gemini 3 AI Model Gemini App",
-    "summary": "Google Releases Gemini 3 AI Model Gemini App Close Google has released Gemini 3, a new flagship AI model offering significant improvements in speed and reasoning capability. The model is now the default version in Google’s Gemini app, replacing Gemini 2.5 Flash, which Google developed for hig",
-    "content": "Google Releases Gemini 3 AI Model Gemini App Close Google has released Gemini 3, a new flagship AI model offering significant improvements in speed and reasoning capability. The model is now the default version in Google’s Gemini app, replacing Gemini 2.5 Flash, which Google developed for hig",
-    "source": "Protik Hossain",
+    "title": "OpenAI Launches Full-Scale Effort to Patch Open Source Bugs as It Takes on Anthropic’s Mythos",
+    "summary": "OpenAI Launches Full-Scale Effort to Patch Open Source Bugs as It Takes on Anthropic’s Mythos – DNYUZ No Result View All Result No Result View All Result OpenAI Launches Full-Scale Effort to Patch Open Source Bugs as It Takes on Anthropic’s Mythos June 22, 2026 in News As fears about AI ha",
+    "content": "OpenAI Launches Full-Scale Effort to Patch Open Source Bugs as It Takes on Anthropic’s Mythos – DNYUZ No Result View All Result No Result View All Result OpenAI Launches Full-Scale Effort to Patch Open Source Bugs as It Takes on Anthropic’s Mythos June 22, 2026 in News As fears about AI ha",
+    "source": "dnyuz.com",
     "date": "2026-06-22",
-    "url": "https://inews.zoombangla.com/google-releases-gemini-3-with-major-speed-and-intelligence-gains/",
-    "category": "Models",
-    "image": "https://inews.zoombangla.com/wp-content/uploads/2026/02/Gemini.jpg"
+    "url": "https://dnyuz.com/2026/06/22/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "category": "Industry",
+    "image": "https://dnyuz.com/wp-content/uploads/2026/06/061526_OpenAI-Hires-an-Army-to-Patch-Open-Source-Bugs-as-It-Battles-Mythos-for-Cyber-AI-Supremacy.jp.webp"
   }
 ]
