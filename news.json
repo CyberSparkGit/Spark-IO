@@ -1,56 +1,62 @@
 [
   {
-    "title": "Claude Fable 5 Ends Free Access Window, Moves to Usage-Based Pricing",
-    "summary": "Starting June 23, 2026, Anthropic's Claude Fable 5 is no longer included in existing subscriptions, requiring users to purchase credits at double the price of Claude Opus 4.8.",
-    "content": "Starting June 23, 2026, Claude Fable 5 is no longer included in Anthropic's Pro, Max, Team, and seat-based Enterprise subscriptions at no extra cost, marking the end of the 13-day complimentary window announced at launch on June 9. The transition was complicated by a U.S. government export control directive that took Fable 5 offline from June 12 to approximately June 18, meaning subscribers effectively received only 4–5 days of actual free access out of the advertised 13 days. Accessing Fable 5 now requires purchasing usage credits separately at the API rate of $10 per million input tokens and $50 per million output tokens — double the price of Claude Opus 4.8. The pricing shift makes Fable 5 one of the most expensive production frontier models available, reflecting Anthropic's positioning of it as a tier above Opus 4.8 for the most demanding reasoning and research workloads.",
-    "source": "Build Fast With AI",
+    "title": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
+    "summary": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 23, 2026 Nano Banana Pro prompted by THE DECODER",
+    "content": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 23, 2026 Nano Banana Pro prompted by THE DECODER",
+    "source": "Matthias Bastian",
     "date": "2026-06-23",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026",
-    "category": "Models"
+    "url": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/",
+    "category": "Models",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png"
   },
   {
-    "title": "Transformer Co-Inventor Noam Shazeer Leaves Google for OpenAI",
-    "summary": "Noam Shazeer, co-author of the landmark 2017 'Attention Is All You Need' paper and co-lead of Google's Gemini, announced on June 18, 2026 that he is joining OpenAI as Lead for Architecture Research.",
-    "content": "On June 18, 2026, Noam Shazeer — one of the eight co-authors of 'Attention Is All You Need,' the 2017 paper that introduced the Transformer architecture now underlying virtually all modern AI systems — announced he was leaving Google DeepMind to join OpenAI as Lead for Architecture Research. Shazeer had a storied history: he left Google in 2021 to co-found Character.AI, was re-hired by Google in a $2.7 billion deal in 2024, and had been serving as co-lead of the Gemini model family before this move. OpenAI CEO Sam Altman posted on X that the hire was 'only 10 years in the making,' calling Shazeer 'one of the people I have most wanted to work with since the very beginning of OpenAI.' The move represents a significant talent setback for Alphabet, which simultaneously lost another senior AI researcher to Anthropic, sending Alphabet's stock sharply lower. In his new role at OpenAI, Shazeer will oversee fundamental research into next-generation AI model architectures and drive the continued evolution of the transformer.",
-    "source": "MLQ News",
-    "date": "2026-06-18",
-    "url": "https://mlq.ai/news/openai-hires-transformer-co-inventor-noam-shazeer-away-from-google-deepmind/",
-    "category": "Industry"
+    "title": "OpenAI GPT-5.5-Cyber Patches cURL, Python, Go in 5 Days",
+    "summary": "OpenAI GPT-5.5-Cyber Patches cURL, Python, Go in 5 Days | byteiota On June 22, OpenAI expanded its Daybreak cybersecurity program with the full release of GPT-5.5-Cyber and the launch of “Patch the Planet” — an initiative that is now actively submitting pull requests to open-source projects you dep",
+    "content": "OpenAI GPT-5.5-Cyber Patches cURL, Python, Go in 5 Days | byteiota On June 22, OpenAI expanded its Daybreak cybersecurity program with the full release of GPT-5.5-Cyber and the launch of “Patch the Planet” — an initiative that is now actively submitting pull requests to open-source projects you dep",
+    "source": "ByteBot",
+    "date": "2026-06-23",
+    "url": "https://byteiota.com/openai-gpt-5-5-cyber-patches-curl-python-go-in-5-days/",
+    "category": "Models",
+    "image": "https://byteiota.com/wp-content/uploads/2026/06/featured-image-511.jpg"
   },
   {
-    "title": "Morgan Stanley: Global AI Debt Set to Nearly Double to $570 Billion in 2026",
-    "summary": "Morgan Stanley forecasts that global AI-linked debt issuance will hit $570 billion in 2026 — nearly double 2025 levels — making AI bonds the largest single position in investment-grade credit markets as hyperscaler capital spending approaches 100% of operating cash flows.",
-    "content": "Global debt issuance tied to artificial intelligence is on track to nearly double to $570 billion in 2026, according to a Morgan Stanley forecast published June 10, with AI-related issuers having already sold nearly $236 billion of debt globally by May 31 — roughly four times the amount raised over the same stretch of 2025. Debt financing has become a primary tool for technology firms whose capital requirements have begun to outpace their own earnings, with hyperscaler capital expenditures in 2026 on pace to consume close to 100% of operating cash flows compared with a 10-year average of 40%. For ordinary investors, the AI buildout is no longer just a stock story: AI bonds are becoming the largest single position in the investment-grade credit market, sitting inside index and target-date funds in millions of 401(k) accounts. Major spenders include Microsoft ($190B capex), Google ($175–185B capex), and Amazon ($20B+ custom silicon run rate), alongside Anthropic's 1GW+ U.S. data center leases and OpenAI's Stargate joint venture targeting 10GW of capacity. With hyperscaler capital spending projected to cross $1 trillion in 2027, Morgan Stanley expects bond issuance to accelerate further through the second half of 2026.",
-    "source": "TechTimes",
-    "date": "2026-06-10",
-    "url": "https://www.techtimes.com/articles/318171/20260610/morgan-stanley-sees-ai-debt-nearly-doubling-570-billion-2026-bonds-now-fund-buildout.htm",
-    "category": "Trends"
+    "title": "ByteDance Seed's SpatialTree Redefines MLLM…",
+    "summary": "ByteDance Seed's SpatialTree Redefines MLLM… | gentic.news Connecting to the Living Graph… BREAKINGOpenAI GPT-5.5-Cyber Beats Anthropic Mythos on Security Benchmarks· CYCLE2749 scan — Scan: 33 findings — 0 spikes, 50 new rels PULSE: 9 articles (24h), 13…· CYCLE2746 scan — Scan: 34 findings — 0 s",
+    "content": "ByteDance Seed's SpatialTree Redefines MLLM… | gentic.news Connecting to the Living Graph… BREAKINGOpenAI GPT-5.5-Cyber Beats Anthropic Mythos on Security Benchmarks· CYCLE2749 scan — Scan: 33 findings — 0 spikes, 50 new rels PULSE: 9 articles (24h), 13…· CYCLE2746 scan — Scan: 34 findings — 0 s",
+    "source": "AA Ala SMITH & AI Research Desk",
+    "date": "2026-06-22",
+    "url": "https://gentic.news/article/bytedance-seed-s-spatialtree",
+    "category": "Models",
+    "image": "https://cms-image.pandaily.com/1/bytedance_seed_spatialtree_cvp_5c8834483a.png"
   },
   {
-    "title": "OpenAI Launches 'Dreaming' — A New ChatGPT Memory Architecture That Learns From Your History",
-    "summary": "OpenAI began rolling out Dreaming V3 on June 4, 2026, replacing ChatGPT's manually curated memory list with a background synthesis process that automatically reads years of past conversations to keep personalization continuously fresh.",
-    "content": "On June 4, 2026, OpenAI began rolling out Dreaming V3, a new ChatGPT memory architecture that replaces the manually curated saved-memories list with a background synthesis process that reads across years of past conversations and updates what the system knows about a user without any prompting. Unlike the old system, Dreaming automatically revises stale memories over time — so a note that 'You're going to Singapore in July' becomes 'You went to Singapore in July 2026' after the trip ends, keeping context current and eliminating contradictions. Plus and Pro subscribers in the United States received the update first, gaining 2x more memory capacity; Free and international users are expected to follow in coming weeks after OpenAI reduced the compute cost of serving Dreaming to Free-tier users by approximately 5x. New user controls include a readable memory summary page showing what ChatGPT has synthesized, tools to manually add or correct remembered details, and settings specifying which topics ChatGPT should proactively raise.",
-    "source": "Dataconomy",
-    "date": "2026-06-04",
-    "url": "https://dataconomy.com/2026/06/05/chatgpt-memory-dreaming-architecture-upgrade/",
-    "category": "Tools"
+    "title": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics",
+    "summary": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=mcsEmjRpHlh7CSQhzWR2.41VcqZhIuICMWoz4rBT4Q4-1782210123.3175397-1.2.1.1-T3mSyA68fcMc8E8zlk.NG_g.qPBoLs7q2zG23jwZEFY Sha",
+    "content": "Elon Musk Unveils Grok 3 as xAI Targets AI Supremacy; Perplexity Launches Deep Research Tool and Meta Ventures into Humanoid Robotics https://aitechnews.today/cdn-cgi/content?id=mcsEmjRpHlh7CSQhzWR2.41VcqZhIuICMWoz4rBT4Q4-1782210123.3175397-1.2.1.1-T3mSyA68fcMc8E8zlk.NG_g.qPBoLs7q2zG23jwZEFY Sha",
+    "source": "aitechnews.today",
+    "date": "2026-06-21",
+    "url": "https://aitechnews.today/elon-musk-unveils-grok-3-as-xai-targets-ai-supremacy-perplexity-launches-deep-research-tool-and-meta-ventures-into-humanoid-robotics/",
+    "category": "Models",
+    "image": "https://aitechnews.today/wp-content/uploads/2025/02/7229a95c-0e6e-4adb-8576-8ed65ba0b703_output1.jpg"
   },
   {
-    "title": "Microsoft Launches MAI-Thinking-1, Its First In-House Reasoning Model Trained Without OpenAI Data",
-    "summary": "At Build 2026 on June 2, Microsoft unveiled seven proprietary MAI models headlined by MAI-Thinking-1 — a 35B active-parameter reasoning model trained from scratch without OpenAI data — marking a deliberate push toward AI independence.",
-    "content": "At its Build 2026 developer conference on June 2, Microsoft unveiled seven new in-house AI models under the MAI brand, headlined by MAI-Thinking-1 — its first reasoning model, trained entirely from scratch on clean, commercially licensed data with no distillation from OpenAI or any third-party model family. MAI-Thinking-1 uses a mixture-of-experts architecture with 35 billion active parameters out of 1 trillion total, a 256K context window, and achieved 97% on AIME 25 while matching Claude Opus 4.6 on SWE Bench Pro coding benchmarks. In blind evaluations, independent raters preferred MAI-Thinking-1 to Claude Sonnet 4.6, and the model is now available on Microsoft Foundry in private preview as well as on Fireworks AI, Baseten, and OpenRouter. Microsoft also introduced MAI-Code-1-Flash, its first model targeting the AI coding market, as part of what the company calls a drive toward 'long-term self-sufficiency.' The seven-model launch represents a notable strategic pivot for a company that spent years as one of OpenAI's largest financial backers.",
-    "source": "Microsoft AI",
-    "date": "2026-06-02",
-    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
-    "category": "Models"
+    "title": "Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped — AI DOERS",
+    "summary": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
+    "content": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
+    "source": "Madhuranjan Kumar June 24, 2026  ·  3  min read",
+    "date": "2026-06-24",
+    "url": "https://www.aidoers.io/blog/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped",
+    "category": "Models",
+    "image": "https://www.aidoers.io/blog/img/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped.jpg"
   },
   {
-    "title": "China Prepares $295 Billion, Five-Year Plan to Build National AI Data Center Grid",
-    "summary": "China is drafting a 2 trillion yuan ($295 billion) five-year plan to connect AI data centers nationwide using at least 80% domestic chips, targeting a cohesive sovereign compute backbone by 2028 that would sideline Nvidia and AMD.",
-    "content": "China is preparing to spend approximately 2 trillion yuan ($295 billion) over the next five years on a nationwide network of interconnected AI data centers, with key agencies including the National Development and Reform Commission drafting the blueprint for state firms such as China Mobile and China Telecom to build and operate. The plan mandates that at least 80% of AI chip and infrastructure procurement must come from domestic suppliers such as Huawei Technologies, effectively excluding Nvidia and AMD from what would become one of the largest AI compute buildouts in history. The broad goal is to connect scattered data facilities into a cohesive national compute grid by 2028, and when power-grid integration is factored in, total projected investment could reach 5 trillion yuan — approximately $740 billion. The announcement came amid intensifying geopolitical friction over frontier AI access, shortly after a U.S. export control directive temporarily blocked global access to Anthropic's Claude Fable 5, highlighting how AI infrastructure is increasingly being treated as a strategic national asset. Analysts note the plan's timeline may face headwinds from the limits of China's domestic chip production, particularly for the most advanced training workloads.",
-    "source": "Bloomberg",
-    "date": "2026-06-09",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-    "category": "Policy"
+    "title": "Sakana AI Launches Fugu: New Multi-Model AI Claims to Beat Anthropic Claude Fable 5 on Coding Benchmarks | Artificial Intelligence News",
+    "summary": "Sakana AI Launches Fugu: New Multi-Model AI Claims to Beat Anthropic Claude Fable 5 on Coding Benchmarks | Artificial Intelligence News - News9live Trending X State - Andhra Pradesh - Karnataka - Kerala - Tamil Nadu - Telangana Technology - Gaming - Mobile Phones - Product Review - Tech News -",
+    "content": "Sakana AI Launches Fugu: New Multi-Model AI Claims to Beat Anthropic Claude Fable 5 on Coding Benchmarks | Artificial Intelligence News - News9live Trending X State - Andhra Pradesh - Karnataka - Kerala - Tamil Nadu - Telangana Technology - Gaming - Mobile Phones - Product Review - Tech News -",
+    "source": "Pragya Singha Roy",
+    "date": "2026-06-23",
+    "url": "https://www.news9live.com/technology/artificial-intelligence/japanese-startup-sakana-ai-launches-fugu-new-multi-model-ai-claims-to-beat-anthropic-claude-fable-5-on-coding-2982784",
+    "category": "Models",
+    "image": "https://images.news9live.com/wp-content/uploads/2026/06/Sakana-AI.png"
   }
 ]
