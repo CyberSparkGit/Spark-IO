@@ -10,14 +10,14 @@
     "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_logo_orange.png"
   },
   {
-    "title": "Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped — AI DOERS",
-    "summary": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
-    "content": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
-    "source": "Madhuranjan Kumar June 24, 2026  ·  3  min read",
+    "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
+    "summary": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE SHARE UPDATED 21:25 EDT / JUNE 23 2026 AI Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack Anthropic PBC today unveiled a new version of its chatbot Claude that live",
+    "content": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE SHARE UPDATED 21:25 EDT / JUNE 23 2026 AI Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack Anthropic PBC today unveiled a new version of its chatbot Claude that live",
+    "source": "Mike Wheatley",
     "date": "2026-06-24",
-    "url": "https://www.aidoers.io/blog/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped",
+    "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
     "category": "Models",
-    "image": "https://www.aidoers.io/blog/img/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped.jpg"
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-24-08-22-04.png"
   },
   {
     "title": "Preserving cultural heritage: Inside Google DeepMind’s collaboration with Pelé",
@@ -40,6 +40,16 @@
     "image": "https://aitechnews.today/wp-content/uploads/2025/02/7229a95c-0e6e-4adb-8576-8ed65ba0b703_output1.jpg"
   },
   {
+    "title": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes 65% of Its Own Code",
+    "summary": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes of Its Own Code Claude Tag anthropic.com Anthropic on Tuesday launched Claude Tag, a product that gives enterprise Slack teams a persistent, always-on AI agent that accumulates institutional knowledge over time, works asynchron",
+    "content": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes of Its Own Code Claude Tag anthropic.com Anthropic on Tuesday launched Claude Tag, a product that gives enterprise Slack teams a persistent, always-on AI agent that accumulates institutional knowledge over time, works asynchron",
+    "source": "Richard L. Wells  \n \n \n Published: Jun 23 2026, 23:08 PM EDT",
+    "date": "2026-06-24",
+    "url": "https://www.techtimes.com/articles/318967/20260623/claude-tag-turns-slack-multiplayer-ai-anthropic-agent-writes-65-its-own-code.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/467302/claude-tag.png"
+  },
+  {
     "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
     "summary": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously | VentureBeat Featured Michael Nuñez 10:00 am, PT, June 23, 2026 Credit: VentureBeat made with Midjourney Add to Google Preferred Source Anthropic on Tuesday launch",
     "content": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously | VentureBeat Featured Michael Nuñez 10:00 am, PT, June 23, 2026 Credit: VentureBeat made with Midjourney Add to Google Preferred Source Anthropic on Tuesday launch",
@@ -48,15 +58,5 @@
     "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
     "category": "Models",
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6CFsd7sGf60QrI8jTqYfuy/788282d94743cf3a42c6c4bb28553ad6/Nuneybits_Vector_art_of_entirely_burnt_orange_chat_panel_mergin_c649b311-f246-4715-9849-8358622f4bee.webp?w=800&q=75"
-  },
-  {
-    "title": "Anthropic launches Claude Tag, an always-on AI teammate that lives in your Slack channels",
-    "summary": "Anthropic launches Claude Tag, an always-on AI teammate that lives in your Slack channels Image by: Anthropic TL;DR Anthropic launched Claude Tag, an always-on Slack AI that follows conversations, learns context, and proactively jumps in to flag updates and tasks.",
-    "content": "Anthropic launches Claude Tag, an always-on AI teammate that lives in your Slack channels Image by: Anthropic TL;DR Anthropic launched Claude Tag, an always-on Slack AI that follows conversations, learns context, and proactively jumps in to flag updates and tasks. Anthropic is launching Cla",
-    "source": "Ana Maria Constantin",
-    "date": "2026-06-23",
-    "url": "https://thenextweb.com/news/anthropic-claude-tag-slack-always-on-ai-teammate",
-    "category": "Models",
-    "image": "https://media.thenextweb.com/2026/06/anthropic-claude-tag-slack-always-on-ai-teammate.avif"
   }
 ]
