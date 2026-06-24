@@ -10,14 +10,24 @@
     "image": "https://www.cointribune.com/app/uploads/2026/06/ia-openai-profite-blocage-anthropic.png?nowebp"
   },
   {
-    "title": "OpenAI launches GPT-5.5-Cyber amid Anthropic restrictions",
-    "summary": "OpenAI launches GPT-5.5-Cyber amid Anthropic restrictions | ForkLog The iconic magazine about Bitcoin, blockchain technology and the digital economy. AI translatedAnthropicArtificial IntelligenceChatbotsOpenAI OpenAI launches GPT-5.5-Cyber amid Anthropic restrictions OpenAI releases GPT-5.",
-    "content": "OpenAI launches GPT-5.5-Cyber amid Anthropic restrictions | ForkLog The iconic magazine about Bitcoin, blockchain technology and the digital economy. AI translatedAnthropicArtificial IntelligenceChatbotsOpenAI OpenAI launches GPT-5.5-Cyber amid Anthropic restrictions OpenAI releases GPT-5.",
-    "source": "forklog.com",
+    "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models",
+    "summary": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models | VentureBeat Featured Carl Franzen 8:14 am, PT, June 24, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source OpenAI and Bro",
+    "content": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models | VentureBeat Featured Carl Franzen 8:14 am, PT, June 24, 2026 Credit: VentureBeat made with OpenAI ChatGPT-Images-2.0 Add to Google Preferred Source OpenAI and Bro",
+    "source": "Carl Franzen",
     "date": "2026-06-24",
-    "url": "https://forklog.com/en/openai-launches-gpt-5-5-cyber-amid-anthropic-restrictions/",
+    "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
     "category": "Models",
-    "image": "https://forklog.com/wp-content/uploads/chat-bot-ChatGPT-ot-OpenAI.webp"
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40NiWDW8fJyLJIBZs5hAA7/e7fc12ca4026ff704436a4e061d1dbd4/ChatGPT_Image_Jun_24__2026__10_10_44_AM.png?w=800&q=75"
+  },
+  {
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "summary": "Introducing computer use in Gemini 3.5 Flash Introducing computer use in Gemini 3.5 Flash Jun 24, 2026 Share Copy link Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. Mateo Quiros Product Manager, Google DeepMind Share Copy link",
+    "content": "Introducing computer use in Gemini 3.5 Flash Introducing computer use in Gemini 3.5 Flash Jun 24, 2026 Share Copy link Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. Mateo Quiros Product Manager, Google DeepMind Share Copy link",
+    "source": "blog.google",
+    "date": "2026-06-24",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "category": "Models",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png"
   },
   {
     "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
@@ -48,15 +58,5 @@
     "url": "https://aitechnews.today/elon-musk-unveils-grok-3-as-xai-targets-ai-supremacy-perplexity-launches-deep-research-tool-and-meta-ventures-into-humanoid-robotics/",
     "category": "Models",
     "image": "https://aitechnews.today/wp-content/uploads/2025/02/7229a95c-0e6e-4adb-8576-8ed65ba0b703_output1.jpg"
-  },
-  {
-    "title": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes 65% of Its Own Code",
-    "summary": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes of Its Own Code Claude Tag anthropic.com Anthropic on Tuesday launched Claude Tag, a product that gives enterprise Slack teams a persistent, always-on AI agent that accumulates institutional knowledge over time, works asynchron",
-    "content": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes of Its Own Code Claude Tag anthropic.com Anthropic on Tuesday launched Claude Tag, a product that gives enterprise Slack teams a persistent, always-on AI agent that accumulates institutional knowledge over time, works asynchron",
-    "source": "Richard L. Wells  \n \n \n Published: Jun 23 2026, 23:08 PM EDT",
-    "date": "2026-06-24",
-    "url": "https://www.techtimes.com/articles/318967/20260623/claude-tag-turns-slack-multiplayer-ai-anthropic-agent-writes-65-its-own-code.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/467302/claude-tag.png"
   }
 ]
