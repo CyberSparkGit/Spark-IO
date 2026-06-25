@@ -1,56 +1,62 @@
 [
   {
-    "title": "Claude Fable 5 Ends Complimentary Access, Moves to Paid Credits",
-    "summary": "Anthropic's flagship Fable 5 model concluded its 13-day free window on June 23, now requiring paid usage credits at double the price of Claude Opus 4.8.",
-    "content": "Claude Fable 5, released on June 9, 2026, officially ended its complimentary access period on June 23, requiring users to purchase separate usage credits at $10 per million input tokens and $50 per million output tokens — double the cost of Claude Opus 4.8. The free window was effectively shortened after a six-day U.S. export control suspension (June 12–18) left subscribers with only four to five days of actual free access. Anthropic has not confirmed whether it will extend the trial period or issue credits for the disruption, leaving enterprise customers to weigh the model's benchmark-leading 80.3% SWE-bench Pro performance against its premium pricing. The pricing shift is driving some enterprises to explore multi-provider fallback architectures and open-weight alternatives like GLM-5.2 to reduce dependency on a single AI provider.",
-    "source": "Build Fast with AI",
-    "date": "2026-06-23",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026",
-    "category": "Models"
+    "title": "OpenAI Quietly Tests Bidi 1 As ChatGPT Learns To Listen While Speaking",
+    "summary": "OpenAI Quietly Tests Bidi 1 As ChatGPT Learns To Listen While Speaking Steven Zeiler 4 hours ago OpenAI is testing an unannounced bidirectional voice model called Bidi 1 that lets ChatGPT listen and speak at the same time. Key Points: - Bidi 1 can listen, speak, and absorb mid-sentence inte",
+    "content": "OpenAI Quietly Tests Bidi 1 As ChatGPT Learns To Listen While Speaking Steven Zeiler 4 hours ago OpenAI is testing an unannounced bidirectional voice model called Bidi 1 that lets ChatGPT listen and speak at the same time. Key Points: - Bidi 1 can listen, speak, and absorb mid-sentence inte",
+    "source": "yellow.com",
+    "date": "2026-06-24",
+    "url": "https://yellow.com/news/openai-tests-bidi-1-chatgpt-voice",
+    "category": "Models",
+    "image": "https://media.yellow.com/uploads/shutterstock_2390251317_00e684ec9c.jpg"
   },
   {
-    "title": "SpaceX Acquires AI Coding Startup Cursor for $60 Billion in Historic Deal",
-    "summary": "SpaceX completed the largest venture-backed startup acquisition in history, purchasing AI coding assistant Cursor just days after its blockbuster Nasdaq IPO.",
-    "content": "SpaceX finalized its all-stock acquisition of Anysphere, maker of AI coding assistant Cursor, for $60 billion on June 16, 2026 — announced just days after SpaceX's historic Nasdaq IPO. Cursor had reached roughly $4 billion in annualized revenue with over 50,000 enterprise clients before the deal, representing a 15x revenue multiple. SpaceX first secured an option to acquire the company in April 2026, with a $10 billion breakup fee if it walked away. The acquisition is designed to strengthen SpaceX's AI division — built around its earlier 2026 merger with Elon Musk's xAI — as the company pursues what it describes as a $22.7 trillion enterprise AI addressable market. The deal is expected to close in Q3 2026 pending regulatory approval, after which Cursor becomes a wholly owned SpaceX subsidiary positioned to compete directly with GitHub and major AI developer platforms.",
-    "source": "TechCrunch",
-    "date": "2026-06-16",
-    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "category": "Industry"
+    "title": "Google DeepMind Brings Computer Use to Gemini 3.5 Flash for AI Agents",
+    "summary": "Google DeepMind Brings Computer Use to Gemini 3.5 Flash for AI Agents | ChatAI Google DeepMind Brings Computer Use to Gemini 3.5 Flash for AI Agents June 24, 2026 Share Google DeepMind has integrated computer use directly into Gemini 3.5 Flash, adding the capability as a native built-in tool a",
+    "content": "Google DeepMind Brings Computer Use to Gemini 3.5 Flash for AI Agents | ChatAI Google DeepMind Brings Computer Use to Gemini 3.5 Flash for AI Agents June 24, 2026 Share Google DeepMind has integrated computer use directly into Gemini 3.5 Flash, adding the capability as a native built-in tool a",
+    "source": "ChatAI Editorial",
+    "date": "2026-06-24",
+    "url": "https://www.chatai.com/posts/google-deepmind-brings-computer-use-to-gemini-3-5-flash-for-ai-agents",
+    "category": "Models",
+    "image": "https://wicsubhjhensvosjymlj.supabase.co/storage/v1/object/public/wordpress-migration/user-uploads/upload-1782331817642-7b5df2ee.webp"
   },
   {
-    "title": "EU Approves 16-Month Delay to AI Act High-Risk Compliance Deadlines",
-    "summary": "The European Parliament approved sweeping amendments to the EU AI Act on June 16, pushing the compliance deadline for high-risk standalone AI systems from August 2026 to December 2027.",
-    "content": "The European Parliament granted final approval to material amendments to the EU Artificial Intelligence Act on June 16, 2026, providing businesses with significant additional time to prepare for compliance. The most consequential change delays standalone high-risk AI system requirements — covering categories such as HR, credit scoring, law enforcement, and essential services — from August 2, 2026, to December 2, 2027, a 16-month extension. AI systems embedded in regulated products like medical devices face a 12-month delay, moved to August 2028. The delays were driven by standardization bodies falling behind schedule on harmonized technical standards that businesses need to understand their compliance obligations. Additional amendments include banning nudifier applications from December 2026, narrowing the definition of AI safety components, extending simplified compliance pathways to companies with up to 750 employees, and permitting use of sensitive data for bias detection under strict conditions.",
-    "source": "Morgan Lewis",
-    "date": "2026-06-16",
-    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
-    "category": "Policy"
+    "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
+    "summary": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE SHARE UPDATED 21:25 EDT / JUNE 23 2026 AI Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack Anthropic PBC today unveiled a new version of its chatbot Claude that live",
+    "content": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE SHARE UPDATED 21:25 EDT / JUNE 23 2026 AI Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack Anthropic PBC today unveiled a new version of its chatbot Claude that live",
+    "source": "Mike Wheatley",
+    "date": "2026-06-24",
+    "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
+    "category": "Models",
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-24-08-22-04.png"
   },
   {
-    "title": "Anthropic Files Confidential IPO at $965 Billion Valuation, Eyes October Nasdaq Debut",
-    "summary": "Anthropic became the first major AI lab to file for an IPO, submitting a confidential S-1 on June 1 at a near-trillion-dollar valuation backed by explosive revenue growth.",
-    "content": "Anthropic filed its confidential draft S-1 paperwork on June 1, 2026, targeting an October Nasdaq listing led by Goldman Sachs, JPMorgan, and Morgan Stanley — setting the stage for the largest AI company IPO in history. The filing came four days after closing a $65 billion Series H round that pushed its valuation to $965 billion, surpassing OpenAI's valuation for the first time. Revenue has grown from $4 billion annualized in July 2024 to a projected $50 billion-plus run rate by late June 2026, with Q2 2026 revenue expected to exceed $10.9 billion — more than double the previous quarter. The company anticipates its first profitable quarter coinciding with or shortly after the public offering, which analysts say could debut above a $1 trillion market cap. Key risk factors include a Pentagon supply-chain risk designation that could jeopardize future government contracts and complicate investor disclosures during the IPO quiet period.",
-    "source": "Fortune",
-    "date": "2026-06-01",
-    "url": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/",
-    "category": "Industry"
+    "title": "Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped — AI DOERS",
+    "summary": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
+    "content": "← All insights AI Excellence Claude Mythos 5 and Fable 5 Explained: What Anthropic Actually Shipped Anthropic released two Mythos-class models that sit a tier above Opus: Fable 5 is available to everyone today, while Mythos 5 is the identical model with cybersecurity safeguards removed and is re",
+    "source": "Madhuranjan Kumar June 24, 2026  ·  3  min read",
+    "date": "2026-06-24",
+    "url": "https://www.aidoers.io/blog/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped",
+    "category": "Models",
+    "image": "https://www.aidoers.io/blog/img/claude-mythos-5-and-fable-5-explained-what-anthropic-actually-shipped.jpg"
   },
   {
-    "title": "White House Executive Order Promotes AI Innovation, Bans Mandatory Government Licensing",
-    "summary": "President Trump signed Executive Order 14409 on June 2, directing federal agencies to accelerate AI-enabled cyber defense while explicitly prohibiting any mandatory government licensing of AI systems.",
-    "content": "The White House issued Executive Order 14409 on June 2, 2026, establishing a dual mandate to accelerate AI innovation through deregulation while addressing national security risks via voluntary industry collaboration. The order directs the NSA to develop benchmarks identifying frontier AI models with advanced cybersecurity capabilities, and allows developers to voluntarily provide 30-day early model access to trusted federal partners before public release. Critically, the order explicitly prohibits \"mandatory governmental licensing, preclearance, or permitting\" of AI development or deployment — a clear signal of the administration's deregulatory stance on AI. CISA is directed to prioritize AI-enabled cyber defense for civilian federal systems, while a new Treasury-led AI cybersecurity clearinghouse will coordinate vulnerability detection and remediation across agencies. The order also instructs the Attorney General to prioritize enforcement against AI misuse in cybercrimes, positioning the U.S. to compete internationally through private-sector-led AI advancement rather than prescriptive regulation.",
-    "source": "The White House",
-    "date": "2026-06-02",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-    "category": "Policy"
+    "title": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes 65% of Its Own Code",
+    "summary": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes of Its Own Code Claude Tag anthropic.com Anthropic on Tuesday launched Claude Tag, a product that gives enterprise Slack teams a persistent, always-on AI agent that accumulates institutional knowledge over time, works asynchron",
+    "content": "Claude Tag Turns Slack Into Multiplayer AI: Anthropic Agent Writes of Its Own Code Claude Tag anthropic.com Anthropic on Tuesday launched Claude Tag, a product that gives enterprise Slack teams a persistent, always-on AI agent that accumulates institutional knowledge over time, works asynchron",
+    "source": "Richard L. Wells  \n \n \n Published: Jun 23 2026, 23:08 PM EDT",
+    "date": "2026-06-24",
+    "url": "https://www.techtimes.com/articles/318967/20260623/claude-tag-turns-slack-multiplayer-ai-anthropic-agent-writes-65-its-own-code.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/467302/claude-tag.png"
   },
   {
-    "title": "Global AI Adoption Hits 91%, But Only 10% of Businesses Call It Core to Operations",
-    "summary": "New reports from Publicis Sapient and NVIDIA reveal a widening gap between widespread AI deployment and genuine organizational integration, with 79% of enterprises still struggling to scale.",
-    "content": "Publicis Sapient's 2026 Global Enterprise AI Report finds that 73% of enterprises now use AI regularly across business processes, yet only 10% consider it core to how they operate — exposing a deep divide between deployment and transformation. NVIDIA's companion State of AI Report 2026 shows 88% of organizations report AI has increased annual revenue, with 30% citing gains exceeding 10%, but just 29% of executives see significant organizational ROI despite near-universal adoption. The shift toward agentic AI has been especially rapid: 97% of executives report their companies deployed AI agents in the past year, with 52% of employees already using them regularly, led by telecom (48% agentic adoption) and retail (47%). The primary barrier is organizational readiness rather than technology — 52% cite data quality and availability as the top obstacle, and Publicis Sapient CEO Nigel Vaz warns that 'the enterprise was not designed for the speed, scale, and autonomy that AI makes possible.' With 86% of companies planning AI budget increases and 40% targeting growth above 10%, closing the gap between AI adoption and business transformation is the defining challenge of 2026.",
-    "source": "Publicis Sapient",
-    "date": "2026-06-01",
-    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
-    "category": "Trends"
+    "title": "AI: OpenAI signs 7 partnerships during Anthropic ban",
+    "summary": "AI: OpenAI signs 7 partnerships during Anthropic ban - Cointribune Join A A Lien copié AI: OpenAI Snatches International Contracts, Anthropic Awaiting Trump's Green Light Wed 24 Jun 2026 ▪ 5 min read ▪ by Ariela R. Getting informed▪ Artificial Intelligence Summarize this article with: Cha",
+    "content": "AI: OpenAI signs 7 partnerships during Anthropic ban - Cointribune Join A A Lien copié AI: OpenAI Snatches International Contracts, Anthropic Awaiting Trump's Green Light Wed 24 Jun 2026 ▪ 5 min read ▪ by Ariela R. Getting informed▪ Artificial Intelligence Summarize this article with: Cha",
+    "source": "Ariela RASOANJANAHARY",
+    "date": "2026-06-24",
+    "url": "https://www.cointribune.com/en/ai-openai-snatches-international-contracts-anthropic-awaiting-trumps-green-light/",
+    "category": "Policy",
+    "image": "https://www.cointribune.com/app/uploads/2026/06/ia-openai-profite-blocage-anthropic.png?nowebp"
   }
 ]
