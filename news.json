@@ -1,62 +1,56 @@
 [
   {
-    "title": "GPT-5.6 Reportedly Launched for Enterprise Partners — Wider Release Second Week of July",
-    "summary": "GPT-5.6 Reportedly Launched for Enterprise Partners — Wider Release Second Week of July - FourWeekMBA GPT-5.6 has reportedly launched for OpenAI enterprise partners — with a wider release targeted for the second week of July. A new “max” reasoning effort level is expected.",
-    "content": "GPT-5.6 Reportedly Launched for Enterprise Partners — Wider Release Second Week of July - FourWeekMBA GPT-5.6 has reportedly launched for OpenAI enterprise partners — with a wider release targeted for the second week of July. No pricing changes. A new “max” reasoning effort level is expected. The m",
-    "source": "Gennaro Cuofano",
+    "title": "Trump Administration Asks OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns",
+    "summary": "The White House asked OpenAI to delay the full public launch of GPT-5.6, shifting it to a limited partner preview under a new voluntary 30-day government security review framework.",
+    "content": "On June 25, 2026, the Trump administration requested OpenAI slow the rollout of GPT-5.6, citing risks that advanced AI models could be exploited by adversarial nations or non-state actors before security teams can evaluate them. The request was made by officials from the Office of the National Cyber Director and the Office of Science and Technology Policy, leveraging a voluntary 30-day review window established by a June 2 executive order on AI innovation and security. In response, OpenAI CEO Sam Altman shifted the launch strategy, restricting GPT-5.6 access to a selective group of partners rather than proceeding with an immediate full rollout. The voluntary framework was designed as a middle-ground approach — avoiding mandatory licensing while fostering government-industry partnerships for future defense and intelligence applications. The move came amid intensifying US-China technology competition, with an earlier draft proposing stricter measures having been postponed in May after significant industry pushback.",
+    "source": "Crypto Briefing",
     "date": "2026-06-25",
-    "url": "https://fourweekmba.com/gpt-5-6-launched-enterprise-wider-release-july/",
-    "category": "Models",
-    "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/06/gpt-5-6-launched-enterprise-wider-release-july.png?fit=2400%2C1260&ssl=1"
-  },
-  {
-    "title": "GPT-5.5 Instant Refresh & Daybreak Deep Dive",
-    "summary": "GPT-5.5 Instant Refresh & Daybreak Deep Dive TLDRWhat OpenAI confirmed about the GPT-5.5 Instant refresh and GPT-5.5-Cyber, and what is still unverified for builders this week. GPT-5.5 Instant Refresh and the Daybreak Security Push: What OpenAI Just Shipped Two days after launching GPT-5.5-Cybe",
-    "content": "GPT-5.5 Instant Refresh & Daybreak Deep Dive TLDRWhat OpenAI confirmed about the GPT-5.5 Instant refresh and GPT-5.5-Cyber, and what is still unverified for builders this week. GPT-5.5 Instant Refresh and the Daybreak Security Push: What OpenAI Just Shipped Two days after launching GPT-5.5-Cybe",
-    "source": "kie.ai",
-    "date": "2026-06-25",
-    "url": "https://kie.ai/blog/gpt-5-5-instant-refresh-daybreak-security-deep-dive",
-    "category": "Models",
-    "image": "https://asset.redpandaai.co/x-signal/gpt-5-5-release-sku2/author-avatar-te92bu.png"
-  },
-  {
-    "title": "Introducing computer use in Gemini 3.5 Flash",
-    "summary": "Introducing computer use in Gemini 3.5 Flash Introducing computer use in Gemini 3.5 Flash Jun 24, 2026 Share Copy link Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. Mateo Quiros Product Manager, Google DeepMind Share Copy link",
-    "content": "Introducing computer use in Gemini 3.5 Flash Introducing computer use in Gemini 3.5 Flash Jun 24, 2026 Share Copy link Computer use is now a built-in tool in Gemini 3.5 Flash to build agents that can interact across platforms. Mateo Quiros Product Manager, Google DeepMind Share Copy link",
-    "source": "blog.google",
-    "date": "2026-06-24",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "category": "Models",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png"
+    "url": "https://cryptobriefing.com/trump-openai-stagger-ai-model-release/",
+    "category": "Policy"
   },
   {
     "title": "Google Adds Native Computer Use to Gemini 3.5 Flash",
-    "summary": "Google Adds Native Computer Use to Gemini 3.5 Flash | Let's Data Science Feedback Photo: nokiapoweruser.com· rights & takedowns Quick SummaryHide Google DeepMind has integrated a native \"computer use\" capability into Gemini 3.5 Flash, enabling agents to perceive and interact with graphical user",
-    "content": "Google Adds Native Computer Use to Gemini 3.5 Flash | Let's Data Science Feedback Photo: nokiapoweruser.com· rights & takedowns Quick SummaryHide Google DeepMind has integrated a native \"computer use\" capability into Gemini 3.5 Flash, enabling agents to perceive and interact with graphical user",
-    "source": "Let's Data Science",
+    "summary": "Google DeepMind integrated computer use as a built-in tool in Gemini 3.5 Flash, enabling AI agents to see and interact with browser, mobile, and desktop interfaces autonomously.",
+    "content": "Google DeepMind announced on June 24, 2026 that computer use is now a native capability in Gemini 3.5 Flash, allowing developers to build agents that can perceive and act across browser, mobile, and desktop environments without separate tooling. The feature is accessible via the Gemini API and the Gemini Enterprise Agent Platform, with a demo environment hosted by Browserbase for immediate testing. Key use cases include long-horizon task automation, continuous software testing, documentation auditing for accessibility, and enterprise knowledge work across professional applications. Google implemented adversarial training specific to computer use, optional enterprise safeguards requiring explicit user confirmation for sensitive actions, and automatic task stopping if prompt injection is detected. The release positions Gemini 3.5 Flash as a competitive alternative to Anthropic's computer use capability, which was first introduced with Claude in late 2024.",
+    "source": "Google DeepMind Blog",
     "date": "2026-06-24",
-    "url": "https://letsdatascience.com/news/google-adds-native-computer-use-to-gemini-35-flash-d1e90373",
-    "category": "Models",
-    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/06/Google-Drops-Game-Changing-Update-Gemini-3.5-Flash-Now-Controls-Your-Computer-Phone-and-Desktop.jpeg"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "category": "Models"
   },
   {
-    "title": "OpenAI agrees to slow rollout of GPT-5.6, delaying public release",
-    "summary": "OpenAI agrees to slow rollout of GPT-5.6, delaying public release SEARCH Searching... GPT-5.6 release dates ↗ OpenAI agrees to slow rollout of GPT-5.6, delaying public release · just now ago YES 0¢ since publish https://wallpapercave.com/sam-altman-wallpapers by Estefano Gomez| Powered",
-    "content": "OpenAI agrees to slow rollout of GPT-5.6, delaying public release SEARCH Searching... GPT-5.6 release dates ↗ OpenAI agrees to slow rollout of GPT-5.6, delaying public release · just now ago YES 0¢ since publish https://wallpapercave.com/sam-altman-wallpapers by Estefano Gomez| Powered",
-    "source": "Estefano Gomez",
-    "date": "2026-06-25",
-    "url": "https://cryptobriefing.com/openai-agrees-to-slow-rollout-of-gpt-56-delaying-public-release/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25171745/sam-altman-is-still-trying-to-return-as-openai-ceo-12-1-800x420.jpeg"
+    "title": "EU Parliament Approves Major Delays to AI Act Compliance Deadlines",
+    "summary": "The European Parliament granted final approval on June 16 to amendments delaying key EU AI Act obligations by up to 16 months, citing delays in the development of required technical standards.",
+    "content": "On June 16, 2026, the European Parliament approved significant amendments to the EU Artificial Intelligence Act, pushing back critical compliance deadlines after standardisation bodies failed to deliver required technical standards on schedule. Standalone high-risk AI systems — covering employment, healthcare, education, credit scoring, and law enforcement — now face a compliance deadline of December 2, 2027 instead of August 2, 2026, a 16-month extension. Product-related high-risk AI systems governed by EU product safety laws (medical devices, radio equipment, toys) were extended to August 2, 2028. Watermarking obligations for certain AI systems in the market received a narrower delay to December 2, 2026. Legal experts caution that the delays represent additional preparation time rather than regulatory relief, as the underlying substantive requirements — risk management programs, annual impact assessments, disclosure obligations, and appeals rights — remain largely unchanged.",
+    "source": "Morgan Lewis",
+    "date": "2026-06-16",
+    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
+    "category": "Policy"
   },
   {
-    "title": "Trump administration asks OpenAI to stagger release of GPT 5.6 over cybersecurity concerns",
-    "summary": "Trump administration asks OpenAI to stagger release of GPT 5.6 over cybersecurity concerns SEARCH Searching... Trump administration asks OpenAI to stagger release of GPT 5.6 over cybersecurity concerns A June executive order created a voluntary 30-day government review window for advanced AI m",
-    "content": "Trump administration asks OpenAI to stagger release of GPT 5.6 over cybersecurity concerns SEARCH Searching... Trump administration asks OpenAI to stagger release of GPT 5.6 over cybersecurity concerns A June executive order created a voluntary 30-day government review window for advanced AI m",
-    "source": "Editorial Team",
-    "date": "2026-06-25",
-    "url": "https://cryptobriefing.com/trump-openai-stagger-ai-model-release/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25181900/openai-logo-symbol-meaning-history-png-brand-9-800x420.png"
+    "title": "Apple Rebuilds Siri with Google Gemini in Historic WWDC Partnership",
+    "summary": "Apple unveiled a fully redesigned Siri AI at WWDC 2026, powered by a custom 1.2-trillion-parameter Google Gemini model under a landmark deal worth approximately $1 billion per year.",
+    "content": "At WWDC 2026 on June 8, CEO Tim Cook unveiled a completely rebuilt voice assistant rebranded as 'Siri AI,' powered by a custom version of Google's Gemini model in a licensing deal reportedly worth approximately $1 billion annually. The redesigned Siri features a ChatGPT-style conversational interface, Dynamic Island integration, on-screen awareness, personal context access across emails, photos, and messages, and a standalone app for the first time. Critically, users can now choose between ChatGPT, Google Gemini (set as default), or Anthropic's Claude to power Apple Intelligence features, effectively turning iPhones into multi-model AI hubs. The capabilities are available on iOS 27, which dropped support for iPhone 11 but remains compatible with iPhone 12 and later. The Gemini partnership marks a historic strategic shift for Apple, which spent years building its own foundation model capabilities before pivoting to a multi-provider AI strategy.",
+    "source": "Build Fast With AI",
+    "date": "2026-06-08",
+    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-8-2026",
+    "category": "Industry"
+  },
+  {
+    "title": "Microsoft Unveils MAI-Thinking-1 and Six New Proprietary AI Models",
+    "summary": "Microsoft launched a suite of seven in-house models under the 'MAI' brand on June 2, with flagship MAI-Thinking-1 targeting enterprise reasoning tasks and claiming benchmark parity with Claude Opus 4.6.",
+    "content": "Microsoft announced a portfolio of seven proprietary AI models branded 'MAI' on June 2, 2026, marking its most ambitious push into owning frontier AI capabilities rather than solely reselling other providers' models. The flagship MAI-Thinking-1 is a deep reasoning model that Microsoft claims matches Claude Opus 4.6 on coding tasks as measured by SWE-Bench Pro, at a more competitive token cost. The models are distributed through Azure AI Foundry and third-party platforms including OpenRouter, Baseten, and Fireworks AI as part of a strategy for deep vertical integrations. The announcement coincided with Microsoft Build 2026, where Azure AI Foundry was revealed to host over 11,000 models — including those from Anthropic, OpenAI, and Google — with unified billing. MAI-Thinking-1 has also been integrated into Excel Agent Mode, allowing spreadsheet users to leverage it for formula writing, data transformation, and analysis without leaving the application.",
+    "source": "DevFlokers",
+    "date": "2026-06-02",
+    "url": "https://www.devflokers.com/blog/ai-news-june-2026-models-research-developments",
+    "category": "Models"
+  },
+  {
+    "title": "June 2026 Becomes the Biggest AI Model Launch Month on Record",
+    "summary": "Four frontier AI models — Google's Gemini 3.5 Pro, xAI's Grok 5, and Anthropic's Fable 5 and Mythos 5 — launched within the same month, compressing competitive timelines from quarters to weeks.",
+    "content": "June 2026 set an unprecedented record for simultaneous frontier AI model releases, with Google's Gemini 3.5 Pro, xAI's Grok 5, and Anthropic's Fable 5 and Mythos 5 all competing head-to-head in a single month for the first time. All four models claimed state-of-the-art performance on overlapping benchmarks, with analysts observing that 'the gap between first and fourth place has shrunk to statistical noise on most evaluations.' Anthropic's Fable 5 and Mythos 5 were abruptly pulled from global availability shortly after launch when a US government export-control directive barred access to foreign nationals, and Anthropic disabled both models worldwide after determining it could not filter users by nationality in real time. The compressed launch timeline signals a new competitive era where 'model leadership now has a shelf life measured in weeks' rather than quarters, forcing enterprises to reassess AI vendor lock-in strategies. Industry trackers recorded over 321 total model releases across all organizations in 2026, with new models arriving at roughly one every two days.",
+    "source": "Value Add Pulse",
+    "date": "2026-06-24",
+    "url": "https://valueaddvc.com/pulse/june-2026-biggest-ai-model-launch-month-ever",
+    "category": "Trends"
   }
 ]
