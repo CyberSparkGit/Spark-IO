@@ -1,62 +1,56 @@
 [
   {
-    "title": "OpenAI Says GPT-5.5-Cyber Leads Claude Mythos, Expands Daybreak-Initiative",
-    "summary": "OpenAI Says GPT-5.5-Cyber Leads Claude Mythos, Expands Daybreak-Initiative AI Companies, AI Divisions, Projects, Labs - Alibaba - Amazon Web Services (AWS) - Anthropic - Baidu - ByteDance - Cohere - DeepSeek - Google DeepMind - Hugging Face - Microsoft - Meta AI - Midjourney - Mistral - NVIDIA -",
-    "content": "OpenAI Says GPT-5.5-Cyber Leads Claude Mythos, Expands Daybreak-Initiative AI Companies, AI Divisions, Projects, Labs - Alibaba - Amazon Web Services (AWS) - Anthropic - Baidu - ByteDance - Cohere - DeepSeek - Google DeepMind - Hugging Face - Microsoft - Meta AI - Midjourney - Mistral - NVIDIA -",
-    "source": "Markus Kasanmascheff",
-    "date": "2026-06-25",
-    "url": "https://winbuzzer.com/2026/06/25/openai-says-gpt-55-cyber-leads-mythos-as-daybreak-expands-xcxwbn/",
-    "category": "Models",
-    "image": "https://winbuzzer.com/wp-content/uploads/2023/08/openai-logo.jpg"
+    "title": "Microsoft Launches Seven In-House MAI Models at Build 2026",
+    "summary": "Microsoft unveiled a family of seven proprietary AI models at Build 2026, marking a deliberate pivot toward self-sufficiency independent of OpenAI.",
+    "content": "At its Build 2026 developer conference on June 2, Microsoft announced seven new MAI (Microsoft AI) models spanning reasoning, coding, image generation, transcription, voice, and healthcare — trained from scratch on clean, commercially licensed data without distillation from OpenAI or any third party. The flagship MAI-Thinking-1 is a 35-billion-parameter reasoning model with a 256K context window that reportedly matches leading competitors on software engineering benchmarks and is 'preferred to Sonnet 4.6' in human evaluations. MAI-Code-1-Flash, with 5 billion parameters, integrates directly into GitHub Copilot and VS Code as a fast, low-cost coding model, while MAI-Image-2.5 handles text-to-image generation and editing. The suite also includes MAI Transcribe-1.5, claimed as the best-in-class transcription model, and MAI-Voice-2 supporting natural speech generation across 15 languages. Microsoft framed the launch as a step toward 'long-term self-sufficiency,' introducing Frontier Tuning to let organizations customize models via reinforcement learning within their own workflows.",
+    "source": "Microsoft AI",
+    "date": "2026-06-02",
+    "url": "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/",
+    "category": "Models"
   },
   {
-    "title": "GPT-5.6 Reportedly Launched for Enterprise Partners — Wider Release Second Week of July",
-    "summary": "GPT-5.6 Reportedly Launched for Enterprise Partners — Wider Release Second Week of July - FourWeekMBA GPT-5.6 has reportedly launched for OpenAI enterprise partners — with a wider release targeted for the second week of July. A new “max” reasoning effort level is expected.",
-    "content": "GPT-5.6 Reportedly Launched for Enterprise Partners — Wider Release Second Week of July - FourWeekMBA GPT-5.6 has reportedly launched for OpenAI enterprise partners — with a wider release targeted for the second week of July. No pricing changes. A new “max” reasoning effort level is expected. The m",
-    "source": "Gennaro Cuofano",
-    "date": "2026-06-25",
-    "url": "https://fourweekmba.com/gpt-5-6-launched-enterprise-wider-release-july/",
-    "category": "Models",
-    "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/06/gpt-5-6-launched-enterprise-wider-release-july.png?fit=2400%2C1260&ssl=1"
+    "title": "Apple Unveils Next-Generation Apple Intelligence and Reimagined Siri at WWDC26",
+    "summary": "Apple introduced a major overhaul of its Apple Intelligence platform at WWDC26, featuring an entirely rebuilt Siri with deep contextual awareness, cross-app search, and real-time web access.",
+    "content": "At WWDC26 on June 8, Apple unveiled the next generation of Apple Intelligence, centering on an 'entirely new version of Siri' that can search across apps, understand on-screen content, and access real-time web information to provide personalized, context-aware assistance. The updates roll out this fall with iOS 27, iPadOS 27, macOS 27, watchOS 27, and visionOS 27 as free software upgrades, supported on iPhone 16 and later, iPhone 15 Pro variants, recent iPad and Mac devices, and Apple Vision Pro. Apple also introduced Spatial Reframing in Photos, a Notify Me feature in Safari for monitoring page changes, contextual suggestions in Messages, and an expanded Image Playground — all built on what Apple describes as 'a bold new architecture uniquely designed to protect users' privacy.' Regional availability will vary due to regulatory constraints in markets including China and parts of the EU. The announcement positions Apple to compete more directly with conversational AI platforms as Siri evolves from a voice command tool into a deeply integrated AI layer across the entire Apple ecosystem.",
+    "source": "Apple Newsroom",
+    "date": "2026-06-08",
+    "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+    "category": "Tools"
   },
   {
-    "title": "GPT-5.6 Government Approval: Lutnick, Altman & Case-by-Case Access | explainx.ai Blog",
-    "summary": "GPT-5.6 Government Approval: Lutnick, Altman & Case-by-Case Access | explainx.ai Blog | explainx.ai ← Back to blog On June 26, 2026, OpenAI officially previewed GPT-5.6 Sol, Terra, and Luna— confirming what The Information and Axios reported: a limited preview for trusted Codex and API partners, a",
-    "content": "GPT-5.6 Government Approval: Lutnick, Altman & Case-by-Case Access | explainx.ai Blog | explainx.ai ← Back to blog On June 26, 2026, OpenAI officially previewed GPT-5.6 Sol, Terra, and Luna— confirming what The Information and Axios reported: a limited preview for trusted Codex and API partners, a",
-    "source": "explainx.ai",
-    "date": "2026-06-27",
-    "url": "https://explainx.ai/blog/gpt-5-6-government-approval-lutnick-altman-june-2026",
-    "category": "Models",
-    "image": "https://explainx.ai/blog/gpt-5-6-government-approval-lutnick-altman-june-2026/opengraph-image"
+    "title": "EU Parliament Approves AI Act Amendments, Extending Key Compliance Deadlines",
+    "summary": "The European Parliament approved significant amendments to the EU AI Act on June 16, delaying major compliance deadlines for high-risk AI systems following sustained industry pressure.",
+    "content": "The European Parliament voted on June 16, 2026 to materially amend the EU AI Act, extending compliance timelines rather than altering core obligations, in response to delayed technical standards and implementation guidance. Standalone high-risk AI systems now must comply by December 2, 2027 — shifted from August 2026 — while AI systems embedded in EU product safety regulations have an even later deadline of August 2, 2028, moved from August 2027. EU policymakers explained the changes as an effort to 'sequence obligations with the availability of implementation guidance' rather than enforce rules before supporting frameworks were ready. The amendments also ban nudifier applications, narrow the definition of AI safety components, and extend simplified compliance frameworks to small and mid-cap companies. The full legislative process to turn the amendments into law is expected to complete by August 2, 2026, giving businesses an extended runway to map their AI systems, build governance frameworks, and monitor further regulatory guidance.",
+    "source": "Morgan Lewis",
+    "date": "2026-06-16",
+    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
+    "category": "Policy"
   },
   {
-    "title": "GPT-5.5 Instant Refresh & Daybreak Deep Dive",
-    "summary": "GPT-5.5 Instant Refresh & Daybreak Deep Dive TLDRWhat OpenAI confirmed about the GPT-5.5 Instant refresh and GPT-5.5-Cyber, and what is still unverified for builders this week. GPT-5.5 Instant Refresh and the Daybreak Security Push: What OpenAI Just Shipped Two days after launching GPT-5.5-Cybe",
-    "content": "GPT-5.5 Instant Refresh & Daybreak Deep Dive TLDRWhat OpenAI confirmed about the GPT-5.5 Instant refresh and GPT-5.5-Cyber, and what is still unverified for builders this week. GPT-5.5 Instant Refresh and the Daybreak Security Push: What OpenAI Just Shipped Two days after launching GPT-5.5-Cybe",
-    "source": "kie.ai",
-    "date": "2026-06-25",
-    "url": "https://kie.ai/blog/gpt-5-5-instant-refresh-daybreak-security-deep-dive",
-    "category": "Models",
-    "image": "https://asset.redpandaai.co/x-signal/gpt-5-5-release-sku2/author-avatar-te92bu.png"
+    "title": "SpaceX Acquires AI Coding Platform Cursor in $60 Billion Deal — Largest Startup Acquisition Ever",
+    "summary": "SpaceX agreed on June 16 to acquire Anysphere, the company behind the Cursor AI coding tool, for $60 billion in all-stock consideration — the largest venture-backed startup acquisition in history.",
+    "content": "SpaceX announced on June 16, 2026 its acquisition of Anysphere — parent company of the Cursor AI coding platform — for $60 billion in all-stock consideration, days after completing the largest IPO in history on Nasdaq at $86 billion. Cursor had grown to approximately $4 billion in annualized revenue, with roughly $2.6 billion from enterprise B2B clients representing about two-thirds of the Fortune 500. The strategic rationale centers on SpaceX's xAI division needing developer traction in AI-assisted coding, an area where its Grok model had failed to gain significant market share against Cursor's 7.5 million monthly active developers. The two companies have jointly trained a new coding model on SpaceX's Colossus supercluster in Memphis, expected to ship inside both Cursor and Grok Build in the near term. The combined entity is also reportedly developing Origin, a GitHub competitor, though developers and enterprise clients are closely watching whether Cursor's independence — a key differentiator — will be preserved under SpaceX ownership.",
+    "source": "DevOps.com",
+    "date": "2026-06-16",
+    "url": "https://devops.com/spacex-to-acquire-ai-coding-leader-cursor-in-60-billion-blockbuster-deal/",
+    "category": "Industry"
   },
   {
-    "title": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack",
-    "summary": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE SHARE UPDATED 21:25 EDT / JUNE 23 2026 AI Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack Anthropic PBC today unveiled a new version of its chatbot Claude that live",
-    "content": "Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack - SiliconANGLE SHARE UPDATED 21:25 EDT / JUNE 23 2026 AI Anthropic debuts Claude Tag, a more capable AI teammate that lives within Slack Anthropic PBC today unveiled a new version of its chatbot Claude that live",
-    "source": "Mike Wheatley",
-    "date": "2026-06-24",
-    "url": "https://siliconangle.com/2026/06/23/anthropic-debuts-claude-tag-capable-ai-teammate-lives-within-slack/",
-    "category": "Models",
-    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Screenshot-from-2026-06-24-08-22-04.png"
-  },
-  {
-    "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
-    "summary": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds – BytePointer Close Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys Build",
-    "content": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds – BytePointer Close Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys Build",
-    "source": "mobilewebnerd@gmail.com",
+    "title": "Trump Administration Clears Anthropic's Mythos 5 for Use by 100+ US Agencies and Companies",
+    "summary": "The Commerce Department approved Anthropic's Mythos 5 cybersecurity AI model for controlled release to over 100 vetted US companies and federal agencies after a two-week regulatory standoff.",
+    "content": "On June 26, 2026, the U.S. Commerce Department granted Anthropic permission to release its Mythos 5 model to approximately 100 vetted companies and federal agencies, ending a contentious two-week standoff that began when the Trump administration ordered Anthropic to pull both Mythos 5 and Fable 5 from the market on June 12 after security researchers demonstrated that model guardrails could be bypassed. Commerce Secretary Howard Lutnick confirmed in a letter that 'appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model,' granting access specifically to organizations operating and defending critical infrastructure. Mythos 5 is Anthropic's most advanced cybersecurity AI, designed to autonomously identify and patch vulnerabilities in software and network systems — a capability that made it both strategically valuable and a national security concern. Non-American employees at approved organizations and Anthropic's international staff are permitted to use the model under the new directive. The partial clearance signals a shift toward case-by-case government oversight of frontier AI models, balancing national security concerns with the strategic imperative to maintain US AI leadership.",
+    "source": "TechCrunch",
     "date": "2026-06-26",
-    "url": "https://bytepointer.com/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
-    "category": "Industry",
-    "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog1913-23.png"
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "category": "Policy"
+  },
+  {
+    "title": "2026 Enterprise AI Report: 79% of Organizations Face Adoption Challenges Despite High Investment",
+    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers reveals a widening gap between AI deployment and actual business transformation, with most enterprises unable to move AI beyond pilots.",
+    "content": "Publicis Sapient's 2026 Global Enterprise AI Report, drawing on a survey of 1,550 AI decision-makers worldwide, finds that while 73% of organizations report regular AI use across business processes, only 10% consider AI truly core to how their business operates. The report identifies a critical adoption-readiness gap, with 79% of companies facing challenges — a double-digit increase from 2025 — and 42% acknowledging they lack the infrastructure needed to capture AI's value at scale. Organizational design emerged as the primary obstacle: CEO Nigel Vaz noted that 'the enterprise was not designed for the speed, scale, and autonomy that AI makes possible,' with 22% citing organizational structure as the main barrier to AI success. Regional disparities are pronounced, with the U.K. leading AI transformation efforts at 51% while France lags at 24%, underscoring uneven global readiness. Revenue growth from AI remains largely aspirational: 74% of organizations hope to grow revenue through AI initiatives in the future, compared to just 20% that are already doing so today.",
+    "source": "Publicis Sapient",
+    "date": "2026-06-01",
+    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
+    "category": "Trends"
   }
 ]
