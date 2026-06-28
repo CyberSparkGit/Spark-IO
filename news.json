@@ -1,62 +1,56 @@
 [
   {
-    "title": "Google Integrates Computer Use in Gemini Flash",
-    "summary": "Google Integrates Computer Use in Gemini Flash OPENA white house restricts gpt-5.6 releas ■ ANTHR links ai safety to market dominance ■ PM ai accelerates car t target discover ■ PA patronus ai secures $50m series b fu ▲ AC anthropic claude gains paid consumer ▲ MICRO micron predicts extended chip s",
-    "content": "Google Integrates Computer Use in Gemini Flash OPENA white house restricts gpt-5.6 releas ■ ANTHR links ai safety to market dominance ■ PM ai accelerates car t target discover ■ PA patronus ai secures $50m series b fu ▲ AC anthropic claude gains paid consumer ▲ MICRO micron predicts extended chip s",
-    "source": "pulse24.ai",
-    "date": "2026-06-25",
-    "url": "https://pulse24.ai/news/2026/6/25/10/google-integrates-computer-use-in-gemini-flash",
-    "category": "Models",
-    "image": "https://pulse24.ai/media/og/pulse/7973/07/74/13/59/google-integrates-computer-use-in-gemini-flash.webp"
-  },
-  {
-    "title": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks",
-    "summary": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks - The Economic Times Business News Tech AI OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks ETtechLast U",
-    "content": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks - The Economic Times Business News Tech AI OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks ETtechLast U",
-    "source": "ET",
-    "date": "2026-06-27",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks/articleshow/132032380.cms",
-    "category": "Models",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-137554,resizemode-75,msid-132032380/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks.jpg"
-  },
-  {
-    "title": "OpenAI unveils GPT-5.6 family with Sol, Terra, and Luna models · PulseAugur",
-    "summary": "OpenAI unveils GPT-5.6 family with Sol, Terra, and Luna models · PulseAugur OpenAI has announced the GPT-5.6 family of models, including Sol, Terra, and Luna. GPT-5.6 Sol is positioned as their new flagship model, offering enhanced capabilities, particularly in cybersecurity and complex command-lin",
-    "content": "OpenAI unveils GPT-5.6 family with Sol, Terra, and Luna models · PulseAugur OpenAI has announced the GPT-5.6 family of models, including Sol, Terra, and Luna. GPT-5.6 Sol is positioned as their new flagship model, offering enhanced capabilities, particularly in cybersecurity and complex command-lin",
-    "source": "pulseaugur.com",
+    "title": "OpenAI Unveils GPT-5.6 Family with Sol, Terra, and Luna Models",
+    "summary": "OpenAI released three new AI models — Sol, Terra, and Luna — with Sol as the flagship for cybersecurity and complex workflows, Terra for balanced performance, and Luna for high-volume applications.",
+    "content": "OpenAI announced three new models in the GPT-5.6 family, with Sol serving as the flagship offering that sets a new state of the art on Terminal-Bench 2.1 by excelling at cybersecurity tasks and complex command-line workflows requiring advanced planning and tool coordination. Terra delivers performance competitive to GPT-5.5 at two times lower cost, while Luna targets high-volume applications at the lowest price point. OpenAI invested substantial safety resources into Sol, conducting extensive human red teaming and over 700,000 A100-equivalent GPU hours of automated testing to strengthen real-time protections against high-risk cyber activity. Sol initially enters limited preview through trusted API and Codex partners at U.S. government request, with all three models expected to become broadly available within weeks.",
+    "source": "PulseAugur",
     "date": "2026-06-26",
     "url": "https://pulseaugur.com/cluster/112640-openai-unveils-gpt-5-6-family-with-sol-terra-and-luna-models",
-    "category": "Models",
-    "image": "https://r2.pulseaugur.com/85/8d/858db017412023ecb7d27a7094e83b9f34f6372cee528c2e9a5e32d8a18244b0/large.webp"
+    "category": "Models"
   },
   {
-    "title": "OpenAI Debuts GPT-5.6 Sol Debuts as Most Advanced AI Model Yet",
-    "summary": "OpenAI Debuts GPT-5.6 Sol Debuts as Most Advanced AI Model Yet - Tekedia Sign in - Click here - to use the wp builder Sign in Welcome!Log into your account your username your password Forgot your password? Terms & Privacy Password recovery Recover your password your email Search DD",
-    "content": "OpenAI Debuts GPT-5.6 Sol Debuts as Most Advanced AI Model Yet - Tekedia Sign in - Click here - to use the wp builder Sign in Welcome!Log into your account your username your password Forgot your password? Terms & Privacy Password recovery Recover your password your email Search DD",
-    "source": "Ojukwu Emmanuel",
-    "date": "2026-06-27",
-    "url": "https://www.tekedia.com/openai-debuts-gpt-5-6-sol-debuts-as-most-advanced-ai-model-yet/",
-    "category": "Models",
-    "image": "https://www.tekedia.com/wp-content/uploads/2024/05/OpenAI-ChatGPT.jpg"
-  },
-  {
-    "title": "Anthropic gets US approval to bring back Claude Mythos 5",
-    "summary": "Anthropic gets US approval to bring back Claude Mythos 5 Anthropic gets US approval to bring back Claude Mythos 5 Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 27, 2026 The US government has approved Anthropic to redeploy Claude Mythos 5, according to the company.",
-    "content": "Anthropic gets US approval to bring back Claude Mythos 5 Anthropic gets US approval to bring back Claude Mythos 5 Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 27, 2026 The US government has approved Anthropic to redeploy Claude Mythos 5, according to the company. The mode",
-    "source": "Matthias Bastian",
+    "title": "Anthropic Gets US Government Approval to Redeploy Claude Mythos 5",
+    "summary": "The US government has approved Anthropic to bring back its advanced cybersecurity AI model Claude Mythos 5 after it was disabled on government orders earlier in June 2026.",
+    "content": "The U.S. government has approved Anthropic to redeploy Claude Mythos 5, its most advanced cybersecurity AI model, after it was previously disabled on government orders earlier in June 2026. The approval grants access to U.S. organizations managing critical infrastructure, non-U.S. nationals in approved organizations, and Anthropic employees, while broader access remains under negotiation with no confirmed timeline. Both Mythos 5 and the Fable 5 model had been blocked this year amid government concerns about advanced AI cybersecurity capabilities. This arrangement mirrors a similar restricted-access deal OpenAI received for GPT-5.6 Sol, reflecting a broader government pattern of case-by-case approval for the most capable frontier models.",
+    "source": "The Decoder",
     "date": "2026-06-27",
     "url": "https://the-decoder.com/anthropic-gets-us-approval-to-bring-back-claude-mythos-5/",
-    "category": "Models",
-    "image": "https://the-decoder.com/wp-content/uploads/2026/05/glasswing_mythos_cybersecurity_anthropic-2.png"
+    "category": "Models"
   },
   {
-    "title": "GPT-5.6 Government Approval: Lutnick, Altman & Case-by-Case Access | explainx.ai Blog",
-    "summary": "GPT-5.6 Government Approval: Lutnick, Altman & Case-by-Case Access | explainx.ai Blog | explainx.ai ← Back to blog On June 26, 2026, OpenAI officially previewed GPT-5.6 Sol, Terra, and Luna— confirming what The Information and Axios reported: a limited preview for trusted Codex and API partners, a",
-    "content": "GPT-5.6 Government Approval: Lutnick, Altman & Case-by-Case Access | explainx.ai Blog | explainx.ai ← Back to blog On June 26, 2026, OpenAI officially previewed GPT-5.6 Sol, Terra, and Luna— confirming what The Information and Axios reported: a limited preview for trusted Codex and API partners, a",
-    "source": "explainx.ai",
-    "date": "2026-06-27",
-    "url": "https://explainx.ai/blog/gpt-5-6-government-approval-lutnick-altman-june-2026",
-    "category": "Models",
-    "image": "https://explainx.ai/blog/gpt-5-6-government-approval-lutnick-altman-june-2026/opengraph-image"
+    "title": "Google Integrates Computer Use into Gemini 3.5 Flash for Enterprise Automation",
+    "summary": "Google has natively embedded computer use capabilities into Gemini 3.5 Flash, enabling AI agents to autonomously control browsers, desktops, and mobile environments for enterprise automation.",
+    "content": "Google has embedded computer use capabilities directly into Gemini 3.5 Flash, enabling the model to perceive, reason, and take actions across browser, mobile, and desktop environments as a unified capability rather than a separate component. The integration allows developers to build custom agents capable of handling long-horizon enterprise automation tasks such as continuous software testing without requiring additional tooling setup. The feature is accessible through the Gemini API and Enterprise Agent Platform, streamlining agentic workflow deployment for enterprise customers. Google included robust security measures including adversarial training and optional safeguards that require user confirmation before sensitive actions and automatically detect prompt injection attempts — addressing a key concern in enterprise automation scenarios.",
+    "source": "Pulse24.ai",
+    "date": "2026-06-25",
+    "url": "https://pulse24.ai/news/2026/6/25/10/google-integrates-computer-use-in-gemini-flash",
+    "category": "Tools"
+  },
+  {
+    "title": "Apple Rebuilds Siri on Google Gemini in $1 Billion Annual Deal for iOS 27",
+    "summary": "Apple announced at WWDC 2026 that iOS 27 will feature a completely redesigned Siri powered by Google Gemini AI, backed by a reported $1 billion annual licensing agreement.",
+    "content": "Apple unveiled at WWDC 2026 that iOS 27 will feature a completely redesigned Siri built on Google Gemini AI, backed by a reported $1 billion per year licensing deal that puts Google's AI model in front of every active iPhone user. The new Siri functions as a full AI chatbot with capabilities spanning web search, image generation, content summarization, coding assistance, file analysis, and multi-step command execution. Apple will also allow users to choose between Gemini, ChatGPT, or Claude for Apple Intelligence tasks, opening iOS to a multi-model AI ecosystem for the first time. Privacy protections require queries to be converted to anonymous tokenized strings before reaching Google's servers, with Google contractually barred from identifying users or using iOS query streams to train future models.",
+    "source": "Business Standard",
+    "date": "2026-06-09",
+    "url": "https://www.business-standard.com/amp/technology/tech-news/wwdc-2026-apple-unveils-siri-ai-gemini-powered-apple-intelligence-more-126060900042_1.html",
+    "category": "Industry"
+  },
+  {
+    "title": "EU Parliament Approves 12–16 Month Delays to AI Act Compliance Deadlines",
+    "summary": "The European Parliament voted to delay key EU AI Act compliance deadlines for high-risk AI systems by up to 16 months, giving businesses significantly more time to prepare.",
+    "content": "The European Parliament approved material amendments to the EU Artificial Intelligence Act on June 16, 2026, including significant delays to compliance deadlines driven by slower-than-expected development of the technical standards required for implementation. Standalone high-risk AI systems in categories such as employment, law enforcement, and education must now comply by December 2, 2027 rather than August 2026 — a 16-month extension. Product-regulated high-risk AI systems gained a 12-month reprieve, with obligations pushed to August 2, 2028 instead of August 2027. Legal experts advise companies to continue building AI governance frameworks regardless, as the substantive requirements of the Act remain unchanged and the delays only affect implementation timelines.",
+    "source": "Morgan Lewis",
+    "date": "2026-06-16",
+    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
+    "category": "Policy"
+  },
+  {
+    "title": "GitHub Copilot Desktop App Reaches General Availability as AI Agent Control Center",
+    "summary": "GitHub's Copilot desktop application went generally available as a standalone workspace for developers to orchestrate multiple parallel AI coding agents across repositories.",
+    "content": "GitHub made its Copilot desktop application generally available on June 17, 2026 for Windows, macOS, and Linux, designed as a central control center where developers can manage multiple parallel AI agent sessions simultaneously without switching tools. Each agent session operates in its own isolated git worktree, automatically managed by the app, so agents can work on bugs, backlog items, or pull request reviews in parallel while developers maintain full oversight. Key features include Canvas for bidirectional human-agent collaboration surfaces, Agent Merge for automated pull request handling through CI checks and reviews, and both local and cloud sandbox execution environments for safe code testing. The launch coincides with AI-driven commits on GitHub nearly doubling year-over-year to 1.4 billion per month, reflecting how central agentic workflows have become to modern software development.",
+    "source": "GitHub Blog",
+    "date": "2026-06-17",
+    "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+    "category": "Tools"
   }
 ]
