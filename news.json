@@ -1,62 +1,56 @@
 [
   {
-    "title": "Google DeepMind's Gemma AI Now Powers Robots That See, Hear, and Act Offline",
-    "summary": "Google DeepMind's Gemma AI Now Powers Robots That See, Hear, and Act Offline | FrontierNews.ai i 🔍Search Breaking News View All → Elon Musk's xAI Launches Grok 4.5 With 1.5 Trillion Parameters, Rivals Top AI Models Notable People·49m ago OpenAI's GPT-5.5 Instant Arrives as Governm",
-    "content": "Google DeepMind's Gemma AI Now Powers Robots That See, Hear, and Act Offline | FrontierNews.ai i 🔍Search Breaking News View All → Elon Musk's xAI Launches Grok 4.5 With 1.5 Trillion Parameters, Rivals Top AI Models Notable People·49m ago OpenAI's GPT-5.5 Instant Arrives as Governm",
-    "source": "FrontierNews.ai",
-    "date": "2026-06-27",
-    "url": "https://www.frontiernews.ai/news/article/google-deepminds-gemma-ai-now-powers-robots-that-s-3e5b13d1",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Google%20DeepMind%27s%20Gemma%20AI%20Now%20Powers%20Robots%20That%20See%2C%20Hear%2C%20and%20Act%20Offline&topic=Large%20Language%20Models"
-  },
-  {
-    "title": "US Releases Anthropic's Mythos AI: What It Means for Tech & Security (2026)",
-    "summary": "US Releases Anthropic's Mythos AI: What It Means for Tech & Security (2026) US Releases Anthropic's Mythos AI: What It Means for Tech & Security (2026) The US government's decision to lift restrictions on Anthropic's Claude Mythos 5 AI model is a significant development in the ongoing tensions b",
-    "content": "US Releases Anthropic's Mythos AI: What It Means for Tech & Security (2026) US Releases Anthropic's Mythos AI: What It Means for Tech & Security (2026) The US government's decision to lift restrictions on Anthropic's Claude Mythos 5 AI model is a significant development in the ongoing tensions b",
-    "source": "ipeprod.org",
+    "title": "xAI Unveils Grok 4.5: 1.5 Trillion Parameter Model Enters Private Beta",
+    "summary": "xAI's Grok 4.5 launches in private beta at SpaceX and Tesla with 1.5 trillion parameters and performance rivaling Anthropic's Claude Opus.",
+    "content": "xAI has unveiled Grok 4.5, built on the new V9 foundation with 1.5 trillion parameters—approximately three times larger than the V8-small architecture used in earlier Grok variants. Rather than a public release, the model has entered exclusive private beta testing with teams at SpaceX and Tesla, where it is being evaluated for real-world engineering and coding applications. Early internal assessments indicate the system's performance is comparable to, if not superior to, Anthropic's Claude Opus. The model incorporates Cursor data to sharpen coding capabilities and leverages reinforcement learning alongside xAI's internal Grok Build system. The company originally targeted a late May launch but slipped about a month, with an ambitious roadmap that includes future Grok 5 variants projected to reach 10 trillion parameters.",
+    "source": "CryptoBriefing",
     "date": "2026-06-28",
-    "url": "https://ipeprod.org/article/us-releases-anthropic-s-mythos-ai-what-it-means-for-tech-security",
-    "category": "Models",
-    "image": "https://i0.wp.com/img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&w=1200&h=630&q=75&auto=format"
+    "url": "https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/",
+    "category": "Models"
   },
   {
-    "title": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks",
-    "summary": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks - The Economic Times Business News Tech AI OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks ETtechLast U",
-    "content": "OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks - The Economic Times Business News Tech AI OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks OpenAI unveils GPT-5.6 AI models with phased rollout and stronger safety checks ETtechLast U",
-    "source": "ET",
-    "date": "2026-06-27",
-    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks/articleshow/132032380.cms",
-    "category": "Models",
-    "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-137554,resizemode-75,msid-132032380/tech/artificial-intelligence/openai-unveils-gpt-5-6-ai-models-with-phased-rollout-and-stronger-safety-checks.jpg"
-  },
-  {
-    "title": "OpenAI unveils GPT-5.6 family with Sol, Terra, and Luna models · PulseAugur",
-    "summary": "OpenAI unveils GPT-5.6 family with Sol, Terra, and Luna models · PulseAugur OpenAI has announced the GPT-5.6 family of models, including Sol, Terra, and Luna. GPT-5.6 Sol is positioned as their new flagship model, offering enhanced capabilities, particularly in cybersecurity and complex command-lin",
-    "content": "OpenAI unveils GPT-5.6 family with Sol, Terra, and Luna models · PulseAugur OpenAI has announced the GPT-5.6 family of models, including Sol, Terra, and Luna. GPT-5.6 Sol is positioned as their new flagship model, offering enhanced capabilities, particularly in cybersecurity and complex command-lin",
-    "source": "pulseaugur.com",
+    "title": "AI Legislation Advances Across U.S. States in Landmark Week",
+    "summary": "Arizona vetoed all AI bills while Rhode Island signed chatbot restrictions and New York passed seven AI measures in a consequential week for U.S. state-level AI policy.",
+    "content": "During the week of June 26, 2026, significant and divergent AI regulatory developments swept across multiple U.S. states. Arizona Governor Katie Hobbs vetoed all three AI bills passed by the legislature, including measures on synthetic image disclosure laws and chatbot safety requirements for minors. Rhode Island Governor Dan McKee signed three AI laws into effect, including a therapy chatbot ban and requirements for healthcare providers to disclose AI use in clinical documentation. New York lawmakers passed seven AI-related measures before adjourning—including kids' chatbot safety protections and training data transparency requirements—with Governor Hochul having until December 31 to sign them. States including Pennsylvania, Massachusetts, Michigan, and Ohio continued advancing AI bills addressing deepfakes, algorithmic pricing, mental health safeguards, and workplace protections as legislative sessions progressed through June 2026.",
+    "source": "Transparency Coalition",
     "date": "2026-06-26",
-    "url": "https://pulseaugur.com/cluster/112640-openai-unveils-gpt-5-6-family-with-sol-terra-and-luna-models",
-    "category": "Models",
-    "image": "https://r2.pulseaugur.com/85/8d/858db017412023ecb7d27a7094e83b9f34f6372cee528c2e9a5e32d8a18244b0/large.webp"
+    "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june26-2026",
+    "category": "Policy"
   },
   {
-    "title": "Google Delays Gemini 3.5 Pro to July, Compounding a Deepening Talent Crisis",
-    "summary": "Google Delays Gemini 3.5 Pro to July, Compounding a Deepening Talent Crisis | FAQ At Google I/O on May 19, 2026, Sundar Pichai stood before a packed auditorium in Mountain View and introduced Gemini 3.5 Pro—a model promising a 2-million-token context window, Deep Think reasoning, and broad multimod",
-    "content": "Google Delays Gemini 3.5 Pro to July, Compounding a Deepening Talent Crisis | FAQ At Google I/O on May 19, 2026, Sundar Pichai stood before a packed auditorium in Mountain View and introduced Gemini 3.5 Pro—a model promising a 2-million-token context window, Deep Think reasoning, and broad multimod",
-    "source": "faq.com.tw",
-    "date": "2026-06-28",
-    "url": "https://faq.com.tw/en/ai-ml/2026-06-28-google-gemini-35-pro-july-delay-talent-exodus-en/",
-    "category": "Models",
-    "image": "https://faq.com.tw/og-default.png"
+    "title": "EU Approves 16-Month Delay for AI Act High-Risk System Obligations",
+    "summary": "The European Parliament extended AI Act compliance deadlines by up to 16 months for high-risk AI systems, giving organizations more runway to meet substantive requirements.",
+    "content": "The European Parliament approved material amendments to the EU AI Act on June 16, 2026, extending compliance deadlines for high-risk AI systems by approximately 16 months. Standalone high-risk systems in categories like education and employment now face compliance obligations from December 2, 2027 rather than the original August 2, 2026 deadline, while product-regulated systems shift to August 2028. These postponements address slower-than-expected development of the technical standards needed for implementation across member states. Additional amendments include a ban on nudifier applications, a narrowing of safety component definitions, and an expansion of simplified compliance frameworks to mid-cap companies with up to 750 employees. Despite the timeline extensions, substantive requirements remain largely unchanged, and legal experts advise organizations to continue mapping AI systems and building governance frameworks now to prepare for full enforcement.",
+    "source": "Morgan Lewis",
+    "date": "2026-06-16",
+    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
+    "category": "Policy"
   },
   {
-    "title": "DiffusionGemma Shifts 26B Local Inference to Parallel Decoding",
-    "summary": "DiffusionGemma Shifts 26B Local Inference to Parallel Decoding | News Back to all news Google DeepMind released DiffusionGemma, an experimental 26B model that replaces standard token-by-token generation with discrete text diffusion. Built on the Gemma 4 backbone, the open-weight release drafts and",
-    "content": "DiffusionGemma Shifts 26B Local Inference to Parallel Decoding | News Back to all news Google DeepMind released DiffusionGemma, an experimental 26B model that replaces standard token-by-token generation with discrete text diffusion. Built on the Gemma 4 backbone, the open-weight release drafts and",
-    "source": "getaibook.com",
-    "date": "2026-06-27",
-    "url": "https://getaibook.com/news/diffusiongemma-shifts-26b-local-inference-to-parallel-decodi/",
-    "category": "Industry",
-    "image": "https://getaibook.com/og/diffusiongemma-shifts-26b-local-inference-to-parallel-decodi.png"
+    "title": "SpaceX Acquires AI Coding Giant Cursor for $60 Billion",
+    "summary": "SpaceX agreed to acquire Cursor in a $60 billion all-stock deal days after its blockbuster IPO, marking history's largest acquisition of a venture-backed startup.",
+    "content": "SpaceX has agreed to acquire AI coding startup Cursor—the most widely used AI code editor among professional developers—in a $60 billion all-stock transaction finalized just days after the company's record Nasdaq IPO. The deal strengthens SpaceX's AI division built around Elon Musk's xAI company, with Cursor's annualized recurring revenue growing from roughly $100 million in early 2025 to over $4 billion by June 2026, one of the fastest growth curves in software history. The acquisition stemmed from an April option agreement that gave SpaceX the right to either pay $10 billion for a partnership or acquire the company outright for $60 billion. Cursor had been preparing a $2 billion funding round at a $50 billion valuation, but the SpaceX offer proved more attractive to investors including Andreessen Horowitz and Nvidia. The deal is expected to close in Q3 2026 pending regulatory approval, positioning SpaceX to pursue what it described to IPO investors as a $26 trillion addressable market in AI.",
+    "source": "TechCrunch",
+    "date": "2026-06-16",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "category": "Industry"
+  },
+  {
+    "title": "GitHub Copilot Switches to Token-Based AI Credits Billing",
+    "summary": "GitHub Copilot moved to a metered AI Credits model in June 2026, ending flat-rate pricing for most AI-powered features while keeping inline code completions free.",
+    "content": "GitHub Copilot transitioned to usage-based billing through a new AI Credits system, where 1 credit equals $0.01, marking a significant shift away from flat-rate subscription plans. Code completions and Next Edit Suggestions remain unlimited and do not draw credits, but agentic AI sessions and other advanced features are now metered by token consumption. The move reflects a broader industry trend toward consumption-based pricing as AI inference costs become the dominant operational expense for developer tools. Competitors simultaneously reshuffled their own pricing: Google slashed its AI Plus plan from $7.99 to $4.99 monthly while doubling storage, and Anthropic released Claude Opus 4.8 with enhanced coding capabilities. OpenAI also made GPT-5.5 Instant the default ChatGPT model across free and paid tiers, intensifying competition across the developer AI landscape in June 2026.",
+    "source": "ToolChase",
+    "date": "2026-06-23",
+    "url": "https://toolchase.com/blog/ai-tools-news-2026/",
+    "category": "Tools"
+  },
+  {
+    "title": "Global Enterprise AI Report: 73% Use AI Daily, Only 10% Call It Core to Business",
+    "summary": "A global survey of 1,550 AI decision-makers finds that AI is now embedded in most enterprises but organizational transformation has not kept pace with adoption.",
+    "content": "Publicis Sapient's 2026 Global Enterprise AI Report reveals a stark disconnect between AI deployment and true organizational readiness across major markets. While 73% of enterprises report regular AI use across most business processes, only 10% consider AI core to how their business operates—indicating that adoption has raced far ahead of the systemic changes needed to realize its value. The research identifies organizational structure as the primary obstacle, with 42% of companies acknowledging they lack the systems and workflows to capitalize on AI's full capabilities. Regional analysis shows the U.K. leading enterprise transformation efforts at 51%, while France lags at 24% largely due to data infrastructure constraints. Across all markets, enterprise ambitions for AI expansion significantly outpace current operational capacity, and experts argue that modernizing legacy infrastructure and redesigning workflows—not technology adoption alone—will determine competitive advantage in an AI-driven economy.",
+    "source": "Publicis Sapient",
+    "date": "2026-06-24",
+    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
+    "category": "Trends"
   }
 ]
