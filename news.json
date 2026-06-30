@@ -1,62 +1,62 @@
 [
   {
-    "title": "Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud",
-    "summary": "Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud - Blockchain.News Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud Timothy Morano Jun 29, 2026 21:25 Anthropic launches Claude apps gateway, simplifying enterprise use of Claude Code with enhanced controls, cost tracking, an",
-    "content": "Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud - Blockchain.News Claude Apps Gateway Debuts for Amazon Bedrock, Google Cloud Timothy Morano Jun 29, 2026 21:25 Anthropic launches Claude apps gateway, simplifying enterprise use of Claude Code with enhanced controls, cost tracking, an",
-    "source": "blockchain.news",
+    "title": "Claude models launch in Microsoft Foundry with full Azure integration",
+    "summary": "Claude models launch in Microsoft Foundry with full Azure integration Advertisement Advertisement Advertisement Advertisement Claude in Microsoft Foundry integrates Nvidia GPUs and Azure identity features Anthropic has announced the general availability of its Claude family of language models",
+    "content": "Claude models launch in Microsoft Foundry with full Azure integration Advertisement Advertisement Advertisement Advertisement Claude in Microsoft Foundry integrates Nvidia GPUs and Azure identity features Anthropic has announced the general availability of its Claude family of language models",
+    "source": "tech.yahoo.com",
     "date": "2026-06-30",
-    "url": "https://blockchain.news/news/claude-apps-gateway-launch",
+    "url": "https://tech.yahoo.com/ai/claude/articles/claude-models-launch-microsoft-foundry-092631630.html",
     "category": "Models",
-    "image": "https://image.blockchain.news/features/74BD20FE1F814ADCB74BF46CC91B1D6D7BFC98CB2A41B2463E8E46D4AA01567A.jpg"
+    "image": "https://s.yimg.com/lo/mysterio/api/1c20735ae9e31d28f57a52c57cdcfeee8d3804b1f0b6350427bef538cd9f07fb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fverdict_626%2Fab7fdefcbe217998b7accd93279f8a70"
   },
   {
-    "title": "Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
-    "summary": "Anthropic’s Models Now Run on NVIDIA GB300 in Azure | NVIDIA Blog Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and dom",
-    "content": "Anthropic’s Models Now Run on NVIDIA GB300 in Azure | NVIDIA Blog Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and dom",
-    "source": "Dave Salvator",
-    "date": "2026-06-29",
-    "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
-    "category": "Models",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
-  },
-  {
-    "title": "Anthropic Claude models launch in Microsoft Foundry on Azure",
-    "summary": "Anthropic Claude models launch in Microsoft Foundry on Azure AI & Intelligence, Cloud & Infrastructure, Cloud Platforms, Compliance, Regulations & Governance, Generative AI & LLMs Anthropic Claude models launch in Microsoft Foundry on Azure https://techwireasia.com/2026/06/anthropic-claude-micr",
-    "content": "Anthropic Claude models launch in Microsoft Foundry on Azure AI & Intelligence, Cloud & Infrastructure, Cloud Platforms, Compliance, Regulations & Governance, Generative AI & LLMs Anthropic Claude models launch in Microsoft Foundry on Azure https://techwireasia.com/2026/06/anthropic-claude-micr",
-    "source": "Muhammad Zulhusni",
+    "title": "Anthropic debuts Claude Science, an AI product for bioscience",
+    "summary": "Anthropic debuts Claude Science, an AI product for bioscience Eric Kauderer-Abrams, Anthropic's head of life sciences Share on LinkedIn Share on Twitter June 30, 2026 01:15 PM EDT An­throp­ic launch­es Claude Sci­ence in flashy de­but with phar­ma heavy­weights Andrew Dunn See all storie",
+    "content": "Anthropic debuts Claude Science, an AI product for bioscience Eric Kauderer-Abrams, Anthropic's head of life sciences Share on LinkedIn Share on Twitter June 30, 2026 01:15 PM EDT An­throp­ic launch­es Claude Sci­ence in flashy de­but with phar­ma heavy­weights Andrew Dunn See all storie",
+    "source": "endpoints.news",
     "date": "2026-06-30",
-    "url": "https://techwireasia.com/2026/06/anthropic-claude-microsoft-foundry-azure/",
+    "url": "https://endpoints.news/anthropic-debuts-claude-science-an-ai-product-for-bioscience/",
     "category": "Models",
-    "image": "https://techwireasia.com/wp-content/uploads/2026/06/Anthropic-Claude-models-launch-in-Microsoft-Foundry-on-Azure.png"
+    "image": "https://endpoints.news/wp-content/uploads/2025/10/Eric-Kauderer-Abrams-1.jpg"
   },
   {
-    "title": "xAI beta launch Grok 4.5",
-    "summary": "xAI beta launch Grok 4.5 - Lapaas Voice Tuesday, June 30, 2026 Home Elon Musk has officially announced that xAI’s next-generation model, Grok 4.5, has officially entered private beta testing. Rather than deploying the model to public subscribers or a neutral cloud testing environment right away,",
-    "content": "xAI beta launch Grok 4.5 - Lapaas Voice Tuesday, June 30, 2026 Home Elon Musk has officially announced that xAI’s next-generation model, Grok 4.5, has officially entered private beta testing. Rather than deploying the model to public subscribers or a neutral cloud testing environment right away,",
-    "source": "voice.lapaas.com",
-    "date": "2026-06-29",
-    "url": "https://voice.lapaas.com/xai-beta-launch-grok-4-5/",
-    "category": "Models",
-    "image": "https://voice.lapaas.com/wp-content/uploads/2026/05/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d-696x392.jpg.jpg"
-  },
-  {
-    "title": "Google Launches Gemini 3, a Research-Focused AI Model with Advanced Reasoning",
-    "summary": "Google Launches Gemini 3, a Research-Focused AI Model with Advanced Reasoning - xix.ai News Google Launches Gemini 3, a Research-Focused AI Model with Advanced Reasoning Articles published by RaymondRodriguez Yuanbao integrates with IMA public knowledge base to boost search results with professi",
-    "content": "Google Launches Gemini 3, a Research-Focused AI Model with Advanced Reasoning - xix.ai News Google Launches Gemini 3, a Research-Focused AI Model with Advanced Reasoning Articles published by RaymondRodriguez Yuanbao integrates with IMA public knowledge base to boost search results with professi",
-    "source": "xix.ai",
+    "title": "Anthropic just released a brand-new Claude Science app for Mac",
+    "summary": "Anthropic just released a brand-new Claude Science app for Mac - 9to5Mac Anthropic just released a brand-new Claude Science app for Mac Anthropic just launched a brand-new desktop app called Claude Science. The new app joins the main Claude app on the Mac, which includes Claude AI, Cowork, and C",
+    "content": "Anthropic just released a brand-new Claude Science app for Mac - 9to5Mac Anthropic just released a brand-new Claude Science app for Mac Anthropic just launched a brand-new desktop app called Claude Science. The new app joins the main Claude app on the Mac, which includes Claude AI, Cowork, and C",
+    "source": "Zac Hall",
     "date": "2026-06-30",
-    "url": "https://xix.ai/ainews/olympic-math-gold-medallevel-reasoning-google-releases-gemini-3-deep-born-scientific-performance-approaching-final-exam-humanity.html",
+    "url": "https://9to5mac.com/2026/06/30/anthropic-just-released-a-brand-new-claude-science-app-for-mac/",
     "category": "Models",
-    "image": "https://xix.ai/assets/images/logo.png"
+    "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/claude-science.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
   },
   {
-    "title": "GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record",
-    "summary": "GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record - Lapaas Voice Tuesday, June 30, 2026 Home 📚 New to this topic? Read our full guide: Generative AI Explained.",
-    "content": "GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record - Lapaas Voice Tuesday, June 30, 2026 Home 📚 New to this topic? Read our full guide: Generative AI Explained. GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record OpenAI just made a new AI called GPT-5.6 Sol. It is the",
-    "source": "voice.lapaas.com",
+    "title": "Grok 4.5 Enters Beta with Unverified Opus Claims",
+    "summary": "Grok 4.5 Enters Beta with Unverified Opus Claims | Awesome Agents On June 28, Elon Musk posted to X that Grok 4.5 is in private beta at SpaceX and Tesla, along with a claim that early internal evaluations put it close to - or potentially above - Anthropic's Claude Opus.",
+    "content": "Grok 4.5 Enters Beta with Unverified Opus Claims | Awesome Agents On June 28, Elon Musk posted to X that Grok 4.5 is in private beta at SpaceX and Tesla, along with a claim that early internal evaluations put it close to - or potentially above - Anthropic's Claude Opus. \"Grok 4.5, based on our 1.5",
+    "source": "Elena Marchetti",
     "date": "2026-06-29",
-    "url": "https://voice.lapaas.com/openai-gpt-5-6-sol-cheating-tests/",
+    "url": "https://awesomeagents.ai/news/grok-4-5-private-beta-opus-claims/",
     "category": "Models",
-    "image": "https://voice.lapaas.com/wp-content/uploads/2026/05/Logo-10241024-2-scaled.png"
+    "image": "https://awesomeagents.ai/images/news/grok-4-5-private-beta-opus-claims_hu_8c0e508d8b52e9a2.jpg"
+  },
+  {
+    "title": "Anthropic launches Claude Science, an AI workbench for scientific research",
+    "summary": "Anthropic launches Claude Science, an AI workbench for scientific research - The New Stack TNS OK VOXPOP As a JavaScript developer, what non-React tools do you use most often? ✓ Angular ✓ Astro ✓ Svelte ✓ Vue.js ✓ Other ✓ I only use React ✓ I don't use JavaS",
+    "content": "Anthropic launches Claude Science, an AI workbench for scientific research - The New Stack TNS OK VOXPOP As a JavaScript developer, what non-React tools do you use most often? ✓ Angular ✓ Astro ✓ Svelte ✓ Vue.js ✓ Other ✓ I only use React ✓ I don't use JavaS",
+    "source": "Frederic Lardinois",
+    "date": "2026-06-30",
+    "url": "https://thenewstack.io/anthropic-claude-science-workbench/",
+    "category": "Models",
+    "image": "https://cdn.thenewstack.io/media/2026/03/2777d715-img_2911-scaled.jpg"
+  },
+  {
+    "title": "US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns",
+    "summary": "US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns Use QUASA App Join the pioneer of Web3 crypto freelancing today! Open News US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns June 30, 2026 at 11:13 AM|Author: Viacheslav Vasipeno",
+    "content": "US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns Use QUASA App Join the pioneer of Web3 crypto freelancing today! Open News US Government Urges OpenAI to Stagger GPT-5.6 Release Over Cybersecurity Concerns June 30, 2026 at 11:13 AM|Author: Viacheslav Vasipeno",
+    "source": "quasa.io",
+    "date": "2026-06-30",
+    "url": "https://quasa.io/media/us-government-urges-openai-to-stagger-gpt-5-6-release-over-cybersecurity-concerns",
+    "category": "Models",
+    "image": "https://cdn.quasa.io/images/news/2Pkv6C2Ed29vcudJ8ycOeQdVhVnaNkSruTo6YNst.jpg"
   }
 ]
