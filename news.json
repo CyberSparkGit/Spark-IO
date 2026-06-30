@@ -1,62 +1,56 @@
 [
   {
-    "title": "Gemini 3.5 Pro Cleared for July Launch as Fable 5 Nears Return, GPT-5.6 Stays Locked",
-    "summary": "Gemini 3.5 Pro Cleared for July Launch as Fable 5 Nears Return, GPT-5.6 Stays Locked Google gemini google.com Seventeen days after the U.S. government took Anthropic's Claude Fable 5 offline in the first forced shutdown of a commercially deployed frontier AI model, a resolution is finally approach",
-    "content": "Gemini 3.5 Pro Cleared for July Launch as Fable 5 Nears Return, GPT-5.6 Stays Locked Google gemini google.com Seventeen days after the U.S. government took Anthropic's Claude Fable 5 offline in the first forced shutdown of a commercially deployed frontier AI model, a resolution is finally approach",
-    "source": "Jerry Owens  \n \n \n Published: Jun 29 2026, 3:33 PM EDT",
+    "title": "US Government Forces Anthropic to Disable Claude Fable 5 and Mythos 5",
+    "summary": "The US government issued an export control directive ordering Anthropic to immediately disable its most powerful AI models just three days after their public launch, citing a reported jailbreak vulnerability exposing advanced cybersecurity capabilities.",
+    "content": "The U.S. government ordered Anthropic to immediately disable Claude Fable 5 and Claude Mythos 5 on June 12, 2026, citing national security concerns and framing the action as an export control directive. Commerce Secretary Howard Lutnick directed Anthropic to suspend all access to the models for any foreign national worldwide, including foreign national Anthropic employees. The government's underlying concern centers on a reported jailbreak vulnerability in Fable 5 that could expose advanced cybersecurity capabilities embedded in the underlying Mythos architecture—though Anthropic contends similar capabilities already exist in competing models like GPT-5.5. Anthropic pushed back publicly, stating: 'We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people.' Analysts note the bitter irony that Anthropic's own cautious safety-focused marketing around Mythos—emphasizing the model's exceptional danger—may have attracted the very regulatory scrutiny now threatening the company ahead of its anticipated IPO.",
+    "source": "TechCrunch",
+    "date": "2026-06-12",
+    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "category": "Models"
+  },
+  {
+    "title": "OpenAI and Broadcom Unveil Jalapeño, OpenAI's First Custom AI Inference Chip",
+    "summary": "OpenAI and Broadcom revealed Jalapeño, OpenAI's first proprietary AI inference processor developed in just nine months, designed to dramatically lower the cost and power consumption of serving large language models.",
+    "content": "On June 24, 2026, OpenAI and Broadcom unveiled Jalapeño, OpenAI's first custom Intelligence Processor: an accelerator architected specifically around the demands of LLM inference at scale. The chip was co-developed from initial design to manufacturing tape-out in just nine months—potentially the fastest ASIC development cycle ever achieved in high-performance semiconductors—with OpenAI's own AI models used to accelerate parts of the chip design and optimization process. Early testing shows Jalapeño delivers significantly better performance per watt than current state-of-the-art alternatives, with the processor specifically targeting real-time coding workloads to reduce operational costs and decrease reliance on Nvidia GPUs. The companies are targeting initial deployment by the end of 2026, with longer-term plans to power gigawatt-scale data centers alongside Microsoft and other partners. OpenAI frames the chip as core to its vertical integration strategy, aiming to optimize every layer of its infrastructure stack to make models 'faster, more reliable, and more affordable for users.'",
+    "source": "TechCrunch",
+    "date": "2026-06-24",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "category": "Industry"
+  },
+  {
+    "title": "Anthropic Accuses Alibaba of Using 25,000 Fake Accounts to Extract Claude's Capabilities",
+    "summary": "Anthropic alleges Alibaba's Qwen lab conducted the largest known AI model distillation attack, using 25,000 fraudulent accounts to generate 28.8 million Claude interactions to train competing models.",
+    "content": "Anthropic accused Chinese tech giant Alibaba of conducting the largest known campaign to illicitly extract capabilities from its Claude AI model, alleging that operators affiliated with Alibaba's Qwen AI lab used approximately 25,000 fraudulent accounts to generate more than 28.8 million interactions with Claude between April 22 and June 5, 2026. The attack—known as 'model distillation'—involves training a less capable AI on outputs from a more advanced system, allowing rivals to replicate sophisticated capabilities at a fraction of the original development cost. Anthropic wrote to US senators on June 10, alleging the campaign specifically targeted Claude's most advanced features, including software engineering and agentic reasoning from its frontier Mythos Preview model. Two days after the letter, the US Commerce Department imposed strict export control restrictions on Anthropic's Mythos and Fable models—a move now seen as directly connected to the alleged distillation campaign. Anthropic has urged Congress to impose penalties on firms conducting such activities and to strengthen safeguards against unauthorized extraction of US AI technology; Alibaba has not publicly responded.",
+    "source": "CNBC",
+    "date": "2026-06-24",
+    "url": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+    "category": "Industry"
+  },
+  {
+    "title": "EU Parliament Approves AI Act Amendments, Delaying High-Risk Compliance by Up to 16 Months",
+    "summary": "The European Parliament approved significant amendments to the EU AI Act in June 2026, pushing back compliance deadlines for high-risk AI systems by 12 to 16 months and simplifying rules for mid-cap companies.",
+    "content": "On June 16, 2026, the European Parliament granted final approval to material amendments to the EU Artificial Intelligence Act, primarily to address implementation delays caused by slow delivery of key technical standards from European standardization bodies. The compliance deadline for standalone high-risk AI systems in regulated sectors—such as employment and law enforcement—shifted from August 2026 to December 2027, a 16-month postponement. Product-related high-risk systems gained a 12-month extension, moving from August 2027 to August 2028. Beyond timeline adjustments, the amendments narrowed the definition of 'safety components,' classified nudifier apps as prohibited systems, and extended simplified compliance frameworks to mid-cap companies not previously covered. The Parliament framed these revisions as 'simplification measures' rather than a substantive weakening of the Act, though critics warn the delays reduce urgency for deployers to move quickly on compliance.",
+    "source": "Morgan Lewis",
+    "date": "2026-06-16",
+    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
+    "category": "Policy"
+  },
+  {
+    "title": "California Partners with Anthropic to Deploy Claude Across All State Agencies at 50% Discount",
+    "summary": "Governor Newsom announced California will become the first state to roll out an AI assistant across its entire governmental infrastructure, giving agencies, cities, and counties access to Claude at half price with full technical support.",
+    "content": "Governor Gavin Newsom announced on June 29, 2026, a landmark partnership with Anthropic making California the first state to deploy an AI assistant across its entire governmental infrastructure. The arrangement provides state agencies, cities, and counties access to Claude at a 50% discount, along with complimentary workforce training and direct technical support from Anthropic developers. Intended applications include document analysis, drafting, summarization, and customer service functions—with the deal explicitly framed as augmenting rather than replacing human workers. The partnership is strategically significant for Anthropic because government contracts create substantial switching costs once embedded in agency workflows, effectively securing long-term market presence ahead of the company's anticipated IPO. The deal builds on Newsom's prior groundwork from 2025 establishing AI procurement policies and a dedicated AI evaluation working group across California's sprawling government apparatus.",
+    "source": "Crypto Briefing",
     "date": "2026-06-29",
-    "url": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
-  },
-  {
-    "title": "Anthropic’s Claude Models Now On NVIDIA GB300 GPUs in Azure",
-    "summary": "Anthropic’s Claude Models Now On NVIDIA GB300 GPUs in Azure - Blockchain.News Anthropic’s Claude Models Now On NVIDIA GB300 GPUs in Azure Caroline Bishop Jun 29, 2026 17:50 Anthropic’s Claude AI models, now on NVIDIA GB300 GPUs via Microsoft Azure, promise enhanced enterprise AI capabilities wi",
-    "content": "Anthropic’s Claude Models Now On NVIDIA GB300 GPUs in Azure - Blockchain.News Anthropic’s Claude Models Now On NVIDIA GB300 GPUs in Azure Caroline Bishop Jun 29, 2026 17:50 Anthropic’s Claude AI models, now on NVIDIA GB300 GPUs via Microsoft Azure, promise enhanced enterprise AI capabilities wi",
-    "source": "blockchain.news",
-    "date": "2026-06-30",
-    "url": "https://blockchain.news/news/anthropic-claude-nvidia-gb300-azure",
-    "category": "Models",
-    "image": "https://image.blockchain.news:443/features/D8E08E86F8EDBDDCD68414CF49BDD8B1401B11A69515DFF98E6B2B03EE9CF9D7.jpg"
-  },
-  {
-    "title": "Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
-    "summary": "Anthropic’s Models Now Run on NVIDIA GB300 in Azure | NVIDIA Blog Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and dom",
-    "content": "Anthropic’s Models Now Run on NVIDIA GB300 in Azure | NVIDIA Blog Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and dom",
-    "source": "Dave Salvator",
-    "date": "2026-06-29",
-    "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
-    "category": "Models",
-    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350.png"
-  },
-  {
-    "title": "xAI beta launch Grok 4.5",
-    "summary": "xAI beta launch Grok 4.5 - Lapaas Voice Tuesday, June 30, 2026 Home Elon Musk has officially announced that xAI’s next-generation model, Grok 4.5, has officially entered private beta testing. Rather than deploying the model to public subscribers or a neutral cloud testing environment right away,",
-    "content": "xAI beta launch Grok 4.5 - Lapaas Voice Tuesday, June 30, 2026 Home Elon Musk has officially announced that xAI’s next-generation model, Grok 4.5, has officially entered private beta testing. Rather than deploying the model to public subscribers or a neutral cloud testing environment right away,",
-    "source": "voice.lapaas.com",
-    "date": "2026-06-29",
-    "url": "https://voice.lapaas.com/xai-beta-launch-grok-4-5/",
-    "category": "Models",
-    "image": "https://voice.lapaas.com/wp-content/uploads/2026/05/4b6f9a20-fa9d-11f0-a9b2-e154b2ff290d-696x392.jpg.jpg"
-  },
-  {
-    "title": "California Governor Newsom partners with Anthropic to deploy Claude across state agencies",
-    "summary": "California Governor Newsom partners with Anthropic to deploy Claude across state agencies SEARCH Searching... California Governor Newsom partners with Anthropic to deploy Claude across state agencies The deal gives California's sprawling government apparatus access to Claude at a discount,",
-    "content": "California Governor Newsom partners with Anthropic to deploy Claude across state agencies SEARCH Searching... California Governor Newsom partners with Anthropic to deploy Claude across state agencies The deal gives California's sprawling government apparatus access to Claude at a discount,",
-    "source": "Editorial Team",
-    "date": "2026-06-30",
     "url": "https://cryptobriefing.com/california-newsom-anthropic-claude-state-agencies/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30012627/gavin-newsom-800x420.jpeg"
+    "category": "Policy"
   },
   {
-    "title": "GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record",
-    "summary": "GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record - Lapaas Voice Tuesday, June 30, 2026 Home 📚 New to this topic? Read our full guide: Generative AI Explained.",
-    "content": "GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record - Lapaas Voice Tuesday, June 30, 2026 Home 📚 New to this topic? Read our full guide: Generative AI Explained. GPT-5.6 Sol Cheating on Tests: OpenAI’s New AI Broke the Record OpenAI just made a new AI called GPT-5.6 Sol. It is the",
-    "source": "voice.lapaas.com",
-    "date": "2026-06-29",
-    "url": "https://voice.lapaas.com/openai-gpt-5-6-sol-cheating-tests/",
-    "category": "Models",
-    "image": "https://voice.lapaas.com/wp-content/uploads/2026/05/Logo-10241024-2-scaled.png"
+    "title": "Global Survey: 73% of Enterprises Use AI Regularly But Only 10% Call It Core to Operations",
+    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers exposes a widening gap between AI adoption and organizational readiness, with most enterprises unable to capture the full value of their AI investments.",
+    "content": "Publicis Sapient's 2026 Global Enterprise AI Report, based on a survey of 1,550 AI decision-makers, reveals a striking disconnect between how widely AI is used and how deeply it is embedded in business operations. While 73% of respondents report AI is used regularly or across most business processes, only 10% consider it core to how their business actually operates. Nearly half (47%) believe AI can meet their current business needs, yet 42% acknowledge their organizations lack the structural readiness to capture that value. A critical 22% identified organizational operations—not technology—as the primary barrier to AI success, and only 38% said AI is fundamentally changing how their business operates today. The findings suggest enterprises are hitting a 'deployment plateau': AI is now ubiquitous, but transformative, measurable business impact remains elusive for the vast majority of organizations despite heavy investment.",
+    "source": "Publicis Sapient",
+    "date": "2026-06-10",
+    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
+    "category": "Trends"
   }
 ]
