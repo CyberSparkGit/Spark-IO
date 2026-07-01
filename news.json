@@ -1,15 +1,5 @@
 [
   {
-    "title": "Google's New Gemini Models Cut Video Creation Costs to 10 Cents Per Second",
-    "summary": "Google's New Gemini Models Cut Video Creation Costs to 10 Cents Per Second | FrontierNews.ai i 🔍Search Breaking News View All → Anthropic's Claude Sonnet 5 Arrives as a Deliberately Safer Alternative to Banned Flagship Models Large Language Models·7h ago Sam Altman's Biopic Gets D",
-    "content": "Google's New Gemini Models Cut Video Creation Costs to 10 Cents Per Second | FrontierNews.ai i 🔍Search Breaking News View All → Anthropic's Claude Sonnet 5 Arrives as a Deliberately Safer Alternative to Banned Flagship Models Large Language Models·7h ago Sam Altman's Biopic Gets D",
-    "source": "FrontierNews.ai",
-    "date": "2026-06-30",
-    "url": "https://www.frontiernews.ai/news/article/googles-new-gemini-models-cut-video-creation-costs-4a68e4c6",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Google%27s%20New%20Gemini%20Models%20Cut%20Video%20Creation%20Costs%20to%2010%20Cents%20Per%20Second&topic=Large%20Language%20Models"
-  },
-  {
     "title": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted",
     "summary": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
     "content": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
@@ -18,6 +8,16 @@
     "url": "https://siliconangle.com/2026/06/30/anthropic-launches-claude-sonnet-5-coding-safety-upgrades/",
     "category": "Models",
     "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-2.png"
+  },
+  {
+    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
+    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
+    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
+    "date": "2026-07-01",
+    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
   },
   {
     "title": "Anthropic launches Claude Sonnet 5, a cheaper agent model",
@@ -31,23 +31,13 @@
   },
   {
     "title": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI",
-    "summary": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI content - Human in the Loop - Mind the Prompt - The Pure AI Blog - The Long View - AI Castaway - AI Watch - Contact Us Expert Insights for the AI Business Revolution Add as a preferred source on",
-    "content": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI content - Human in the Loop - Mind the Prompt - The Pure AI Blog - The Long View - AI Castaway - AI Watch - Contact Us Expert Insights for the AI Business Revolution Add as a preferred source on",
+    "summary": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI content - Contact Us Pure AI Expert Insights for the AI Business Revolution Add as a preferred source on Google News OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Re",
+    "content": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI content - Contact Us Pure AI Expert Insights for the AI Business Revolution Add as a preferred source on Google News OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Re",
     "source": "John K. Waters 06/30/2026",
     "date": "2026-06-30",
     "url": "https://pureai.com/articles/2026/06/30/openai-gpt-5-6-launch-turns-frontier-ai-into-a-governmentnreviewed-release.aspx",
     "category": "Models",
     "image": "https://pureai.com/-/media/ECG/PureAI/Images/New-PAI-Image-Folder/Generic-Government-Security.jpg"
-  },
-  {
-    "title": "Grok 4.5 Enters Beta with Unverified Opus Claims",
-    "summary": "Grok 4.5 Enters Beta with Unverified Opus Claims | Awesome Agents On June 28, Elon Musk posted to X that Grok 4.5 is in private beta at SpaceX and Tesla, along with a claim that early internal evaluations put it close to - or potentially above - Anthropic's Claude Opus.",
-    "content": "Grok 4.5 Enters Beta with Unverified Opus Claims | Awesome Agents On June 28, Elon Musk posted to X that Grok 4.5 is in private beta at SpaceX and Tesla, along with a claim that early internal evaluations put it close to - or potentially above - Anthropic's Claude Opus. \"Grok 4.5, based on our 1.5",
-    "source": "Elena Marchetti",
-    "date": "2026-06-29",
-    "url": "https://awesomeagents.ai/news/grok-4-5-private-beta-opus-claims/",
-    "category": "Models",
-    "image": "https://awesomeagents.ai/images/news/grok-4-5-private-beta-opus-claims_hu_8c0e508d8b52e9a2.jpg"
   },
   {
     "title": "Claude Code Is Marking Requests: What Anthropic Hid",
@@ -58,5 +48,15 @@
     "url": "https://byteiota.com/claude-code-is-marking-requests-what-anthropic-hid/",
     "category": "Models",
     "image": "https://byteiota.com/wp-content/uploads/2026/07/featured-image-2.jpg"
+  },
+  {
+    "title": "Anthropic Releases Claude Sonnet 5 for Agentic Work",
+    "summary": "Anthropic Releases Claude Sonnet 5 for Agentic Work | Let's Data Science Feedback Photo: images.macrumors.com· rights & takedowns Quick SummaryHide Editorial analysis: For AI practitioners building agents, lower-cost models that natively handle multi-step tool use shift production tradeoffs towa",
+    "content": "Anthropic Releases Claude Sonnet 5 for Agentic Work | Let's Data Science Feedback Photo: images.macrumors.com· rights & takedowns Quick SummaryHide Editorial analysis: For AI practitioners building agents, lower-cost models that natively handle multi-step tool use shift production tradeoffs towa",
+    "source": "Let's Data Science",
+    "date": "2026-06-30",
+    "url": "https://letsdatascience.com/news/anthropic-releases-claude-sonnet-5-for-agentic-work-84eb158b",
+    "category": "Models",
+    "image": "https://images.macrumors.com/t/sR6Xr2aQRUd9eNIrWVUqYATXHBU=/2000x/article-new/2026/06/anthropic-claude-sonnet-5.jpg"
   }
 ]
