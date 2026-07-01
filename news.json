@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI's GPT-5.6 Launches with Government Security Review Before Release",
-    "summary": "OpenAI unveiled the GPT-5.6 model family — Sol, Terra, and Luna — marking the first frontier AI release preceded by a formal U.S. government security preview.",
-    "content": "OpenAI has unveiled GPT-5.6, a three-model family comprising Sol (flagship), Terra (balanced), and Luna (fastest and most affordable), with a significant procedural shift: the rollout followed a U.S. government security review before public access. The company stated it 'previewed its plans and the models' capabilities to the U.S. government ahead of launch' and began deployment with approximately 20 pre-approved partner organizations. These models show advanced capabilities in software engineering, cybersecurity, and scientific research, though OpenAI confirmed they cannot execute autonomous end-to-end attacks against hardened targets. The tiered pricing structure ranges from Luna at $1 per million input tokens to Sol at $5. This release signals a structural shift in how frontier AI reaches market — government review before broad commercial access is now part of the launch process, with significant implications for enterprise planning and competitive dynamics.",
-    "source": "PureAI",
+    "title": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted",
+    "summary": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
+    "content": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
+    "source": "Maria Deutscher",
+    "date": "2026-07-01",
+    "url": "https://siliconangle.com/2026/06/30/anthropic-launches-claude-sonnet-5-coding-safety-upgrades/",
+    "category": "Models",
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-2.png"
+  },
+  {
+    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
+    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
+    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
+    "date": "2026-07-01",
+    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "summary": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents - UK Daily: Tech, Science, Business & Lifestyle News Updates Close Corn Ribs Recipe Trending - Who Got Dumped From the ‘Love Island USA’ Villa Last Night? - Corn Ribs Recipe - Victor Willis’ Health: What We Know About the Vil",
+    "content": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents - UK Daily: Tech, Science, Business & Lifestyle News Updates Close Corn Ribs Recipe Trending - Who Got Dumped From the ‘Love Island USA’ Villa Last Night? - Corn Ribs Recipe - Victor Willis’ Health: What We Know About the Vil",
+    "source": "bibhuti",
+    "date": "2026-07-01",
+    "url": "https://thenewstimes.uk/2026/07/01/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "category": "Models",
+    "image": "https://thenewstimes.uk/wp-content/uploads/2026/06/Claude-photo.jpg"
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5, a cheaper agent model",
+    "summary": "Anthropic launches Claude Sonnet 5, a cheaper agent model Image by: Anthropic Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much.",
+    "content": "Anthropic launches Claude Sonnet 5, a cheaper agent model Image by: Anthropic Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much. Anthropic said on June 30, 2026 that Sonnet 5 is avail",
+    "source": "Ana Maria Constantin",
+    "date": "2026-06-30",
+    "url": "https://thenextweb.com/news/anthropic-claude-sonnet-5-agentic-model-pricing",
+    "category": "Models",
+    "image": "https://media.thenextweb.com/2026/06/claude-sonnet-5.avif"
+  },
+  {
+    "title": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI",
+    "summary": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI content - Contact Us Pure AI Expert Insights for the AI Business Revolution Add as a preferred source on Google News OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Re",
+    "content": "OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Release -- Pure AI content - Contact Us Pure AI Expert Insights for the AI Business Revolution Add as a preferred source on Google News OpenAI’s GPT-5.6 Launch Turns Frontier AI Into a Government-Reviewed Re",
+    "source": "John K. Waters 06/30/2026",
     "date": "2026-06-30",
     "url": "https://pureai.com/articles/2026/06/30/openai-gpt-5-6-launch-turns-frontier-ai-into-a-governmentnreviewed-release.aspx",
-    "category": "Models"
+    "category": "Models",
+    "image": "https://pureai.com/-/media/ECG/PureAI/Images/New-PAI-Image-Folder/Generic-Government-Security.jpg"
   },
   {
-    "title": "EU Grants Final Approval to AI Act Amendments, Delays High-Risk Obligations by 16 Months",
-    "summary": "The Council of the EU gave final approval on June 29 to material amendments to the EU AI Act, pushing back major compliance deadlines and banning nudifier applications.",
-    "content": "On June 16, 2026, the European Parliament approved material amendments to the EU AI Act, driven primarily by delays in developing harmonized technical standards and regulatory guidance, with the Council of the EU granting final approval on June 29. The amendments push back critical compliance deadlines: standalone high-risk AI systems in Annex III categories now face obligations from December 2, 2027 rather than August 2, 2026 — a 16-month extension — while product-safety-regulated high-risk systems shift to August 2, 2028. Additional changes include banning nudifier applications as prohibited systems from December 2, 2026, narrowing the definition of 'safety component,' creating exemptions for special category data in bias detection, and extending simplified compliance frameworks to mid-cap companies. Legal experts emphasize these amendments represent 'an extension of time to complete compliance efforts, rather than as a material relaxation' of underlying obligations, and businesses are advised to continue governance preparation regardless of the extended deadlines.",
-    "source": "Morgan Lewis",
-    "date": "2026-06-29",
-    "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
-    "category": "Policy"
-  },
-  {
-    "title": "State AI Legislation Surges: Rhode Island Signs Laws, New York Passes Five AI Bills",
-    "summary": "Multiple U.S. states advanced AI legislation in the final week of June 2026, with Rhode Island signing new AI laws and New York passing five measures on training data transparency and surveillance pricing.",
-    "content": "During the final week of June 2026, multiple U.S. states advanced artificial intelligence regulations across sectors, accelerating a fragmented but significant wave of state-level AI governance. Arizona Governor Katie Hobbs vetoed three AI bills covering chatbot safety, synthetic imagery, and administrative automation. California's legislature advanced approximately 30 AI-related measures through committee reviews, with significant progress on bills addressing student privacy, workplace surveillance, and public school teacher protections. Rhode Island Governor Dan McKee signed three AI laws into effect, establishing prohibitions on therapy chatbots and requiring disclosure protocols for AI use in healthcare documentation. New York lawmakers passed five AI measures — including requirements for generative AI training data transparency and regulations on AI-assisted surveillance pricing — sending them to Governor Hochul for consideration before year-end.",
-    "source": "Transparency Coalition",
-    "date": "2026-06-26",
-    "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june26-2026",
-    "category": "Policy"
-  },
-  {
-    "title": "Only 10% of Enterprises Say AI Is Core to Operations Despite Near-Universal Deployment",
-    "summary": "Publicis Sapient's 2026 Global Enterprise AI Report found that while 73% of businesses use AI regularly, only 10% consider it central to how they operate, revealing a deep readiness gap.",
-    "content": "Publicis Sapient's 2026 Global Enterprise AI Report, which surveyed 1,550 decision-makers globally, reveals a critical disconnect between widespread AI deployment and organizational readiness. While 73% of respondents report regular AI use across business processes, merely 10% consider AI central to operations — and 42% acknowledge their organizations lack the infrastructure to fully capitalize on AI's capabilities. Despite 47% believing AI already meets current business requirements, the report emphasizes that 'the enterprise was not designed for the speed, scale and autonomy that AI makes possible,' with legacy systems and fragmented workflows obstructing enterprise-wide transformation. Regional variations demonstrate uneven progress, with the U.K. leading transformation efforts at 51% reporting fundamental business change, while France lags at 24%, constrained primarily by internal data limitations. The findings suggest that closing the readiness gap will require systemic changes to operating models, not just further AI tool adoption.",
-    "source": "Publicis Sapient",
-    "date": "2026-06-17",
-    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
-    "category": "Trends"
-  },
-  {
-    "title": "White House Executive Order Creates AI Cybersecurity Clearinghouse for Frontier Models",
-    "summary": "A June 2 executive order directs federal agencies to establish an AI cybersecurity clearinghouse and creates a voluntary framework for frontier AI developers to share models with government officials before release.",
-    "content": "President Trump's June 2, 2026 executive order directs federal agencies to modernize cybersecurity infrastructure while promoting domestic AI development. Key agencies — including CISA, Treasury, and OMB — are required to complete cyber defense upgrades and establish an 'AI cybersecurity clearinghouse' within 30-60 days to coordinate vulnerability detection across government and critical infrastructure. The order creates a voluntary framework allowing AI developers to share 'covered frontier models' with federal officials for security assessment before public release, with the order explicitly stating that 'nothing in this section shall be construed to authorize mandatory governmental licensing, preclearance, or permitting.' The directive also prioritizes criminal enforcement against unauthorized computer access using AI tools, while emphasizing that innovation should not be stifled with overly burdensome regulation. Industry observers see the order as a precursor to a more formalized pre-release review structure for advanced AI systems.",
-    "source": "White House",
-    "date": "2026-06-02",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-    "category": "Policy"
-  },
-  {
-    "title": "Google Search Gets Biggest Upgrade in 25 Years with Persistent AI Agents",
-    "summary": "Google unveiled AI agent capabilities in Search powered by Gemini 3.5 Flash at I/O 2026, enabling continuous web monitoring, agentic booking, and personalized intelligence across 200 countries.",
-    "content": "At Google I/O 2026, Google unveiled what it called 'the biggest upgrade to our Search box in over 25 years,' powered by Gemini 3.5 Flash as the new default model for AI Mode globally. The platform now features persistent information agents that continuously monitor web content and notify users of relevant updates aligned with their specific interests — a shift from reactive search to proactive intelligence. Users can deploy agentic booking capabilities for local services and shopping, and even request that Google call businesses on their behalf for select categories. Google also integrated agentic coding through its Antigravity platform, enabling Search to generate custom interactive dashboards and mini-apps for ongoing personal tasks like fitness tracking or event planning. The expanded Personal Intelligence feature extends across nearly 200 countries in 98 languages without requiring a paid subscription, allowing users to securely connect Gmail and Google Photos for contextually aware assistance.",
-    "source": "Google Blog",
-    "date": "2026-05-19",
-    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "category": "Tools"
+    "title": "Google ships Nano Banana 2 Lite and Gemini Omni Flash to developers — AI Chat Daily",
+    "summary": "Google ships Nano Banana 2 Lite and Gemini Omni Flash to developers — AI Chat Daily Live--:--:-- PT Claude Opus 4.7 helped a researcher forge tickets for every major US music festival Wayve runs $85M employee tender at $8.5B valuation BioShocking attack jailbreaks six AI browsers by convincing t",
+    "content": "Google ships Nano Banana 2 Lite and Gemini Omni Flash to developers — AI Chat Daily Live--:--:-- PT Claude Opus 4.7 helped a researcher forge tickets for every major US music festival Wayve runs $85M employee tender at $8.5B valuation BioShocking attack jailbreaks six AI browsers by convincing t",
+    "source": "Jaeden Schafer",
+    "date": "2026-06-30",
+    "url": "https://www.aichatdaily.com/ai-models/google-ships-nano-banana-2-lite-gemini-omni",
+    "category": "Models",
+    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2F4e0908a7-754e-407c-833f-b5f2e216b4eb%2F5bbb3f96-f65b-4220-a729-0c6b0167a89d.png&w=1200&q=75"
   }
 ]
