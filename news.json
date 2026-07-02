@@ -1,62 +1,56 @@
 [
   {
-    "title": "Google ships Nano Banana 2 Lite and Gemini Omni Flash to developers — AI Chat Daily",
-    "summary": "Google ships Nano Banana 2 Lite and Gemini Omni Flash to developers — AI Chat Daily Live--:--:-- PT Bhavin Turakhia stakes $30M of his own money on Neo, an AI-native Office rival OpenAI proposes US government stake worth $42.6B Nvidia opens AI-factory model with Sharon AI and Firmus taking 21",
-    "content": "Google ships Nano Banana 2 Lite and Gemini Omni Flash to developers — AI Chat Daily Live--:--:-- PT Bhavin Turakhia stakes $30M of his own money on Neo, an AI-native Office rival OpenAI proposes US government stake worth $42.6B Nvidia opens AI-factory model with Sharon AI and Firmus taking 21",
-    "source": "Jaeden Schafer",
-    "date": "2026-06-30",
-    "url": "https://www.aichatdaily.com/ai-models/google-ships-nano-banana-2-lite-gemini-omni",
-    "category": "Models",
-    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2F4e0908a7-754e-407c-833f-b5f2e216b4eb%2F5bbb3f96-f65b-4220-a729-0c6b0167a89d.png&w=1200&q=75"
-  },
-  {
-    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
-    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
-    "date": "2026-07-01",
-    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted",
-    "summary": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
-    "content": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
-    "source": "Maria Deutscher",
-    "date": "2026-07-01",
-    "url": "https://siliconangle.com/2026/06/30/anthropic-launches-claude-sonnet-5-coding-safety-upgrades/",
-    "category": "Models",
-    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-2.png"
-  },
-  {
-    "title": "Nvidia says software cuts DeepSeek V4 token costs fivefold",
-    "summary": "Nvidia says software cuts DeepSeek V4 token costs fivefold DataCentreNews UK - Specialist news for cloud & data centre decision-makers United Kingdom Powered By Semiconductors DC Open source Nvidia says software cuts DeepSeek V4 token costs fivefold Wed, 1st Jul 2026 (Yesterday) MARK TARRE N",
-    "content": "Nvidia says software cuts DeepSeek V4 token costs fivefold DataCentreNews UK - Specialist news for cloud & data centre decision-makers United Kingdom Powered By Semiconductors DC Open source Nvidia says software cuts DeepSeek V4 token costs fivefold Wed, 1st Jul 2026 (Yesterday) MARK TARRE N",
-    "source": "Mark Tarre",
-    "date": "2026-07-01",
-    "url": "https://datacentrenews.uk/story/nvidia-says-software-cuts-deepseek-v4-token-costs-fivefold",
-    "category": "Models",
-    "image": "https://datacentrenews.uk/uploads/story/2026/07/01/compatible_optimized-energy-gpu-data-center-rack-cost-curve-digital-illustration.jpg"
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5, a cheaper agent model",
-    "summary": "Anthropic launches Claude Sonnet 5, a cheaper agent model Image by: Anthropic Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much.",
-    "content": "Anthropic launches Claude Sonnet 5, a cheaper agent model Image by: Anthropic Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much. Anthropic said on June 30, 2026 that Sonnet 5 is avail",
-    "source": "Ana Maria Constantin",
+    "title": "Anthropic Launches Claude Sonnet 5 as New Default Model",
+    "summary": "Anthropic released Claude Sonnet 5 on June 30, making it the default for Free and Pro users — the company's most agentic Sonnet yet at half the cost of Opus 4.8.",
+    "content": "Anthropic launched Claude Sonnet 5 on June 30, 2026, immediately making it the new default model for its Free and Pro subscription tiers. The model is priced at an introductory $2 per million input tokens and $10 per million output tokens through August 31 — roughly half the cost of flagship Opus 4.8. Sonnet 5 scores between Sonnet 4.6 and Opus 4.8 on most benchmarks, achieving 63.2% on agentic coding tests compared to Opus 4.8's 69.2%. Unlike its predecessor, it can drive browsers and terminals autonomously, self-check its own output, and complete complex multi-step tasks without supervision. The release also ships stronger safety defaults including real-time cybersecurity safeguards and improved resistance to prompt-injection attacks.",
+    "source": "The Next Web",
     "date": "2026-06-30",
     "url": "https://thenextweb.com/news/anthropic-claude-sonnet-5-agentic-model-pricing",
-    "category": "Models",
-    "image": "https://media.thenextweb.com/2026/06/claude-sonnet-5.avif"
+    "category": "Models"
   },
   {
-    "title": "Anthropic Releases Claude Sonnet 5 for Agentic Work",
-    "summary": "Anthropic Releases Claude Sonnet 5 for Agentic Work | Let's Data Science Feedback Photo: images.macrumors.com· rights & takedowns Quick SummaryHide Anthropic introduced Claude Sonnet 5 in a June 30, 2026 blog post, calling it \"the most agentic Sonnet model yet\" and an upgrade to the Sonnet famil",
-    "content": "Anthropic Releases Claude Sonnet 5 for Agentic Work | Let's Data Science Feedback Photo: images.macrumors.com· rights & takedowns Quick SummaryHide Anthropic introduced Claude Sonnet 5 in a June 30, 2026 blog post, calling it \"the most agentic Sonnet model yet\" and an upgrade to the Sonnet famil",
-    "source": "Let's Data Science",
-    "date": "2026-06-30",
-    "url": "https://letsdatascience.com/news/anthropic-releases-claude-sonnet-5-for-agentic-work-84eb158b",
-    "category": "Models",
-    "image": "https://images.macrumors.com/t/sR6Xr2aQRUd9eNIrWVUqYATXHBU=/2000x/article-new/2026/06/anthropic-claude-sonnet-5.jpg"
+    "title": "South Korea Pledges $880 Billion in AI and Semiconductor Investment",
+    "summary": "President Lee Jae-myung unveiled a sweeping 10-year, $880 billion national plan to cement South Korea's dominance in AI infrastructure and chip manufacturing.",
+    "content": "On June 29, 2026, South Korean President Lee Jae-myung announced the country's largest-ever industrial strategy: 1,350 trillion won (approximately $880 billion) earmarked over the next decade for semiconductors, AI data centers, and robotics. Samsung Group and SK Group alone plan to build four new chip fabrication plants in the southwest Gwangju region with a combined value of roughly 800 trillion won, while major Korean conglomerates have committed 550 trillion won toward large-scale AI data center capacity by 2029. The strategy targets the entire AI infrastructure stack — from high-bandwidth memory chips to the server facilities running frontier AI models. The announcement positions South Korea as the first nation to commit public industrial policy at this scale toward winning the AI hardware race, betting that the next phase of AI will be defined as much by access to hardware as by software.",
+    "source": "Al Jazeera",
+    "date": "2026-06-29",
+    "url": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive",
+    "category": "Industry"
+  },
+  {
+    "title": "California Signs First Statewide Government Deal to Deploy Claude AI",
+    "summary": "Governor Newsom announced a landmark partnership giving every California state agency and local government access to Anthropic's Claude at a 50% discount.",
+    "content": "California Governor Gavin Newsom announced on June 29, 2026 a first-of-its-kind partnership with Anthropic, making California the first state to roll out an AI productivity tool across its entire government infrastructure. Under the agreement, state agencies can access Claude through the Statewide Information Technology Shared Services portal at half price, with the same discounted offer extending to all California cities and counties that opt in. The deal includes free workforce training, specialist generative AI technical assistance, and workflow design consultation from Anthropic developers. Some agencies are already live — the Department of Motor Vehicles using Claude for customer service and the Department of Health Care Services for internal workflows. Newsom stated the goal is to help government workers 'move faster and solve problems more effectively,' explicitly ruling out using AI to replace human employees.",
+    "source": "TechCrunch",
+    "date": "2026-06-29",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "category": "Industry"
+  },
+  {
+    "title": "Trump Signs Executive Order Reshaping US AI Policy Around National Security",
+    "summary": "A White House executive order shifts AI policy toward national security cooperation, requiring developers to voluntarily give the government 30-day preview access to frontier models before public release.",
+    "content": "President Trump signed an Executive Order titled 'Promoting Advanced Artificial Intelligence Innovation and Security' on June 2, 2026, establishing a voluntary framework for frontier AI model assessment by federal agencies. The order directs AI developers to offer the government 30-day preview access to new frontier models before providing access to other partners, enabling a classified benchmarking process to evaluate advanced cyber capabilities. Within 60 days, NSA, CISA, and the Treasury Department must jointly develop assessment criteria for 'covered frontier models' and stand up an AI-cybersecurity clearinghouse to coordinate vulnerability scanning across government and industry. The order explicitly prohibits mandatory licensing or preclearance of AI products while prioritizing federal prosecution of AI-enabled computer crimes. It represents a sharp pivot from safety-focused oversight toward a security-and-innovation framework designed to keep the US at the frontier.",
+    "source": "White House",
+    "date": "2026-06-02",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "category": "Policy"
+  },
+  {
+    "title": "OpenAI Previews GPT-5.6 in Three Tiers After Government Requests Restricted Rollout",
+    "summary": "OpenAI launched a limited preview of GPT-5.6 with Sol, Terra, and Luna tiers on June 26 — but the Trump administration asked the company to cap access to vetted partners first.",
+    "content": "OpenAI launched a limited preview of GPT-5.6 on June 26, 2026, introducing a three-tier model architecture: Sol (flagship reasoning at $5/$30 per million tokens), Terra (balanced production at $2.50/$15), and Luna (everyday lower-cost at $1/$6). Sol targets hard reasoning, coding, cybersecurity, and agentic tasks, while Terra and Luna serve production and everyday workloads. Broad access to ChatGPT, Codex, and the API is expected within weeks according to CEO Sam Altman, but the Trump administration requested that OpenAI restrict the initial rollout to partners whose participation has been shared with government — a restriction OpenAI called atypical and said 'shouldn't be the norm.' The launch marks OpenAI's clearest move yet toward a tiered model portfolio designed to address a wider range of enterprise cost and capability requirements.",
+    "source": "TechCrunch",
+    "date": "2026-06-26",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "category": "Models"
+  },
+  {
+    "title": "Stanford Study Confirms AI Is Hollowing Out Entry-Level Jobs",
+    "summary": "A Stanford and ADP study finds workers aged 22–25 in the most AI-exposed occupations have seen a 13% relative employment decline since 2022, with the trend accelerating every month.",
+    "content": "A study co-authored by Stanford economist Erik Brynjolfsson and ADP's Nela Richardson, updated in June 2026 with data through April 2026, found that workers aged 22–25 in the occupations most exposed to generative AI have experienced a 13% relative decline in employment since 2022. Critically, the decline is driven by young workers failing to enter those jobs in the first place, not by layoffs — a sign that AI is replacing the work that once trained junior employees rather than simply automating it away. The effect has grown consistently by roughly half a percentage point per month, with software development and customer service hit hardest. The findings add empirical weight to a growing 'AI productivity paradox': while enterprise surveys show two-thirds of organizations report productivity gains from AI, those gains are increasingly accruing to senior workers whose institutional knowledge AI augments rather than the entry-level roles it is quietly eliminating.",
+    "source": "Fortune",
+    "date": "2026-06-27",
+    "url": "https://fortune.com/2026/06/27/what-is-ai-impact-entry-level-jobs-stanford-adp-canaries-brynjolfsson-richardson/",
+    "category": "Trends"
   }
 ]
