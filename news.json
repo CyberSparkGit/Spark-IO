@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic closes loopholes to prevent Chinese access to Claude",
-    "summary": "Anthropic closes loopholes to prevent Chinese access to Claude SEARCH Searching... Anthropic closes loopholes to prevent Chinese access to Claude A massive distillation attack tied to Alibaba's Qwen lab prompted Anthropic to tighten identity checks and call on Congress for stronger penalties",
-    "content": "Anthropic closes loopholes to prevent Chinese access to Claude SEARCH Searching... Anthropic closes loopholes to prevent Chinese access to Claude A massive distillation attack tied to Alibaba's Qwen lab prompted Anthropic to tighten identity checks and call on Congress for stronger penalties",
-    "source": "Editorial Team",
+    "title": "Anthropic Closes Loopholes to Prevent Chinese Access to Claude",
+    "summary": "A massive distillation attack tied to Alibaba's Qwen lab — 25,000 fake accounts generating 28.8 million interactions — prompted Anthropic to tighten identity checks and lobby Congress for stronger penalties.",
+    "content": "Anthropic implemented stricter enforcement after operatives linked to Alibaba's Qwen lab conducted a massive distillation attack between April and June 2026, using approximately 25,000 fraudulent accounts to generate over 28.8 million interactions aimed at extracting Claude's capabilities. The company closed corporate structure loopholes by extending restrictions to majority-owned subsidiaries of Chinese entities and deployed identity verification requiring government-issued IDs and live selfies for flagged users. Anthropic is now lobbying Congress for two key changes: improved information-sharing between U.S. AI companies when distillation attacks occur, and substantially increased penalties for those conducting such attacks. The move reflects escalating tensions between American AI labs and state-linked actors seeking to replicate frontier model capabilities without the underlying research investment.",
+    "source": "Crypto Briefing",
     "date": "2026-07-03",
     "url": "https://cryptobriefing.com/anthropic-closes-loopholes-chinese-access-claude/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03003614/claude-id-checks-anthropic-may-ask-for-your-passport-in-2026-7-800x420.jpeg"
+    "category": "Policy"
   },
   {
-    "title": "xAI Launched Grok Build — A Terminal Coding Agent to Fight Claude Code and Codex",
-    "summary": "xAI Launched Grok Build — A Terminal Coding Agent to Fight Claude Code and Codex - DEV Community The terminal coding agent market just got a third serious entrant. xAI launched Grok Build beta on June 5, 2026 — a terminal-first coding agent running on Grok 4.3 with a TUI interface, headless CI/CD m",
-    "content": "xAI Launched Grok Build — A Terminal Coding Agent to Fight Claude Code and Codex - DEV Community The terminal coding agent market just got a third serious entrant. xAI launched Grok Build beta on June 5, 2026 — a terminal-first coding agent running on Grok 4.3 with a TUI interface, headless CI/CD m",
-    "source": "dev.to",
-    "date": "2026-07-02",
-    "url": "https://dev.to/akaranjkar08/xai-launched-grok-build-a-terminal-coding-agent-to-fight-claude-code-and-codex-5hg5",
-    "category": "Models",
-    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F61pyutjxw7xlc422ta54.png"
-  },
-  {
-    "title": "xAI Launches Grok Voice Agent Builder for No Code Voice Agents",
-    "summary": "xAI Launches Grok Voice Agent Builder for No Code Voice Agents Face & Image RecognitionLatest news on breakthroughs in face and image recognition Voice & Speech RecognitionUpdates on voice and speech recognition transforming communication tech Chatbots & Virtual AssistantsNews on chatbots and vir",
-    "content": "xAI Launches Grok Voice Agent Builder for No Code Voice Agents Face & Image RecognitionLatest news on breakthroughs in face and image recognition Voice & Speech RecognitionUpdates on voice and speech recognition transforming communication tech Chatbots & Virtual AssistantsNews on chatbots and vir",
-    "source": "justainews.com",
-    "date": "2026-07-02",
-    "url": "https://justainews.com/companies/xai/xai-launches-grok-voice-agent-builder-for-no-code-voice-agents/",
-    "category": "Models",
-    "image": "https://justainews.com/wp-content/uploads/2026/07/xAI-Launches-Grok-Voice-Agent-Builder-for-No-Code-Voice-Agents.jpg"
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted",
-    "summary": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
-    "content": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
-    "source": "Maria Deutscher",
+    "title": "xAI Launches Grok Voice Agent Builder: No-Code Voice AI at $0.05 a Minute",
+    "summary": "xAI released a no-code platform that turns a plain-language description into a live voice agent in two minutes, priced at $0.05 per minute — undercutting every major rival.",
+    "content": "xAI launched the Grok Voice Agent Builder in beta on July 1, 2026, a no-code platform that converts a plain-language description of a phone call into a working live voice agent in about two minutes. The platform includes out-of-the-box telephony, knowledge retrieval, guardrails, MCP integrations, and observability in a single unified interface built on the same speech-to-speech path as Grok Voice — eliminating the fragmented stacks typical of legacy voice AI. At $0.05 per minute with voices included, it supports 25+ languages with mid-conversation switching, 80+ voices, and voice cloning from as little as two minutes of audio. Users can bring existing phone numbers via SIP, connect APIs and MCP servers, or stream over WebSocket, with built-in integrations for Gmail, Google Calendar, Notion, Linear, and OneDrive.",
+    "source": "xAI",
     "date": "2026-07-01",
-    "url": "https://siliconangle.com/2026/06/30/anthropic-launches-claude-sonnet-5-coding-safety-upgrades/",
-    "category": "Models",
-    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-2.png"
+    "url": "https://x.ai/news/grok-voice-agent-builder",
+    "category": "Tools"
   },
   {
-    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
-    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
+    "title": "Claude Fable 5 Returns Globally with Strengthened Safety Classifiers",
+    "summary": "After a 19-day U.S. export control suspension, Anthropic redeployed Fable 5 with redesigned classifiers that block the exploit technique in over 99% of cases.",
+    "content": "Claude Fable 5 was pulled by U.S. government order after Amazon researchers discovered a technique to bypass its safety features by prompting the model to identify and demonstrate software vulnerabilities. Upon redeployment on July 1, 2026, Anthropic enhanced Fable 5 with stricter classifiers designed to target and abort cybersecurity tasks, with the model now falling back to Opus 4.8 when it detects high-risk requests. Testing by the Commerce Department's Center for AI Standards and Innovation confirmed the new safeguards halted the specific exploit technique in over 99% of cases. Notably, researchers found that less capable models like Opus 4.8 and GPT-5.5 could identify the same vulnerabilities, suggesting Fable 5 did not possess uniquely elevated capabilities — a finding that supports Anthropic's case for the broader redeployment.",
+    "source": "9to5Google",
     "date": "2026-07-01",
-    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
+    "url": "https://9to5google.com/2026/07/01/anthropic-fable-5-returns-to-claude/",
+    "category": "Models"
   },
   {
-    "title": "Anthropic launches Claude Sonnet 5, a cheaper agent model",
-    "summary": "Anthropic launches Claude Sonnet 5, a cheaper agent model Image by: Anthropic Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much.",
-    "content": "Anthropic launches Claude Sonnet 5, a cheaper agent model Image by: Anthropic Anthropic has launched Claude Sonnet 5, its most agentic mid-tier model yet. It runs close to the flagship Opus 4.8 on many tasks, but costs less than half as much. Anthropic said on June 30, 2026 that Sonnet 5 is avail",
-    "source": "Ana Maria Constantin",
-    "date": "2026-06-30",
-    "url": "https://thenextweb.com/news/anthropic-claude-sonnet-5-agentic-model-pricing",
-    "category": "Models",
-    "image": "https://media.thenextweb.com/2026/06/claude-sonnet-5.avif"
+    "title": "California Signs Landmark AI Deal with Anthropic — All State Agencies Get Claude at Half Price",
+    "summary": "Governor Newsom's first-of-its-kind partnership with Anthropic gives every California state agency and local government access to Claude at a 50% discount, the largest U.S. government AI deployment to date.",
+    "content": "Governor Newsom and Anthropic partnered to provide all California state agencies, cities, and counties with access to Claude at a 50% discount, marking the largest U.S. government AI deployment of its kind. Claude is now the first AI productivity tool available through California's new SITeS portal, which centralizes AI tools with transparent pricing for common state use cases including drafting documents, analyzing data, and improving state worker experience. Anthropic is also providing free workforce training and GenAI technical assistance to help agencies deploy the technology effectively. The deal highlights a stark divergence between California and the federal government, which has labeled Anthropic a supply-chain risk and directed agencies toward OpenAI — underscoring how AI partnerships are becoming a new dimension of state-versus-federal policy competition.",
+    "source": "TechCrunch",
+    "date": "2026-06-29",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "category": "Industry"
+  },
+  {
+    "title": "OpenAI Previews GPT-5.6 — Sol, Terra, and Luna — Under U.S. Government Safety Review",
+    "summary": "OpenAI's next model family offers three tiers for different use cases, but access is capped at roughly 20 trusted partners while federal agencies complete a mandatory benchmark assessment.",
+    "content": "OpenAI previewed GPT-5.6 in late June 2026 as a three-model family: Sol, the top-tier flagship for complex reasoning, coding, and agentic tasks; Terra, a balanced everyday model; and Luna, the fastest and most affordable tier for high-volume simpler work. Access is currently limited to approximately 20 trusted organizations via the API and Codex, pending a mandatory U.S. government safety review triggered by an executive order signed June 2, 2026, requiring federal benchmark assessments before broad rollout. Sol is priced at $5 per million input tokens and $30 per million output tokens, with Terra at roughly half that cost and Luna the most affordable. All three tiers have been internally classified as 'High' risk for cybersecurity and biological capability concerns, and general availability across ChatGPT and the full API is expected within weeks of review completion.",
+    "source": "Tech Journal",
+    "date": "2026-06-26",
+    "url": "https://techjournal.org/openai-gpt-5-6-sol-terra-luna",
+    "category": "Models"
+  },
+  {
+    "title": "Five Eyes Alliance: AI-Powered Cyberattacks Are Months Away, Not Years",
+    "summary": "The intelligence agencies of the U.S., U.K., Canada, Australia, and New Zealand issued a joint warning that frontier AI models will enable devastating cyberattacks far sooner than the industry expects.",
+    "content": "The Five Eyes intelligence alliance — comprising the United States, United Kingdom, Canada, Australia, and New Zealand — warned in June 2026 that frontier AI models will exceed current industry expectations within months, enabling sophisticated cyberattacks capable of overwhelming government and enterprise defenses. The agencies identified AI's ability to discover and exploit software vulnerabilities at scale as the primary threat vector, dramatically lowering the barrier for malicious actors while vastly increasing attack speed and complexity. Recommended defensive measures include reducing attack surfaces, accelerating patch cycles, isolating legacy systems, strengthening identity management, and elevating cybersecurity to board-level strategy rather than an IT function. The warning arrived weeks before the U.S. government temporarily suspended Anthropic's Fable 5 model over exactly this concern — underscoring that AI-enabled offensive capabilities are already a live national security issue.",
+    "source": "Cybersecurity Dive",
+    "date": "2026-06-23",
+    "url": "https://www.cybersecuritydive.com/news/ai-cyberattacks-five-eyes-frontier-models-warning/823526/",
+    "category": "Policy"
   }
 ]
