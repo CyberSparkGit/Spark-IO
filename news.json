@@ -10,24 +10,24 @@
     "image": "https://d.techtimes.com/en/full/466480/openai.jpg"
   },
   {
+    "title": "xAI Launched Grok Build — A Terminal Coding Agent to Fight Claude Code and Codex",
+    "summary": "xAI Launched Grok Build — A Terminal Coding Agent to Fight Claude Code and Codex - DEV Community The terminal coding agent market just got a third serious entrant. xAI launched Grok Build beta on June 5, 2026 — a terminal-first coding agent running on Grok 4.3 with a TUI interface, headless CI/CD m",
+    "content": "xAI Launched Grok Build — A Terminal Coding Agent to Fight Claude Code and Codex - DEV Community The terminal coding agent market just got a third serious entrant. xAI launched Grok Build beta on June 5, 2026 — a terminal-first coding agent running on Grok 4.3 with a TUI interface, headless CI/CD m",
+    "source": "dev.to",
+    "date": "2026-07-02",
+    "url": "https://dev.to/akaranjkar08/xai-launched-grok-build-a-terminal-coding-agent-to-fight-claude-code-and-codex-5hg5",
+    "category": "Models",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F61pyutjxw7xlc422ta54.png"
+  },
+  {
     "title": "Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases",
-    "summary": "Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases | Yellow.com Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases Alexey Bondarev 1 hour ago AIWhite HouseDonald TrumpAnthropicOpenAI Trump Administration is reportedly nearing a volunta",
-    "content": "Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases | Yellow.com Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases Alexey Bondarev 1 hour ago AIWhite HouseDonald TrumpAnthropicOpenAI Trump Administration is reportedly nearing a volunta",
+    "summary": "Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases Alexey Bondarev Just now AIWhite HouseDonald TrumpAnthropicOpenAI Trump Administration is reportedly nearing a voluntary AI standards deal with major technology companies as Washington sharpens its focus on front",
+    "content": "Trump Administration Nears AI Deal That Could Rewrite Frontier Model Releases Alexey Bondarev Just now AIWhite HouseDonald TrumpAnthropicOpenAI Trump Administration is reportedly nearing a voluntary AI standards deal with major technology companies as Washington sharpens its focus on front",
     "source": "yellow.com",
     "date": "2026-07-02",
     "url": "https://yellow.com/news/trump-administration-ai-deal-frontier-models",
     "category": "Models",
     "image": "https://media.yellow.com/uploads/Chat_GPT_Image_Jun_8_2026_10_55_03_PM_9d55cfd8f9.jpg"
-  },
-  {
-    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
-    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
-    "date": "2026-07-01",
-    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
   },
   {
     "title": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted",
@@ -40,14 +40,14 @@
     "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-2.png"
   },
   {
-    "title": "Anthropic Claude Fable 5 Is Back Online After US Export Controls Lift",
-    "summary": "Anthropic Claude Fable 5 Is Back Online After US Export Controls Lift | ThePCEnthusiast Share this article Anthropic has restored Claude Fable 5 access after new cybersecurity safeguards were added. Anthropic has started redeploying Claude Fable 5 globally after the US go",
-    "content": "Anthropic Claude Fable 5 Is Back Online After US Export Controls Lift | ThePCEnthusiast Share this article Anthropic has restored Claude Fable 5 access after new cybersecurity safeguards were added. Image source: Anthropic. Anthropic has started redeploying Claude Fable 5 globally after the US go",
-    "source": "Peter Paul",
-    "date": "2026-07-02",
-    "url": "https://thepcenthusiast.com/anthropic-claude-fable-5-redeployed/",
+    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
+    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
+    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
+    "date": "2026-07-01",
+    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
     "category": "Models",
-    "image": "https://cdn.thepcenthusiast.com/wp-content/uploads/2026/07/anthropic-fable-5-redeployed.jpg"
+    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
   },
   {
     "title": "Nvidia says software cuts DeepSeek V4 token costs fivefold",
