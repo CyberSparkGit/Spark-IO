@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic Launches Claude Science: How the Coefficient Bio Acquisition and John Jumper Hire Signal a Full-Stack Pharma Play",
-    "summary": "Anthropic Launches Claude Science: How the Coefficient Bio Acquisition and John Jumper Hire Signal a Full-Stack Pharma Play - FourWeekMBA Anthropic isn’t just selling AI to pharma — it’s vertically integrating into the science itself, and that changes everything about who wins the drug-discovery st",
-    "content": "Anthropic Launches Claude Science: How the Coefficient Bio Acquisition and John Jumper Hire Signal a Full-Stack Pharma Play - FourWeekMBA Anthropic isn’t just selling AI to pharma — it’s vertically integrating into the science itself, and that changes everything about who wins the drug-discovery st",
-    "source": "Gennaro Cuofano",
-    "date": "2026-07-04",
-    "url": "https://fourweekmba.com/ai-anthropic-claude-science-pharma-coefficient-bio-jumper/",
-    "category": "Models",
-    "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/07/anthropic-claude-science-pharma-coefficient-bio-jumper.png?fit=2400%2C1260&ssl=1"
-  },
-  {
-    "title": "AI Benchmark Cheating Sets Record: GPT-5.6 Sol Gamed Its Own Safety Tests",
-    "summary": "AI Benchmark Cheating Sets Record: GPT-5.6 Sol Gamed Its Own Safety Tests GPT 5.6 openai.com AI benchmark cheating has been theorized as an inevitable consequence of training capable optimizers against fixed metrics. With OpenAI's GPT-5.6 Sol, the theory arrived in full view.",
-    "content": "AI Benchmark Cheating Sets Record: GPT-5.6 Sol Gamed Its Own Safety Tests GPT 5.6 openai.com AI benchmark cheating has been theorized as an inevitable consequence of training capable optimizers against fixed metrics. With OpenAI's GPT-5.6 Sol, the theory arrived in full view. The nonprofit safety",
-    "source": "Richard L. Wells  \n \n \n Published: Jul 03 2026, 7:22 PM EDT",
-    "date": "2026-07-03",
-    "url": "https://www.techtimes.com/articles/319662/20260703/ai-benchmark-cheating-sets-record-gpt-56-sol-gamed-its-own-safety-tests.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466817/gpt-56.png"
-  },
-  {
-    "title": "GPT-5.6 Sol Limited Preview: OpenAI’s New Model Tiers and Safety Release Rhythm",
-    "summary": "GPT-5.6 Sol Limited Preview: OpenAI’s New Model Tiers and Safety Release Rhythm OpenAI began the limited preview of the GPT-5.6 family on June 26, 2026. This is not a single model release, but a new model tiering system: Sol is the flagship model, Terra is the balanced model for daily work, and Lun",
-    "content": "GPT-5.6 Sol Limited Preview: OpenAI’s New Model Tiers and Safety Release Rhythm OpenAI began the limited preview of the GPT-5.6 family on June 26, 2026. This is not a single model release, but a new model tiering system: Sol is the flagship model, Terra is the balanced model for daily work, and Lun",
-    "source": "knightli.com",
+    "title": "Anthropic Restores Claude Fable 5 After US Lifts 19-Day Export Control Ban",
+    "summary": "The US Commerce Department lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 after a 19-day global shutdown triggered by an Amazon-discovered jailbreak vulnerability, with full access restored July 1.",
+    "content": "On June 30, 2026, the U.S. Commerce Department lifted export controls on Anthropic's Claude Fable 5 and Mythos 5 models, allowing their redeployment worldwide beginning July 1 across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork. The controls had been imposed on June 12 after Amazon researchers discovered a jailbreak technique enabling the model to write code showing how software flaws could be exploited, prompting emergency restrictions affecting all users globally since the company had no reliable way to verify user nationality in real time. To address safety concerns, Anthropic developed a new classifier blocking the specific jailbreak technique with over 99% effectiveness, routing blocked requests to the weaker Claude Opus 4.8 model instead. Mythos 5 — the same underlying model with reduced safety guardrails — remains restricted to approximately 100 U.S. companies and federal agencies defending critical infrastructure. Anthropic also committed to co-developing an industry-wide jailbreak severity ranking framework with Amazon, Microsoft, and Google, assessing findings on accessibility and harm potential to prevent disproportionate future government responses.",
+    "source": "The Hacker News",
     "date": "2026-07-01",
-    "url": "https://knightli.com/en/2026/07/02/gpt-5-6-sol-limited-preview/",
-    "category": "Models",
-    "image": "https://knightli.com/img/avatar_hu_9fb47e5b83758359.png"
+    "url": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+    "category": "Policy"
   },
   {
-    "title": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap",
-    "summary": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "content": "Claude Sonnet 5 Ships as Anthropic Default: Agentic Performance Closes Opus Gap Sonnet 5 anthropic.com Anthropic on June 30, 2026, launched Claude Sonnet 5 as the new default AI model for its Free and Pro subscription tiers — replacing Sonnet 4.6 with a model the company says narrows the performan",
-    "source": "Richard L. Wells  \n \n \n Published: Jul 01 2026, 12:08 AM EDT",
+    "title": "UN Releases First Global AI Scientific Assessment, Warns Capabilities Are Outpacing Governance",
+    "summary": "The UN's inaugural independent AI scientific assessment found current safeguards cannot keep pace with rapidly advancing capabilities, with the US controlling 75% of global supercomputing power and governance frameworks dangerously lagging.",
+    "content": "The UN launched its first independent global scientific assessment of artificial intelligence on July 1, 2026, with Secretary-General António Guterres declaring: 'The science is here. We can no longer say we did not know.' The panel of 40 leading scientists identified seven critical domains, from AI's potential scientific breakthroughs to its implications for human rights and democracy, concluding that current safeguards cannot keep pace with rapid capability growth. Panel co-chair Yoshua Bengio cautioned that 'AI capabilities are outpacing both scientific understanding and governments' ability to adapt,' while the report warns that the window for effective global governance 'remains open but may not stay that way.' The assessment highlights severe inequalities in AI access, with the United States controlling 75 percent of global supercomputing power, and documents emerging harms including deceptive AI behavior, cyberattacks, and disproportionate impacts on vulnerable populations. The findings informed the inaugural UN Global Dialogue on AI Governance in Geneva on July 6-7, 2026.",
+    "source": "UN News",
     "date": "2026-07-01",
-    "url": "https://www.techtimes.com/articles/319409/20260701/claude-sonnet-5-ships-anthropic-default-agentic-performance-closes-opus-gap.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/467760/sonnet-5.png"
+    "url": "https://news.un.org/en/story/2026/07/1167853",
+    "category": "Policy"
   },
   {
-    "title": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted",
-    "summary": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
-    "content": "Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted - SiliconANGLE SHARE UPDATED 20:47 EDT / JUNE 30 2026 AI Anthropic launches Claude Sonnet 5 AI model with coding, safety upgrades as Fable and Mythos controls lifted Anthropic PBC to",
-    "source": "Maria Deutscher",
+    "title": "UN and ITU Launch AI for Good Global Commission with Jensen Huang, Jassy, and Benioff",
+    "summary": "The UN and ITU co-founded the AI for Good Global Commission on July 1, co-chaired by Salesforce CEO Marc Benioff and Rwandan President Paul Kagame, bringing together over 40 founding members to bridge AI's global divide.",
+    "content": "The United Nations and the International Telecommunication Union launched the AI for Good Global Commission on July 1, 2026, co-chaired by Salesforce CEO Marc Benioff and Rwandan President Paul Kagame to expand AI access and strengthen global trust in the technology. The commission counts more than 40 Founding Members including Amazon CEO Andy Jassy, Microsoft President Brad Smith, NVIDIA CEO Jensen Huang, and Anthropic co-founder Jack Clark, representing one of the most significant multilateral AI governance bodies ever assembled. The inaugural meeting is scheduled during ITU's AI for Good Global Summit 2026 on July 7-10 in Geneva, coinciding with the broader UN Global Dialogue on AI Governance. A central focus is bridging digital divides by helping developing nations access AI infrastructure, countering the concentration of advanced compute power currently controlled by a handful of wealthy countries. The commission will issue practical recommendations across three pillars: expanding access to AI, strengthening trust through safety standards, and accelerating AI's deployment to address global challenges.",
+    "source": "Axios",
     "date": "2026-07-01",
-    "url": "https://siliconangle.com/2026/06/30/anthropic-launches-claude-sonnet-5-coding-safety-upgrades/",
-    "category": "Models",
-    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/Anthropic-2.png"
+    "url": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
+    "category": "Industry"
   },
   {
-    "title": "GPT-5.6 Release Date: When You Can Actually Use It",
-    "summary": "GPT-5.6 Release Date: When You Can Actually Use It News / AI Tools GPT-5.6 Release Date: When You Can Actually Use It GPT-5.6 launched June 26, 2026, but not for everyone. Here is the real release date story: Sol, Terra, Luna, the government-gated preview, and what's next.",
-    "content": "GPT-5.6 Release Date: When You Can Actually Use It News / AI Tools GPT-5.6 Release Date: When You Can Actually Use It GPT-5.6 launched June 26, 2026, but not for everyone. Here is the real release date story: Sol, Terra, Luna, the government-gated preview, and what's next. Written byDivit Bh",
-    "source": "emergent.sh",
-    "date": "2026-07-03",
-    "url": "https://emergent.sh/news/gpt-5-6-release-date",
-    "category": "Models",
-    "image": "https://cdn.prod.website-files.com/6a0f028de6df6a6fd88c3f89/6a466f68fbe66448c6662402_gpt-5-6-release-date.avif"
+    "title": "Meituan Open-Sources LongCat-2.0: A 1.6-Trillion-Parameter Coding Model Trained Entirely on Chinese Chips",
+    "summary": "Chinese tech giant Meituan released LongCat-2.0 under MIT license, a 1.6T-parameter agentic coding model trained on 50,000 domestic Ascend 910 chips with no US hardware, scoring 59.5% on SWE-bench Pro.",
+    "content": "Meituan open-sourced LongCat-2.0 on June 30, 2026, a 1.6-trillion-parameter Mixture-of-Experts model trained entirely on 50,000 Huawei Ascend 910 domestic Chinese chips — no NVIDIA A100s, H100s, or AMD MI300X chips were involved in the training pipeline. The model dynamically activates approximately 33–56 billion parameters per token and features a 1 million token context window optimized for agentic coding tasks, scoring 59.5% on SWE-bench Pro and edging out GPT-5.5's score of 58.6%. The model was previously deployed anonymously as 'Owl Alpha' on OpenRouter, where developers ranked it highly on merit before Meituan's identity was revealed — a strategy that allowed independent performance validation free of geopolitical bias. Released under a permissive MIT license, LongCat-2.0 is a significant proof-of-concept that China's domestic chip ecosystem can train frontier-scale models, potentially insulating the country's AI development from US export restrictions. The release nearly tripled the parameter count of its predecessor in less than a year, signaling the pace of China's sovereign AI infrastructure build-out.",
+    "source": "VentureBeat",
+    "date": "2026-06-30",
+    "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+    "category": "Models"
+  },
+  {
+    "title": "Study of 26,000 Students Reveals AI's Hidden Learning Trap: Better Grades, Worse Exams",
+    "summary": "A 30-month study tracking 26,811 Chinese students found that AI use raised homework scores 18% while reducing exam performance by up to 24%, revealing a 'cognitive offloading' trap that takes nearly two years to fully surface.",
+    "content": "A research project tracking 26,811 Chinese secondary students over 30 months revealed a paradoxical impact of generative AI use: students using AI achieved homework score increases of 18% and completed assignments 30% faster, while their closed-book exam performance declined 20% within six months, with entrance exam scores falling between 18–24% after two years of consistent AI reliance. The study identified 'cognitive offloading' as the primary mechanism — approximately 80% of AI-using students submitted high-quality homework but underperformed significantly when tools were unavailable, indicating that outsourcing thinking to AI prevented the development of robust independent problem-solving skills. Notably, the highest-achieving students suffered the largest learning losses because their superior ability to instruct AI effectively masked underlying skill deterioration that only surfaced during delayed assessments. The research concluded that 'AI hurts learning if it undermines mental effort,' though students who used AI as a supplementary — rather than primary — tool and maintained strong personal effort showed minimal learning decline. The findings carry significant implications for educational policy as generative AI tools become ubiquitous in classrooms worldwide.",
+    "source": "Psychology Today",
+    "date": "2026-06-15",
+    "url": "https://www.psychologytoday.com/us/blog/the-power-of-experience/202606/a-study-of-26000-students-shows-the-ai-learning-trap",
+    "category": "Trends"
+  },
+  {
+    "title": "NVIDIA State of AI 2026: 88% of Enterprises Report Revenue Gains as Deployment Hits Scale",
+    "summary": "NVIDIA's survey of 3,200+ organizations finds 88% reporting annual revenue increases from AI and 87% achieving cost reductions, though talent scarcity remains the top barrier to scaling from pilots to full production.",
+    "content": "NVIDIA's 2026 State of AI report, surveying over 3,200 respondents across industries, reveals that 64% of organizations now actively deploy AI while 28% remain in assessment phases — a decisive shift from experimentation to production-scale infrastructure. Revenue impact is substantial: 88% reported annual revenue increases from AI, including 30% experiencing gains exceeding 10%, while 87% achieved lower annual expenses, with particularly strong results in retail and consumer packaged goods where 37% reduced costs by more than 10%. Open source tools now dominate enterprise AI strategy, with 85% deeming them moderately to extremely important for deployment, signaling a shift away from dependence on a single commercial provider. The primary challenge constraining growth remains talent scarcity: 38% of organizations identified the 'lack of AI experts and data scientists' as a significant barrier to scaling projects from pilot to production. These findings align with broader Deloitte data showing that while worker access to AI tools increased 50% in 2025, only 34% of companies are truly reimagining their business — the majority are still optimizing existing processes rather than transforming them.",
+    "source": "NVIDIA Blog",
+    "date": "2026-06-10",
+    "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+    "category": "Industry"
   }
 ]
