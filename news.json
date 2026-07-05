@@ -1,56 +1,62 @@
 [
   {
-    "title": "U.S. Lifts Export Controls on Anthropic's Claude Fable 5 and Mythos 5",
-    "summary": "The Trump administration ended a 19-day export control order on Anthropic's most advanced AI models after the company committed to new government security cooperation measures.",
-    "content": "The US Department of Commerce lifted export restrictions on Anthropic's Claude Fable 5 and Mythos 5 on July 1, 2026, ending a 19-day shutdown imposed after a jailbreak technique was discovered that could allow the models to identify software vulnerabilities. The Trump administration had restricted all foreign access — including to Anthropic's own overseas employees — citing national security concerns managed under Commerce Secretary Howard Lutnick's oversight. Under the restoration agreement, Anthropic committed to proactively detecting and addressing security risks, collaborating with the government on future model standards, and reporting malicious activity promptly. The company retrained its safety classifier to block the specific jailbreak technique with over 99% effectiveness, and agreed to provide pre-release government access to frontier models while co-developing a jailbreak risk-scoring framework with Amazon, Microsoft, and Google. The reversal sets an important precedent for how the US government will oversee future frontier AI model releases.",
-    "source": "Al Jazeera",
-    "date": "2026-07-01",
-    "url": "https://www.aljazeera.com/economy/2026/7/1/us-lifts-restrictions-on-powerful-ai-models-fable-mythos-anthropic-says",
-    "category": "Models"
+    "title": "OpenAI Previewed Three GPT-5.6 Models (Sol, Terra, and Luna), Wider Release Coming Soon",
+    "summary": "OpenAI Previewed Three GPT-5.6 Models (Sol, Terra, and Luna), Wider Release Coming Soon Loading the Elevenlabs Text to Speech AudioNative Player... OpenAI announced a preview of its GPT-5.6 family, including a top-tier model comparable to Claude 5 Mythos — but so far it’s available only to users t",
+    "content": "OpenAI Previewed Three GPT-5.6 Models (Sol, Terra, and Luna), Wider Release Coming Soon Loading the Elevenlabs Text to Speech AudioNative Player... OpenAI announced a preview of its GPT-5.6 family, including a top-tier model comparable to Claude 5 Mythos — but so far it’s available only to users t",
+    "source": "deeplearning.ai",
+    "date": "2026-07-03",
+    "url": "https://www.deeplearning.ai/the-batch/gpt-5-6-lands-in-limbo",
+    "category": "Models",
+    "image": "https://charonhub.deeplearning.ai/content/images/2026/07/GPT5.6.webp"
   },
   {
-    "title": "Five Eyes Alliance Warns AI-Powered Cyber Attacks Are Months, Not Years, Away",
-    "summary": "Intelligence agencies from the US, UK, Canada, Australia, and New Zealand issued an urgent joint statement warning that frontier AI models will fundamentally transform offensive cyber capabilities within months.",
-    "content": "The Five Eyes intelligence alliance — cybersecurity agencies from the United States, United Kingdom, Canada, Australia, and New Zealand — issued a rare joint warning that frontier AI models pose an imminent threat to critical infrastructure and business systems worldwide. Advanced AI tools are expected to exceed current industry expectations, fundamentally transforming offensive and defensive cyber capabilities by dramatically improving attackers' ability to discover and exploit vulnerabilities at speed and scale. The agencies urged executives and board leaders to treat cybersecurity as a core business responsibility, recommending urgent actions: reducing attack surfaces, accelerating patch deployment, isolating legacy systems, strengthening identity management, and regularly rehearsing incident-response plans. The statement stressed that success will come from getting the basics right, acting quickly, and integrating cybersecurity into core business strategy, and warned that organizations failing to act now will face increasing competitive disadvantage as AI-powered attacks accelerate.",
-    "source": "Cybersecurity Dive",
-    "date": "2026-06-23",
-    "url": "https://www.cybersecuritydive.com/news/ai-cyberattacks-five-eyes-frontier-models-warning/823526/",
-    "category": "Policy"
+    "title": "Google's Gemini 3.5 Flash Gets a Major Upgrade: What Computer Use Means for AI Agents",
+    "summary": "Google's Gemini 3.5 Flash Gets a Major Upgrade: What Computer Use Means for AI Agents | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT Citations Are Now Required in Academic Work: Here's How to Do It Right Large Language Models·4h ago Google's Antigravity IDE Joins the",
+    "content": "Google's Gemini 3.5 Flash Gets a Major Upgrade: What Computer Use Means for AI Agents | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT Citations Are Now Required in Academic Work: Here's How to Do It Right Large Language Models·4h ago Google's Antigravity IDE Joins the",
+    "source": "FrontierNews.ai",
+    "date": "2026-07-04",
+    "url": "https://www.frontiernews.ai/news/article/googles-gemini-35-flash-gets-a-major-upgrade-what-e3b04ade",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=Google%27s%20Gemini%203.5%20Flash%20Gets%20a%20Major%20Upgrade%3A%20What%20Computer%20Use%20Means%20for%20AI%20Agents&topic=Large%20Language%20Models"
   },
   {
-    "title": "UN Launches Global AI Governance Dialogue in Geneva, Warns Window for Action Is Closing",
-    "summary": "The United Nations opened its first Global Dialogue on AI Governance in Geneva with 40 international experts warning that the opportunity to establish effective global AI regulation may not stay open much longer.",
-    "content": "The UN's Independent International Scientific Panel on Artificial Intelligence opened its Global Dialogue on AI Governance in Geneva on July 6, 2026, issuing an urgent call for Member States to act before effective governance becomes impossible. The 40-expert panel, representing every global region, found that AI capabilities are advancing at extraordinary pace — with task complexity doubling every few months — enabling medical breakthroughs and food security improvements while simultaneously enabling disinformation, cybercrime, and significant environmental strain from energy-intensive data centers. The dialogue convenes governments to develop common standards, international cooperation frameworks, and governance structures designed to address these dual-use realities. A central goal is ensuring that developing nations receive the computing infrastructure and technical capacity needed to govern AI independently, rather than becoming permanently dependent on a small number of wealthier, technology-rich nations.",
-    "source": "UN News",
-    "date": "2026-07-05",
-    "url": "https://news.un.org/en/story/2026/07/1167848",
-    "category": "Policy"
+    "title": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context",
+    "summary": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context Close Google announced Gemini 3 in early July 2026, its latest AI model with enhanced reasoning abilities, multimodal capabilities, and a one-million-token context window. The model is now available across Google products i",
+    "content": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context Close Google announced Gemini 3 in early July 2026, its latest AI model with enhanced reasoning abilities, multimodal capabilities, and a one-million-token context window. The model is now available across Google products i",
+    "source": "Tusher Debnath",
+    "date": "2026-07-04",
+    "url": "https://inews.zoombangla.com/google-gemini-3-launch-july-2026/",
+    "category": "Models",
+    "image": "https://inews.zoombangla.com/wp-content/uploads/2026/07/Screenshot_1-52.jpg"
   },
   {
-    "title": "California Partners with Anthropic to Deploy AI Across All State Agencies at Half Price",
-    "summary": "Governor Newsom announced a first-of-its-kind deal giving California state and local governments access to Anthropic's Claude AI at a 50% discount, alongside the statewide launch of Poppy, a secure AI assistant built by state workers for state workers.",
-    "content": "Governor Gavin Newsom announced on June 29, 2026, a landmark partnership with Anthropic providing all California state agencies access to Claude AI tools at a 50% discount, including complimentary workforce training, technical support, and the same pricing extended to cities and counties statewide. The agreement accompanies the July 1 statewide rollout of Poppy, a custom generative AI platform built by state workers for state workers that consolidates 10 AI models into a single secure environment aligned with California's data and security protocols. Poppy launched after a successful pilot with over 2,800 employees across 67 departments, helping staff draft documents, analyze large datasets, and research policy while ensuring that data never leaves California's trusted environment and cannot be used to train the underlying AI models. The partnership also includes specialized tools such as Claude Security and Claude Code for cybersecurity applications, with Newsom emphasizing that AI should help government workers move faster — not replace them.",
-    "source": "Office of the Governor of California",
-    "date": "2026-06-29",
-    "url": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/",
-    "category": "Industry"
+    "title": "Anthropic Launches Claude Science: How the Coefficient Bio Acquisition and John Jumper Hire Signal a Full-Stack Pharma Play",
+    "summary": "Anthropic Launches Claude Science: How the Coefficient Bio Acquisition and John Jumper Hire Signal a Full-Stack Pharma Play - FourWeekMBA Anthropic isn’t just selling AI to pharma — it’s vertically integrating into the science itself, and that changes everything about who wins the drug-discovery st",
+    "content": "Anthropic Launches Claude Science: How the Coefficient Bio Acquisition and John Jumper Hire Signal a Full-Stack Pharma Play - FourWeekMBA Anthropic isn’t just selling AI to pharma — it’s vertically integrating into the science itself, and that changes everything about who wins the drug-discovery st",
+    "source": "Gennaro Cuofano",
+    "date": "2026-07-04",
+    "url": "https://fourweekmba.com/ai-anthropic-claude-science-pharma-coefficient-bio-jumper/",
+    "category": "Models",
+    "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/07/anthropic-claude-science-pharma-coefficient-bio-jumper.png?fit=2400%2C1260&ssl=1"
   },
   {
-    "title": "Google Calls Its I/O 2026 Search Overhaul the Biggest Upgrade in 25 Years",
-    "summary": "Google integrated Gemini 3.5 Flash into Search at I/O 2026, introducing 24/7 web-monitoring agents, agentic booking, and custom dashboard generation available across nearly 200 countries.",
-    "content": "Google unveiled what it called the biggest upgrade to its Search box in over 25 years at I/O 2026, integrating Gemini 3.5 Flash as the default model in AI Mode and rolling it out globally across nearly 200 countries and 98 languages. New capabilities include Search agents that monitor the web around the clock for personalized updates, agentic booking for services and shopping, and on-the-fly generation of custom dashboards and interactive trackers tailored to individual user queries. Personal Intelligence features now let users securely connect Gmail, Google Photos, and Google Calendar for more contextual assistance, with strict privacy guardrails ensuring personal data stays within Google's trusted environment. The deployment marks a fundamental shift: Search is evolving from a query-response tool into an autonomous AI that can research, draft, plan, and act across daily workflows without requiring step-by-step user direction.",
-    "source": "Google Blog",
-    "date": "2026-05-19",
-    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "category": "Tools"
+    "title": "Anthropic Launches Claude Sonnet 5, Approaching Opus 4.8 Performance at a Lower Price",
+    "summary": "Anthropic Launches Claude Sonnet 5, Approaching Opus 4.8 Performance at a Lower Price | claypier 2/7/2026 Sora - 繁體中文 简体中文 - AI Anthropic Launches Claude Sonnet 5, Approaching Opus 4.8 Performance at a Lower Price https://www.anthropic.com/news/claude-sonnet-5 Anthropic has announced Claude",
+    "content": "Anthropic Launches Claude Sonnet 5, Approaching Opus 4.8 Performance at a Lower Price | claypier 2/7/2026 Sora - 繁體中文 简体中文 - AI Anthropic Launches Claude Sonnet 5, Approaching Opus 4.8 Performance at a Lower Price https://www.anthropic.com/news/claude-sonnet-5 Anthropic has announced Claude",
+    "source": "claypier.com",
+    "date": "2026-07-02",
+    "url": "https://claypier.com/en/claude-sonnet-5-launch/",
+    "category": "Models",
+    "image": "https://claypier.com/wp-content/uploads/2026/07/claude-sonnet-5-launch.jpg"
   },
   {
-    "title": "White House Issues Executive Order to Accelerate AI Innovation and Harden National Security",
-    "summary": "A June 2026 executive order directs federal agencies to upgrade cyber defenses within 60 days, establishes an AI cybersecurity clearinghouse, and creates a voluntary pre-release review framework for frontier AI models.",
-    "content": "The White House issued Executive Order 14409 in June 2026, directing federal agencies — including the Departments of Homeland Security, Treasury, and OMB — to upgrade their cybersecurity defenses within 30-60 days and establish an AI cybersecurity clearinghouse coordinating with industry partners. The order creates a voluntary framework allowing AI developers to share frontier models with the federal government for 30 days before public release so security teams can assess risks, while explicitly prohibiting mandatory government licensing or preclearance requirements. It also directs the Attorney General to enforce existing criminal laws against unauthorized computer access and data theft involving AI tools, and tasks intelligence agencies with sharing AI-enabled threat intelligence with private sector cybersecurity teams. The order positions the federal government as a security partner rather than a regulator for the most capable AI systems — an approach that Anthropic publicly embraced as part of resolving the Fable 5 export control dispute.",
-    "source": "The White House",
-    "date": "2026-06-26",
-    "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-    "category": "Policy"
+    "title": "Kuaishou's Kling AI raises $2.8B with Alibaba and Tencent backing — AI Chat Daily",
+    "summary": "Kuaishou's Kling AI raises $2.8B with Alibaba and Tencent backing — AI Chat Daily Live--:--:-- PT Mistral AI eyes $3.5B raise at $23B valuation as revenue hits $400M Midjourney demands Disney, Universal, Warner Bros. disclose their own AI use Fanfic readers build a Claude detector for AO3, and t",
+    "content": "Kuaishou's Kling AI raises $2.8B with Alibaba and Tencent backing — AI Chat Daily Live--:--:-- PT Mistral AI eyes $3.5B raise at $23B valuation as revenue hits $400M Midjourney demands Disney, Universal, Warner Bros. disclose their own AI use Fanfic readers build a Claude detector for AO3, and t",
+    "source": "Jaeden Schafer",
+    "date": "2026-07-03",
+    "url": "https://www.aichatdaily.com/ai-business/kuaishou-s-kling-ai-raises-2-8b-alibaba",
+    "category": "Models",
+    "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2F83437022-9917-4777-8e0f-901cf2fece19%2F97cab436-8c08-475f-8563-85d5b8ee4c4f.png&w=1200&q=75"
   }
 ]
