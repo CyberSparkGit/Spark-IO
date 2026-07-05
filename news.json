@@ -10,16 +10,6 @@
     "image": "https://charonhub.deeplearning.ai/content/images/2026/07/GPT5.6.webp"
   },
   {
-    "title": "Google's Gemini 3.5 Flash Gets a Major Upgrade: What Computer Use Means for AI Agents",
-    "summary": "Google's Gemini 3.5 Flash Gets a Major Upgrade: What Computer Use Means for AI Agents | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT Citations Are Now Required in Academic Work: Here's How to Do It Right Large Language Models·4h ago Google's Antigravity IDE Joins the",
-    "content": "Google's Gemini 3.5 Flash Gets a Major Upgrade: What Computer Use Means for AI Agents | FrontierNews.ai i 🔍Search Breaking News View All → ChatGPT Citations Are Now Required in Academic Work: Here's How to Do It Right Large Language Models·4h ago Google's Antigravity IDE Joins the",
-    "source": "FrontierNews.ai",
-    "date": "2026-07-04",
-    "url": "https://www.frontiernews.ai/news/article/googles-gemini-35-flash-gets-a-major-upgrade-what-e3b04ade",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Google%27s%20Gemini%203.5%20Flash%20Gets%20a%20Major%20Upgrade%3A%20What%20Computer%20Use%20Means%20for%20AI%20Agents&topic=Large%20Language%20Models"
-  },
-  {
     "title": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context",
     "summary": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context Close Google announced Gemini 3 in early July 2026, its latest AI model with enhanced reasoning abilities, multimodal capabilities, and a one-million-token context window. The model is now available across Google products i",
     "content": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context Close Google announced Gemini 3 in early July 2026, its latest AI model with enhanced reasoning abilities, multimodal capabilities, and a one-million-token context window. The model is now available across Google products i",
@@ -58,5 +48,15 @@
     "url": "https://www.aichatdaily.com/ai-business/kuaishou-s-kling-ai-raises-2-8b-alibaba",
     "category": "Models",
     "image": "https://www.aichatdaily.com/_next/image?url=https%3A%2F%2Fqswerazrpejkkgemjrfu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Farticle-hero-images%2Flibrary%2F83437022-9917-4777-8e0f-901cf2fece19%2F97cab436-8c08-475f-8563-85d5b8ee4c4f.png&w=1200&q=75"
+  },
+  {
+    "title": "Claude Fable 5 returns with stronger jailbreak safeguards",
+    "summary": "Claude Fable 5 returns with stronger jailbreak safeguards - Appwrite Blog/ Claude Fable 5 returns with stronger jailbreak safeguards Claude Fable 5 is back. After a little over two weeks offline, Anthropic has redeployed its most capable generally available model following the rem",
+    "content": "Claude Fable 5 returns with stronger jailbreak safeguards - Appwrite Blog/ Claude Fable 5 returns with stronger jailbreak safeguards Claude Fable 5 is back. After a little over two weeks offline, Anthropic has redeployed its most capable generally available model following the rem",
+    "source": "appwrite.io",
+    "date": "2026-07-02",
+    "url": "https://appwrite.io/blog/post/claude-fable-5-returns-with-stronger-jailbreak-safeguards",
+    "category": "Models",
+    "image": "https://appwrite.io/images/blog/claude-fable-5-returns-with-stronger-jailbreak-safeguards/cover.avif"
   }
 ]
