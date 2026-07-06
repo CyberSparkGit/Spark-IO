@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI's GPT-5.6 Family Lands in Government-Only Limbo",
-    "summary": "OpenAI previewed three new models — Sol, Terra, and Luna — but access remains restricted to U.S. government-approved organizations, with wider release promised within weeks.",
-    "content": "OpenAI announced three new vision-language models — Sol, Terra, and Luna — descending in capability and cost, with Sol comparable to Claude 5 Mythos. Currently, these models are available only to a limited number of organizations the U.S. government has approved, though wider public access is promised within weeks. On coding benchmarks, GPT-5.6 Sol achieved state-of-the-art performance (91.9 percent) on Terminal-Bench 2.1 when operating in ultra mode with multiple agents. Independent testing by SecureBio found the models demonstrated unusually advanced biology knowledge, with scores nearly 10 points higher than previous versions on expert-level bioengineering assessments. This release marks the first time comprehensive safety restrictions — previously reserved for top-tier models — now apply across an entire product tier, potentially complicating legitimate applications in security research and scientific validation.",
-    "source": "DeepLearning.AI",
+    "title": "OpenAI Unveils GPT-5.6 Sol With Vision AI and 750 Tokens/Second on Cerebras",
+    "summary": "OpenAI Unveils GPT-5.6 Sol With Vision AI and 750 Tokens/Second on Cerebras - WinCentral News - Microsoft News - Leaks & Rumors Windows 11 News - Windows Issues Search Home Latest News OpenAI Announces GPT-5.6 Sol: Vision AI, Longer Context & Blazing 750 Tokens/Second...",
+    "content": "OpenAI Unveils GPT-5.6 Sol With Vision AI and 750 Tokens/Second on Cerebras - WinCentral News - Microsoft News - Leaks & Rumors Windows 11 News - Windows Issues Search Home Latest News OpenAI Announces GPT-5.6 Sol: Vision AI, Longer Context & Blazing 750 Tokens/Second... Share OpenAI has unv",
+    "source": "Nisha",
+    "date": "2026-07-06",
+    "url": "https://thewincentral.com/openai-gpt-5-6-sol-cerebras-750-tokens-per-second/",
+    "category": "Models",
+    "image": "https://thewincentral.com/wp-content/uploads/2026/07/gpt-5.6-sol-thinking.jpg"
+  },
+  {
+    "title": "OpenAI Expands GPT-5.6 Access as More Developers Get Earl...",
+    "summary": "OpenAI Expands GPT-5.6 Access as More Developers Get Earl... European Countries Are Investing Billions to Reduce Their Dependence on ...",
+    "content": "OpenAI Expands GPT-5.6 Access as More Developers Get Earl... European Countries Are Investing Billions to Reduce Their Dependence on ... https://www.twokq.com/post/europe-invests-billions-ai-independence/ OpenAI and Anthropic Become the Center of Global AI Debate as NATO Leade... https:/",
+    "source": "Twokq",
+    "date": "2026-07-05",
+    "url": "https://www.twokq.com/post/openai-expands-gpt-5-6-early-access/",
+    "category": "Models",
+    "image": "https://www.twokq.com/uploads/blog_6a4acb7e77760.webp"
+  },
+  {
+    "title": "OpenAI Previewed Three GPT-5.6 Models (Sol, Terra, and Luna), Wider Release Coming Soon",
+    "summary": "OpenAI Previewed Three GPT-5.6 Models (Sol, Terra, and Luna), Wider Release Coming Soon Loading the Elevenlabs Text to Speech AudioNative Player... OpenAI announced a preview of its GPT-5.6 family, including a top-tier model comparable to Claude 5 Mythos — but so far it’s available only to users t",
+    "content": "OpenAI Previewed Three GPT-5.6 Models (Sol, Terra, and Luna), Wider Release Coming Soon Loading the Elevenlabs Text to Speech AudioNative Player... OpenAI announced a preview of its GPT-5.6 family, including a top-tier model comparable to Claude 5 Mythos — but so far it’s available only to users t",
+    "source": "deeplearning.ai",
     "date": "2026-07-03",
     "url": "https://www.deeplearning.ai/the-batch/gpt-5-6-lands-in-limbo",
-    "category": "Models"
+    "category": "Models",
+    "image": "https://charonhub.deeplearning.ai/content/images/2026/07/GPT5.6.webp"
   },
   {
-    "title": "Anthropic Launches Claude Science and Internal Drug Discovery Program",
-    "summary": "Anthropic unveiled Claude Science, an autonomous AI workbench for computational drug discovery, and simultaneously announced its own internal program targeting neglected diseases.",
-    "content": "Anthropic launched Claude Science on June 30, 2026, an AI workbench enabling computational drug discovery that operates autonomously to plan work, run analyses on compute clusters, and draft protocols without manual intervention at each step. The company simultaneously announced an internal drug development program targeting neglected diseases that traditional pharmaceutical companies overlook, positioning itself as both a vendor and direct participant in the industry. John Jumper, the 2024 Nobel laureate who developed AlphaFold, joined Anthropic from Google DeepMind to strengthen the initiative's scientific credibility and protein-structure expertise. Claude Science integrates with scientific connectors like PubMed and Benchling, functioning similarly to how Claude Code serves software engineers by automating complex workflows. This move signals a strategic shift beyond selling AI tools to pharmaceutical clients, with Anthropic now validating its own models through real-world drug discovery applications.",
-    "source": "OtonTechnology",
-    "date": "2026-07-04",
-    "url": "https://otontechnology.com/anthropic-drug-development-claude-science-launch/",
-    "category": "Industry"
-  },
-  {
-    "title": "UK's FCA Seeks New Powers to Regulate AI in Financial Services",
-    "summary": "The UK's Financial Conduct Authority is pushing for expanded authority to oversee AI models like ChatGPT and Claude used in banking, credit, fraud detection, and financial advice.",
-    "content": "The UK's Financial Conduct Authority is seeking expanded regulatory authority to oversee artificial intelligence models like ChatGPT, Claude, and Gemini used in banking and financial services. Senior FCA officials argue that regulators need 'to be able to see under the hood' of these systems to understand how they influence critical decisions around credit, fraud detection, and financial advice. The watchdog contends that existing consumer protection laws are inadequate for addressing the unpredictable behavior of frontier AI technologies, particularly as millions of people rely on these tools for personal finance decisions. The FCA wants legal power to demand technical information, conduct model testing, and intervene when significant risks emerge, requiring deeper coordination with the Bank of England and Treasury. UK-based banks, fintechs, and crypto platforms should anticipate heightened scrutiny of AI-dependent services as the FCA pursues updated guidance by end of 2026.",
-    "source": "BanklessTimes",
+    "title": "FCA Seeks New Powers to Regulate ChatGPT-Style AI in Financial Services",
+    "summary": "FCA Seeks New Powers to Regulate ChatGPT-Style AI in Financial Services | BanklessTimes Home Articles FCA Seeks New Powers to Regulate ChatGPT-Style AI in Financial Services Why Trust Us Since launching 12 years ago, Bankless Times has brought unbiased news and leading comparison in the crypto &",
+    "content": "FCA Seeks New Powers to Regulate ChatGPT-Style AI in Financial Services | BanklessTimes Home Articles FCA Seeks New Powers to Regulate ChatGPT-Style AI in Financial Services Why Trust Us Since launching 12 years ago, Bankless Times has brought unbiased news and leading comparison in the crypto &",
+    "source": "banklesstimes.com",
     "date": "2026-07-06",
     "url": "https://www.banklesstimes.com/articles/2026/07/06/fca-pushes-for-new-powers-to-police-chatgpt%E2%80%91style-ai-in-financial-services/",
-    "category": "Policy"
+    "category": "Models",
+    "image": "https://cdn.banklesstimes.com/bt/tr:f-auto,q-auto/content/uploads/2026/07/HMgUXp0XUAAE0dE.jpg"
   },
   {
-    "title": "UN Warns Global AI Governance Window Is Closing as Geneva Dialogue Opens",
-    "summary": "A new UN scientific panel released a preliminary report warning that the window to establish effective global AI governance remains open but may not stay that way for long.",
-    "content": "The UN Independent International Scientific Panel on Artificial Intelligence released a preliminary report warning that 'the window to establish effective global governance remains open but may not stay that way for long.' The panel highlights AI's transformative potential across healthcare, education, and scientific research, noting that AI has already predicted protein structures for over 200 million compounds and accelerated drug discovery processes. A critical concern is the concentration of AI development power, with the United States controlling approximately 75 percent of global supercomputing capacity while China accounts for roughly 15 percent, leaving most developing nations dependent on technologies they cannot independently build or audit. Experts also emphasized significant risks including disinformation, cybercrime, and deepfakes that disproportionately harm women and children. The panel's findings are feeding into the UN Global Dialogue on AI Governance that began July 6, 2026, in Geneva, where member states are discussing international strategies for managing the technology.",
-    "source": "UN News",
-    "date": "2026-07-06",
-    "url": "https://news.un.org/en/story/2026/07/1167848",
-    "category": "Policy"
-  },
-  {
-    "title": "91% of Businesses Now Use AI, But Two-Thirds Remain Stuck in Pilot Mode",
-    "summary": "A new enterprise AI adoption report finds near-universal deployment in 2026, yet most organizations struggle to move beyond experiments to measurable business impact.",
-    "content": "Artificial intelligence deployment has reached near-universal levels, with 91% of businesses using AI in at least one capacity in 2026 and 92% of Fortune 500 companies using OpenAI products. Despite widespread deployment, organizations struggle with meaningful implementation — two-thirds remain in experiment or pilot mode for their most ambitious AI initiatives, and 56% of CEOs report zero measurable ROI from AI in the past 12 months. Financial services leads production-level AI implementation, with 47% of banking and insurance firms running AI agents operationally, while 84% of developers now use AI coding tools. The primary obstacles to success have shifted from technology to organizational factors, with 52% of businesses citing data quality and availability as the biggest barriers, and developer confidence in coding assistants dropping from 40% to 29%. AI agent adoption is the fastest-growing sub-category in 2026, with organizations increasingly exploring agentic AI for complex multi-step workflows.",
-    "source": "AI Business Weekly",
+    "title": "Claude Science Anchors Anthropic's Bet on Drug Discovery",
+    "summary": "Claude Science Anchors Anthropic's Bet on Drug Discovery Connect with us Anthropic launched Claude Science, an AI workbench for scientific research, and announced an internal drug development program on June 30, 2026. The company said its life sciences team will use the new product to look for tre",
+    "content": "Claude Science Anchors Anthropic's Bet on Drug Discovery Connect with us Anthropic launched Claude Science, an AI workbench for scientific research, and announced an internal drug development program on June 30, 2026. The company said its life sciences team will use the new product to look for tre",
+    "source": "Logan Pierce",
     "date": "2026-07-04",
-    "url": "https://aibusinessweekly.net/p/ai-adoption-statistics",
-    "category": "Trends"
+    "url": "https://otontechnology.com/anthropic-drug-development-claude-science-launch/",
+    "category": "Models",
+    "image": "https://otontechnology.com/wp-content/uploads/2026/07/anthropic-claude-science-drug-development-launch-announcement.webp"
   },
   {
-    "title": "Google Launches AI Search Agents That Monitor the Web on Your Behalf",
-    "summary": "Google upgraded Search with Gemini 3.5 Flash and introduced persistent search agents that continuously scan the web for user-specified criteria, from apartment listings to sneaker drops.",
-    "content": "Google has unveiled significant upgrades to its search platform, describing them as 'the biggest upgrade to our Search box in over 25 years,' with Gemini 3.5 Flash now serving as the default model in AI Mode, which has surpassed one billion monthly users within a year of launch. The platform now introduces search agents that operate continuously in the background, monitoring the web and real-time data sources to alert users when listings, prices, or items meet their specified criteria. Beyond information agents, Google is expanding agentic capabilities to booking and shopping tasks — users can describe complex needs and the system assembles pricing and availability data with direct booking links, or can place calls to businesses on users' behalf. Agentic coding features allow Search to build custom dashboards or trackers that users can revisit and expand over time, functioning as miniature applications for tasks like fitness tracking or event planning. Personal Intelligence features — allowing secure connection to Gmail, Google Photos, and Google Calendar — are expanding to nearly 200 countries across 98 languages with no subscription requirement.",
-    "source": "Google Blog",
-    "date": "2026-07-01",
-    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "category": "Tools"
+    "title": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context",
+    "summary": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context Close Google announced Gemini 3 in early July 2026, its latest AI model with enhanced reasoning abilities, multimodal capabilities, and a one-million-token context window. The model is now available across Google products i",
+    "content": "Google Launches Gemini 3 with Advanced Reasoning and 1M Token Context Close Google announced Gemini 3 in early July 2026, its latest AI model with enhanced reasoning abilities, multimodal capabilities, and a one-million-token context window. The model is now available across Google products i",
+    "source": "Tusher Debnath",
+    "date": "2026-07-04",
+    "url": "https://inews.zoombangla.com/google-gemini-3-launch-july-2026/",
+    "category": "Models",
+    "image": "https://inews.zoombangla.com/wp-content/uploads/2026/07/Screenshot_1-52.jpg"
   }
 ]
