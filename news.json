@@ -1,56 +1,62 @@
 [
   {
-    "title": "Anthropic Launches Claude Science to Accelerate Research and Drug Discovery",
-    "summary": "Anthropic has launched Claude Science, an AI workbench with 60+ tools enabling researchers to autonomously execute complex scientific workflows end-to-end.",
-    "content": "Anthropic has introduced Claude Science, an AI assistant designed to accelerate scientific research, drug discovery, and computational biology by autonomously executing complex research workflows with full reproducibility—researchers can trace exactly how analyses and results were generated. Key capabilities include querying biological databases, writing and executing code, performing computational analyses, and documenting experiments end-to-end. Anthropic is initially targeting pharmaceutical and life sciences sectors, with demonstrations showing Claude Science identifying potential treatments for phenylketonuria (PKU), while the company plans to conduct its own research on rare and neglected diseases to gain real-world platform experience. The launch directly challenges Google DeepMind's dominance in AI-driven science, with Anthropic recruiting prominent researchers including Nobel Prize winner John Jumper, formerly of DeepMind. This move represents AI's evolution from specialized tools to autonomous research partners capable of handling entire scientific projects independently.",
-    "source": "AI World Today",
-    "date": "2026-07-06",
-    "url": "https://aiworldtoday.com/news/anthropic-unveils-claude-science-to-turbocharge-scientific-research",
-    "category": "Models"
-  },
-  {
-    "title": "OpenAI Unveils GPT-5.6 Sol with Vision AI and 750 Tokens Per Second on Cerebras",
-    "summary": "OpenAI introduced GPT-5.6 Sol, its next-generation model achieving 750 tokens per second on Cerebras hardware with native vision capabilities and expanded context windows.",
-    "content": "OpenAI has introduced GPT-5.6 Sol, a new AI model optimized for speed and multimodal capabilities that achieves up to 750 tokens per second when deployed on Cerebras wafer-scale hardware, representing a major leap in inference performance. The model incorporates native vision capabilities alongside expanded context windows, enabling it to process images, documents, and lengthy conversations more effectively than previous versions. The GPT-5.6 family comprises three tiers: Sol as the flagship, Terra as the balanced everyday model, and Luna as the fast, affordable tier, currently gated behind government and trusted enterprise access for roughly 20 organizations. These improvements target real-time applications including coding assistance, AI-powered search, and enterprise automation workflows. OpenAI emphasized balancing rapid token generation with advanced reasoning abilities, though complete technical specifications and broader public access timelines remain undisclosed.",
-    "source": "WinCentral",
-    "date": "2026-07-06",
-    "url": "https://thewincentral.com/openai-gpt-5-6-sol-cerebras-750-tokens-per-second/",
-    "category": "Models"
-  },
-  {
-    "title": "Meta's Watermelon Model Claims Benchmark Parity with OpenAI's GPT-5.5",
-    "summary": "Meta Superintelligence Labs chief Alexandr Wang told employees that the company's upcoming Watermelon model has matched GPT-5.5 on internal benchmarks, though no independent verification yet exists.",
-    "content": "Meta Superintelligence Labs chief Alexandr Wang told employees at an internal town hall that the company's upcoming Watermelon model has achieved performance matching OpenAI's GPT-5.5 on certain benchmarks, though the model remains in training and no release date was given. Wang did not disclose which specific benchmarks were used for comparison, and the article notes significant caveats: no independent evaluation exists, no published benchmark table, no model card, and no third-party testing. The Watermelon project reportedly consumes roughly ten times more computational resources than its predecessor Muse Spark, drawing power from Meta's Ohio-based Prometheus cluster. Notably, OpenAI has already moved beyond GPT-5.5 with a limited preview of GPT-5.6, making parity with the older model potentially less meaningful by the time Watermelon ships. The claim signals that Meta is making serious strides in closing the gap with frontier AI labs, even if the benchmark details remain unverified.",
-    "source": "aiHola",
-    "date": "2026-07-06",
-    "url": "https://aihola.com/article/meta-watermelon-gpt-55-parity",
-    "category": "Models"
-  },
-  {
-    "title": "Claude Sonnet 5 Shifts AI Agents from Demo to Enterprise Deployment",
-    "summary": "Anthropic's Claude Sonnet 5 marks a fundamental shift in AI agent development—from benchmark chasing to operational readiness—bundling safety evaluations, audit trails, and governance frameworks enterprises now demand.",
-    "content": "Anthropic's Claude Sonnet 5 represents a pivotal shift from capability-focused to operationally-focused AI agent development, priced at $2/$10 per million input/output tokens and bundled with safety evaluations, cyber safeguards, and system transparency cards that enterprise procurement teams increasingly require. Following a June security incident where exploitable guardrail bypasses were discovered in Claude Fable 5, Anthropic suspended global access and deployed an improved safety classifier blocking the technique in over 99% of cases—demonstrating the governance maturity the market now demands. AWS's $1 billion forward-deployed engineering investment and NVIDIA's published reinforcement learning framework for agent improvement signal broad industry alignment around production-ready AI systems. Enterprise procurement teams now prioritize auditability, failure recovery, and cost modeling alongside raw intelligence when evaluating AI agents for deployment. The era demands agents be priced, controlled, audited, and recoverable when they fail—a fundamental maturation signal distinguishing production-ready systems from research demonstrations.",
+    "title": "Claude Sonnet 5 Shifts AI Agents From Demo to Deployment: Here's What Changed",
+    "summary": "Claude Sonnet 5 Shifts AI Agents From Demo to Deployment: Here's What Changed | FrontierNews.ai i 🔍Search Breaking News View All → Google Gemini Gets a New Superpower: Autonomous Agents That Work Around the Clock Large Language Models·1h ago ChatGPT Hit by Major Outage Affecting C",
+    "content": "Claude Sonnet 5 Shifts AI Agents From Demo to Deployment: Here's What Changed | FrontierNews.ai i 🔍Search Breaking News View All → Google Gemini Gets a New Superpower: Autonomous Agents That Work Around the Clock Large Language Models·1h ago ChatGPT Hit by Major Outage Affecting C",
     "source": "FrontierNews.ai",
     "date": "2026-07-06",
     "url": "https://www.frontiernews.ai/news/article/claude-sonnet-5-shifts-ai-agents-from-demo-to-depl-7c99a48d",
-    "category": "Industry"
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=Claude%20Sonnet%205%20Shifts%20AI%20Agents%20From%20Demo%20to%20Deployment%3A%20Here%27s%20What%20Changed&topic=Large%20Language%20Models"
   },
   {
-    "title": "UN Launches Global AI Governance Dialogue as Window for Oversight Narrows",
-    "summary": "The United Nations began its Global Dialogue on AI Governance in Geneva on July 6, with an independent scientific panel warning that the window to establish effective international AI oversight is closing.",
-    "content": "The United Nations began its Global Dialogue on AI Governance in Geneva on July 6, 2026, where member states are deliberating international strategies for managing artificial intelligence at a critical juncture for global oversight. An independent 40-member UN scientific panel released a preliminary report warning that 'the window to establish effective global governance remains open but may not stay that way for long.' The dialogue addresses concerns that existing national governance frameworks remain fragmented and inconsistent, with insufficient independent evaluation of safety assessments conducted by AI developers. Stronger international cooperation and common standards are seen as essential to ensure AI systems maintain safety, transparency, and accountability while enabling developing nations to build necessary digital infrastructure. The panel's findings will shape ongoing discussions about whether voluntary national frameworks are sufficient or whether binding international agreements are needed to govern advanced AI systems before capabilities outpace policy.",
-    "source": "UN News",
+    "title": "Gemini 3.5 Pro Leak: Ultimate Features 2026",
+    "summary": "Gemini 3.5 Pro Leak: Ultimate Features 2026 A visual overview of the rumored Gemini 3.5 Pro features, including its 2 million token context window and Deep Think reasoning layer. Quick Answer: What the Gemini 3.5 Pro Leak Actually Says Gemini 3.5 Pro is a rebuilt Google DeepMind model rep",
+    "content": "Gemini 3.5 Pro Leak: Ultimate Features 2026 A visual overview of the rumored Gemini 3.5 Pro features, including its 2 million token context window and Deep Think reasoning layer. Quick Answer: What the Gemini 3.5 Pro Leak Actually Says Gemini 3.5 Pro is a rebuilt Google DeepMind model rep",
+    "source": "Kalinga AI",
     "date": "2026-07-06",
-    "url": "https://news.un.org/en/story/2026/07/1167848",
-    "category": "Policy"
+    "url": "https://kalinga.ai/gemini-3-5-pro-leak-features-2026/",
+    "category": "Models",
+    "image": "https://kalinga.ai/wp-content/uploads/2026/07/gemini-3-5-pro-leak-2-million-token-context-window.jpg.png"
   },
   {
-    "title": "Enterprise AI at Inflection Point: 91% Adoption Rate but Half of Agentic Pilots Stalled",
-    "summary": "Enterprise AI adoption reached 91% in 2026, but roughly half of agentic AI initiatives remain stuck in pilot phases due to security concerns, fragmented data, and governance gaps.",
-    "content": "Enterprise AI adoption has reached a critical inflection point in 2026, with 91% of businesses now using AI in at least one capacity and worker access to sanctioned AI tools having increased 50% in 2025 alone, yet significant gaps persist between experimentation and operationalization. Roughly half of agentic AI initiatives remain stuck in pilot phases due to security, compliance, and integration concerns, with fragmented data infrastructure, inadequate governance frameworks, skills shortages, and legacy system challenges complicating scale-up efforts. A defining shift in 2026 involves treating AI as embedded infrastructure within enterprise architecture rather than isolated point tools, with governance practices integrated into strategic planning from the outset rather than added afterward. Leading organizations are establishing hybrid performance metrics combining technical measures, business outcomes, and adoption rates to track AI contributions holistically across their operations. The gap remains stark: while 97% of executives report benefiting from AI, only 29% see significant organizational ROI—highlighting that the bridge to enterprise value is built with governance and integration, not just capability.",
-    "source": "Codewave",
-    "date": "2026-07-05",
-    "url": "https://codewave.com/insights/ai-enterprise-adoption-2026/",
-    "category": "Trends"
+    "title": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price",
+    "summary": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price | BotBeat > ▌ PRODUCT LAUNCH Anthropic 2026-07-07 Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price Key Takeaways - ▸Claude Sonnet 5 introduces enhanced agentic capabilities designed for a",
+    "content": "Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price | BotBeat > ▌ PRODUCT LAUNCH Anthropic 2026-07-07 Claude Sonnet 5: Anthropic's Most Agentic AI Model Arrives at Reduced Price Key Takeaways - ▸Claude Sonnet 5 introduces enhanced agentic capabilities designed for a",
+    "source": "botbeat.news",
+    "date": "2026-07-07",
+    "url": "https://botbeat.news/news/claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-reduced-price-8738",
+    "category": "Models",
+    "image": "https://botbeat.news/news/claude-sonnet-5-anthropic-s-most-agentic-ai-model-arrives-at-reduced-price-8738/opengraph-image?c2de5b29072e7322"
+  },
+  {
+    "title": "Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain",
+    "summary": "Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain SEARCH Searching... Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain New interpretability research identifies a 'global workspace' in",
+    "content": "Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain SEARCH Searching... Anthropic reveals internal reasoning steps of Claude model, and it looks surprisingly like a human brain New interpretability research identifies a 'global workspace' in",
+    "source": "Editorial Team",
+    "date": "2026-07-07",
+    "url": "https://cryptobriefing.com/anthropic-claude-global-workspace-reasoning/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/07000656/home-anthropic-7-800x420.jpeg"
+  },
+  {
+    "title": "Anthropic Unveils Claude Science: AI to Speed Up Research",
+    "summary": "Anthropic Unveils Claude Science: AI to Speed Up Research Anthropic Unveils Claude Science to Turbocharge Scientific Research News by Robin Heester Monday, 06 July 2026 at 17:46 Add as a preferred source on Google Anthropic has officially launched Claude Science, a new AI built to support re",
+    "content": "Anthropic Unveils Claude Science: AI to Speed Up Research Anthropic Unveils Claude Science to Turbocharge Scientific Research News by Robin Heester Monday, 06 July 2026 at 17:46 Add as a preferred source on Google Anthropic has officially launched Claude Science, a new AI built to support re",
+    "source": "aiworldtoday.com",
+    "date": "2026-07-06",
+    "url": "https://aiworldtoday.com/news/anthropic-unveils-claude-science-to-turbocharge-scientific-research",
+    "category": "Models",
+    "image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Faiworldtoday.com%2Fimages%2F2026-07%2Fanthropic-lanceert-claude-science-ai-assistent-moet-wetenschappelijk-onderzoek-drastisch-versnellen.png"
+  },
+  {
+    "title": "OpenAI Unveils GPT-5.6 Sol With Vision AI and 750 Tokens/Second on Cerebras",
+    "summary": "OpenAI Unveils GPT-5.6 Sol With Vision AI and 750 Tokens/Second on Cerebras - WinCentral News - Microsoft News - Leaks & Rumors Windows 11 News - Windows Issues Search Home Latest News OpenAI Announces GPT-5.6 Sol: Vision AI, Longer Context & Blazing 750 Tokens/Second...",
+    "content": "OpenAI Unveils GPT-5.6 Sol With Vision AI and 750 Tokens/Second on Cerebras - WinCentral News - Microsoft News - Leaks & Rumors Windows 11 News - Windows Issues Search Home Latest News OpenAI Announces GPT-5.6 Sol: Vision AI, Longer Context & Blazing 750 Tokens/Second... Share OpenAI has unv",
+    "source": "Nisha",
+    "date": "2026-07-06",
+    "url": "https://thewincentral.com/openai-gpt-5-6-sol-cerebras-750-tokens-per-second/",
+    "category": "Models",
+    "image": "https://thewincentral.com/wp-content/uploads/2026/07/gpt-5.6-sol-thinking.jpg"
   }
 ]
