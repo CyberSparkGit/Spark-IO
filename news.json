@@ -1,56 +1,62 @@
 [
   {
-    "title": "Claude Sonnet 5 Deployed as Default Model with Stronger Agentic Capabilities",
-    "summary": "Anthropic launched Claude Sonnet 5 as the new default Free and Pro tier model, featuring improved multi-step agentic workflows at a reduced price of $2 per million input tokens.",
-    "content": "Claude Sonnet 5 deployed as the default Free and Pro model on July 1, delivering significant improvements in multi-step agentic workflows at introductory pricing of $2 per million input tokens and $10 per million output tokens. Partners including Cursor, Zapier, and Lovable reported production reliability gains and measurably lower hallucination rates compared to its predecessor. The model shows reduced susceptibility to prompt-injection attacks, making it better suited for autonomous coding and tool-use tasks. Developers noted integration challenges including a new tokenizer producing 1.0–1.35x more tokens and the removal of temperature parameters that broke some existing workflows. Anthropic positions Sonnet 5 as its most capable agentic model to date, designed specifically for complex multi-step reasoning and autonomous task execution across long-horizon workflows.",
-    "source": "LLM Stats",
-    "date": "2026-07-01",
-    "url": "https://llm-stats.com/llm-updates",
-    "category": "Models"
+    "title": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now",
+    "summary": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now Google gemini google.com Three of the most anticipated AI model events of 2026 are converging on the same week, and for developers, one of them cannot wait. Google DeepMind is targeting July 17 for the general availa",
+    "content": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now Google gemini google.com Three of the most anticipated AI model events of 2026 are converging on the same week, and for developers, one of them cannot wait. Google DeepMind is targeting July 17 for the general availa",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 08 2026, 1:18 AM EDT",
+    "date": "2026-07-08",
+    "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
   },
   {
-    "title": "Anthropic's Fable 5 Returns Globally After US Lifts Export Controls",
-    "summary": "Anthropic's most advanced Fable 5 model became globally accessible on July 1 after the Commerce Department lifted export restrictions first imposed on June 12 over national security concerns.",
-    "content": "Fable 5 returned worldwide on July 1, 2026, following the Commerce Department's decision to lift export controls initially imposed on June 12 over concerns about access by foreign nationals. The model is now available on Claude.ai, the Claude Platform API, Claude Code, and Claude Cowork across all countries. Anthropic deployed a new safety classifier blocking the specific jailbreak technique that triggered the original restrictions in more than 99% of attempts; legitimate coding queries that pattern-match the jailbreak are rerouted to Claude Opus 4.8. Through July 7, Fable 5 remains included at 50% of weekly usage limits for Pro, Max, and Team subscribers, after which standard usage credits apply. The reversal positions Anthropic to compete globally at the frontier model tier as the White House simultaneously advances voluntary pre-release coordination standards for advanced AI models.",
-    "source": "Build Fast with AI",
-    "date": "2026-07-03",
-    "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-3-2026",
-    "category": "Models"
-  },
-  {
-    "title": "UN Chief Issues Urgent Call for Worldwide AI Governance at Geneva Dialogue",
-    "summary": "UN Secretary-General Guterres opened the inaugural UN Global Dialogue on AI Governance demanding comprehensive international controls, mandatory child safety testing, and a new Global Network to close the AI divide for developing nations.",
-    "content": "UN Secretary-General António Guterres called for comprehensive worldwide controls on artificial intelligence at the inaugural UN Global Dialogue on AI Governance in Geneva on July 6, 2026. He emphasized that \"machines can inform, but humans must decide, and answer,\" underlining the need to keep human oversight central to AI development rather than delegating consequential choices to automated systems. Guterres stressed three priorities: protecting children through mandatory safety testing before model deployment, ensuring AI systems comply with international human rights standards, and narrowing the digital divide by giving developing nations access to AI infrastructure and renewable-powered data centers. He warned that \"AI is too consequential to be shaped by a few,\" advocating for inclusive global conversations grounded in evidence rather than commercial interest. The Secretary-General announced that over 20 countries already support his initiative for a UN Global Network focused on building AI capacity in lower-income regions.",
-    "source": "UN News",
+    "title": "Gemini 3.5 Pro Scraps Base Model to Compete with OpenAI",
+    "summary": "Gemini 3.5 Pro Scraps Base Model to Compete with OpenAI - Geeky Gadgets - content - Skip to secondary - Skip to primary sidebar - Google DeepMind has decided to scrap the 2.5 Pro base model in favor of a revised approach for its upcoming Gemini 3.5 Pro release.",
+    "content": "Gemini 3.5 Pro Scraps Base Model to Compete with OpenAI - Geeky Gadgets - content - Skip to secondary - Skip to primary sidebar - Google DeepMind has decided to scrap the 2.5 Pro base model in favor of a revised approach for its upcoming Gemini 3.5 Pro release. Ini",
+    "source": "Julian Horsey",
     "date": "2026-07-06",
-    "url": "https://news.un.org/en/story/2026/07/1167873",
-    "category": "Policy"
+    "url": "https://www.geeky-gadgets.com/gemini-pro-scraps-base-model/",
+    "category": "Models",
+    "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/gemini-pro-delay.jpg"
   },
   {
-    "title": "FTC Seeks Public Comment on Whether AI Companies Are Manipulating Outputs for Ideological Ends",
-    "summary": "The Federal Trade Commission proposed a policy statement that would make it an unfair or deceptive practice for AI developers to distort system outputs for undisclosed ideological purposes, with a public comment window open through July 31.",
-    "content": "The Federal Trade Commission is inviting public feedback on a proposed policy statement addressing concerns that AI companies may be distorting their systems' outputs for undisclosed ideological purposes, with a comment window open through July 31, 2026. Chairman Andrew Ferguson explained that the agency \"wants to hear from businesses and consumers about their experiences and concerns regarding the subversion of AI systems for ideological ends.\" The policy statement interprets Section 5 of the FTC Act as prohibiting deceptive conduct that includes situations where AI developers manipulate system outputs in ways that contradict consumer expectations about accuracy and effectiveness. The proposed framework also addresses potential conflicts between federal oversight and state-level AI regulations, specifically referencing Colorado's Artificial Intelligence Act and its requirements for alterations to model outputs. The Commission voted 2-0 to authorize the Federal Register notice, which follows a December executive order directing the FTC to examine the legal implications of state AI laws that could compel or restrict changes to AI model behavior.",
-    "source": "Federal Trade Commission",
-    "date": "2026-07-01",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
-    "category": "Policy"
+    "title": "Meta Launches Muse Image & Muse Video To Rival Google's Nano Banana 2, Grok, & ChatGPT Images: All Details",
+    "summary": "Meta Launches Muse Image & Muse Video To Rival Google's Nano Banana 2, Grok, & ChatGPT Images: All Details Meta Launches Muse Image & Muse Video To Rival Google's Nano Banana 2, Grok, & ChatGPT Images: All Details Meta has launched Muse Image and previewed Muse Video, its first media generati",
+    "content": "Meta Launches Muse Image & Muse Video To Rival Google's Nano Banana 2, Grok, & ChatGPT Images: All Details Meta Launches Muse Image & Muse Video To Rival Google's Nano Banana 2, Grok, & ChatGPT Images: All Details Meta has launched Muse Image and previewed Muse Video, its first media generati",
+    "source": "freepressjournal.in",
+    "date": "2026-07-08",
+    "url": "https://www.freepressjournal.in/tech/meta-launches-muse-image-muse-video-to-rival-googles-nano-banana-grok-chatgpt-images-all-details",
+    "category": "Models",
+    "image": "https://media.assettype.com/freepressjournal/2026-07-08/v82yt90t/museimagesvideo.jpg"
   },
   {
-    "title": "AI-Driven Tech Layoffs Hit 120,000 Positions in 2026 as Giants Post Record Revenues",
-    "summary": "Approximately 120,000 tech jobs have been eliminated in 2026 with AI cited as the primary reason, as Microsoft, Meta, PayPal, and Oracle cut tens of thousands of workers while reporting record profits.",
-    "content": "Approximately 120,000 tech positions have been eliminated across 2026, with AI cited as the primary justification by major corporations, making it the highest-volume layoff cycle on record for AI-attributed reductions. May 2026 marked the single worst month for tech layoffs in years, according to data from Challenger, Gray & Christmas, with the pace accelerating into summer. Major companies including Microsoft (4,800 roles), Meta (8,000 employees), PayPal (4,500+ jobs), and Oracle (21,000 over 12 months) announced significant workforce reductions while simultaneously reporting record revenues and growth driven by AI products. Despite the cuts, companies frame AI adoption as a transformation of work efficiency — Coinbase's CEO noted that \"engineers use AI to ship in days what used to take a team weeks.\" The central paradox: organizations justify eliminating human positions by pointing to AI-driven productivity gains while claiming to be investing in new AI-focused roles, raising questions about whether the displacement reflects genuine technological necessity or an opportunity to reverse pandemic-era overhiring.",
-    "source": "TechCrunch",
+    "title": "Gemini 3.5 Pro Leak: Ultimate Features 2026",
+    "summary": "Gemini 3.5 Pro Leak: Ultimate Features 2026 A visual overview of the rumored Gemini 3.5 Pro features, including its 2 million token context window and Deep Think reasoning layer. Quick Answer: What the Gemini 3.5 Pro Leak Actually Says Gemini 3.5 Pro is a rebuilt Google DeepMind model rep",
+    "content": "Gemini 3.5 Pro Leak: Ultimate Features 2026 A visual overview of the rumored Gemini 3.5 Pro features, including its 2 million token context window and Deep Think reasoning layer. Quick Answer: What the Gemini 3.5 Pro Leak Actually Says Gemini 3.5 Pro is a rebuilt Google DeepMind model rep",
+    "source": "Kalinga AI",
     "date": "2026-07-06",
-    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "category": "Industry"
+    "url": "https://kalinga.ai/gemini-3-5-pro-leak-features-2026/",
+    "category": "Models",
+    "image": "https://kalinga.ai/wp-content/uploads/2026/07/gemini-3-5-pro-leak-2-million-token-context-window.jpg.png"
   },
   {
-    "title": "State of AI 2026: 88% of Enterprises Report Revenue Gains, Talent Remains Top Bottleneck",
-    "summary": "NVIDIA's 2026 State of AI report finds that 88% of businesses using AI saw revenue increases and 86% plan to raise AI budgets this year, but talent scarcity is limiting scale.",
-    "content": "Sixty-four percent of survey respondents reported their organizations actively use AI in operations, representing substantial maturation from earlier pilot phases, with large enterprises of 1,000 or more employees leading adoption at 76% utilization. Eighty-eight percent indicated AI increased annual revenue, with nearly one-third reporting gains exceeding 10%, while 87% documented cost reductions — particularly in retail and consumer packaged goods sectors where 37% achieved cuts surpassing 10%. More than half of respondents (53%) cited improved employee productivity as AI's biggest operational impact, with telecommunications leading the field at 99% observing productivity enhancements. Eighty-six percent expect AI budget increases in 2026, with 40% planning increases of 10% or more, signaling high confidence in continued ROI as enterprise AI moves from pilots to production at scale. Talent scarcity remains the critical bottleneck — 38% identified insufficient AI experts and data scientists as their top implementation obstacle, limiting organizations' ability to expand successful pilots into enterprise-wide solutions.",
-    "source": "NVIDIA Blog",
-    "date": "2026-07-01",
-    "url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
-    "category": "Trends"
+    "title": "OpenAI’s powerful new model to launch publicly on July 9",
+    "summary": "OpenAI’s powerful new model to launch publicly on July 9 | The Straits Times OpenAI’s powerful new model to launch publicly on July 9 Sign up now: Get ST's newsletters delivered to your inbox OpenAI’s release comes on the heels of the US government lifting curbs on Anthropic’s latest Fabl",
+    "content": "OpenAI’s powerful new model to launch publicly on July 9 | The Straits Times OpenAI’s powerful new model to launch publicly on July 9 Sign up now: Get ST's newsletters delivered to your inbox OpenAI’s release comes on the heels of the US government lifting curbs on Anthropic’s latest Fabl",
+    "source": "straitstimes.com",
+    "date": "2026-07-08",
+    "url": "https://www.straitstimes.com/business/companies-markets/openai-says-powerful-new-model-to-launch-publicly-on-july-9",
+    "category": "Policy",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/430bbbe30e3b71de9fab4e39e8b029b734b4ec1dbd6927b4bb6da1240637d052"
+  },
+  {
+    "title": "OpenAI Confirms GPT-5.6 Sol, Terra And Luna AI Launch On Thursday After US Delay",
+    "summary": "OpenAI Confirms GPT-5.6 Sol, Terra And Luna AI Launch On Thursday After US Delay | Times Now Technology & Science OpenAI Confirms GPT-5.6 Sol, Terra And Luna AI Launch On Thursday After US Delay - Photos - Authored by: Govind Choudhary - Updated Jul 8, 2026, 10:25 IST OpenAI will publicly l",
+    "content": "OpenAI Confirms GPT-5.6 Sol, Terra And Luna AI Launch On Thursday After US Delay | Times Now Technology & Science OpenAI Confirms GPT-5.6 Sol, Terra And Luna AI Launch On Thursday After US Delay - Photos - Authored by: Govind Choudhary - Updated Jul 8, 2026, 10:25 IST OpenAI will publicly l",
+    "source": "timesnownews.com",
+    "date": "2026-07-08",
+    "url": "https://www.timesnownews.com/technology-science/openai-confirms-gpt-5-6-sol-terra-and-luna-ai-launch-on-thursday-after-us-delay-article-154979282",
+    "category": "Models",
+    "image": "https://images.timesnownews.com/thumb/msid-154979395,thumbsize-2346753,width-1280,height-720,resizemode-75/154979395.jpg"
   }
 ]
