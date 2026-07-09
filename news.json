@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI's GPT-5.6 Series Goes Public with Specialized Models for Science and Security",
-    "summary": "OpenAI is making its advanced GPT-5.6 model series publicly available on July 10, following voluntary government safety evaluations.",
-    "content": "OpenAI announced its GPT-5.6 series — including Sol, Terra, and Luna — will become publicly available on July 10, 2026, following safety reviews by U.S. government regulators. GPT-5.6 Sol is the most powerful model in the lineup, optimized specifically for biology, chemistry, and cybersecurity, with an even stronger variant called Sol Ultra available to select partners. The rollout follows a June 2026 executive order by President Trump requesting major AI developers voluntarily submit frontier models for government safety assessments before broad release. OpenAI claims the models feature robust safeguards designed to withstand real-world adversarial threats, particularly important given Sol's specialized capabilities in sensitive scientific domains. The public launch represents a significant milestone in the company's strategy to expand its most advanced AI capabilities beyond restricted preview access.",
-    "source": "Nextgov",
+    "title": "OpenAI launches GPT-Live ahead of expected GPT-5.6 debut, bringing more natural voice conversations to ChatGPT",
+    "summary": "OpenAI launches GPT-Live ahead of expected GPT-5.6 debut, bringing more natural voice conversations to ChatGPT - The Economic Times Search + Business News› Magazines› Panache›OpenAI launches GPT-Live ahead of expected GPT-5.6 debut, bringing more natural voice conversations to ChatGPT The",
+    "content": "OpenAI launches GPT-Live ahead of expected GPT-5.6 debut, bringing more natural voice conversations to ChatGPT - The Economic Times Search + Business News› Magazines› Panache›OpenAI launches GPT-Live ahead of expected GPT-5.6 debut, bringing more natural voice conversations to ChatGPT The",
+    "source": "Dhruv Mohan",
     "date": "2026-07-09",
-    "url": "https://www.nextgov.com/artificial-intelligence/2026/07/openais-advanced-gpt-56-models-be-available-public/414651/",
-    "category": "Models"
+    "url": "https://economictimes.indiatimes.com/magazines/panache/openai-launches-gpt-live-ahead-of-expected-gpt-5-6-debut-bringing-more-natural-voice-conversations-to-chatgpt/articleshow/132279186.cms",
+    "category": "Models",
+    "image": "https://img.etimg.com/thumb/msid-132279248,width-1200,height-630,imgsize-116216,overlay-etpanache/articleshow.jpg"
   },
   {
-    "title": "OpenAI Launches GPT-Live: Full-Duplex Voice Models That Can Interrupt, Search, and Multitask",
-    "summary": "OpenAI launched GPT-Live on July 8, replacing ChatGPT's default voice mode with a full-duplex architecture enabling real-time interruption, translation, and task delegation.",
-    "content": "OpenAI introduced GPT-Live on July 8, 2026, a new family of voice models built on full-duplex architecture that allows the AI to listen and speak simultaneously, enabling natural interruptions and immediate responses without waiting for users to finish speaking. The lineup includes GPT-Live-1 for paid subscribers and GPT-Live-1 mini for free users, rolling out across iOS, Android, and the web with multilingual support. A key capability is real-time task delegation: when a user asks something complex, GPT-Live routes the request to GPT-5.5 for web searches or detailed reasoning and brings the result back seamlessly into the voice conversation. The update removes the processing delays of the previous voice mode and adds real-time translation as a new built-in feature. OpenAI plans to bring GPT-Live to the API soon, opening the technology to developers and enterprise applications.",
-    "source": "SiliconAngle",
+    "title": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now",
+    "summary": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now Google gemini google.com Three of the most anticipated AI model events of 2026 are converging on the same week, and for developers, one of them cannot wait. Google DeepMind is targeting July 17 for the general availa",
+    "content": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now Google gemini google.com Three of the most anticipated AI model events of 2026 are converging on the same week, and for developers, one of them cannot wait. Google DeepMind is targeting July 17 for the general availa",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 08 2026, 1:18 AM EDT",
     "date": "2026-07-08",
-    "url": "https://siliconangle.com/2026/07/08/openai-launches-gpt-live-voice-model-series-ahead-broad-gpt-5-6-release/",
-    "category": "Tools"
+    "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
   },
   {
-    "title": "Illinois Becomes Third State to Pass Landmark AI Safety Law Targeting Largest Developers",
-    "summary": "Governor Pritzker signed SB 315, the AI Safety Measures Act, making Illinois the third state to impose comprehensive AI accountability requirements on major developers.",
-    "content": "Governor JB Pritzker signed Senate Bill 315, the Artificial Intelligence Safety Measures Act, on July 6, 2026, placing Illinois alongside California and New York as leaders in state-level AI regulation. The law targets large AI developers generating over $500 million in annual revenue, requiring them to publish AI safety frameworks, conduct mandatory annual third-party audits, and report significant safety incidents within 72 hours of discovery. Companies must identify potential large-scale harms — including assistance with weapons creation or cyberattacks — and face civil penalties up to $1 million for first violations and $3 million for repeat offenses. The legislation won broad bipartisan support, with both OpenAI and Anthropic backing the bill, which passed unanimously in the Illinois House. The law takes effect January 1, 2028, and lawmakers estimate the three-state coalition controls roughly 40% of the U.S. AI market, effectively establishing a de facto national standard.",
-    "source": "Capitol News Illinois",
+    "title": "OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more",
+    "summary": "OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more - The Times of India Edition IN English Weather Sign In - Videos - News - Technology News - Tech News - OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more Trending Perplex",
+    "content": "OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more - The Times of India Edition IN English Weather Sign In - Videos - News - Technology News - Tech News - OpenAI launches GPT-Live voice model for ChatGPT: Availability, key features and more Trending Perplex",
+    "source": "TOI Tech Desk  / TIMESOFINDIA.COM /   Jul 09, 2026, 09:12 IST",
+    "date": "2026-07-09",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-live-voice-model-for-chatgpt-availability-key-features-and-more/articleshow/132276437.cms",
+    "category": "Models",
+    "image": "https://static.toiimg.com/thumb/msid-132276438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+  },
+  {
+    "title": "Gemini 3.5 Pro Scraps Base Model to Compete with OpenAI",
+    "summary": "Gemini 3.5 Pro Scraps Base Model to Compete with OpenAI - Geeky Gadgets - content - Skip to secondary - Skip to primary sidebar - Google DeepMind has decided to scrap the 2.5 Pro base model in favor of a revised approach for its upcoming Gemini 3.5 Pro release.",
+    "content": "Gemini 3.5 Pro Scraps Base Model to Compete with OpenAI - Geeky Gadgets - content - Skip to secondary - Skip to primary sidebar - Google DeepMind has decided to scrap the 2.5 Pro base model in favor of a revised approach for its upcoming Gemini 3.5 Pro release. Ini",
+    "source": "Julian Horsey",
     "date": "2026-07-06",
-    "url": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
-    "category": "Policy"
+    "url": "https://www.geeky-gadgets.com/gemini-pro-scraps-base-model/",
+    "category": "Models",
+    "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/gemini-pro-delay.jpg"
   },
   {
-    "title": "UN Chief Urges Global AI Governance Standards, Warning Technology Is Outpacing Regulation",
-    "summary": "At the inaugural UN Global Dialogue on AI Governance, Secretary-General Guterres called for mandatory international safety standards, citing deepfakes, weaponized AI, and unchecked power concentration.",
-    "content": "UN Secretary-General António Guterres opened the first UN Global Dialogue on AI Governance in Geneva on July 6, 2026, issuing an urgent call for coordinated international standards before AI causes catastrophic and irreversible harm. Experts at the gathering warned that frontier AI models can already deceive humans and potentially alter global power dynamics, with the technology advancing faster than governments can regulate it. Among the most alarming findings: 99% of deepfake content is sexual in nature and primarily targets women and girls, prompting calls for zero-tolerance policies and mandatory safety testing before any AI deployment. Proposed governance measures include standardized international safety testing protocols, mandatory disclosure of AI systems' environmental footprints, and a commitment to power all data centers with renewable energy by 2030. Guterres stressed that without coordinated global standards, incompatible national regulations would \"divide the world — and protect no one.\"",
-    "source": "UN News",
-    "date": "2026-07-06",
-    "url": "https://news.un.org/en/story/2026/07/1167873",
-    "category": "Policy"
+    "title": "SpaceXAI launches Grok 4.5 model on Grok Build and APIs",
+    "summary": "SpaceXAI launches Grok 4.5 model on Grok Build and APIs Log in Subscribe SpaceXAI has released Grok 4.5, its new flagship model built for coding, agentic workflows, and knowledge work. The model is live now in Grok Build, Cursor on all plans, and the SpaceXAI API console, with EU access not yet ac",
+    "content": "SpaceXAI launches Grok 4.5 model on Grok Build and APIs Log in Subscribe SpaceXAI has released Grok 4.5, its new flagship model built for coding, agentic workflows, and knowledge work. The model is live now in Grok Build, Cursor on all plans, and the SpaceXAI API console, with EU access not yet ac",
+    "source": "testingcatalog.com",
+    "date": "2026-07-09",
+    "url": "https://www.testingcatalog.com/spacexai-launches-grok-4-5-model-on-grok-build-and-apis/",
+    "category": "Models",
+    "image": "https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/2026/07/grok-4-5-og.png"
   },
   {
-    "title": "Chinese AI Models Now Top 30% of U.S. Enterprise Usage as Cost Gap Widens",
-    "summary": "U.S. companies are rapidly adopting Chinese AI models like DeepSeek due to cost advantages of 60–90% over American alternatives, reshaping enterprise AI spending.",
-    "content": "U.S. companies are increasingly turning to Chinese AI providers like DeepSeek and Z.ai, with Chinese models now accounting for over 30% of AI tokens used by U.S. businesses each week since February 2026, up from just 11% the prior year. The primary driver is price: Chinese models deliver comparable performance to leading American alternatives while costing between 60% and 90% less — DeepSeek V4 Flash costs $0.14 per million input tokens compared to $5.00 for OpenAI's GPT-5.5. Startup Lindy reported saving millions of dollars after switching from Anthropic to DeepSeek once AI API costs exceeded employee costs. The emerging enterprise strategy is a hybrid model: Chinese AI for cost-sensitive tasks and U.S. models where compliance requirements or specialized performance is essential. DeepSeek alone now holds 17.6% of token routing on OpenRouter, making it the single largest vendor on the platform.",
-    "source": "CIO",
-    "date": "2026-07-07",
-    "url": "https://www.cio.com/article/4194040/chinese-ai-models-are-gaining-ground-in-the-u-s-attracting-companies-with-lower-prices.html",
-    "category": "Industry"
-  },
-  {
-    "title": "U.S. Census Bureau Finds Only 17–20% of Businesses Actually Use AI Despite Hype",
-    "summary": "New Census Bureau data reveals that real AI adoption among American businesses remains modest, with large firms and the information sector leading while most of the economy lags.",
-    "content": "The U.S. Census Bureau's Business Trends and Outlook Survey found that overall AI adoption among American businesses hovered between just 17% and 20% from December 2025 through May 2026, despite widespread industry enthusiasm and billions in investment. Larger firms with 250 or more employees showed the highest engagement at 37%, while very small businesses with four or fewer employees remained below 20%, indicating a sharp size-based divide. The Information sector led all industries at 39.7% adoption, followed by Finance at 33.9%, while Retail Trade lagged at just 14%. The survey expanded its framework to track AI usage across 15 business functions — including finance, human resources, and customer service — providing the most granular federal picture of enterprise AI use to date. The data suggests that despite the cultural dominance of AI narratives, widespread deployment across most of the U.S. economy has yet to materialize.",
-    "source": "U.S. Census Bureau",
-    "date": "2026-05-01",
-    "url": "https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
-    "category": "Trends"
+    "title": "Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown",
+    "summary": "Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown - Blockchain Sphere https://blockchainsphere.news/wp-content/uploads/2026/07/AIcn.webp Home» Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown Crypto Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown July 8,",
+    "content": "Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown - Blockchain Sphere https://blockchainsphere.news/wp-content/uploads/2026/07/AIcn.webp Home» Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown Crypto Elon Musk unveils Grok 4.5 as OpenAI readies GPT-5.6 showdown July 8,",
+    "source": "John Paterson",
+    "date": "2026-07-08",
+    "url": "https://blockchainsphere.news/elon-musk-unveils-grok-4-5-as-openai-readies-gpt-5-6-showdown/",
+    "category": "Models",
+    "image": "https://media.crypto.news/2026/06/AIcn.webp"
   }
 ]
