@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI Launches GPT-5.6 Family: Sol, Terra, and Luna Models Debut",
-    "summary": "OpenAI unveiled a three-tier model family on July 9, 2026, with Sol as the flagship, Terra as a balanced mid-range option, and Luna as the budget-friendly choice.",
-    "content": "OpenAI unveiled its newest model family on July 9, 2026, introducing three variants: Sol (flagship), Terra (intermediate), and Luna (budget-friendly). The company positions GPT-5.6 Sol as 54% more token-efficient for coding tasks and its strongest cybersecurity model yet, supporting threat modeling and code review. According to OpenAI's benchmarks, Sol outperforms Anthropic's competing Fable 5 model by 2.8 points while using half the output tokens and costing roughly one-third less. Pricing ranges from $1 input/$6 output per million tokens for Luna up to $5 input/$30 output for Sol. Alongside the models, OpenAI launched ChatGPT Work, an enterprise collaboration tool designed for desktop, web, and mobile platforms.",
-    "source": "TechCrunch",
-    "date": "2026-07-09",
-    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "category": "Models"
+    "title": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now",
+    "summary": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now Google gemini google.com Three of the most anticipated AI model events of 2026 are converging on the same week, and for developers, one of them cannot wait. Google DeepMind is targeting July 17 for the general availa",
+    "content": "Gemini 3.5 Pro Targets July 17 as DeepSeek's July 24 Deadline Hits Developers Now Google gemini google.com Three of the most anticipated AI model events of 2026 are converging on the same week, and for developers, one of them cannot wait. Google DeepMind is targeting July 17 for the general availa",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 08 2026, 1:18 AM EDT",
+    "date": "2026-07-08",
+    "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
   },
   {
-    "title": "OpenAI GPT-Live Brings Full-Duplex Voice to ChatGPT, Eliminating Awkward Pauses",
-    "summary": "OpenAI's new GPT-Live voice model can listen and respond simultaneously, making AI conversations feel natural for the first time.",
-    "content": "OpenAI released GPT-Live, a full-duplex voice assistant that can listen and generate responses at the same time, eliminating the awkward pauses characteristic of previous AI voice modes. The system maintains natural conversation flow through verbal cues like 'mhmm' and 'got it' while processing queries in the background. GPT-Live-1 is available for paid subscribers while GPT-Live-1 mini serves free users across iOS, Android, and web platforms. In preference testing, the full version won 76% of comparisons against the older voice mode. OpenAI has implemented expanded safety measures addressing emotional dependence and self-harm risks, with all voices pre-recorded to prevent impersonation concerns.",
-    "source": "Republic World",
+    "title": "OpenAI Launches GPT-Live: New Voice Model Brings Real-Time Replies, Background Processing to ChatGPT",
+    "summary": "OpenAI Launches GPT-Live: New Voice Model Brings Real-Time Replies, Background Processing to ChatGPT | Republic World LIVE TV Updated 9 July 2026 at 11:26 IST OpenAI’s GPT-Live eliminates the awkward pause in AI conversations with full-duplex voice technology, making interactions feel more nat",
+    "content": "OpenAI Launches GPT-Live: New Voice Model Brings Real-Time Replies, Background Processing to ChatGPT | Republic World LIVE TV Updated 9 July 2026 at 11:26 IST OpenAI’s GPT-Live eliminates the awkward pause in AI conversations with full-duplex voice technology, making interactions feel more nat",
+    "source": "republicworld.com",
     "date": "2026-07-09",
     "url": "https://www.republicworld.com/tech/openai-launches-gpt-live-new-voice-model-brings-real-time-replies-background-processing-to-chatgpt-2026-07-09-131769",
-    "category": "Models"
+    "category": "Models",
+    "image": "https://img.republicworld.com/all_images/2026/07/openai-launches-gpt-live-new-voice-model-brings-real-time-replies-background-processing-to-chatgpt-1783576556282-1280x720.webp"
   },
   {
-    "title": "SpaceXAI Releases Grok 4.5, an Opus-Class Model Built for Coding and Agentic Work",
-    "summary": "SpaceXAI launched Grok 4.5 on July 8, 2026, claiming Opus 4.7-level capabilities at a fraction of the cost, with twice the token efficiency.",
-    "content": "SpaceXAI released Grok 4.5 on July 8, 2026, positioning it as a coding and agentic-work model trained alongside Cursor. Elon Musk described it as matching the capabilities of Anthropic's Opus 4.7 'but much faster' at significantly lower cost — $2 per million input tokens versus $5 for Opus. The model claims twice the token efficiency of competing solutions and excels at creating functional applications from minimal instructions, such as generating an interactive solar system simulation from a single prompt. Grok 4.5 is available in Grok Build, in Cursor on all plans, and via the SpaceXAI console, though EU availability is not yet confirmed. The launch coincides with OpenAI's GPT-5.6 release, intensifying competition at the frontier model tier.",
-    "source": "TechCrunch",
-    "date": "2026-07-08",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "category": "Models"
+    "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+    "summary": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’ | The Verge The homepageThe VergeThe Verge logo. The homepageThe VergeThe Verge logo.",
+    "content": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’ | The Verge The homepageThe VergeThe Verge logo. The homepageThe VergeThe Verge logo. AI News Policy OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’ The limited preview pe",
+    "source": "Hayden Field",
+    "date": "2026-07-09",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+    "category": "Models",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200"
   },
   {
-    "title": "Illinois Becomes National Leader in AI Safety with Pritzker Signing SB 315",
-    "summary": "Governor Pritzker signed the Artificial Intelligence Safety Measures Act on July 6, 2026, imposing the strictest AI developer obligations in the US.",
-    "content": "Governor JB Pritzker signed Senate Bill 315, the Artificial Intelligence Safety Measures Act, on July 6, 2026, targeting large AI developers that generate over $500 million in annual revenue. The law requires covered developers to publish safety frameworks assessing 'catastrophic risk' and report critical incidents within 72 hours — or 24 hours for imminent threats. Illinois uniquely mandates annual independent third-party audits, exceeding similar legislation in California and New York. Violations carry civil penalties up to $1 million for first offenses and $3 million for subsequent violations, with whistleblower protections included. The law takes effect January 1, 2028, and with Illinois, California, and New York collectively representing roughly 40% of the US AI market, experts say the law effectively sets a de facto national standard.",
-    "source": "Capitol News Illinois",
-    "date": "2026-07-06",
-    "url": "https://capitolnewsillinois.com/news/pritzker-signs-landmark-ai-regulation-bill-that-aims-to-mitigate-risks/",
-    "category": "Policy"
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "summary": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch Image Credits:Kevin Dietsch / Getty Images AI Copy Share Link OpenAI launches its new family of models with GPT-5.6 Lucas Ropek 3:24 PM PDT · July 9, 2026 Copy Share Link OpenAI unveiled its newest family of models on Thurs",
+    "content": "OpenAI launches its new family of models with GPT-5.6 | TechCrunch Image Credits:Kevin Dietsch / Getty Images AI Copy Share Link OpenAI launches its new family of models with GPT-5.6 Lucas Ropek 3:24 PM PDT · July 9, 2026 Copy Share Link OpenAI unveiled its newest family of models on Thurs",
+    "source": "Lucas Ropek",
+    "date": "2026-07-09",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "category": "Models",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837"
   },
   {
-    "title": "UN Convenes Global AI Governance Summit in Geneva, Warns of 'Catastrophic Harm'",
-    "summary": "Governments, tech companies, and civil society gathered at a UN summit in Geneva on July 6–7 to address the widening 'AI divide' and push for multilateral governance.",
-    "content": "The UN convened a major AI governance summit in Geneva on July 6–7, 2026, bringing together governments, technology companies, academics, and civil society to confront the risks and promise of artificial intelligence. Key participants warned that AI poses significant risks including 'catastrophic harm,' information manipulation, and democratic erosion, even as it offers transformational economic benefits. A central concern was the 'AI divide' — the stark disparity between developed nations with advanced AI infrastructure and developing countries that lack connectivity, compute, and research capacity. Expert panelists stressed that 'the world cannot govern what it cannot understand,' advocating for multilateral UN-led frameworks rather than fragmented national approaches. The dialogue drew on the UN's Independent International Scientific Panel's first comprehensive AI assessment, which provides evidence-based guidance for policymakers developing universal safeguards.",
-    "source": "UN News",
-    "date": "2026-07-07",
-    "url": "https://news.un.org/en/story/2026/07/1167862",
-    "category": "Policy"
+    "title": "OpenAI launches GPT-5.6 Sol with four-agent reasoning system",
+    "summary": "OpenAI launches GPT-5.6 Sol with four-agent reasoning system Bitcoin (BTC) $64,441.00 2.58183 Bitcoin price Ethereum (ETH) $1,802.67 3.51912 Ethereum price XRP (XRP) $1.11 1.16265 XRP price BNB (BNB) $575.07 0.77833 BNB price Solana (SOL) $78.99 1.39427 Solana price Hyperliquid",
+    "content": "OpenAI launches GPT-5.6 Sol with four-agent reasoning system Bitcoin (BTC) $64,441.00 2.58183 Bitcoin price Ethereum (ETH) $1,802.67 3.51912 Ethereum price XRP (XRP) $1.11 1.16265 XRP price BNB (BNB) $575.07 0.77833 BNB price Solana (SOL) $78.99 1.39427 Solana price Hyperliquid",
+    "source": "Lawrence Mondal",
+    "date": "2026-07-09",
+    "url": "https://crypto.news/openai-launches-gpt-5-6-sol-with-four-agent-reasoning/",
+    "category": "Models",
+    "image": "https://media.crypto.news/2026/05/openai-1.webp"
   },
   {
-    "title": "Tesla Launches Fully Driverless Robotaxi in Miami, Skipping Safety-Monitor Phase",
-    "summary": "Tesla's Miami robotaxi service launched on July 3 with no safety driver onboard from day one — a first for any new market in the company's expansion.",
-    "content": "Tesla launched its fully unsupervised robotaxi service in Miami on July 3, 2026, making it the first new market where the company skipped the human-monitored phase entirely and offered driverless rides from day one. The service covers 10–14 square miles in western Miami-Dade and runs on Tesla's vision-based FSD system with no Lidar, no pre-mapped corridors, and no human fallback for edge cases. Florida's permissive regulatory environment — which does not require a state-specific autonomous vehicle permit — allowed Tesla to expand faster than competitors like Waymo, which still uses supervised phases in new cities. Tesla plans further expansion to Orlando and Tampa later in 2026 as it aims to scale across a dozen US states by year-end. The deployment marks what observers are calling the most aggressive production use of AI decision-making without human oversight in any consumer transportation context.",
-    "source": "Not A Tesla App",
-    "date": "2026-07-03",
-    "url": "https://www.notateslaapp.com/news/4394/tesla-launches-unsupervised-robotaxi-rides-in-miami",
-    "category": "Industry"
+    "title": "GPT-5.6 Sol Breaks AI Coding Cost Barrier: 76% Win Rate at 61% Less Cost",
+    "summary": "GPT-5.6 Sol Breaks AI Coding Cost Barrier: Win Rate at Less Cost - AINews Search GPT-5.6 Sol Breaks AI Coding Cost Barrier: Win Rate at Less Cost July 10, 2026 at 08:06 AM AINews Hacker News July 2026 OpenAI's latest model, GPT-5.6 Sol, has stormed to the top of the DeepSWE",
+    "content": "GPT-5.6 Sol Breaks AI Coding Cost Barrier: Win Rate at Less Cost - AINews Search GPT-5.6 Sol Breaks AI Coding Cost Barrier: Win Rate at Less Cost July 10, 2026 at 08:06 AM AINews Hacker News July 2026 OpenAI's latest model, GPT-5.6 Sol, has stormed to the top of the DeepSWE",
+    "source": "ainews.cool",
+    "date": "2026-07-10",
+    "url": "https://ainews.cool/article/20260710-gpt5-sol-deepswe-benchmark",
+    "category": "Models",
+    "image": "https://ainews.cool/og/article/20260710-gpt5-sol-deepswe-benchmark.svg?lang=en"
   }
 ]
