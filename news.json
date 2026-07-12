@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI Releases GPT-5.6 in Three Tiers with ChatGPT Work Agent",
-    "summary": "OpenAI publicly launched GPT-5.6 across three capability tiers alongside ChatGPT Work, an autonomous agent that completes full end-to-end tasks.",
-    "content": "On July 9, 2026, OpenAI released GPT-5.6 in three tiers: Sol (flagship for complex tasks), Terra (balanced mid-range), and Luna (fast and economical), priced at $5/$30, $2.50/$15, and $1/$6 per million tokens respectively. Alongside the models, OpenAI launched ChatGPT Work, an agent integrating Codex technology to handle extended tasks and deliver finished outputs like spreadsheets and documents rather than simply answering questions. Sol is reported to be 54% more token-efficient on agentic coding tasks, though all three tiers received 'High' risk ratings in OpenAI's safety report for potential cyber and biological misuse. The rollout followed a two-week period where approximately 20 government-vetted organizations accessed the system first through a voluntary review process. GPT-5.4 is scheduled for retirement on July 23 as OpenAI consolidates around the new lineup.",
-    "source": "SpaceDaily",
-    "date": "2026-07-09",
-    "url": "https://spacedaily.com/m-on-july-9-2026-openai-opened-its-most-powerful-system-yet-to-the-public-gpt-5-6-in-three-tiers-named-sol-terra-and-luna-alongside-an-agent-it-calls-chatgpt-work-built-to-carry/",
-    "category": "Models"
+    "title": "Meta Muse Spark 1.1 Debuts in AI Coding…",
+    "summary": "Meta Muse Spark 1.1 Debuts in AI Coding… | gentic.news THE LIVING GRAPHGRAPH5.8K entities+215/wk3.7K edges+2547.0K findings+52224 cycles/24hlast activity 3m agoexplore → BREAKINGBoko Haram AI units use ChatGPT, Claude, Gemini for attack planning· CYCLE3203 discover — Discovery: 3 patterns, 3 caus",
+    "content": "Meta Muse Spark 1.1 Debuts in AI Coding… | gentic.news THE LIVING GRAPHGRAPH5.8K entities+215/wk3.7K edges+2547.0K findings+52224 cycles/24hlast activity 3m agoexplore → BREAKINGBoko Haram AI units use ChatGPT, Claude, Gemini for attack planning· CYCLE3203 discover — Discovery: 3 patterns, 3 caus",
+    "source": "AA Ala SMITH & AI Research Desk",
+    "date": "2026-07-10",
+    "url": "https://gentic.news/article/meta-muse-spark-1-1-debuts-in-ai",
+    "category": "Models",
+    "image": "https://pbs.twimg.com/media/HM1TdMaaYAAzRSZ.png"
   },
   {
-    "title": "Meta Launches Muse Spark 1.1 Agentic Coding Model with Public API",
-    "summary": "Meta opened public developer access to Muse Spark 1.1, an agentic AI model built for coding and multi-step tasks, via a competitive new Meta Model API.",
-    "content": "Meta launched Muse Spark 1.1, an advanced agentic AI model designed specifically for coding and multi-step task completion, through a newly unveiled Meta Model API priced at $1.25 per million input tokens and $4.25 per million output tokens — positioning it between budget and premium alternatives from OpenAI and Anthropic. The model features a 1-million-token context window and excels at writing and debugging code, interacting with external tools, and processing text, images, and video for complex extended workflows. Meta is offering $20 in free credits for developers to test the system before transitioning to standard pricing, accelerating adoption across its developer ecosystem. The launch came just days after OpenAI introduced GPT-5.6, intensifying competition in the agentic coding model segment. Industry observers view this as Meta's clearest attempt yet to monetize its AI research by building sustainable business revenue from its infrastructure investments.",
-    "source": "TechStartups",
+    "title": "Gemini 3.5 Pro: 2M Token Context and Autonomous Workflows",
+    "summary": "Gemini 3.5 Pro: 2M Token Context and Autonomous Workflows Close Google DeepMind announced it will launch Gemini 3.5 Pro on July 17, 2026, abandoning the existing Gemini 2.5 Pro architecture in favor of a ground-up redesign. The decision reflects the company’s commitment to staying ahead in th",
+    "content": "Gemini 3.5 Pro: 2M Token Context and Autonomous Workflows Close Google DeepMind announced it will launch Gemini 3.5 Pro on July 17, 2026, abandoning the existing Gemini 2.5 Pro architecture in favor of a ground-up redesign. The decision reflects the company’s commitment to staying ahead in th",
+    "source": "Sadia Afrin Joya",
+    "date": "2026-07-11",
+    "url": "https://inews.zoombangla.com/google-gemini-3-5-pro-launch-july-17/",
+    "category": "Models",
+    "image": "https://inews.zoombangla.com/wp-content/uploads/2026/07/Google-Gemini-3.5-Pro-launch.jpg"
+  },
+  {
+    "title": "Anthropic Tops $1.2 Trillion on Private Markets, Passing OpenAI in Race to IPO",
+    "summary": "Anthropic Tops $1.2 Trillion on Private Markets, Passing OpenAI in Race to IPO This photograph shows the logo of the AI assistant \"Claude Mythos\" built by the US artificial intelligence safety and research company Anthropic displayed on a smartphone's screen in Brussels on June 10, 2026.",
+    "content": "Anthropic Tops $1.2 Trillion on Private Markets, Passing OpenAI in Race to IPO This photograph shows the logo of the AI assistant \"Claude Mythos\" built by the US artificial intelligence safety and research company Anthropic displayed on a smartphone's screen in Brussels on June 10, 2026. Nicolas TU",
+    "source": "Richard L. Wells  \n \n \n Published: Jul 10 2026, 11:27 PM EDT",
+    "date": "2026-07-11",
+    "url": "https://www.techtimes.com/articles/320136/20260710/anthropic-tops-12-trillion-private-markets-passing-openai-race-ipo.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466984/claude.jpg"
+  },
+  {
+    "title": "Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic",
+    "summary": "July 12, 2026 Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic Daniel Levi Posted On July 10, 2026 0 1.1K Views 0 Shares Meta has opened public developer access to Muse Spark 1.1 just days after OpenAI introduced GPT-5.6, intensifyi",
+    "content": "July 12, 2026 Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic Daniel Levi Posted On July 10, 2026 0 1.1K Views 0 Shares Meta has opened public developer access to Muse Spark 1.1 just days after OpenAI introduced GPT-5.6, intensifyi",
+    "source": "Daniel Levi",
     "date": "2026-07-10",
     "url": "https://techstartups.com/2026/07/10/meta-launches-muse-spark-1-1-an-agentic-ai-coding-model-with-an-api-to-challenge-openai-and-anthropic/",
-    "category": "Models"
+    "category": "Models",
+    "image": "https://techstartups.com/wp-content/uploads/2024/04/Meta-launches-Meta.AI-to-take-on-ChatGPT.jpg"
   },
   {
-    "title": "SpaceXAI Launches Grok 4.5, an 'Opus-Class' Model at Half the Cost",
-    "summary": "SpaceXAI released Grok 4.5, its strongest model yet, claiming Opus-level performance at significantly lower prices and twice the token efficiency of comparable models.",
-    "content": "SpaceXAI released Grok 4.5 on July 8, 2026, positioning it as a competitive alternative to Anthropic's Opus 4.7 at substantially lower prices — $2 per million input tokens and $6 per million output tokens, compared to Anthropic's $5 and $25. Elon Musk described Grok 4.5 as 'Opus-class, but faster, more token-efficient and lower cost,' claiming it achieves roughly 2x the token efficiency of comparable leading models, solving tasks in under half the number of steps. The model is optimized for coding, research, writing, and agentic task completion, and was trained on datasets spanning coding, science, engineering, and math across tens of thousands of Nvidia GB300 GPUs. Grok 4.5 is available through Grok Build, via the Cursor coding environment on all plans, and from the SpaceXAI developer console, though it is not yet available in the EU. The release marks SpaceXAI's first major model drop since the company went public and acquired AI coding startup Cursor.",
-    "source": "TechCrunch",
-    "date": "2026-07-08",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "category": "Models"
+    "title": "On July 9, 2026, OpenAI opened its most powerful system yet to the public — GPT-5.6, in three tiers named Sol, Terra and Luna — alongside an agent it calls ChatGPT Work, built to carry out whole jobs rather than merely answer questions",
+    "summary": "On July 9, 2026, OpenAI opened its most powerful system yet to the public — GPT-5.6, in three tiers named Sol, Terra and Luna — alongside an agent it calls ChatGPT Work, built to carry out whole jobs rather than merely answer questions Space, science, and the human mind.",
+    "content": "On July 9, 2026, OpenAI opened its most powerful system yet to the public — GPT-5.6, in three tiers named Sol, Terra and Luna — alongside an agent it calls ChatGPT Work, built to carry out whole jobs rather than merely answer questions Space, science, and the human mind. Since 1995. On 9 July 2026",
+    "source": "spacedaily.com",
+    "date": "2026-07-10",
+    "url": "https://spacedaily.com/m-on-july-9-2026-openai-opened-its-most-powerful-system-yet-to-the-public-gpt-5-6-in-three-tiers-named-sol-terra-and-luna-alongside-an-agent-it-calls-chatgpt-work-built-to-carry/",
+    "category": "Models",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/07/image-2026-07-10T181353.273.png"
   },
   {
-    "title": "OpenAI Launches GPT-Live Voice Model with Full-Duplex Real-Time Conversation",
-    "summary": "OpenAI's new GPT-Live uses full-duplex architecture to allow the AI to listen and respond simultaneously, making voice interactions feel more natural than ever.",
-    "content": "OpenAI unveiled GPT-Live, a voice assistant featuring full-duplex architecture that allows simultaneous listening and response generation, eliminating the characteristic pause that defined previous AI voice interactions. The system handles background processing tasks like web searches while maintaining natural dialogue through conversational filler, delivering results mid-conversation rather than requiring the user to wait in silence. Two models are available: GPT-Live-1 for paid subscribers and GPT-Live-1 mini for free users, rolling out across iOS, Android, and web platforms. In testing, GPT-Live-1 achieved preference wins in approximately 76% of comparisons against earlier voice iterations, while the mini version reached about 69%. OpenAI emphasized safety measures addressing self-harm, emotional dependence, violence, and inappropriate content, and confirmed that all voices used are pre-recorded rather than synthetically generated.",
-    "source": "Republic World",
+    "title": "OpenAI Launches GPT-Live: New Voice Model Brings Real-Time Replies, Background Processing to ChatGPT",
+    "summary": "OpenAI Launches GPT-Live: New Voice Model Brings Real-Time Replies, Background Processing to ChatGPT | Republic World LIVE TV Updated 9 July 2026 at 11:26 IST OpenAI’s GPT-Live eliminates the awkward pause in AI conversations with full-duplex voice technology, making interactions feel more nat",
+    "content": "OpenAI Launches GPT-Live: New Voice Model Brings Real-Time Replies, Background Processing to ChatGPT | Republic World LIVE TV Updated 9 July 2026 at 11:26 IST OpenAI’s GPT-Live eliminates the awkward pause in AI conversations with full-duplex voice technology, making interactions feel more nat",
+    "source": "republicworld.com",
     "date": "2026-07-09",
     "url": "https://www.republicworld.com/tech/openai-launches-gpt-live-new-voice-model-brings-real-time-replies-background-processing-to-chatgpt-2026-07-09-131769",
-    "category": "Tools"
-  },
-  {
-    "title": "Global Push for AI Governance at UN Summit Amid 'Catastrophic Harm' Warnings",
-    "summary": "A major UN summit in Geneva convened governments, tech companies, and academics to build global consensus on AI regulation, warning that AI is advancing faster than existing frameworks can contain.",
-    "content": "A major UN summit convened in Geneva on July 6-7, 2026, bringing together governments, tech companies, academics, and civil society representatives to address how to regulate artificial intelligence that is evolving faster than existing regulatory frameworks. Key participants, including members of the UN's Independent International Scientific Panel on AI, emphasized that while AI offers transformational benefits for economic development and healthcare, it also poses serious risks including potential 'catastrophic harm,' information manipulation, and democratic erosion. Experts highlighted a critical 'AI divide' where developing nations with limited infrastructure risk falling further behind technologically advanced countries, threatening to concentrate AI's benefits among a small number of wealthy states. AI pioneer Yoshua Bengio warned that 'science currently cannot guarantee that as capabilities continue to increase, AI will not cause catastrophic harm,' underscoring the necessity for globally coordinated governance through the United Nations. The summit produced calls for binding multilateral agreements and a permanent intergovernmental body to oversee AI development.",
-    "source": "UN News",
-    "date": "2026-07-07",
-    "url": "https://news.un.org/en/story/2026/07/1167862",
-    "category": "Policy"
-  },
-  {
-    "title": "91% of Businesses Now Use AI, But 56% of CEOs Report Zero Measurable ROI",
-    "summary": "A 2026 report reveals near-universal AI adoption across enterprises, yet most organizations remain stuck in pilot mode with little to show for their investments.",
-    "content": "As of 2026, 91% of businesses use AI in at least one capacity, with 92% of Fortune 500 companies utilizing OpenAI products, according to new industry data. However, a critical gap between deployment and value creation persists: only about a third of organizations have genuinely scaled AI beyond pilots, while two-thirds remain in experiment or pilot mode for their most ambitious initiatives. Particularly stark is the ROI problem — 56% of CEOs report zero measurable return on investment from AI in the past 12 months, despite record capital flowing into the space. Data quality and availability are cited by 52% of organizations as the single biggest barrier to AI adoption, compounded by a significant and growing skills gap that companies are scrambling to address through training programs. Financial services leads production AI agent deployment at 47%, while developer coding-tool adoption has reached near-saturation at 84%, illustrating how maturity varies sharply by sector.",
-    "source": "AI Business Weekly",
-    "date": "2026-07-10",
-    "url": "https://aibusinessweekly.net/p/ai-adoption-statistics",
-    "category": "Industry"
+    "category": "Models",
+    "image": "https://img.republicworld.com/all_images/2026/07/openai-launches-gpt-live-new-voice-model-brings-real-time-replies-background-processing-to-chatgpt-1783576556282-1280x720.webp"
   }
 ]
