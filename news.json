@@ -1,15 +1,5 @@
 [
   {
-    "title": "Meta Muse Spark 1.1 Debuts in AI Coding…",
-    "summary": "Meta Muse Spark 1.1 Debuts in AI Coding… | gentic.news THE LIVING GRAPHGRAPH5.8K entities+215/wk3.7K edges+2547.0K findings+52224 cycles/24hlast activity 3m agoexplore → BREAKINGBoko Haram AI units use ChatGPT, Claude, Gemini for attack planning· CYCLE3203 discover — Discovery: 3 patterns, 3 caus",
-    "content": "Meta Muse Spark 1.1 Debuts in AI Coding… | gentic.news THE LIVING GRAPHGRAPH5.8K entities+215/wk3.7K edges+2547.0K findings+52224 cycles/24hlast activity 3m agoexplore → BREAKINGBoko Haram AI units use ChatGPT, Claude, Gemini for attack planning· CYCLE3203 discover — Discovery: 3 patterns, 3 caus",
-    "source": "AA Ala SMITH & AI Research Desk",
-    "date": "2026-07-10",
-    "url": "https://gentic.news/article/meta-muse-spark-1-1-debuts-in-ai",
-    "category": "Models",
-    "image": "https://pbs.twimg.com/media/HM1TdMaaYAAzRSZ.png"
-  },
-  {
     "title": "Gemini 3.5 Pro: 2M Token Context and Autonomous Workflows",
     "summary": "Gemini 3.5 Pro: 2M Token Context and Autonomous Workflows Close Google DeepMind announced it will launch Gemini 3.5 Pro on July 17, 2026, abandoning the existing Gemini 2.5 Pro architecture in favor of a ground-up redesign. The decision reflects the company’s commitment to staying ahead in th",
     "content": "Gemini 3.5 Pro: 2M Token Context and Autonomous Workflows Close Google DeepMind announced it will launch Gemini 3.5 Pro on July 17, 2026, abandoning the existing Gemini 2.5 Pro architecture in favor of a ground-up redesign. The decision reflects the company’s commitment to staying ahead in th",
@@ -30,14 +20,14 @@
     "image": "https://d.techtimes.com/en/full/466984/claude.jpg"
   },
   {
-    "title": "Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic",
-    "summary": "July 12, 2026 Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic Daniel Levi Posted On July 10, 2026 0 1.1K Views 0 Shares Meta has opened public developer access to Muse Spark 1.1 just days after OpenAI introduced GPT-5.6, intensifyi",
-    "content": "July 12, 2026 Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic Daniel Levi Posted On July 10, 2026 0 1.1K Views 0 Shares Meta has opened public developer access to Muse Spark 1.1 just days after OpenAI introduced GPT-5.6, intensifyi",
-    "source": "Daniel Levi",
-    "date": "2026-07-10",
-    "url": "https://techstartups.com/2026/07/10/meta-launches-muse-spark-1-1-an-agentic-ai-coding-model-with-an-api-to-challenge-openai-and-anthropic/",
+    "title": "AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse — AIViewer.ai",
+    "summary": "AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse — AIViewer.ai technology AIViewer Editorial Team AI-assisted July 11, 2026 15 min read AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse GPT-5.6, ChatGPT Work and GPT-Live, Grok 4.5, Muse Image, and Muse Spark 1.1 arrived this week.",
+    "content": "AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse — AIViewer.ai technology AIViewer Editorial Team AI-assisted July 11, 2026 15 min read AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse GPT-5.6, ChatGPT Work and GPT-Live, Grok 4.5, Muse Image, and Muse Spark 1.1 arrived this week. See",
+    "source": "AIViewer.ai",
+    "date": "2026-07-11",
+    "url": "https://aiviewer.ai/guides/weekly-ai-update-july-11-2026/",
     "category": "Models",
-    "image": "https://techstartups.com/wp-content/uploads/2024/04/Meta-launches-Meta.AI-to-take-on-ChatGPT.jpg"
+    "image": "https://aiviewer.ai/images/guides/weekly-ai-update-july-11-2026.png"
   },
   {
     "title": "On July 9, 2026, OpenAI opened its most powerful system yet to the public — GPT-5.6, in three tiers named Sol, Terra and Luna — alongside an agent it calls ChatGPT Work, built to carry out whole jobs rather than merely answer questions",
@@ -58,5 +48,15 @@
     "url": "https://www.republicworld.com/tech/openai-launches-gpt-live-new-voice-model-brings-real-time-replies-background-processing-to-chatgpt-2026-07-09-131769",
     "category": "Models",
     "image": "https://img.republicworld.com/all_images/2026/07/openai-launches-gpt-live-new-voice-model-brings-real-time-replies-background-processing-to-chatgpt-1783576556282-1280x720.webp"
+  },
+  {
+    "title": "OpenAI says its AI proved a 50-year-old math conjecture -- mathematicians want the receipts",
+    "summary": "OpenAI says its AI proved a 50-year-old math conjecture -- mathematicians want the receipts - DEV Community OpenAI released a three-page manuscript on July 10, 2026 that it says its GPT-5.6 Sol Ultra model generated to prove the Cycle Double Cover Conjecture, a graph-theory problem open for about 5",
+    "content": "OpenAI says its AI proved a 50-year-old math conjecture -- mathematicians want the receipts - DEV Community OpenAI released a three-page manuscript on July 10, 2026 that it says its GPT-5.6 Sol Ultra model generated to prove the Cycle Double Cover Conjecture, a graph-theory problem open for about 5",
+    "source": "dev.to",
+    "date": "2026-07-11",
+    "url": "https://dev.to/breachprotocol/openai-says-its-ai-proved-a-50-year-old-math-conjecture-mathematicians-want-the-receipts-2gm5",
+    "category": "Models",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fh8pxve2pnu7v048ixs95.png"
   }
 ]
