@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI Launches GPT-Live: Full-Duplex Voice Models That Listen and Speak Simultaneously",
-    "summary": "OpenAI introduced GPT-Live-1 and GPT-Live-1 mini, full-duplex voice models that can listen and speak at the same time, enabling far more natural AI conversations with real interruption support.",
-    "content": "OpenAI unveiled two new conversational models called GPT-Live-1 and GPT-Live-1 mini, designed to enable more natural voice interactions with significantly improved turn-taking abilities over the previous Advanced Voice Mode. These full-duplex models allow users to interrupt mid-sentence, just as they would in a human conversation, by listening and speaking simultaneously rather than waiting for clearly defined turn endings. Unlike the previous system combining separate speech-to-text, language, and text-to-speech components, GPT-Live connects directly to GPT-5.5 for reasoning and contextual responses, and can hand off complex questions to a frontier model behind the scenes while maintaining conversational flow. The system handles extended sessions — product leads reported 30- to 40-minute dialogue sessions — and supports live translation across multiple languages. ChatGPT's free tier defaults to GPT-Live-1 mini while paid subscribers gain access to the larger GPT-Live-1 model, with OpenAI positioning voice as a primary computing interface for complex, long-running agentic work.",
-    "source": "TechCrunch",
-    "date": "2026-07-08",
-    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "category": "Models"
+    "title": "Google Delays Gemini 3.5 Pro Launch to July 17 After Scrapping Its Base Model",
+    "summary": "Google Delays Gemini 3.5 Pro Launch to July 17 After Scrapping Its Base Model - Startup Fortune Search SF Jul 13, 2026 · 2:31 PM Subscribe✉ Most Read Hyundai takes full control of Boston… X Money rolls out to more… Anthropic Resets Claude Code Usage Limits… Binance loses access to the EU's… Hyu",
+    "content": "Google Delays Gemini 3.5 Pro Launch to July 17 After Scrapping Its Base Model - Startup Fortune Search SF Jul 13, 2026 · 2:31 PM Subscribe✉ Most Read Hyundai takes full control of Boston… X Money rolls out to more… Anthropic Resets Claude Code Usage Limits… Binance loses access to the EU's… Hyu",
+    "source": "startupfortune.com",
+    "date": "2026-07-13",
+    "url": "https://startupfortune.com/google-delays-gemini-35-pro-launch-to-july-17-after-scrapping-its-base-model/",
+    "category": "Models",
+    "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-15509-1783910097137.jpg"
   },
   {
-    "title": "xAI Releases Grok 4.5 — An Opus-Class Coding Model at 60% Lower Cost",
-    "summary": "SpaceXAI launched Grok 4.5, a frontier-tier model for coding, research, and agentic work that Elon Musk claims delivers Opus-level performance at over 60% lower cost than comparable models.",
-    "content": "SpaceXAI unveiled Grok 4.5, a new AI model purpose-built for coding, agentic tasks, and knowledge work spanning research, writing, and engineering. The company emphasizes that the model delivers twice the token efficiency compared to competing offerings, with Elon Musk describing it as \"an Opus-class model, but faster, more token-efficient and lower cost.\" Priced at $2 per million input tokens and $6 per million output tokens, Grok 4.5 is substantially cheaper than Anthropic's Opus 4.7 and OpenAI's most expensive models, making frontier-tier capabilities more accessible to developers. The model was co-trained with Cursor on hundreds of thousands of multi-step software engineering tasks using both automated and model-based grading, making it particularly strong on agentic coding workloads. Grok 4.5 is available immediately in Grok Build and Cursor on all plans from the SpaceXAI console, though EU availability is expected in mid-July.",
-    "source": "TechCrunch",
-    "date": "2026-07-08",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "category": "Models"
+    "title": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents",
+    "summary": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI continues its rapid pace of releases with a new generation of artificial intelligence models. The company has just unveiled the G",
+    "content": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI continues its rapid pace of releases with a new generation of artificial intelligence models. The company has just unveiled the G",
+    "source": "Noah Carver",
+    "date": "2026-07-13",
+    "url": "https://myhostnews.com/openai-launches-gpt-5-6-sol-terra-and-luna-focus-on-more-autonomous-ai-agents/",
+    "category": "Models",
+    "image": "https://myhostnews.com/wp-content/uploads/2026/07/cout-gpt-56-1-1.webp.webp"
   },
   {
-    "title": "Anthropic Surpasses OpenAI in Revenue with $47 Billion Run Rate",
-    "summary": "Anthropic has overtaken OpenAI in annualized revenue with a $47 billion run rate, generating over 7x more revenue per user than OpenAI through its enterprise-first strategy.",
-    "content": "Anthropic has surpassed OpenAI in annual revenue, reaching a $47 billion run rate by May 2026 while OpenAI's revenue ranges between $25 and $33 billion, according to reporting from July 11. The decisive difference lies in contrasting business approaches: Anthropic concentrates exclusively on enterprise contracts for services like customer support and code generation, while OpenAI has traditionally pursued consumer subscriptions through ChatGPT — a strategy that led to plateauing growth. Anthropic generates an average of $16.20 per monthly active user compared to OpenAI's $2.20 — a 7x revenue-per-user advantage despite having just 134 million users versus OpenAI's roughly 900 million. The company achieved profitability in Q4 2025 and projects sustainable profits by 2029, while OpenAI has not reached profitability and has provided no timeline for doing so. The shift illustrates a broader market principle: enterprise-focused AI providers that save businesses measurable money or increase revenue are outpacing consumer-oriented platforms in revenue generation.",
-    "source": "iNews ZoomBangla",
+    "title": "Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic",
+    "summary": "July 13, 2026 Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic Daniel Levi Posted On July 10, 2026 0 1.4K Views 0 Shares Meta has opened public developer access to Muse Spark 1.1 just days after OpenAI introduced GPT-5.6, intensifyi",
+    "content": "July 13, 2026 Meta launches Muse Spark 1.1, an agentic AI coding model with an API to challenge OpenAI and Anthropic Daniel Levi Posted On July 10, 2026 0 1.4K Views 0 Shares Meta has opened public developer access to Muse Spark 1.1 just days after OpenAI introduced GPT-5.6, intensifyi",
+    "source": "Daniel Levi",
+    "date": "2026-07-10",
+    "url": "https://techstartups.com/2026/07/10/meta-launches-muse-spark-1-1-an-agentic-ai-coding-model-with-an-api-to-challenge-openai-and-anthropic/",
+    "category": "Models",
+    "image": "https://techstartups.com/wp-content/uploads/2024/04/Meta-launches-Meta.AI-to-take-on-ChatGPT.jpg"
+  },
+  {
+    "title": "GPT-5.7/GPT-6 leak reveals August launch and 1.5M context window",
+    "summary": "GPT-5.7/GPT-6 leak reveals August launch and 1.5M context window - WinCentral Search Home Latest News AI News GPT-5.7/GPT-6 leak hints at August launch with 1.5M context window and major... - Latest News - AI News Share A fresh leak suggests OpenAI could be preparing its next-generation flagshi",
+    "content": "GPT-5.7/GPT-6 leak reveals August launch and 1.5M context window - WinCentral Search Home Latest News AI News GPT-5.7/GPT-6 leak hints at August launch with 1.5M context window and major... - Latest News - AI News Share A fresh leak suggests OpenAI could be preparing its next-generation flagshi",
+    "source": "Nisha",
+    "date": "2026-07-12",
+    "url": "https://thewincentral.com/gpt-5-7-gpt-6-leak-august-launch-1-5m-context-window/",
+    "category": "Models",
+    "image": "https://thewincentral.com/wp-content/uploads/2026/07/gpt-6.jpg"
+  },
+  {
+    "title": "AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse — AIViewer.ai",
+    "summary": "AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse — AIViewer.ai technology AIViewer Editorial Team AI-assisted July 11, 2026 15 min read AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse GPT-5.6, ChatGPT Work and GPT-Live, Grok 4.5, Muse Image, and Muse Spark 1.1 arrived this week.",
+    "content": "AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse — AIViewer.ai technology AIViewer Editorial Team AI-assisted July 11, 2026 15 min read AI News: GPT-5.6, ChatGPT Voice, Grok 4.5 & Meta Muse GPT-5.6, ChatGPT Work and GPT-Live, Grok 4.5, Muse Image, and Muse Spark 1.1 arrived this week. See",
+    "source": "AIViewer.ai",
     "date": "2026-07-11",
-    "url": "https://inews.zoombangla.com/anthropic-overtakes-openai-revenue-july-2026/",
-    "category": "Industry"
+    "url": "https://aiviewer.ai/guides/weekly-ai-update-july-11-2026/",
+    "category": "Models",
+    "image": "https://aiviewer.ai/images/guides/weekly-ai-update-july-11-2026.png"
   },
   {
-    "title": "FTC Proposes Policy Declaring Secret AI Output Steering a Federal Deception Violation",
-    "summary": "The FTC issued a proposed policy statement warning that AI companies secretly steering model outputs toward undisclosed ideological goals may be committing deceptive acts under federal law.",
-    "content": "The Federal Trade Commission issued a proposed policy statement on July 1, 2026, addressing concerns about suppression of accuracy in AI systems, directed by Executive Order 14365 to clarify how Section 5 of the FTC Act applies when developers modify model outputs. The FTC contends that companies engaging in intentional output steering to pursue undisclosed objectives — such as advancing ideological goals or avoiding state law liability — may constitute deception if their conduct conflicts with reasonable consumer expectations about AI accuracy and objectivity. The proposal emphasizes that companies can mitigate liability through clear, conspicuous disclosures that cannot be buried in fine print, distinguishing intentional modifications from unavoidable limitations like hallucinations. This regulatory approach signals the Administration's broader effort to establish national AI policy oversight while potentially limiting state-level requirements; the proposal singles out Colorado's AI Act as an example of a state law that may pressure companies to suppress accuracy in order to avoid disparate impact liability. The FTC is accepting public comments through July 31, 2026, urging organizations to evaluate the implications for their AI governance, model design decisions, and state compliance strategies.",
-    "source": "Inside Privacy",
-    "date": "2026-07-08",
-    "url": "https://www.insideprivacy.com/consumer-protection/ftc-seeks-comment-on-proposed-policy-statement-addressing-ai-accuracy-and-output-steering/",
-    "category": "Policy"
-  },
-  {
-    "title": "EU AI Act Enforcement Arrives August 2 — Most Organizations Still Not Ready",
-    "summary": "The EU AI Act's high-risk AI and transparency obligations take legal effect August 2, 2026, with penalties up to €15 million, but only 37% of organizations have AI governance policies in place.",
-    "content": "The EU AI Act's enforcement deadline for high-risk AI system deployers arrives August 2, 2026, with Articles 9–17 and Article 26 becoming legally binding, alongside Article 50 transparency requirements that mandate user disclosure whenever they interact with AI, emotion recognition, or synthetic content. Organizations face penalties up to €15 million or 3% of global annual turnover for non-compliance with deployer obligations covering human oversight, data governance, logging, and incident reporting — with prohibited AI practices carrying even steeper fines of €35 million or 7%. The readiness gap is severe: only 37% of organizations have AI governance policies while over 80% of employees use unapproved AI tools, creating simultaneous compliance and data security exposure. The AI Omnibus provisional agreement of May 2026 grants generative AI systems already on market before August 2 until December 2, 2026, to meet synthetic content marking requirements, but other obligations remain unchanged and immediately enforceable. Organizations must immediately inventory Annex III AI systems across employment, finance, education, and law enforcement use cases, audit logging and data governance controls, document human oversight mechanisms, and shut down shadow AI channels before the deadline.",
-    "source": "Kiteworks",
-    "date": "2026-06-23",
-    "url": "https://www.kiteworks.com/regulatory-compliance/eu-ai-act-deadline-compliance/",
-    "category": "Policy"
-  },
-  {
-    "title": "OpenAI Launches ChatGPT Work to Automate Complex Enterprise Tasks",
-    "summary": "OpenAI's ChatGPT Work combines ChatGPT, Codex, and GPT-5.6 into an agentic enterprise platform that autonomously executes long-running tasks, generates business documents, and operates across applications.",
-    "content": "OpenAI has introduced ChatGPT Work, an enterprise AI platform that combines ChatGPT, Codex, and GPT-5.6 to automate complex workplace tasks across a three-tiered model lineup. Unlike traditional chatbot interactions based on individual prompts, this agentic system can operate across applications and files, execute long-running tasks, coordinate multiple tools, and generate business documents, presentations, spreadsheets, and websites. Rather than competing solely on model performance benchmarks, OpenAI is now emphasizing cost efficiency — GPT-5.6 delivers stronger performance per dollar, offering more successful work for the same spend or comparable results at a lower total cost. The three tiered options — Sol for high-end reasoning and coding, Terra for GPT-5.5-level quality at half the cost, and Luna for fast high-volume work — allow enterprises to optimize AI spending based on task complexity. The platform represents OpenAI's strategic pivot toward enterprise clients as it faces intensifying competition from Anthropic's Claude Cowork and xAI's Grok in the professional AI market.",
-    "source": "Computerworld",
+    "title": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout",
+    "summary": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout – Computerworld OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout news Jul 10, 20265 mins The enterprise AI agent combines ChatGPT, Codex, and GPT-5.6 to automate workplace tasks as OpenAI broadens rollout of its latest f",
+    "content": "OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout – Computerworld OpenAI launches ChatGPT Work as it broadens GPT-5.6 rollout news Jul 10, 20265 mins The enterprise AI agent combines ChatGPT, Codex, and GPT-5.6 to automate workplace tasks as OpenAI broadens rollout of its latest f",
+    "source": "by\t\t\t\t\t\t\t\t\t Gyana Swain",
     "date": "2026-07-10",
     "url": "https://www.computerworld.com/article/4195494/openai-launches-chatgpt-work-as-it-broadens-gpt-5-6-rollout-2.html",
-    "category": "Tools"
+    "category": "Models",
+    "image": "https://www.computerworld.com/wp-content/uploads/2026/07/4195494-0-91633300-1783675259-shutterstock_2244714585-100940444-orig.jpg?quality=50&strip=all&w=1024"
   }
 ]
