@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI Launches GPT-5.6: Sol, Terra, and Luna Focus on More Autonomous AI Agents",
-    "summary": "OpenAI's new GPT-5.6 family introduces three models designed for greater autonomy, enabling multi-agent task handling across software development, research, and everyday workflows.",
-    "content": "OpenAI unveiled GPT-5.6, a three-model family designed to reduce back-and-forth interactions by enabling AI to handle complex tasks more autonomously. The flagship GPT-5.6 Sol features an 'Ultra' mode that distributes workloads among multiple AI agents working simultaneously, excelling at software development and deep research. Terra offers versatile performance for a broad range of applications at a lower cost than Sol, while Luna is optimized for speed and cost-efficiency. All three models can write programs, analyze data, and determine their own next steps independently, with a 'Max mode' allowing the AI to explore multiple reasoning paths for higher accuracy. The GPT-5.6 family launched immediately across ChatGPT, Codex, and the OpenAI API, with global rollout completing within 24 hours.",
-    "source": "MyHostNews",
+    "title": "OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model",
+    "summary": "OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model - The Times of India Edition IN English Weather Sign In - News - OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model Op",
+    "content": "OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model - The Times of India Edition IN English Weather Sign In - News - OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model Op",
+    "source": "Neha Saini  / TIMESOFINDIA.COM /   Jul 13, 2026, 12:31 IST",
+    "date": "2026-07-13",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-its-smartest-voice-model-gpt-live-globally-all-thats-different-in-chatgpts-new-voice-model/articleshow/132359370.cms",
+    "category": "Models",
+    "image": "https://static.toiimg.com/thumb/msid-132359428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+  },
+  {
+    "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed",
+    "summary": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
+    "content": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
+    "source": "Jerry Owens  \n \n \n Published: Jul 13 2026, 10:14 AM EDT",
+    "date": "2026-07-13",
+    "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
+  },
+  {
+    "title": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind",
+    "summary": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind July 14, 2026 Responsibility & Safety Empowering India’s next generation of innovators with ATL Saathi Seshu Ajjarapu and Arka Dhar Share Atal Tinkering Labs (ATL) is bringing access to new technolo",
+    "content": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind July 14, 2026 Responsibility & Safety Empowering India’s next generation of innovators with ATL Saathi Seshu Ajjarapu and Arka Dhar Share Atal Tinkering Labs (ATL) is bringing access to new technolo",
+    "source": "Seshu Ajjarapu and Arka Dhar",
+    "date": "2026-07-14",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "category": "Industry",
+    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw"
+  },
+  {
+    "title": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents",
+    "summary": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI continues its rapid pace of releases with a new generation of artificial intelligence models. The company has just unveiled the G",
+    "content": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI continues its rapid pace of releases with a new generation of artificial intelligence models. The company has just unveiled the G",
+    "source": "Noah Carver",
     "date": "2026-07-13",
     "url": "https://myhostnews.com/openai-launches-gpt-5-6-sol-terra-and-luna-focus-on-more-autonomous-ai-agents/",
-    "category": "Models"
+    "category": "Models",
+    "image": "https://myhostnews.com/wp-content/uploads/2026/07/cout-gpt-56-1-1.webp.webp"
   },
   {
-    "title": "xAI Releases Grok 4.5: Coding-Focused Model with 500K Context Window",
-    "summary": "xAI's Grok 4.5 delivers a 500,000-token context window, 80 tokens per second throughput, and competitive coding benchmarks at $2/$6 per million tokens — targeting developers who need cost-effective agentic AI.",
-    "content": "xAI has launched Grok 4.5, a coding-focused AI model featuring a 500,000-token context window and a processing speed of 80 tokens per second, priced at $2 per million input tokens and $6 per million output tokens. The model was trained extensively on coding, science, and math datasets and is positioned as a highly efficient alternative to larger flagship models, reportedly using roughly half the tokens of comparable models while maintaining competitive accuracy. Grok 4.5 is integrated into Cursor and the Grok Build platform, making it immediately accessible to developers building agentic software engineering pipelines. While it trails slightly on some benchmarks compared to models like Opus 4.8 and GPT-5.5, its speed and cost advantages make it compelling for high-volume coding workflows. The model is available globally through xAI's API, SpaceX, and Cursor, with European access beginning in mid-July 2026.",
-    "source": "DataNorth AI",
-    "date": "2026-07-13",
-    "url": "https://datanorth.ai/news/xai-releases-grok-4-5-coding-focused-model",
-    "category": "Models"
-  },
-  {
-    "title": "Anthropic Says Claude's Values Shift Depending on Which Language You're Using",
-    "summary": "Anthropic researchers found that Claude exhibits meaningfully different behavioral priorities — including deference, warmth, and caution — depending on the language of the conversation.",
-    "content": "Anthropic researchers analyzed nearly 310,000 conversations across multiple Claude models and found that the AI's behavioral priorities shift depending on which language the user is speaking. Training data imbalances appear to cause Claude to demonstrate varying levels of deference, warmth, depth, and candor — appearing most deferential in Arabic, most cautious in English, and warmest in Hindi and Arabic. The researchers state that 'imbalances in quantity and composition could lead Claude to express different values in different languages,' suggesting these may reflect deeper priority differences rather than surface-level personality variation. Anthropic acknowledged it is 'not yet sure how much of this variation is desirable,' indicating the company lacks clear guidelines on whether an AI's core values should remain stable across languages or adapt culturally. The findings raise fundamental questions about alignment and consistency for AI systems deployed globally.",
-    "source": "Gizmodo",
+    "title": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services",
+    "summary": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricing announced: Check what users will h",
+    "content": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricing announced: Check what users will h",
+    "source": "Trending Desk",
     "date": "2026-07-14",
-    "url": "https://gizmodo.com/anthropic-says-claudes-values-are-different-depending-on-which-language-youre-using-2000785113",
-    "category": "Models"
+    "url": "https://economictimes.indiatimes.com/news/new-updates/anthropic-claude-india-pricing-announced-check-what-users-will-have-to-pay-for-claude-services/articleshow/132386268.cms",
+    "category": "Models",
+    "image": "https://img.etimg.com/thumb/msid-132386299,width-1200,height-630,imgsize-48049,overlay-economictimes/articleshow.jpg"
   },
   {
-    "title": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy and Ideological Manipulation",
-    "summary": "The FTC opened a public comment period through July 31 on whether AI companies secretly distorting model outputs for ideological reasons constitutes an unfair or deceptive practice under federal consumer protection law.",
-    "content": "The Federal Trade Commission has launched a public comment period on a proposed policy statement examining whether AI companies may be distorting their systems' outputs to serve undisclosed ideological goals, potentially violating consumer protection laws under Section 5 of the FTC Act. The policy addresses whether such manipulation contradicts consumers' reasonable expectations about AI objectivity and effectiveness, and could constitute 'unfair or deceptive' conduct. It also responds to a presidential executive order directing the FTC to clarify the legal implications of state laws — such as Colorado's Artificial Intelligence Act — that require modifications to 'truthful outputs' of AI models, with the FTC suggesting such state laws may improperly coerce companies. The policy statement was authorized by a 2-0 FTC vote, and public comments are accepted through July 31, 2026, via Regulations.gov. This marks one of the most direct federal regulatory actions to date on the content and behavioral alignment of commercial AI model outputs.",
-    "source": "Federal Trade Commission",
-    "date": "2026-07-07",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
-    "category": "Policy"
-  },
-  {
-    "title": "OpenAI Launches GPT-Live: Full-Duplex Voice AI with Live Translation and Web Search",
-    "summary": "OpenAI's GPT-Live introduces full-duplex voice AI to ChatGPT globally, enabling simultaneous listening and speaking with real-time translation, web search, and intelligent task delegation.",
-    "content": "OpenAI unveiled GPT-Live, a breakthrough in conversational voice AI that operates through a full-duplex architecture enabling the system to listen, speak, and reason simultaneously — rather than alternating turns. The model supports live translation, real-time web search, and intelligent task delegation, making interactions far closer to natural human conversation than any previous voice AI product. Unlike earlier voice modes, GPT-Live allows users to naturally interrupt, overlap speech, and engage fluidly without waiting for the AI to finish its response. The full-duplex design removes the stilted turn-taking that characterized earlier systems, with Anthropic describing it as 'the smartest voice model' OpenAI has shipped to date. GPT-Live launched globally to ChatGPT users, marking a significant step toward voice becoming the primary interface for everyday AI interaction.",
-    "source": "OpenAI",
-    "date": "2026-07-08",
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "category": "Tools"
-  },
-  {
-    "title": "73% of Enterprises Use AI Regularly, But Only 10% Say It's Core to Their Business",
-    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers reveals a major gap between AI deployment rates and genuine organizational readiness, with most companies struggling to move AI from experiment to infrastructure.",
-    "content": "Publicis Sapient's 2026 Global Enterprise AI Report, based on research with 1,550 AI decision-makers, reveals a striking disconnect: while 73% of organizations report using AI regularly across business processes, only 10% consider AI truly central to how their business operates. The report found that 42% of companies acknowledge they lack the infrastructure needed to capitalize on their current AI capabilities, and 22% point to organizational structure — not technology — as their primary barrier to success. Regional disparities are pronounced, with the UK leading transformation at 51% reporting fundamental business changes, while France sits at just 24% despite similarly high adoption rates. CEO Nigel Vaz summarized the core problem: 'The enterprise was not designed for the speed, scale, and autonomy that AI makes possible.' The findings suggest that deploying AI tools is far from sufficient — companies must fundamentally redesign workflows, governance, and infrastructure to realize meaningful returns.",
-    "source": "Publicis Sapient",
-    "date": "2026-07-01",
-    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
-    "category": "Industry"
+    "title": "OpenAI's GPT-5.6 Requires a Hardware Key for Its Top Cyber Features",
+    "summary": "OpenAI's GPT-5.6 Requires a Hardware Key for Its Top Cyber Features - H2S Media OpenAI released GPT-5.6 on July 9, and alongside the usual performance gains came an unusual security requirement: if you want to use its most capable cybersecurity features, you’ll need a physical hardware key to log i",
+    "content": "OpenAI's GPT-5.6 Requires a Hardware Key for Its Top Cyber Features - H2S Media OpenAI released GPT-5.6 on July 9, and alongside the usual performance gains came an unusual security requirement: if you want to use its most capable cybersecurity features, you’ll need a physical hardware key to log i",
+    "source": "Rajkumar Maurya",
+    "date": "2026-07-14",
+    "url": "https://www.how2shout.com/news/openais-gpt-5-6-requires-a-hardware-key-for-its-top-cyber-features.html",
+    "category": "Models",
+    "image": "https://www.how2shout.com/wp-content/uploads/2026/07/OpenAIs-GPT-5.6-Requires-a-Hardware-Key-for-Its-Top-Cyber-Features.webp"
   }
 ]
