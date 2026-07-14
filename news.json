@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic’s Claude at Two: Is the Safety-First AI Lab Winning?",
-    "summary": "Anthropic’s Claude at Two: Is the Safety-First AI Lab Winning? – USA Business Times Monday, July 13, 2026 Latest Newsletter Subscribe Breaking JPMorgan vs.",
-    "content": "Anthropic’s Claude at Two: Is the Safety-First AI Lab Winning? – USA Business Times Monday, July 13, 2026 Latest Newsletter Subscribe Breaking JPMorgan vs. Goldman Sachs: The Battle for America’s M&A Crown in 2026 OpenAI vs. Google DeepMind: Who Wins the AGI Race? PGA Tour vs. LIV Golf: Who Wins",
-    "source": "James Mitchell",
-    "date": "2026-07-13",
-    "url": "https://usabusinesstimes.com/anthropics-claude-at-two-is-the-safety-first-ai-lab-winning/",
-    "category": "Models",
-    "image": "https://usabusinesstimes.com/wp-content/uploads/2026/07/14422.jpg"
-  },
-  {
-    "title": "OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model",
-    "summary": "OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model - The Times of India Edition IN English Weather Sign In - News - OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model Op",
-    "content": "OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model - The Times of India Edition IN English Weather Sign In - News - OpenAI launches its ‘smartest voice model’ GPT-Live globally: All that's different in ChatGPT's new voice model Op",
-    "source": "Neha Saini  / TIMESOFINDIA.COM /   Jul 13, 2026, 12:31 IST",
-    "date": "2026-07-13",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-its-smartest-voice-model-gpt-live-globally-all-thats-different-in-chatgpts-new-voice-model/articleshow/132359370.cms",
-    "category": "Models",
-    "image": "https://static.toiimg.com/thumb/msid-132359428,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-  },
-  {
-    "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed",
-    "summary": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
-    "content": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
-    "source": "Jerry Owens  \n \n \n Published: Jul 13 2026, 10:14 AM EDT",
-    "date": "2026-07-13",
-    "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
-  },
-  {
-    "title": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents",
-    "summary": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI continues its rapid pace of releases with a new generation of artificial intelligence models. The company has just unveiled the G",
-    "content": "OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI launches GPT-5.6: Sol, Terra, and Luna focus on more autonomous AI agents OpenAI continues its rapid pace of releases with a new generation of artificial intelligence models. The company has just unveiled the G",
-    "source": "Noah Carver",
+    "title": "OpenAI Launches GPT-5.6: Sol, Terra, and Luna Focus on More Autonomous AI Agents",
+    "summary": "OpenAI's new GPT-5.6 family introduces three models designed for greater autonomy, enabling multi-agent task handling across software development, research, and everyday workflows.",
+    "content": "OpenAI unveiled GPT-5.6, a three-model family designed to reduce back-and-forth interactions by enabling AI to handle complex tasks more autonomously. The flagship GPT-5.6 Sol features an 'Ultra' mode that distributes workloads among multiple AI agents working simultaneously, excelling at software development and deep research. Terra offers versatile performance for a broad range of applications at a lower cost than Sol, while Luna is optimized for speed and cost-efficiency. All three models can write programs, analyze data, and determine their own next steps independently, with a 'Max mode' allowing the AI to explore multiple reasoning paths for higher accuracy. The GPT-5.6 family launched immediately across ChatGPT, Codex, and the OpenAI API, with global rollout completing within 24 hours.",
+    "source": "MyHostNews",
     "date": "2026-07-13",
     "url": "https://myhostnews.com/openai-launches-gpt-5-6-sol-terra-and-luna-focus-on-more-autonomous-ai-agents/",
-    "category": "Models",
-    "image": "https://myhostnews.com/wp-content/uploads/2026/07/cout-gpt-56-1-1.webp.webp"
+    "category": "Models"
   },
   {
-    "title": "xAI releases Grok 4.5: coding-focused model with 500K context",
-    "summary": "xAI releases Grok 4.5: coding-focused model with 500K context xAI releases Grok 4.5: coding-focused model with 500K context 13-07-2026 xAI has launched Grok 4.5, a highly efficient and cost-effective AI model tailored for complex software engineering and agentic tasks that is designed to rival",
-    "content": "xAI releases Grok 4.5: coding-focused model with 500K context xAI releases Grok 4.5: coding-focused model with 500K context 13-07-2026 xAI has launched Grok 4.5, a highly efficient and cost-effective AI model tailored for complex software engineering and agentic tasks that is designed to rival",
-    "source": "datanorth.ai",
+    "title": "xAI Releases Grok 4.5: Coding-Focused Model with 500K Context Window",
+    "summary": "xAI's Grok 4.5 delivers a 500,000-token context window, 80 tokens per second throughput, and competitive coding benchmarks at $2/$6 per million tokens — targeting developers who need cost-effective agentic AI.",
+    "content": "xAI has launched Grok 4.5, a coding-focused AI model featuring a 500,000-token context window and a processing speed of 80 tokens per second, priced at $2 per million input tokens and $6 per million output tokens. The model was trained extensively on coding, science, and math datasets and is positioned as a highly efficient alternative to larger flagship models, reportedly using roughly half the tokens of comparable models while maintaining competitive accuracy. Grok 4.5 is integrated into Cursor and the Grok Build platform, making it immediately accessible to developers building agentic software engineering pipelines. While it trails slightly on some benchmarks compared to models like Opus 4.8 and GPT-5.5, its speed and cost advantages make it compelling for high-volume coding workflows. The model is available globally through xAI's API, SpaceX, and Cursor, with European access beginning in mid-July 2026.",
+    "source": "DataNorth AI",
     "date": "2026-07-13",
     "url": "https://datanorth.ai/news/xai-releases-grok-4-5-coding-focused-model",
-    "category": "Models",
-    "image": "https://datanorth.ai/wp-content/uploads/2026/07/grok-4.5-release-.png"
+    "category": "Models"
   },
   {
-    "title": "Anthropic Says Claude's Values Are Different Depending on Which Language You're Using",
-    "summary": "Anthropic Says Claude's Values Are Different Depending on Which Language You're Using Artificial Intelligence Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using Anthropic researchers say they “aren’t yet sure how much of this variation is desirable.” By Mike",
-    "content": "Anthropic Says Claude's Values Are Different Depending on Which Language You're Using Artificial Intelligence Anthropic Says Claude’s Values Are Different Depending on Which Language You’re Using Anthropic researchers say they “aren’t yet sure how much of this variation is desirable.” By Mike",
-    "source": "Mike Pearl",
+    "title": "Anthropic Says Claude's Values Shift Depending on Which Language You're Using",
+    "summary": "Anthropic researchers found that Claude exhibits meaningfully different behavioral priorities — including deference, warmth, and caution — depending on the language of the conversation.",
+    "content": "Anthropic researchers analyzed nearly 310,000 conversations across multiple Claude models and found that the AI's behavioral priorities shift depending on which language the user is speaking. Training data imbalances appear to cause Claude to demonstrate varying levels of deference, warmth, depth, and candor — appearing most deferential in Arabic, most cautious in English, and warmest in Hindi and Arabic. The researchers state that 'imbalances in quantity and composition could lead Claude to express different values in different languages,' suggesting these may reflect deeper priority differences rather than surface-level personality variation. Anthropic acknowledged it is 'not yet sure how much of this variation is desirable,' indicating the company lacks clear guidelines on whether an AI's core values should remain stable across languages or adapt culturally. The findings raise fundamental questions about alignment and consistency for AI systems deployed globally.",
+    "source": "Gizmodo",
     "date": "2026-07-14",
     "url": "https://gizmodo.com/anthropic-says-claudes-values-are-different-depending-on-which-language-youre-using-2000785113",
-    "category": "Models",
-    "image": "https://gizmodo.com/app/uploads/2026/03/dario-amodei-legal-brief-1200x675.jpg"
+    "category": "Models"
+  },
+  {
+    "title": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy and Ideological Manipulation",
+    "summary": "The FTC opened a public comment period through July 31 on whether AI companies secretly distorting model outputs for ideological reasons constitutes an unfair or deceptive practice under federal consumer protection law.",
+    "content": "The Federal Trade Commission has launched a public comment period on a proposed policy statement examining whether AI companies may be distorting their systems' outputs to serve undisclosed ideological goals, potentially violating consumer protection laws under Section 5 of the FTC Act. The policy addresses whether such manipulation contradicts consumers' reasonable expectations about AI objectivity and effectiveness, and could constitute 'unfair or deceptive' conduct. It also responds to a presidential executive order directing the FTC to clarify the legal implications of state laws — such as Colorado's Artificial Intelligence Act — that require modifications to 'truthful outputs' of AI models, with the FTC suggesting such state laws may improperly coerce companies. The policy statement was authorized by a 2-0 FTC vote, and public comments are accepted through July 31, 2026, via Regulations.gov. This marks one of the most direct federal regulatory actions to date on the content and behavioral alignment of commercial AI model outputs.",
+    "source": "Federal Trade Commission",
+    "date": "2026-07-07",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+    "category": "Policy"
+  },
+  {
+    "title": "OpenAI Launches GPT-Live: Full-Duplex Voice AI with Live Translation and Web Search",
+    "summary": "OpenAI's GPT-Live introduces full-duplex voice AI to ChatGPT globally, enabling simultaneous listening and speaking with real-time translation, web search, and intelligent task delegation.",
+    "content": "OpenAI unveiled GPT-Live, a breakthrough in conversational voice AI that operates through a full-duplex architecture enabling the system to listen, speak, and reason simultaneously — rather than alternating turns. The model supports live translation, real-time web search, and intelligent task delegation, making interactions far closer to natural human conversation than any previous voice AI product. Unlike earlier voice modes, GPT-Live allows users to naturally interrupt, overlap speech, and engage fluidly without waiting for the AI to finish its response. The full-duplex design removes the stilted turn-taking that characterized earlier systems, with Anthropic describing it as 'the smartest voice model' OpenAI has shipped to date. GPT-Live launched globally to ChatGPT users, marking a significant step toward voice becoming the primary interface for everyday AI interaction.",
+    "source": "OpenAI",
+    "date": "2026-07-08",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "category": "Tools"
+  },
+  {
+    "title": "73% of Enterprises Use AI Regularly, But Only 10% Say It's Core to Their Business",
+    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers reveals a major gap between AI deployment rates and genuine organizational readiness, with most companies struggling to move AI from experiment to infrastructure.",
+    "content": "Publicis Sapient's 2026 Global Enterprise AI Report, based on research with 1,550 AI decision-makers, reveals a striking disconnect: while 73% of organizations report using AI regularly across business processes, only 10% consider AI truly central to how their business operates. The report found that 42% of companies acknowledge they lack the infrastructure needed to capitalize on their current AI capabilities, and 22% point to organizational structure — not technology — as their primary barrier to success. Regional disparities are pronounced, with the UK leading transformation at 51% reporting fundamental business changes, while France sits at just 24% despite similarly high adoption rates. CEO Nigel Vaz summarized the core problem: 'The enterprise was not designed for the speed, scale, and autonomy that AI makes possible.' The findings suggest that deploying AI tools is far from sufficient — companies must fundamentally redesign workflows, governance, and infrastructure to realize meaningful returns.",
+    "source": "Publicis Sapient",
+    "date": "2026-07-01",
+    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
+    "category": "Industry"
   }
 ]
