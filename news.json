@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI Releases GPT-5.6 With Sol, Terra, and Luna Variants for Autonomous AI Work",
-    "summary": "OpenAI launched the GPT-5.6 family as three specialized models designed to push AI toward more autonomous, multi-step work.",
-    "content": "OpenAI introduced GPT-5.6 as a three-part model family on July 9, 2026, replacing its single general-purpose approach with specialized variants targeting different use cases. Sol is the flagship, designed for high-end reasoning and coding at premium pricing, while Terra offers comparable quality to GPT-5.5 at reduced cost, and Luna serves high-volume, speed-focused applications. The release followed mandatory federal safety review under a June 2 executive order requiring 30-day pre-release scrutiny of frontier AI models. GPT-5.6 Sol features an Ultra mode that distributes tasks across multiple agents working in parallel and a Max mode that extends reasoning across multiple solution paths for greater accuracy. The models can write programs and decide next steps without constant user intervention, marking a broader industry shift toward AI that handles complete projects rather than responding to individual queries.",
-    "source": "My Host News",
-    "date": "2026-07-09",
-    "url": "https://myhostnews.com/openai-launches-gpt-5-6-sol-terra-and-luna-focus-on-more-autonomous-ai-agents/",
-    "category": "Models"
-  },
-  {
-    "title": "OpenAI Launches GPT-Live, a Full-Duplex Voice Model That Listens and Speaks at the Same Time",
-    "summary": "OpenAI's GPT-Live replaces turn-based Advanced Voice Mode with a full-duplex system capable of speaking and listening simultaneously, dramatically improving conversational naturalness.",
-    "content": "OpenAI unveiled GPT-Live-1 and GPT-Live-1 mini on July 8, 2026, replacing Advanced Voice Mode with a full-duplex architecture that eliminates the awkward silence-detection pauses of earlier voice AI. Unlike previous systems built from separate speech-to-text, language model, and text-to-speech components, GPT-Live makes real-time decisions multiple times per second about whether to speak, listen, pause, interrupt, or invoke a tool — incorporating natural acknowledgment cues like 'mhmm' to mirror real human conversation. For tasks that require deeper reasoning or web search, GPT-Live delegates silently to GPT-5.5 in the background and brings the result back into the conversation without breaking flow. Performance gains are substantial: GPT-Live-1 achieved 84.2% accuracy on scientific reasoning benchmarks, up from 45.3% for its predecessor, and human testers preferred it in 75.7% of direct comparisons. GPT-Live-1 is available immediately for ChatGPT Go, Plus, and Pro subscribers, with the mini version becoming the default for free users; API access is forthcoming.",
-    "source": "TechCrunch",
-    "date": "2026-07-08",
-    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "category": "Tools"
-  },
-  {
-    "title": "Anthropic Launches Claude for Teachers, Joining AI Race to Shape America's Classrooms",
-    "summary": "Anthropic introduced Claude for Teachers, a free AI assistant for verified K-12 educators, entering a competitive field where Google, OpenAI, and Khan Academy are all vying for classroom adoption.",
-    "content": "Anthropic has introduced Claude for Teachers, a free AI assistant designed specifically for verified K-12 educators, allowing them to incorporate academic standards from all 50 states and use student data to personalize lesson plans and create differentiated instructional materials. Teachers can input assessment data and past assignments to have Claude generate individualized lesson plans even outside working hours, according to Anthropic education lead Drew Bent. The product enters a competitive market where Google, OpenAI, and Khan Academy are similarly marketing AI tools to educators, with roughly 61% of teachers already using AI in some capacity as of 2025. Privacy protections include limiting AI training data usage from teacher conversations and ensuring compliance with federal student privacy laws. Critics remain concerned about cognitive offloading and student data risks, even as the American Federation of Teachers and the Trump administration are encouraging broader classroom AI adoption.",
-    "source": "Chalkbeat",
+    "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
+    "summary": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
+    "content": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
+    "source": "By  Lily Altavena  |  July 14, 2026, 3:00pm UTC",
     "date": "2026-07-14",
     "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
-    "category": "Industry"
+    "category": "Models",
+    "image": "https://www.chalkbeat.org/resizer/v2/5ERMMCQGPBHD5JLFBVI5PZMI7U.jpg?smart=true&auth=97cb6b571522c2e85aa040f5de73abec8d2ba365fd99442d73ba4b11ed94e990&width=1200&height=630"
   },
   {
-    "title": "Google Targets July 17 for Gemini 3.5 Pro After Scrapping Its Previous Architecture",
-    "summary": "Google DeepMind rebuilt Gemini 3.5 Pro from scratch, targeting July 17 general availability with a reported 2 million token context window and a new Deep Think reasoning layer.",
-    "content": "Google DeepMind abandoned the Gemini 2.5 Pro codebase in favor of a complete ground-up architectural redesign, with general availability now targeted for July 17, 2026. Leaked specifications describe a 2 million token context window, a Deep Think reasoning layer for complex multi-step problem solving, and improved autonomy that lets the model decompose complex tasks into subtasks with minimal human intervention. The rebuild was driven by three performance gaps the old architecture reportedly couldn't close: mathematical reasoning accuracy, scalable vector graphics generation, and overall image quality. Google's deep integration with Workspace — spanning Gmail, Docs, Calendar, Sheets, and Meet — gives Gemini 3.5 Pro a distribution advantage that pure-play AI labs cannot match, with the company already serving over 900 million monthly Gemini users across 230 countries. Every reported specification, including the July 17 date and the 2M token context claim, remains unconfirmed by Google, sourced only from third-party reports and unnamed internal sources.",
-    "source": "TechTimes",
+    "title": "ChatGPT Turns Into a Searchable Knowledge Base: Every Conversation Now Findable",
+    "summary": "ChatGPT Turns Into a Searchable Knowledge Base: Every Conversation Now Findable SUN VALLEY, IDAHO - JULY 07: Sam Altman, CEO of OpenAI, arrives at the the Allen & Company Sun Valley Conference at the Sun Valley Lodge on July 7, 2026 in Sun Valley, Idaho. Every year, some of the world's wealthiest a",
+    "content": "ChatGPT Turns Into a Searchable Knowledge Base: Every Conversation Now Findable SUN VALLEY, IDAHO - JULY 07: Sam Altman, CEO of OpenAI, arrives at the the Allen & Company Sun Valley Conference at the Sun Valley Lodge on July 7, 2026 in Sun Valley, Idaho. Every year, some of the world's wealthiest a",
+    "source": "Mireya Ramsey  \n \n \n Published: Jul 14 2026, 10:22 PM EDT",
+    "date": "2026-07-15",
+    "url": "https://www.techtimes.com/articles/320519/20260714/chatgpt-turns-searchable-knowledge-base-every-conversation-now-findable.htm",
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/468798/sun-valley-idaho-july-07-sam.jpg"
+  },
+  {
+    "title": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows",
+    "summary": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows Search 0 Search Linkedin 0 Search 0 Subscribe Join Our Core Community We deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis.",
+    "content": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows Search 0 Search Linkedin 0 Search 0 Subscribe Join Our Core Community We deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis. Subscribe I've read and",
+    "source": "aidatainsider.com",
+    "date": "2026-07-14",
+    "url": "https://aidatainsider.com/news/openai-launches-chatgpt-work-powered-by-gpt-5-6-for-enterprise-workflows/",
+    "category": "Models",
+    "image": "https://aidatainsider.com/wp-content/uploads/2026/07/OpenAI-Launches-ChatGPT-Work-Powered-by-GPT-5.6-for-Enterprise-Workflows.jpg"
+  },
+  {
+    "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed",
+    "summary": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
+    "content": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
+    "source": "Jerry Owens  \n \n \n Published: Jul 13 2026, 10:14 AM EDT",
     "date": "2026-07-13",
     "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
-    "category": "Models"
+    "category": "Models",
+    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
   },
   {
-    "title": "UN Opens First Global AI Governance Forum With Warning That Catastrophic Harm Cannot Be Ruled Out",
-    "summary": "The United Nations held its first multilateral AI governance summit in Geneva, where a 40-member panel of scientists formally stated that current science cannot guarantee AI will not cause catastrophic harm as capabilities continue to grow.",
-    "content": "The United Nations convened its first-ever Global Dialogue on AI Governance in Geneva on July 6-7, 2026, bringing together governments, tech companies, and scientists to address artificial intelligence advancing faster than regulatory safeguards can contain it. The 40-member Independent International Scientific Panel on AI, co-chaired by Yoshua Bengio and Maria Ressa, formally stated that 'science currently cannot guarantee that as capabilities continue to increase, AI will not cause catastrophic harm, either on its own or due to malicious users.' Key concerns raised at the forum include AI-fueled disinformation that Ressa warned could produce an 'information Armageddon,' misuse for authoritarian control, and a widening global AI divide that leaves developing nations without access to or influence over the technology. Governance delegates emphasized that frontier AI development remains concentrated in just two countries, making purely national regulation insufficient. The summit's central message was that 'not one country can actually deal with this technology on its own,' with panelists calling for internationally coordinated guardrails under UN coordination.",
-    "source": "UN News",
-    "date": "2026-07-06",
-    "url": "https://news.un.org/en/story/2026/07/1167862",
-    "category": "Policy"
+    "title": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI",
+    "summary": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Search Search Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Google DeepMind CEO Demis Hassabis proposes a US-led body to test frontier AI before launch and potentially gate US deployment.",
+    "content": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Search Search Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Google DeepMind CEO Demis Hassabis proposes a US-led body to test frontier AI before launch and potentially gate US deployment. Markus Kasanmascheff By Mark",
+    "source": "Markus Kasanmascheff",
+    "date": "2026-07-15",
+    "url": "https://winbuzzer.com/2026/07/15/deepmind-ceo-proposes-us-led-watchdog-for-frontier-ai-xcxwbn/",
+    "category": "Industry",
+    "image": "https://winbuzzer.com/wp-content/uploads/2026/07/Demis-Hassabis-via-Isomorphic-Labs.jpg"
   },
   {
-    "title": "Enterprise AI Gap: 73% of Organizations Use AI Regularly, But Only 10% Call It Core to Operations",
-    "summary": "A Publicis Sapient survey of 1,550 AI decision-makers finds that organizational structure — not technology capability — is now the primary barrier to realizing value from AI investments.",
-    "content": "Publicis Sapient's 2026 Global Enterprise AI Report, based on a survey of 1,550 AI decision-makers across major markets, reveals a sharp disconnect between AI deployment and organizational impact. While 73% of organizations report regular AI use across business processes, only 10% consider AI core to how they operate, and just 38% say it has fundamentally changed their business. The primary barrier is not technology — 47% believe AI already meets their business needs — but organizational structure, with 42% lacking the processes and systems required to capture value from existing AI capabilities. Regional disparities are significant: the U.K. leads with 51% reporting fundamental business transformation, while France is constrained by data infrastructure gaps and the UAE sees high adoption without deep enterprise integration. The report concludes that 'operational adaptation — not technology adoption alone — may determine which organizations realize lasting value from AI,' with 71% of U.S. respondents expecting significant AI scaling within 24 months yet only 20% feeling equipped to deliver on it.",
-    "source": "Publicis Sapient",
-    "date": "2026-07-01",
-    "url": "https://www.publicissapient.com/company/news/ai-adoption-enterprise-readiness-report-2026",
-    "category": "Trends"
+    "title": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services",
+    "summary": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times Benchmarks Nifty 24,067.95-143.05 FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricin",
+    "content": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times Benchmarks Nifty 24,067.95-143.05 FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricin",
+    "source": "Trending Desk",
+    "date": "2026-07-14",
+    "url": "https://economictimes.indiatimes.com/news/new-updates/anthropic-claude-india-pricing-announced-check-what-users-will-have-to-pay-for-claude-services/articleshow/132386268.cms",
+    "category": "Models",
+    "image": "https://img.etimg.com/thumb/msid-132386299,width-1200,height-630,imgsize-48049,overlay-economictimes/articleshow.jpg"
   }
 ]
