@@ -1,15 +1,5 @@
 [
   {
-    "title": "OpenAI debuts ChatGPT Work, an agentic tool for automating business workflows",
-    "summary": "OpenAI debuts ChatGPT Work, an agentic tool for automating business workflows - Global Intelligence and Insight Platform: IT Innovation, ETF Investment, plus Health Wellbeing Table of Contents ( Press the ← key in browser search bar to return TOC) Toggle OpenAI Group PBC today launched a new “age",
-    "content": "OpenAI debuts ChatGPT Work, an agentic tool for automating business workflows - Global Intelligence and Insight Platform: IT Innovation, ETF Investment, plus Health Wellbeing Table of Contents ( Press the ← key in browser search bar to return TOC) Toggle OpenAI Group PBC today launched a new “age",
-    "source": "zapier",
-    "date": "2026-07-15",
-    "url": "https://genesis-aka.net/information-technology/professional/2026/07/15/openai-debuts-chatgpt-work-an-agentic-tool-for-automating-business-workflows/",
-    "category": "Models",
-    "image": "https://genesis-aka.net/wp-content/uploads/2026/07/global-intelligence-and-insight-platform-it-innovation-etf-investment-plus-health-wellbeing-6a543d8519621.png"
-  },
-  {
     "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
     "summary": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
     "content": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
@@ -18,16 +8,6 @@
     "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
     "category": "Models",
     "image": "https://www.chalkbeat.org/resizer/v2/5ERMMCQGPBHD5JLFBVI5PZMI7U.jpg?smart=true&auth=97cb6b571522c2e85aa040f5de73abec8d2ba365fd99442d73ba4b11ed94e990&width=1200&height=630"
-  },
-  {
-    "title": "ChatGPT Turns Into a Searchable Knowledge Base: Every Conversation Now Findable",
-    "summary": "ChatGPT Turns Into a Searchable Knowledge Base: Every Conversation Now Findable SUN VALLEY, IDAHO - JULY 07: Sam Altman, CEO of OpenAI, arrives at the the Allen & Company Sun Valley Conference at the Sun Valley Lodge on July 7, 2026 in Sun Valley, Idaho. Every year, some of the world's wealthiest a",
-    "content": "ChatGPT Turns Into a Searchable Knowledge Base: Every Conversation Now Findable SUN VALLEY, IDAHO - JULY 07: Sam Altman, CEO of OpenAI, arrives at the the Allen & Company Sun Valley Conference at the Sun Valley Lodge on July 7, 2026 in Sun Valley, Idaho. Every year, some of the world's wealthiest a",
-    "source": "Mireya Ramsey  \n \n \n Published: Jul 14 2026, 10:22 PM EDT",
-    "date": "2026-07-15",
-    "url": "https://www.techtimes.com/articles/320519/20260714/chatgpt-turns-searchable-knowledge-base-every-conversation-now-findable.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/468798/sun-valley-idaho-july-07-sam.jpg"
   },
   {
     "title": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows",
@@ -40,14 +20,24 @@
     "image": "https://aidatainsider.com/wp-content/uploads/2026/07/OpenAI-Launches-ChatGPT-Work-Powered-by-GPT-5.6-for-Enterprise-Workflows.jpg"
   },
   {
-    "title": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed",
-    "summary": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
-    "content": "Gemini 3.5 Pro Targets July 17 After Full Rebuild: Every Spec Remains Unconfirmed Google gemini google.com Google DeepMind is targeting July 17 for the general availability of Gemini 3.5 Pro — now four days away — but every specific claim circulating about the launch, including the date itself, th",
-    "source": "Jerry Owens  \n \n \n Published: Jul 13 2026, 10:14 AM EDT",
-    "date": "2026-07-13",
-    "url": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
+    "title": "OpenAI Built an AI to Attack Itself: GPT-Red Exposed Flaws Humans Missed",
+    "summary": "OpenAI Built an AI to Attack Itself: GPT-Red Exposed Flaws Humans Missed GPT‑Live openai.com OpenAI today announced GPT-Red, an internal AI model trained for over a year on one specific task: breaking its own models. In independent benchmark testing, GPT-Red found successful attack paths in of",
+    "content": "OpenAI Built an AI to Attack Itself: GPT-Red Exposed Flaws Humans Missed GPT‑Live openai.com OpenAI today announced GPT-Red, an internal AI model trained for over a year on one specific task: breaking its own models. In independent benchmark testing, GPT-Red found successful attack paths in of",
+    "source": "Jerry Owens  \n \n \n Published: Jul 15 2026, 4:43 PM EDT",
+    "date": "2026-07-15",
+    "url": "https://www.techtimes.com/articles/320656/20260715/openai-built-ai-attack-itself-gpt-red-exposed-flaws-humans-missed.htm",
     "category": "Models",
-    "image": "https://d.techtimes.com/en/full/466181/gemini.jpg"
+    "image": "https://d.techtimes.com/en/full/468370/gptlive.jpg"
+  },
+  {
+    "title": "DeepMind CEO again pushes for a frontier AI standards body",
+    "summary": "DeepMind CEO again pushes for a frontier AI standards body – Computerworld DeepMind CEO again pushes for a frontier AI standards body news Jul 15, 20268 mins Google DeepMind CEO Demis Hassabis on Tuesday reiterated his push for an AI industry self-regulation effort, led by the US government, t",
+    "content": "DeepMind CEO again pushes for a frontier AI standards body – Computerworld DeepMind CEO again pushes for a frontier AI standards body news Jul 15, 20268 mins Google DeepMind CEO Demis Hassabis on Tuesday reiterated his push for an AI industry self-regulation effort, led by the US government, t",
+    "source": "by\t\t\t\t\t\t\t\t\t Evan Schuman \n\t\t\t\t\t\t\t \n\t\t\n\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t Contributor",
+    "date": "2026-07-16",
+    "url": "https://www.computerworld.com/article/4197511/deepmind-ceo-again-pushes-for-a-frontier-ai-standards-body-2.html",
+    "category": "Policy",
+    "image": "https://www.computerworld.com/wp-content/uploads/2026/07/4197511-0-18848000-1784149211-shutterstock_2540223947.jpg?quality=50&strip=all&w=1024"
   },
   {
     "title": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI",
@@ -58,5 +48,15 @@
     "url": "https://winbuzzer.com/2026/07/15/deepmind-ceo-proposes-us-led-watchdog-for-frontier-ai-xcxwbn/",
     "category": "Industry",
     "image": "https://winbuzzer.com/wp-content/uploads/2026/07/Demis-Hassabis-via-Isomorphic-Labs.jpg"
+  },
+  {
+    "title": "Hassabis Proposes 2026 US-Led AI Watchdog as AGI Nears",
+    "summary": "Hassabis Proposes 2026 US-Led AI Watchdog as AGI Nears | AI Intelligence Brief Share Share on X Share on Facebook Share on LinkedIn Share on Reddit Key Takeaways - Google DeepMind CEO Demis Hassabis proposes a US-led international body to evaluate frontier AI models before release, warning tha",
+    "content": "Hassabis Proposes 2026 US-Led AI Watchdog as AGI Nears | AI Intelligence Brief Share Share on X Share on Facebook Share on LinkedIn Share on Reddit Key Takeaways - Google DeepMind CEO Demis Hassabis proposes a US-led international body to evaluate frontier AI models before release, warning tha",
+    "source": "getaibrief.com",
+    "date": "2026-07-15",
+    "url": "https://getaibrief.com/story/demis-hassabis-ai-watchdog-2026",
+    "category": "Industry",
+    "image": "https://getaibrief.com/og-default.png"
   }
 ]
