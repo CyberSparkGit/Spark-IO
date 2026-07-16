@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
-    "summary": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
-    "content": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
-    "source": "By  Lily Altavena  |  July 14, 2026, 3:00pm UTC",
-    "date": "2026-07-14",
-    "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
-    "category": "Models",
-    "image": "https://www.chalkbeat.org/resizer/v2/5ERMMCQGPBHD5JLFBVI5PZMI7U.jpg?smart=true&auth=97cb6b571522c2e85aa040f5de73abec8d2ba365fd99442d73ba4b11ed94e990&width=1200&height=630"
-  },
-  {
-    "title": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows",
-    "summary": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows Search 0 Search Linkedin 0 Search 0 Subscribe Join Our Core Community We deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis.",
-    "content": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows Search 0 Search Linkedin 0 Search 0 Subscribe Join Our Core Community We deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis. Subscribe I've read and",
-    "source": "aidatainsider.com",
-    "date": "2026-07-14",
-    "url": "https://aidatainsider.com/news/openai-launches-chatgpt-work-powered-by-gpt-5-6-for-enterprise-workflows/",
-    "category": "Models",
-    "image": "https://aidatainsider.com/wp-content/uploads/2026/07/OpenAI-Launches-ChatGPT-Work-Powered-by-GPT-5.6-for-Enterprise-Workflows.jpg"
-  },
-  {
-    "title": "DeepMind CEO again pushes for a frontier AI standards body",
-    "summary": "DeepMind CEO again pushes for a frontier AI standards body – Computerworld DeepMind CEO again pushes for a frontier AI standards body news Jul 15, 20268 mins Google DeepMind CEO Demis Hassabis on Tuesday reiterated his push for an AI industry self-regulation effort, led by the US government, t",
-    "content": "DeepMind CEO again pushes for a frontier AI standards body – Computerworld DeepMind CEO again pushes for a frontier AI standards body news Jul 15, 20268 mins Google DeepMind CEO Demis Hassabis on Tuesday reiterated his push for an AI industry self-regulation effort, led by the US government, t",
-    "source": "by\t\t\t\t\t\t\t\t\t Evan Schuman \n\t\t\t\t\t\t\t \n\t\t\n\t\t\t\t\t \n\t\t\t\t\t\t\t\t\t Contributor",
-    "date": "2026-07-16",
-    "url": "https://www.computerworld.com/article/4197511/deepmind-ceo-again-pushes-for-a-frontier-ai-standards-body-2.html",
-    "category": "Policy",
-    "image": "https://www.computerworld.com/wp-content/uploads/2026/07/4197511-0-18848000-1784149211-shutterstock_2540223947.jpg?quality=50&strip=all&w=1024"
-  },
-  {
-    "title": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI",
-    "summary": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Search Search Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Google DeepMind CEO Demis Hassabis proposes a US-led body to test frontier AI before launch and potentially gate US deployment.",
-    "content": "Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Search Search Google DeepMind CEO Proposes US-Led Watchdog for Frontier AI Google DeepMind CEO Demis Hassabis proposes a US-led body to test frontier AI before launch and potentially gate US deployment. Markus Kasanmascheff By Mark",
-    "source": "Markus Kasanmascheff",
+    "title": "Mira Murati's Thinking Machines Releases Open-Weight Inkling AI Model",
+    "summary": "Former OpenAI CTO Mira Murati's startup releases its first AI model — a 975-billion parameter open-weight system built for enterprise customization over leaderboard dominance.",
+    "content": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, unveiled Inkling on July 15, its first open-weight AI model featuring 975 billion total parameters built on a mixture-of-experts design that activates approximately 41 billion parameters per task. The model was trained on 45 trillion tokens across text, image, audio, and video, reasoning natively across all four modalities while currently limiting outputs to text and code. Unlike proprietary alternatives from OpenAI, Anthropic, or Google, Inkling is released under an Apache 2.0 license — meaning developers can download, modify, and deploy it with virtually no restrictions. The company's strategic bet is that enterprises care less about the smartest general-purpose model than one they can make their own, and it positions Inkling primarily through its Tinker platform for domain-specific fine-tuning. On coding benchmarks, Inkling reportedly uses a third as many tokens as Nvidia's Nemotron 3 Ultra to achieve comparable performance, a notable achievement built in roughly nine months.",
+    "source": "TechCrunch",
     "date": "2026-07-15",
-    "url": "https://winbuzzer.com/2026/07/15/deepmind-ceo-proposes-us-led-watchdog-for-frontier-ai-xcxwbn/",
-    "category": "Industry",
-    "image": "https://winbuzzer.com/wp-content/uploads/2026/07/Demis-Hassabis-via-Isomorphic-Labs.jpg"
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "category": "Models"
   },
   {
-    "title": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services",
-    "summary": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times Benchmarks Nifty 24,067.95-143.05 FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricin",
-    "content": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times Benchmarks Nifty 24,067.95-143.05 FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricin",
-    "source": "Trending Desk",
+    "title": "July 2026 AI Model Surge: GPT-5.6, Grok 4.5, and Fable 5 Battle for Dominance",
+    "summary": "OpenAI, xAI, Anthropic, and Meta released major new models within days of each other, marking the biggest frontier AI wave of the summer and shifting competition from raw benchmarks to price and fit.",
+    "content": "OpenAI released GPT-5.6 as a three-tier lineup — Sol for high-end reasoning and coding at $5 per million input tokens, Terra at half Sol's cost, and Luna for fast high-volume work — all featuring 1-million-token context windows. xAI's Grok 4.5, a 1.5 trillion-parameter Mixture-of-Experts model, achieved 83.3% on Terminal-Bench 2.1 while using roughly 25% as many output tokens as comparable frontier models on similar tasks. Meta's Muse Spark 1.1 introduced a 1-million-token context window alongside computer-use capabilities and parallel subagent delegation, ranking first on JobBench and Finance Agent V2 evaluations. Anthropic's Claude Fable 5 returned to global availability after a 19-day pause, positioning itself above the Opus line for complex reasoning and research tasks. The overarching industry shift moved from 'best model wins' to practical considerations — price per task, API access, inference speed, and deployment fit now matter as much as benchmark scores.",
+    "source": "AIapps",
     "date": "2026-07-14",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/anthropic-claude-india-pricing-announced-check-what-users-will-have-to-pay-for-claude-services/articleshow/132386268.cms",
-    "category": "Models",
-    "image": "https://img.etimg.com/thumb/msid-132386299,width-1200,height-630,imgsize-48049,overlay-economictimes/articleshow.jpg"
+    "url": "https://www.aiapps.com/blog/july-ai-mega-update-major-breakthroughs-launches/",
+    "category": "Models"
   },
   {
-    "title": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind",
-    "summary": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind July 14, 2026 Responsibility & Safety Empowering India’s next generation of innovators with ATL Saathi Seshu Ajjarapu and Arka Dhar Share Atal Tinkering Labs (ATL) is bringing access to new technolo",
-    "content": "AI in Indian Education: Atal Innovation Mission and Google launch ATL Saathi — Google DeepMind July 14, 2026 Responsibility & Safety Empowering India’s next generation of innovators with ATL Saathi Seshu Ajjarapu and Arka Dhar Share Atal Tinkering Labs (ATL) is bringing access to new technolo",
-    "source": "Seshu Ajjarapu and Arka Dhar",
-    "date": "2026-07-14",
-    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "category": "Industry",
-    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw"
+    "title": "TSMC Pledges $265 Billion Total for U.S. Chip Expansion Amid Record AI Demand",
+    "summary": "Taiwan Semiconductor Manufacturing Company announced an additional $100 billion U.S. investment, bringing total pledges to $265 billion, driven by surging AI chip demand and a 77% jump in quarterly profits.",
+    "content": "Taiwan Semiconductor Manufacturing Company announced an additional $100 billion investment in U.S. chipmaking capacity on July 16, bringing its total pledges to $265 billion — the largest foreign semiconductor commitment in American history. The expansion will add six fabrication facilities in Arizona, with CEO C.C. Wei citing the need to 'support the strong multiyear demand from our leading U.S. customers' amid the ongoing AI compute surge. TSMC reported record profits of $22 billion for the second quarter of 2026, a 77% year-over-year increase, and raised its annual capital expenditure budget to $60-64 billion from a previous estimate of $52-56 billion. The chipmaker also raised its full-year revenue forecast, citing 'extremely robust' global AI demand as the primary growth driver. The investment cements TSMC's role as the world's most critical node in the AI supply chain, manufacturing chips for Nvidia, Apple, AMD, and virtually every major AI hardware customer.",
+    "source": "Associated Press",
+    "date": "2026-07-16",
+    "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/07/16/taiwan-computer-chipmaker-tsmc-pledges-another-100-billion-to-expand-us-chipmaking-capacity",
+    "category": "Industry"
+  },
+  {
+    "title": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
+    "summary": "The Federal Trade Commission proposed a policy statement targeting AI companies that may be manipulating system outputs to serve undisclosed ideological goals, with comments due July 31.",
+    "content": "The Federal Trade Commission is seeking public comment on a proposed policy statement addressing concerns that AI companies may be manipulating their systems' outputs contrary to consumer expectations for objectivity and accuracy. Chairman Andrew N. Ferguson stated that the FTC wants to hear from businesses and consumers about 'their experiences and concerns regarding the subversion of AI systems for ideological ends.' The policy centers on whether AI firms are distorting their systems in ways that could violate Section 5 of the FTC Act by deceiving consumers about the nature and effectiveness of their AI products. The proposal also addresses state-level AI regulations, suggesting that laws requiring alterations to 'truthful outputs of AI models' may conflict with emerging federal oversight authority. Companies and consumers can submit comments through July 31, 2026, via Regulations.gov, making this one of the first federal moves to regulate AI content behavior rather than just safety or discrimination concerns.",
+    "source": "Federal Trade Commission",
+    "date": "2026-07-09",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+    "category": "Policy"
+  },
+  {
+    "title": "DeepMind CEO Demis Hassabis Calls for U.S.-Led Frontier AI Standards Body",
+    "summary": "Google DeepMind CEO Demis Hassabis proposed a FINRA-style, U.S. government-led organization to evaluate frontier AI models for national security threats before public deployment.",
+    "content": "Google DeepMind CEO Demis Hassabis reiterated his proposal for a U.S. government-led, federally overseen standards body to evaluate the capabilities of frontier AI models, particularly those approaching artificial general intelligence and posing national security risks. The proposed organization would operate as a public-private partnership modeled on FINRA, featuring independent technical experts and open-source representatives on its board to develop rigorous assessment protocols in collaboration with federal agencies. Hassabis emphasized that funding must come substantially from industry to attract the AI talent and computational resources necessary for large-scale pre-deployment testing. The proposal builds on DeepMind's existing collaboration with the U.S. Department of Commerce's Center for AI Standards and Innovation, which already conducts pre-deployment safety evaluations. Hassabis frames the initiative as a bipartisan necessity, arguing that without a centralized oversight structure, frontier AI risk assessments will remain fragmented and insufficient.",
+    "source": "Computerworld",
+    "date": "2026-07-15",
+    "url": "https://www.computerworld.com/article/4197511/deepmind-ceo-again-pushes-for-a-frontier-ai-standards-body-2.html",
+    "category": "Policy"
+  },
+  {
+    "title": "AI Investment and Adoption Surge in 2026 as Industry Shifts Toward Inference",
+    "summary": "Enterprise AI active usage reached 64% globally in 2026, with 88% of companies reporting AI-driven revenue gains, while investment capital shifts decisively from model training to inference deployment.",
+    "content": "Enterprise AI adoption reached 64% active usage globally in 2026 — rising to 76% among organizations with 1,000-plus employees — and 88% of companies report AI-driven revenue increases, according to the latest industry analysis. Investment capital is shifting markedly from model training to inference deployment, with Goldman Sachs data showing the top 5% of companies by usage consuming three times the tokens of the median company. The competitive landscape is reorganizing around infrastructure capacity and organizational readiness rather than raw technology capability alone, as data quality gaps and talent shortages emerge as primary blockers to scaling AI beyond pilot projects. Despite widespread displacement concerns, labor market data suggests AI is functioning as a productivity complement rather than a wholesale replacement — with 70% of employees and 94% of C-suite executives using AI tools for at least 30 minutes daily. July 2026 marks a clear industry turning point from 'bigger models' to 'more useful, cheaper, and reliable AI,' with inference costs falling dramatically and making production-scale deployment affordable for the first time.",
+    "source": "The AI Insider",
+    "date": "2026-07-15",
+    "url": "https://theaiinsider.tech/2026/07/15/ai-trends-in-2026-investment-competition-and-adoption/",
+    "category": "Trends"
   }
 ]
