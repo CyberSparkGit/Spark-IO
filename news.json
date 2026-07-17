@@ -1,62 +1,62 @@
 [
   {
-    "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
-    "summary": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
-    "content": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
-    "source": "By  Lily Altavena  |  July 14, 2026, 3:00pm UTC",
-    "date": "2026-07-14",
-    "url": "https://www.chalkbeat.org/2026/07/14/anthropic-launches-claude-for-teachers-as-ai-companies-battle-for-classrooms/",
-    "category": "Models",
-    "image": "https://www.chalkbeat.org/resizer/v2/5ERMMCQGPBHD5JLFBVI5PZMI7U.jpg?smart=true&auth=97cb6b571522c2e85aa040f5de73abec8d2ba365fd99442d73ba4b11ed94e990&width=1200&height=630"
-  },
-  {
-    "title": "Meta Muse Spark 1.1: First Paid Meta AI Model Undercuts Claude by 75%",
-    "summary": "Meta Muse Spark 1.1: First Paid Meta AI Model Undercuts Claude by Close Apple’s $30 Billion Broadcom Deal Will Build 15 Billion US-Made Chips Through 2031 Facebook X (Twitter) Instagram Facebook X (Twitter) Instagram Share Meta Muse Spark 1.1 is a multimodal agentic reasoning model re",
-    "content": "Meta Muse Spark 1.1: First Paid Meta AI Model Undercuts Claude by Close Apple’s $30 Billion Broadcom Deal Will Build 15 Billion US-Made Chips Through 2031 Facebook X (Twitter) Instagram Facebook X (Twitter) Instagram Share Meta Muse Spark 1.1 is a multimodal agentic reasoning model re",
-    "source": "Amitabh Sarkar",
+    "title": "China's Moonshot AI Releases Kimi K3, the World's Largest Open-Source Model",
+    "summary": "Moonshot AI launched Kimi K3, a 2.8-trillion-parameter open-weight model that benchmarks show rivals top proprietary AI systems from Anthropic and OpenAI.",
+    "content": "Moonshot AI, the Beijing-based startup backed by Alibaba, released Kimi K3 on July 16 — a 2.8-trillion-parameter model now the largest open-source AI system ever built, with full weights set for public release on July 27. The model features a 1-million-token context window, native visual understanding, and an always-on reasoning mode, and is already available to try at kimi.com. Benchmarks place K3 third overall on real-world task evaluations, behind only Claude Fable 5 Max and GPT-5.6 Sol Max, while surpassing GPT-5.6 Sol Max on long-horizon knowledge work and ranking first on BrowseComp. Priced at $3/$15 per million input/output tokens and compatible with the OpenAI SDK, K3 dramatically lowers the integration bar for developers. The release, timed ahead of the 2026 World AI Conference in Shanghai, signals that open-source AI from China is no longer trailing Western closed-source models — closing the frontier gap faster than most analysts predicted.",
+    "source": "VentureBeat",
     "date": "2026-07-16",
-    "url": "https://witho2.com/news/meta-muse-spark-1-1-agentic-model-api",
+    "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
     "category": "Models",
     "image": null
   },
   {
-    "title": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows",
-    "summary": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows Search 0 Search Linkedin 0 Search 0 Subscribe Join Our Core Community We deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis.",
-    "content": "OpenAI Launches ChatGPT Work Powered by GPT-5.6 for Enterprise Workflows Search 0 Search Linkedin 0 Search 0 Subscribe Join Our Core Community We deliver strategic insights on AI and Data. Join our list to be among the first to receive our essential analysis. Subscribe I've read and",
-    "source": "aidatainsider.com",
-    "date": "2026-07-14",
-    "url": "https://aidatainsider.com/news/openai-launches-chatgpt-work-powered-by-gpt-5-6-for-enterprise-workflows/",
+    "title": "Mira Murati's Thinking Machines Releases Inkling, America's Largest Open-Weights Model",
+    "summary": "Thinking Machines Lab, founded by former OpenAI CTO Mira Murati, released Inkling — a 975B-parameter multimodal open-weights model built for customization.",
+    "content": "Thinking Machines Lab, founded in early 2025 by former OpenAI CTO Mira Murati, released its first model on July 15: Inkling, a 975-billion-parameter Mixture-of-Experts model that is the largest American open-weights AI model to date. Pretrained on 45 trillion tokens of text, images, audio, and video, Inkling supports a 1-million-token context window and reasons natively across all four modalities with efficient, controllable thinking effort. The model is designed not as the strongest available, but as the best broad foundation for fine-tuning — released under the Apache 2.0 license with weights on Hugging Face and day-one support in vLLM, SGLang, and llama.cpp. Developers can immediately customize it via Thinking Machines' Tinker platform, which Inkling itself used to write, run, and evaluate its own fine-tuning job as a demo. A lighter companion model, Inkling-Small (276B total, 12B active), is in testing and will follow soon.",
+    "source": "Thinking Machines Lab",
+    "date": "2026-07-15",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
     "category": "Models",
-    "image": "https://aidatainsider.com/wp-content/uploads/2026/07/OpenAI-Launches-ChatGPT-Work-Powered-by-GPT-5.6-for-Enterprise-Workflows.jpg"
+    "image": null
   },
   {
-    "title": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks",
-    "summary": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks SecurityBrief Canada - Technology news for CISOs & cybersecurity decision-makers Canada Powered By AI Security LLMs AI OpenAI unveils GPT-Red to harden GPT-5.6 against attacks Thu, 16th Jul 2026 (Yesterday) MARK TARRE News Chief OpenA",
-    "content": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks SecurityBrief Canada - Technology news for CISOs & cybersecurity decision-makers Canada Powered By AI Security LLMs AI OpenAI unveils GPT-Red to harden GPT-5.6 against attacks Thu, 16th Jul 2026 (Yesterday) MARK TARRE News Chief OpenA",
-    "source": "Mark Tarre",
+    "title": "Japan and Nvidia Launch World's First National AI Infrastructure with 27,500 Rubin GPUs",
+    "summary": "Japan's Noetra consortium and Nvidia announced a state-backed 140-megawatt AI factory designed to train open multimodal foundation models for robotics and industrial automation.",
+    "content": "Nvidia and Japan's newly formed Noetra consortium announced on July 16 what they call the world's first national AI infrastructure: a 140-megawatt AI factory comprising 27,500 Rubin GPUs and 13,750 Vera CPUs across 382 Vera Rubin NVL72 racks connected via Spectrum-X Ethernet. Noetra — founded by SoftBank, Sony, NEC, and Honda with investment from 44 companies — won a government tender backed by ¥387.3 billion ($2.4 billion) in first-year funding and up to ¥1 trillion ($6.1 billion) over five years to run Japan's FRONTia physical AI program. The facility is designed to train open multimodal foundation models for robotics, digital twins, and industrial automation, with pretrained weights shared broadly with domestic developers. Noetra's roadmap targets a reasoning model in 2026, an omni-modal model processing text, image, video, and audio by 2028, and real-world-native AI capable of spatial reasoning by 2030. Japan's underlying AI Robotics Strategy aims to capture more than 30% of the global AI robotics market — estimated at $133 billion — by 2040.",
+    "source": "Tom's Hardware",
     "date": "2026-07-16",
-    "url": "https://securitybrief.ca/story/openai-unveils-gpt-red-to-harden-gpt-5-6-against-attacks",
-    "category": "Models",
-    "image": "https://securitybrief.ca/uploads/story/2026/07/16/compatible_guarded-ai-core-shield-secure-workspace-red-team-threads-digital-illustration.jpg"
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-and-japans-noetra-consortium-to-build-140mw-rubin-ai-factory-with-27500-gpus",
+    "category": "Industry",
+    "image": null
   },
   {
-    "title": "OpenAI Introduces GPT-Red, an AI Attacker Built to Strengthen GPT-5.6",
-    "summary": "OpenAI Introduces GPT-Red, an AI Attacker Built to Strengthen GPT-5.6 – Unite.AI OpenAI has revealed GPT-Red, an internal artificial intelligence system trained to attack the company’s own models, expose their vulnerabilities, and generate adversarial data that can be used to strengthen future rele",
-    "content": "OpenAI Introduces GPT-Red, an AI Attacker Built to Strengthen GPT-5.6 – Unite.AI OpenAI has revealed GPT-Red, an internal artificial intelligence system trained to attack the company’s own models, expose their vulnerabilities, and generate adversarial data that can be used to strengthen future rele",
-    "source": "Antoine Tardif,  CEO & Founder of Unite.AI",
+    "title": "EU Forces Google to Open Android AI Interoperability and Share Search Data Under DMA",
+    "summary": "The European Commission issued binding measures requiring Google to grant rival AI assistants equal Android access and share search data with third-party engines and AI chatbots.",
+    "content": "The European Commission issued two sets of binding specification measures to Google under the Digital Markets Act on July 16, targeting AI assistant access on Android and search data sharing. The first ruling mandates that competing AI assistants receive the same Android OS access as Google's Gemini, including voice activation, in-app action execution, and contextual suggestions — giving the 60% of EU users on Android the ability to freely choose their preferred AI assistant on equal terms. The second ruling requires Google to share its search data with rival search engines and AI chatbots, using a multi-layered anonymization method developed with the European Data Protection Board, along with a transparent pricing formula for data access. Experts called the ruling the most significant action against AI platform gatekeeping in Europe to date, forcing functional interoperability rather than just financial penalties. Google retains the right to assess cyber and data-protection risks before sharing data with a specific third party, and the Commission reserved the right to amend measures as market conditions evolve.",
+    "source": "European Commission",
     "date": "2026-07-16",
-    "url": "https://www.unite.ai/openai-introduces-gpt-red-an-ai-attacker-built-to-strengthen-gpt-5-6/",
-    "category": "Models",
-    "image": "https://www.unite.ai/wp-content/uploads/2026/07/GPT-Red.png"
+    "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+    "category": "Policy",
+    "image": null
   },
   {
-    "title": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars",
-    "summary": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars | FrontierNews.ai i 🔍Search Breaking News View All → Why AI Agents Are Breaking Down Into Simpler, Safer Pieces in 2026 Agents·just now Anthropic's Enterprise Gamble: Why AI Adoption Now Hinges on Deployme",
-    "content": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars | FrontierNews.ai i 🔍Search Breaking News View All → Why AI Agents Are Breaking Down Into Simpler, Safer Pieces in 2026 Agents·just now Anthropic's Enterprise Gamble: Why AI Adoption Now Hinges on Deployme",
-    "source": "FrontierNews.ai",
-    "date": "2026-07-14",
-    "url": "https://www.frontiernews.ai/news/article/grok-45-just-landed-what-xais-latest-ai-model-mean-ffb47fb5",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Grok%204.5%20Just%20Landed%3A%20What%20xAI%27s%20Latest%20AI%20Model%20Means%20for%20the%20Chatbot%20Wars&topic=Large%20Language%20Models"
+    "title": "FTC Warns AI Companies That Secretly 'Steering' Outputs Could Violate Federal Law",
+    "summary": "The FTC issued a policy statement saying AI companies that covertly modify model outputs for ideological reasons could face enforcement action under the FTC Act, putting them at odds with some state AI laws.",
+    "content": "The U.S. Federal Trade Commission released a July 1 policy statement warning that AI companies may violate Section 5 of the FTC Act if they secretly steer model outputs toward ideological or political goals without clearly disclosing this to users — since consumers reasonably expect AI to aim for accuracy. The FTC cited an example of a company training a model to produce 'ideologically motivated distortions,' such as rewriting historical facts to address perceived injustices, as the type of undisclosed conduct that constitutes a deceptive business practice. The agency also declared that federal law takes precedence over conflicting state AI rules, directly challenging Colorado's AI Act which requires companies to prevent outputs with disparate impact on protected groups — leaving companies potentially caught between state and federal compliance obligations. Legal experts called the guidance unusually vague, with one attorney summarizing it as 'don't let your model be woke' while noting that determining what constitutes a biased versus a correct output is highly subjective. Companies are advised to audit their AI systems for any steered outputs, review marketing claims for implied accuracy promises, and build prominent and persistent disclosures — burying a caveat in terms of service will not meet the FTC's standard.",
+    "source": "Law.com",
+    "date": "2026-07-16",
+    "url": "https://www.law.com/corpcounsel/2026/07/16/ftcs-statement-on-ai-output-steering-leaves-key-questions-unanswered/",
+    "category": "Policy",
+    "image": null
+  },
+  {
+    "title": "1Password and Anthropic Give Claude Secure Credential Access Without Exposing Secrets to the Model",
+    "summary": "1Password launched a zero-exposure security integration with Claude that lets AI agents authenticate on behalf of users without passwords or MFA codes ever entering the model's context.",
+    "content": "1Password and Anthropic launched '1Password for Claude' on July 16, the first browser integration that allows a Claude agent to use stored credentials to complete real-world tasks — such as booking travel or managing accounts — without those credentials ever reaching the AI model, its memory, or Anthropic's systems. The zero-exposure framework works by injecting credentials directly into target web pages via a secure 1Password-managed channel, so Claude knows it used a login but never sees the actual password or one-time MFA code. A new 'Agentic Mode' automatically locks down the entire 1Password vault the moment an AI agent takes browser control, allowing access only to credentials explicitly approved for the current task and eliminating persistent standing access between sessions. Users authorize each credential request with a single biometric prompt, and 1Password continuously scans pages after autofill to wipe any exposed values if a form submission fails. The integration is now available for Mac users on all 1Password plans and is designed as a framework that other browser-based AI agents and platforms can adopt as the agentic ecosystem expands.",
+    "source": "Business Wire",
+    "date": "2026-07-16",
+    "url": "https://www.businesswire.com/news/home/20260716981650/en/",
+    "category": "Tools",
+    "image": null
   }
 ]
