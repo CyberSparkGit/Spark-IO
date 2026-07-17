@@ -1,5 +1,15 @@
 [
   {
+    "title": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars",
+    "summary": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars | FrontierNews.ai i 🔍Search Breaking News View All → Memory Chip Shortage Could Delay Self-Driving Cars, as Automakers Lock in Supply Deals Autonomous Vehicles·2h ago Anthropic Turns Claude Code Into a Liv",
+    "content": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars | FrontierNews.ai i 🔍Search Breaking News View All → Memory Chip Shortage Could Delay Self-Driving Cars, as Automakers Lock in Supply Deals Autonomous Vehicles·2h ago Anthropic Turns Claude Code Into a Liv",
+    "source": "FrontierNews.ai",
+    "date": "2026-07-14",
+    "url": "https://www.frontiernews.ai/news/article/grok-45-just-landed-what-xais-latest-ai-model-mean-ffb47fb5",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=Grok%204.5%20Just%20Landed%3A%20What%20xAI%27s%20Latest%20AI%20Model%20Means%20for%20the%20Chatbot%20Wars&topic=Large%20Language%20Models"
+  },
+  {
     "title": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms",
     "summary": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
     "content": "Anthropic launches Claude for Teachers in AI race to influence America's classrooms - Chalkbeat content Anthropic unveils Claude for Teachers, joining OpenAI and Google in race to dominate classroom AI - https://bsky.app/intent/compose?text=https%3A%2F%2Fwww.chalkbeat.org%2F2F0",
@@ -21,42 +31,32 @@
   },
   {
     "title": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks",
-    "summary": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks SecurityBrief US - Technology news for CISOs & cybersecurity decision-makers United States Powered By AI Security LLMs AI OpenAI unveils GPT-Red to harden GPT-5.6 against attacks Thu, 16th Jul 2026 (Today) MARK TARRE News Chief OpenAI",
-    "content": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks SecurityBrief US - Technology news for CISOs & cybersecurity decision-makers United States Powered By AI Security LLMs AI OpenAI unveils GPT-Red to harden GPT-5.6 against attacks Thu, 16th Jul 2026 (Today) MARK TARRE News Chief OpenAI",
+    "summary": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks SecurityBrief Canada - Technology news for CISOs & cybersecurity decision-makers Canada Powered By AI Security LLMs AI OpenAI unveils GPT-Red to harden GPT-5.6 against attacks Thu, 16th Jul 2026 (Today) MARK TARRE News Chief OpenAI ha",
+    "content": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks SecurityBrief Canada - Technology news for CISOs & cybersecurity decision-makers Canada Powered By AI Security LLMs AI OpenAI unveils GPT-Red to harden GPT-5.6 against attacks Thu, 16th Jul 2026 (Today) MARK TARRE News Chief OpenAI ha",
     "source": "Mark Tarre",
     "date": "2026-07-16",
-    "url": "https://securitybrief.news/story/openai-unveils-gpt-red-to-harden-gpt-5-6-against-attacks",
+    "url": "https://securitybrief.ca/story/openai-unveils-gpt-red-to-harden-gpt-5-6-against-attacks",
     "category": "Models",
-    "image": "https://securitybrief.news/uploads/story/2026/07/16/compatible_guarded-ai-core-shield-secure-workspace-red-team-threads-digital-illustration.jpg"
+    "image": "https://securitybrief.ca/uploads/story/2026/07/16/compatible_guarded-ai-core-shield-secure-workspace-red-team-threads-digital-illustration.jpg"
   },
   {
-    "title": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars",
-    "summary": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars | FrontierNews.ai i 🔍Search Breaking News View All → Tesla FSD Crash Investigation Reveals Driver Override, Not System Failure Autonomous Vehicles·4h ago Google Gemini Doubles Its User Base in Southeast As",
-    "content": "Grok 4.5 Just Landed: What xAI's Latest AI Model Means for the Chatbot Wars | FrontierNews.ai i 🔍Search Breaking News View All → Tesla FSD Crash Investigation Reveals Driver Override, Not System Failure Autonomous Vehicles·4h ago Google Gemini Doubles Its User Base in Southeast As",
-    "source": "FrontierNews.ai",
-    "date": "2026-07-14",
-    "url": "https://www.frontiernews.ai/news/article/grok-45-just-landed-what-xais-latest-ai-model-mean-ffb47fb5",
-    "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=Grok%204.5%20Just%20Landed%3A%20What%20xAI%27s%20Latest%20AI%20Model%20Means%20for%20the%20Chatbot%20Wars&topic=Large%20Language%20Models"
-  },
-  {
-    "title": "GPT-5.6 Sol Ultra Builds Full Chrome Exploit Chain From Security Patches",
-    "summary": "GPT-5.6 Sol Ultra Builds Full Chrome Exploit Chain From Security Patches - Cybernoz https://hostinger.com.tr/?REFERRALCODE=Cybernoz OpenAI’s GPT-5.6 Sol Ultra model independently constructed a complete, working exploit chain for Google Chrome, using nothing but publicly available security patch co",
-    "content": "GPT-5.6 Sol Ultra Builds Full Chrome Exploit Chain From Security Patches - Cybernoz https://hostinger.com.tr/?REFERRALCODE=Cybernoz OpenAI’s GPT-5.6 Sol Ultra model independently constructed a complete, working exploit chain for Google Chrome, using nothing but publicly available security patch co",
-    "source": "Cybernoz",
+    "title": "OpenAI Introduces GPT-Red, an AI Attacker Built to Strengthen GPT-5.6",
+    "summary": "OpenAI Introduces GPT-Red, an AI Attacker Built to Strengthen GPT-5.6 – Unite.AI OpenAI has revealed GPT-Red, an internal artificial intelligence system trained to attack the company’s own models, expose their vulnerabilities, and generate adversarial data that can be used to strengthen future rele",
+    "content": "OpenAI Introduces GPT-Red, an AI Attacker Built to Strengthen GPT-5.6 – Unite.AI OpenAI has revealed GPT-Red, an internal artificial intelligence system trained to attack the company’s own models, expose their vulnerabilities, and generate adversarial data that can be used to strengthen future rele",
+    "source": "Antoine Tardif,  CEO & Founder of Unite.AI",
     "date": "2026-07-16",
-    "url": "https://cybernoz.com/gpt-5-6-sol-ultra-builds-full-chrome-exploit-chain-from-security-patches/",
+    "url": "https://www.unite.ai/openai-introduces-gpt-red-an-ai-attacker-built-to-strengthen-gpt-5-6/",
     "category": "Models",
-    "image": "https://image.cybernoz.com/wp-content/uploads/2025/01/Russian-Hackers-Attacking-WhatsApp-Users-With-Malicious-QR-codes.webp.jpeg"
+    "image": "https://www.unite.ai/wp-content/uploads/2026/07/GPT-Red.png"
   },
   {
-    "title": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services",
-    "summary": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times Benchmarks Nifty 24,067.95-143.05 FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricin",
-    "content": "Anthropic Claude India Pricing announced: Check what users will have to pay for Claude services - The Economic Times Benchmarks Nifty 24,067.95-143.05 FEATURED FUNDS★★★★★Motilal Oswal Midcap Fund Direct-Growth5Y Return23.39 % Invest Now Business News› News› Trending›Anthropic Claude India Pricin",
-    "source": "Trending Desk",
-    "date": "2026-07-14",
-    "url": "https://economictimes.indiatimes.com/news/new-updates/anthropic-claude-india-pricing-announced-check-what-users-will-have-to-pay-for-claude-services/articleshow/132386268.cms",
+    "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
+    "summary": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers To On Prompt Injection - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI OpenAI Details GPT-Red: An Internal Automated",
+    "content": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers To On Prompt Injection - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI OpenAI Details GPT-Red: An Internal Automated",
+    "source": "Asif Razzaq",
+    "date": "2026-07-16",
+    "url": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
     "category": "Models",
-    "image": "https://img.etimg.com/thumb/msid-132386299,width-1200,height-630,imgsize-48049,overlay-economictimes/articleshow.jpg"
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-24.png"
   }
 ]
