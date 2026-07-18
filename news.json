@@ -1,13 +1,23 @@
 [
   {
-    "title": "DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad",
-    "summary": "DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad SEARCH Searching... DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad China's most valuable AI startup secured massive funding from Tencent and CATL while its",
-    "content": "DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad SEARCH Searching... DeepSeek raises $7.4B in first external round, setting sights on OpenAI and Anthropic abroad China's most valuable AI startup secured massive funding from Tencent and CATL while its",
-    "source": "Editorial Team",
-    "date": "2026-07-17",
-    "url": "https://cryptobriefing.com/deepseek-raises-7b-challenge-openai-anthropic/",
+    "title": "Inside Meta’s Quiet Bet on Neuromorphic Chips to Outrun Nvidia",
+    "summary": "Inside Meta’s Quiet Bet on Neuromorphic Chips to Outrun Nvidia – USA Business Times Saturday, July 18, 2026 Latest Newsletter Subscribe Breaking Goldman Sachs at a Crossroads: Can David Solomon Prove the Critics Wrong? Anthropic’s Claude Is Quietly Becoming Enterprise AI’s Biggest Threat Endeavo",
+    "content": "Inside Meta’s Quiet Bet on Neuromorphic Chips to Outrun Nvidia – USA Business Times Saturday, July 18, 2026 Latest Newsletter Subscribe Breaking Goldman Sachs at a Crossroads: Can David Solomon Prove the Critics Wrong? Anthropic’s Claude Is Quietly Becoming Enterprise AI’s Biggest Threat Endeavo",
+    "source": "Robert Garrison",
+    "date": "2026-07-18",
+    "url": "https://usabusinesstimes.com/inside-metas-quiet-bet-on-neuromorphic-chips-to-outrun-nvidia/",
     "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/17004846/san-anselmo-california-january-27-in-this-photo-illustration-1-800x420.jpeg"
+    "image": "https://usabusinesstimes.com/wp-content/uploads/2026/07/15806.jpg"
+  },
+  {
+    "title": "Grok 4.3 on AWS Bedrock: 1M Context, Configurable Reasoning",
+    "summary": "Grok 4.3 on AWS Bedrock: 1M Context, Configurable Reasoning | TPS xAI's Grok 4.3 now available on AWS Bedrock with 1M token context and configurable reasoning TL;DR xAI has made Grok 4.3 generally available on Amazon Bedrock, marking xAI's debut as a Bedrock model provider.",
+    "content": "Grok 4.3 on AWS Bedrock: 1M Context, Configurable Reasoning | TPS xAI's Grok 4.3 now available on AWS Bedrock with 1M token context and configurable reasoning TL;DR xAI has made Grok 4.3 generally available on Amazon Bedrock, marking xAI's debut as a Bedrock model provider. The multimodal model",
+    "source": "tpsreport.news",
+    "date": "2026-07-16",
+    "url": "https://tpsreport.news/news/grok-4-3-amazon-bedrock-launch",
+    "category": "Models",
+    "image": null
   },
   {
     "title": "Anthropic Launches Claude for Teachers. Why Some Critics Are Concerned",
@@ -28,16 +38,6 @@
     "url": "https://cryptobriefing.com/moonshot-kimi-k3-ai-model-openai-anthropic/",
     "category": "Industry",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/17054836/moonshot-s-kimi-k3-pushes-chinese-ai-into-fable-level-territ-800x420.jpeg"
-  },
-  {
-    "title": "Trump administration is dictating access to frontier AI models: Sources",
-    "summary": "Trump administration is dictating access to frontier AI models: Sources Key Points - The Trump administration is taking more control over AI releases and is dictating access to the models, CNBC has learned. - Anthropic and OpenAI previously decided who accessed new AI models through their Project",
-    "content": "Trump administration is dictating access to frontier AI models: Sources Key Points - The Trump administration is taking more control over AI releases and is dictating access to the models, CNBC has learned. - Anthropic and OpenAI previously decided who accessed new AI models through their Project",
-    "source": "Samantha Subin,Kate Rooney,Kai Nicol-Schwarz",
-    "date": "2026-07-17",
-    "url": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html",
-    "category": "Industry",
-    "image": "https://image.cnbcfm.com/api/v1/image/108331121-1783373314897-gettyimages-2284355820-TRUMP_ACCOUNTS.jpeg?v=1783373346&w=1920&h=1080"
   },
   {
     "title": "OpenAI unveils GPT-Red to harden GPT-5.6 against attacks",
