@@ -1,56 +1,62 @@
 [
   {
-    "title": "China's Moonshot AI Releases Kimi K3, the World's Largest Open-Source Model",
-    "summary": "Moonshot AI launched Kimi K3, a 2.8-trillion-parameter open-weight model that benchmarks show rivals the top proprietary AI systems from Anthropic and OpenAI.",
-    "content": "Moonshot AI, the Beijing-based startup backed by Alibaba, released Kimi K3 on July 16 — a 2.8-trillion-parameter model that the company claims is the world's largest open-weight AI system, towering above DeepSeek's V4 Pro at approximately 1.6 trillion parameters. The model features a 1-million-token context window, native visual understanding, and architectural innovations called Kimi Delta Attention and Attention Residuals, which Moonshot says deliver 2.5× the scaling efficiency of its predecessor Kimi K2. On GDPval-AA v2, a benchmark measuring real-world tasks across 44 occupations and 9 major industries, K3 scored 1,687 — placing third overall behind Claude Fable 5 Max and GPT-5.6 Sol Max, and ahead of Claude Opus 4.8, with independent evaluator Artificial Analysis placing it second on its private agentic AA-Briefcase benchmark. The model is priced at $3 per million input tokens and $15 per million output tokens, significantly undercutting Western rivals, with full open weights scheduled for public release on July 27. The launch, timed to coincide with China's 2026 World AI Conference in Shanghai, marks a dramatic escalation in the global AI arms race and a watershed moment for the open-source movement.",
-    "source": "VentureBeat",
+    "title": "Meta Muse Spark 1.1: First Paid Meta AI Model Undercuts Claude by 75%",
+    "summary": "Meta Muse Spark 1.1: First Paid Meta AI Model Undercuts Claude by Close 1Password Lets Claude Log Into Apps Without Seeing Your Password Apple Sues OpenAI for Stealing Hardware Secrets — Full Details OpenAI ChatGPT Work Turns Your AI Into a Full-Time Employee Facebook X (Twitter) Insta",
+    "content": "Meta Muse Spark 1.1: First Paid Meta AI Model Undercuts Claude by Close 1Password Lets Claude Log Into Apps Without Seeing Your Password Apple Sues OpenAI for Stealing Hardware Secrets — Full Details OpenAI ChatGPT Work Turns Your AI Into a Full-Time Employee Facebook X (Twitter) Insta",
+    "source": "Amitabh Sarkar",
     "date": "2026-07-16",
-    "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
-    "category": "Models"
+    "url": "https://witho2.com/news/meta-muse-spark-1-1-agentic-model-api",
+    "category": "Models",
+    "image": "https://witho2.com/wp-content/uploads/2026/07/meta-muse-spark-1-1-agentic-model-api.webp"
   },
   {
-    "title": "SpaceX Launches Grok 4.5 at Half the Price of Rivals, Backed by $60B Cursor Acquisition",
-    "summary": "SpaceX and Cursor jointly released Grok 4.5, a frontier AI model for coding and autonomous agents priced at roughly half the cost of competing systems from Anthropic and OpenAI.",
-    "content": "SpaceX released Grok 4.5 on July 8, the first AI model jointly trained with its recently acquired coding startup Cursor, priced at $2 per million input tokens and $6 per million output tokens — roughly half the cost of competing frontier models. The model was trained on Cursor's enormous dataset of real developer-agent interactions, giving it strong performance on large codebases and long-running agentic tasks spanning multiple repositories and tools across software engineering, finance, and legal domains. Independent evaluator Artificial Analysis ranked Grok 4.5 fourth on its GDPval-AA v2 real-world agentic benchmark while noting it is 'nearly 90% cheaper than the models ahead of it on the leaderboard,' placing it squarely on the Pareto frontier of performance-versus-cost. The release is the first concrete product of SpaceX's $60 billion acquisition of Cursor, completed weeks earlier, and gives the combined company a vertically integrated AI stack spanning training compute (Colossus, ~200,000 Nvidia GPUs), frontier models, and a dominant developer distribution channel. Grok 4.5 is now the default model powering Grok Build, SpaceX's terminal-based AI coding agent, and is available across all Cursor subscription plans.",
-    "source": "VentureBeat",
-    "date": "2026-07-08",
-    "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
-    "category": "Models"
-  },
-  {
-    "title": "White House Moves to Control Frontier AI Access with New 'Gold Eagle' Clearinghouse",
-    "summary": "The Trump administration launched 'Gold Eagle,' a program that would put the White House in charge of greenlighting which companies can access the most advanced AI models.",
-    "content": "The Trump administration is asserting unprecedented control over frontier AI model releases through a program dubbed 'Gold Eagle,' which sources describe as a clearinghouse requiring White House approval before companies can share new frontier AI systems with partners and enterprise customers. This marks a significant shift from the previous norm where AI giants like Anthropic and OpenAI independently decided which companies and agencies could access their most powerful models — a role the administration is now claiming for itself. Last month the administration temporarily blocked Anthropic's Claude Mythos 5 and Fable 5 over 'national security concerns,' reinstating access only after weeks of intense negotiations; OpenAI separately agreed to limit new models to 'trusted partners' following government requests, leaving company-led initiatives like Project Glasswing and OpenAI's Daybreak in doubt. Former White House AI czar David Sacks publicly warned that China's Kimi K3 — which largely matched U.S. frontier performance on independent benchmarks — showed the risks of over-restriction: 'This is how you lose the AI race.' A White House official maintained that decisions on 'timing and scope of releases rest entirely with the companies,' framing government involvement as voluntary, even as two sources described a more interventionist reality behind the scenes.",
-    "source": "CNBC",
+    "title": "OpenAI Lets Parents Mandate Study Mode for Teen ChatGPT Sessions",
+    "summary": "OpenAI Lets Parents Mandate Study Mode for Teen ChatGPT Sessions - Windows News Live RTX Spark Is NVIDIA’s Boldest PC Bet Yet—Here’s Why You Might Want to Hold Off·MSFT +0.Microsoft’s July Office Update Unlocks Copilot for SAEC PCs—Now IT Must Ask Hard Questions·NVDA +3.Kimi K3 AI Model Chal",
+    "content": "OpenAI Lets Parents Mandate Study Mode for Teen ChatGPT Sessions - Windows News Live RTX Spark Is NVIDIA’s Boldest PC Bet Yet—Here’s Why You Might Want to Hold Off·MSFT +0.Microsoft’s July Office Update Unlocks Copilot for SAEC PCs—Now IT Must Ask Hard Questions·NVDA +3.Kimi K3 AI Model Chal",
+    "source": "Windows News Team",
     "date": "2026-07-18",
-    "url": "https://proinvestnews.com/2026/07/18/the-white-house-is-dictating-access-to-frontier-ai-models-shifting-power-from-tech-giants-sources-say/",
-    "category": "Policy"
+    "url": "https://windowsnews.ai/article/openai-lets-parents-mandate-study-mode-for-teen-chatgpt-sessions.439232",
+    "category": "Models",
+    "image": "https://windowsnews.ai/img-proxy.php?u=HzoVOUEKHRkPIh4oGDkSL11CR1tWKB8hWC8VPVNTWlsdJQQ_WDkIJ1ZfRUUeJAI5GmMCIVNEVUYMZgM4AioYZF9fVlNVOxE-EiAVOh9TU1hVOBU4Wi9MPVdVXBsULhE-GScPLh9UV1AZPhw4WTkEK0IeAwVPeEl6WA&size=large&format=webp"
   },
   {
-    "title": "FTC Warns AI Companies That Secret Output Steering Violates Federal Consumer Law",
-    "summary": "The Federal Trade Commission issued a proposed policy statement warning AI firms that covertly modifying model outputs for ideological or political reasons is an unfair or deceptive business practice.",
-    "content": "The FTC published a proposed policy statement on July 1 warning that AI companies may violate Section 5 of the FTC Act — which prohibits unfair or deceptive business practices — if they secretly steer AI outputs away from what users reasonably expect in pursuit of other objectives like ideological goals or compliance with state laws. The agency stated that consumers reasonably expect AI systems to produce outputs that 'faithfully and accurately achieve users' stated objectives,' and that covertly overriding those expectations constitutes actionable deception regardless of the company's motives. The FTC set a high bar for disclosure: companies cannot bury disclaimers in terms of service but must 'clearly and conspicuously dispel the notion that the system is designed to give the best answer possible' in persistent, prominent notices. The policy statement creates a difficult conflict for companies in states like Colorado, whose AI Act requires modifying outputs to prevent disparate impact on protected groups — the FTC explicitly said federal law would preempt such state requirements, leaving businesses potentially liable under one jurisdiction for complying with the other. Companies have until July 31 to submit comments, and legal experts advise AI firms to immediately audit their systems for any output steering and develop transparent, consumer-facing disclosure strategies.",
-    "source": "Law.com",
-    "date": "2026-07-16",
-    "url": "https://www.law.com/corpcounsel/2026/07/16/ftcs-statement-on-ai-output-steering-leaves-key-questions-unanswered/",
-    "category": "Policy"
+    "title": "Moonshot AI's Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic",
+    "summary": "Moonshot AI's Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic SEARCH Searching... Moonshot AI’s Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic China's Moonshot AI debuts a 2.8-trillion-parameter open-weight model with competitive API p",
+    "content": "Moonshot AI's Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic SEARCH Searching... Moonshot AI’s Yang Zhilin presents Kimi K3 at GTC 2026, taking aim at OpenAI and Anthropic China's Moonshot AI debuts a 2.8-trillion-parameter open-weight model with competitive API p",
+    "source": "Editorial Team",
+    "date": "2026-07-19",
+    "url": "https://cryptobriefing.com/moonshot-ai-kimi-k3-gtc-2026-launch/",
+    "category": "Industry",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/19003316/zhilin-yang-speaker-800x420.jpeg"
   },
   {
-    "title": "AI ROI Jumps to 21% as Agentic AI Expectations Surge, SAP and Oxford Economics Find",
-    "summary": "A global survey of 2,600 business leaders found AI return on investment rose sharply in 2026, with agentic AI expected to deliver more than four times last year's financial returns within two years.",
-    "content": "A new report from SAP and Oxford Economics, drawing on surveys of 2,600 business leaders across 13 countries, reveals that global AI ROI rose to 21% in 2026 (roughly $6.3 million per company), up from 16% in 2025, with ROI projected to reach 38% within two years as AI becomes more embedded in core operations. Agentic AI is the primary driver of rising expectations: 83% of businesses say it has moderate to very high potential to transform their organization, and average ROI from agentic AI alone is expected to reach $17.6 million — more than quadrupling from last year's estimates of $4.3 million. Despite the optimism, readiness lags badly: only 3% of businesses say they are fully prepared for agentic AI, 38% have no human-in-the-loop process for agentic workflows, and 73% report challenges with incomplete data that causes rework and backlogs in AI outputs. AI now supports approximately 30% of all tasks in the average business — a figure expected to reach 48% in two years — but 78% of companies acknowledge their workforce upskilling is not keeping pace with the evolution of AI tools. SAP Chief AI Strategy Officer Sean Kask noted that 'AI that lacks context — whether that's processes, data, or governance — at best creates activity without outcomes and at worst creates risk.'",
-    "source": "SAP News Center",
-    "date": "2026-07-15",
-    "url": "https://news.sap.com/2026/07/business-value-ai-spiking-increased-adoption-agentic-expectations/",
-    "category": "Trends"
+    "title": "Anthropic, Meta Negotiate $10 Billion AI Resource Lease",
+    "summary": "Anthropic, Meta Negotiate $10 Billion AI Resource Lease Anthropic, Meta Negotiate $10 Billion AI Resource Lease Meta Aims to Diversify Revenue, Compete with Neocloud Firms Amid AI Resource Demand By Jeong Du-yong(ChosunBiz) Published 2026.07.19.",
+    "content": "Anthropic, Meta Negotiate $10 Billion AI Resource Lease Anthropic, Meta Negotiate $10 Billion AI Resource Lease Meta Aims to Diversify Revenue, Compete with Neocloud Firms Amid AI Resource Demand By Jeong Du-yong(ChosunBiz) Published 2026.07.19. 11:23 Anthropic logo. /Reuters-Yonhap The nego",
+    "source": "chosun.com",
+    "date": "2026-07-19",
+    "url": "https://www.chosun.com/english/industry-en/2026/07/19/U7KIC576F5HT3E45SQ5X7T2LIY/",
+    "category": "Trends",
+    "image": "https://www.chosun.com/resizer/v2/MIYTOYJVHFSGCYTCGZSWGNDDHA.jpg?auth=347a8af45fe85631dfbaa5622a66e46541a5c25f24d8652c00e889f52dcae513&width=1200&height=630&smart=true"
   },
   {
-    "title": "GitLab 19.2 Deploys Agentic Automation to Tackle Security Backlogs Created by AI Code Generation",
-    "summary": "GitLab released version 19.2 with agentic features that automatically fix vulnerable dependencies and catch logic flaws that pattern-based security scanners structurally cannot detect.",
-    "content": "GitLab released version 19.2 on July 16, introducing governed agentic automation designed to address the security debt that AI-generated code is creating faster than development teams can manage. The centerpiece is Dependency Scanning Auto-Remediation, now in public beta, which automatically opens merge requests to fix vulnerable packages — and iterates until the build is fixed if an upgrade introduces breaking changes — closing a gap where an internal study found vulnerabilities reach 63% of latest Maven releases through transitive dependencies. Also entering public beta is Security Review Flow, an AI agent that reasons about what code is meant to do rather than matching known vulnerability patterns, capable of detecting broken authorization, race conditions, mass assignment flaws, and business-logic errors that traditional static scanners structurally cannot catch. GitLab Duo CLI reached general availability, bringing multi-step agentic workflows to the terminal with full project context, while Custom Flows are now generally available, allowing teams to build event-triggered agentic automations under existing approval gates with complete audit trails for compliance. An independent Forrester Consulting study commissioned by GitLab found that organizations using the Duo Agent Platform can achieve 400% return on investment with payback in under six months.",
-    "source": "GitLab",
-    "date": "2026-07-16",
-    "url": "https://about.gitlab.com/press/releases/2026-07-16-gitlab-19-2-brings-governed-agentic-automation/",
-    "category": "Tools"
+    "title": "Anthropic Introduces Max and Team Premium Plans for Claude Fable 5: Features and Benefits",
+    "summary": "Anthropic Introduces Max and Team Premium Plans for Claude Fable 5: Features and Benefits Sid onJuly 18, 2026 Anthropic Introduces Max and Team Premium Plans for Claude Fable 5: Features and Benefits 2 min read Share in Twitter Share on Facebook Share in Linkedin Copy link Claude Fable 5 is",
+    "content": "Anthropic Introduces Max and Team Premium Plans for Claude Fable 5: Features and Benefits Sid onJuly 18, 2026 Anthropic Introduces Max and Team Premium Plans for Claude Fable 5: Features and Benefits 2 min read Share in Twitter Share on Facebook Share in Linkedin Copy link Claude Fable 5 is",
+    "source": "Sid",
+    "date": "2026-07-18",
+    "url": "https://sidtimes.com/anthropic-introduces-max-and-team-premium-plans-for-claude-fable-5-features-and-benefits/",
+    "category": "Models",
+    "image": "https://sidtimes.com/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-05_35_58-PM-e1747310966886.png"
+  },
+  {
+    "title": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep",
+    "summary": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Perplexity AI Releases WANDR: An Open Benchmark Evaluating Rese",
+    "content": "Perplexity AI Releases WANDR: An Open Benchmark Evaluating Research Agents That Must Search Wide And Deep - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Perplexity AI Releases WANDR: An Open Benchmark Evaluating Rese",
+    "source": "Asif Razzaq",
+    "date": "2026-07-19",
+    "url": "https://www.marktechpost.com/2026/07/19/perplexity-ai-releases-wandr-an-open-benchmark-evaluating-research-agents-that-must-search-wide-and-deep/",
+    "category": "Tools",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-36.png"
   }
 ]
