@@ -1,62 +1,56 @@
 [
   {
-    "title": "OpenAI Lets Parents Mandate Study Mode for Teen ChatGPT Sessions",
-    "summary": "OpenAI Lets Parents Mandate Study Mode for Teen ChatGPT Sessions - Windows News Live RTX Spark Is NVIDIA’s Boldest PC Bet Yet—Here’s Why You Might Want to Hold Off·MSFT +0.Microsoft’s July Office Update Unlocks Copilot for SAEC PCs—Now IT Must Ask Hard Questions·NVDA +3.Kimi K3 AI Model Chal",
-    "content": "OpenAI Lets Parents Mandate Study Mode for Teen ChatGPT Sessions - Windows News Live RTX Spark Is NVIDIA’s Boldest PC Bet Yet—Here’s Why You Might Want to Hold Off·MSFT +0.Microsoft’s July Office Update Unlocks Copilot for SAEC PCs—Now IT Must Ask Hard Questions·NVDA +3.Kimi K3 AI Model Chal",
-    "source": "Windows News Team",
-    "date": "2026-07-18",
-    "url": "https://windowsnews.ai/article/openai-lets-parents-mandate-study-mode-for-teen-chatgpt-sessions.439232",
-    "category": "Models",
-    "image": "https://windowsnews.ai/img-proxy.php?u=HzoVOUEKHRkPIh4oGDkSL11CR1tWKB8hWC8VPVNTWlsdJQQ_WDkIJ1ZfRUUeJAI5GmMCIVNEVUYMZgM4AioYZF9fVlNVOxE-EiAVOh9TU1hVOBU4Wi9MPVdVXBsULhE-GScPLh9UV1AZPhw4WTkEK0IeAwVPeEl6WA&size=large&format=webp"
-  },
-  {
-    "title": "Anthropic revamps Claude subscriptions: Here's what's changing for users starting today",
-    "summary": "Anthropic revamps Claude subscriptions: Here's what's changing for users starting today – Firstpost Trending: Search news or ask a question Anthropic revamps Claude subscriptions: Here's what's changing for users starting today FP Tech Desk• July 20, 2026, 09:03:43 IST Anthropic is overhau",
-    "content": "Anthropic revamps Claude subscriptions: Here's what's changing for users starting today – Firstpost Trending: Search news or ask a question Anthropic revamps Claude subscriptions: Here's what's changing for users starting today FP Tech Desk• July 20, 2026, 09:03:43 IST Anthropic is overhau",
-    "source": "firstpost.com",
-    "date": "2026-07-20",
-    "url": "https://www.firstpost.com/tech/anthropic-revamps-claude-subscriptions-heres-whats-changing-for-users-starting-today-14032544.html",
-    "category": "Models",
-    "image": "https://images.firstpost.com/uploads/2026/02/Anthropic-Claude-AI-tools-2026-02-2b3697b3ed45a30fd191e6742c285eed-1200x675.jpg?im=FitAndFill=(1200,675)"
-  },
-  {
-    "title": "Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else - BitRss",
-    "summary": "Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else - BitRss - Crypto World News Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else Brawene",
-    "content": "Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else - BitRss - Crypto World News Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else Brawene",
-    "source": "bitrss.com",
-    "date": "2026-07-19",
-    "url": "https://bitrss.com/anthropic-splits-the-ai-frontier-in-two-what-the-claude-fable-5-and-mythos-5-launch-means-for-crypto-219481",
-    "category": "Models",
-    "image": "https://bravenewcoin.com/wp-content/uploads/2026/06/claude-fable-lauches-300x143.jpg"
-  },
-  {
-    "title": "Grok 4.5 tops VulcanBench coding benchmark with 91% score, and AI investors should pay attention",
-    "summary": "Grok 4.5 tops VulcanBench coding benchmark with score, and AI investors should pay attention SEARCH Searching... Grok 4.5 tops VulcanBench coding benchmark with score, and AI investors should pay attention xAI's latest model solved 21 out of 23 real-world coding tasks, outperforming Cl",
-    "content": "Grok 4.5 tops VulcanBench coding benchmark with score, and AI investors should pay attention SEARCH Searching... Grok 4.5 tops VulcanBench coding benchmark with score, and AI investors should pay attention xAI's latest model solved 21 out of 23 real-world coding tasks, outperforming Cl",
-    "source": "Editorial Team",
+    "title": "Grok 4.5 Tops VulcanBench Coding Benchmark with 91% Score",
+    "summary": "xAI's Grok 4.5 outperformed Claude Fable 5 and GPT-5.6 Sol on a rigorous real-world coding benchmark while also beating competitors on cost efficiency.",
+    "content": "xAI's Grok 4.5 achieved a 91.3% score on the VulcanBench coding benchmark by successfully completing 21 out of 23 real-world multi-file engineering tasks spanning five programming languages. The model outperformed Anthropic's Claude Fable 5 and OpenAI's GPT-5.6 Sol while demonstrating superior cost efficiency. VulcanBench evaluates AI coding agents on 'pull-request-style tasks' that involve modifying multiple files across codebases, running evaluations in Docker sandboxes to ensure reproducibility and transparency. The benchmark's inclusion of cost metrics reveals that Grok 4.5 not only solved more problems but achieved competitive results at lower per-task expenses than its rivals, marking a significant milestone for xAI in the crowded frontier model race.",
+    "source": "Crypto Briefing",
     "date": "2026-07-19",
     "url": "https://cryptobriefing.com/grok-4-5-tops-vulcanbench-coding-benchmark/",
-    "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/19194144/elon-musk-wikipedia-3-800x420.jpeg"
+    "category": "Models"
   },
   {
-    "title": "Google DeepMind: Gemini 3.5 Delays, AI Standards Push — July",
-    "summary": "Google DeepMind: Gemini 3.5 Delays, AI Standards Push — July | Digital Mind News Google Google DeepMind: Gemini 3.5 Delays, AI Standards Push — July Photo by Markus Winkler on Pexels Synthesized from 5 sources Google DeepMind is navigating a crowded July 2026 news cycle: an internal delay pus",
-    "content": "Google DeepMind: Gemini 3.5 Delays, AI Standards Push — July | Digital Mind News Google Google DeepMind: Gemini 3.5 Delays, AI Standards Push — July Photo by Markus Winkler on Pexels Synthesized from 5 sources Google DeepMind is navigating a crowded July 2026 news cycle: an internal delay pus",
-    "source": "Digital Mind News",
+    "title": "OpenAI's GPT-Live Brings Full-Duplex Real-Time Voice to 150 Million Users",
+    "summary": "OpenAI launched GPT-Live, a new generation of voice AI built on full-duplex architecture that can listen and speak simultaneously, dramatically improving natural conversation.",
+    "content": "OpenAI's GPT-Live moved beyond traditional turn-based voice interaction to enable simultaneous listening and speaking through a full-duplex architecture. The system now handles interruptions and real-time translation far more naturally by eliminating the silence-detection limitations that plagued earlier voice models. With 150 million weekly users, this advancement significantly impacts conversational AI at scale, making voice interaction feel much closer to a natural human conversation. The launch represents OpenAI's push to differentiate its voice offering as the broader AI market shifts toward multimodal, real-time interaction, with GPT-5.6 also releasing in three price-tiered variants — Sol, Terra, and Luna — targeting different use cases and budgets.",
+    "source": "AI Apps",
+    "date": "2026-07-10",
+    "url": "https://www.aiapps.com/blog/july-ai-mega-update-major-breakthroughs-launches/",
+    "category": "Tools"
+  },
+  {
+    "title": "FTC Seeks Public Comment on Policy Addressing AI Accuracy and Ideological Manipulation",
+    "summary": "The FTC is requesting public feedback on a proposed policy targeting AI companies that secretly alter model outputs to serve undisclosed ideological goals, potentially violating consumer protection law.",
+    "content": "The Federal Trade Commission is seeking public feedback on a proposed policy addressing AI companies that may manipulate their systems' outputs for undisclosed ideological objectives. The FTC contends that such manipulation could violate Section 5 of the FTC Act by deceiving consumers about AI system effectiveness and suitability. Chairman Ferguson stated the agency wants input from 'businesses and consumers about their experiences and concerns regarding the subversion of AI systems for ideological ends.' The policy also addresses state-level AI regulations, suggesting that laws requiring alteration of 'truthful outputs of AI models' may conflict with federal oversight. Public comments are open through July 31, 2026, marking one of the FTC's most direct interventions into AI content governance to date.",
+    "source": "Federal Trade Commission",
+    "date": "2026-07-10",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+    "category": "Policy"
+  },
+  {
+    "title": "Xi Jinping Calls for Global AI Cooperation as US Export Curbs Squeeze China's Tech Access",
+    "summary": "At Shanghai's World AI Conference, President Xi Jinping urged international collaboration on AI and announced training programs for developing nations, positioning China as an alternative pole in global AI governance.",
+    "content": "At Shanghai's World AI Conference, President Xi Jinping called for AI development to be 'a symphony of global cooperation' rather than dominated by any single nation, in remarks widely seen as a rebuke of U.S. export restrictions. He criticized what he characterized as the 'overstretching' of national security concerns that have limited China's access to advanced semiconductor technology. Xi announced China will provide 5,000 AI training opportunities to developing countries and expand cooperation with regional organizations and BRICS nations. These initiatives signal China's strategy to build alternative AI partnerships and position itself as a leader in global AI governance, as analysts note China has transitioned from catching up to becoming a genuine AI innovator with competitive open-source models.",
+    "source": "NPR",
     "date": "2026-07-17",
-    "url": "https://digitalmindnews.com/companies/google/google-deepmind-gemini-35-delays-ai-standards-push-july/",
-    "category": "Models",
-    "image": "https://digitalmindnews.com/wp-content/uploads/2026/07/google-deepmind-gemini-35-delays.webp"
+    "url": "https://www.npr.org/2026/07/17/nx-s1-5897285/chinas-xi-calls-for-step-up-of-global-effort-in-ai-as-us-curbs-squeeze-chinas-tech-access",
+    "category": "Industry"
   },
   {
-    "title": "Digital Duty of Care: How Labor’s new AI regulations will impact firms like OpenAI and Anthropic",
-    "summary": "Digital Duty of Care: How Labor’s new AI regulations will impact firms like OpenAI and Anthropic The Sydney Morning Herald logo The Sydney Morning Herald logo Our Sites Open Our Sites section Classifieds Open Classifieds section Tributes Place your ad The Sydney Morning Herald",
-    "content": "Digital Duty of Care: How Labor’s new AI regulations will impact firms like OpenAI and Anthropic The Sydney Morning Herald logo The Sydney Morning Herald logo Our Sites Open Our Sites section Classifieds Open Classifieds section Tributes Place your ad The Sydney Morning Herald",
-    "source": "Paul Sakkal",
-    "date": "2026-07-19",
-    "url": "https://www.smh.com.au/politics/federal/labor-s-duty-of-care-policy-will-extend-to-big-ai-firms-here-s-what-it-means-20260719-p60gmc.html",
-    "category": "Policy",
-    "image": "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/18381cb5e172482fe8732261bc64b59685b11ebd"
+    "title": "200+ Economists and Nobel Laureates Warn AI Threatens Industrial-Scale Job Displacement",
+    "summary": "An open letter signed by over 200 experts including 16 Nobel laureates warns that AI's economic disruption could exceed the Industrial Revolution in scale and speed, demanding urgent government action.",
+    "content": "More than 200 economists and AI researchers, including 16 Nobel laureates, signed an open letter organized by Stanford University's digital economy lab urging immediate action on artificial intelligence's economic consequences. The experts cautioned that AI could drive transformation 'larger than the Industrial Revolution, but unfolding over a vastly shorter time frame,' bringing both risks like widespread job displacement and opportunities such as improved living standards. Their recommendations call for governments and industry to establish 'incentives, guardrails, and institutions' ensuring AI benefits society and complements human workers rather than simply replacing them. Organizer Anton Korinek emphasized urgency, noting that 'waiting for certainty means arriving too late' to shape AI's trajectory effectively, and the letter calls on policymakers to act now rather than wait for disruption to become undeniable.",
+    "source": "Al Jazeera",
+    "date": "2026-07-13",
+    "url": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact",
+    "category": "Industry"
+  },
+  {
+    "title": "Enterprise AI Investment Shifts From Model Training to Inference and Agentic Systems",
+    "summary": "New research from Goldman Sachs and NVIDIA reveals enterprise AI spending is rapidly pivoting from foundation model training to inference infrastructure and autonomous agentic deployments.",
+    "content": "Goldman Sachs research shows the top 5% of companies by AI usage are consuming three times more tokens than median organizations, signaling a widening adoption gap between AI leaders and laggards. NVIDIA's 2026 State of AI study found that 64% of organizations are actively using AI operationally, with 88% reporting increased annual revenue and 87% citing reduced costs as a direct result. Enterprise investment is shifting from model training toward inference deployment, driven by accelerating adoption and infrastructure constraints across GPUs, ASICs, and memory chips. Some 86% of organizations plan to increase AI spending in 2026, with agentic AI systems representing the fastest-growing expenditure category — particularly in telecommunications, where adoption has reached 48%.",
+    "source": "The AI Insider",
+    "date": "2026-07-15",
+    "url": "https://theaiinsider.tech/2026/07/15/ai-trends-in-2026-investment-competition-and-adoption/",
+    "category": "Trends"
   }
 ]
