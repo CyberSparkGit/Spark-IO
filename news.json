@@ -1,62 +1,56 @@
 [
   {
-    "title": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release",
-    "summary": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release Search Search Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI’s GPT-5.6 Release Anthropic has permanently included Claude Fable 5 into its subscription plans, with capped included use for premium tiers and me",
-    "content": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release Search Search Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI’s GPT-5.6 Release Anthropic has permanently included Claude Fable 5 into its subscription plans, with capped included use for premium tiers and me",
-    "source": "Markus Kasanmascheff",
-    "date": "2026-07-20",
-    "url": "https://winbuzzer.com/2026/07/20/anthropic-keeps-claude-fable-5-in-paid-plans-from-july-20-xcxwbn/",
-    "category": "Models",
-    "image": "https://winbuzzer.com/wp-content/uploads/2025/05/Anthropic-Claude.jpg"
+    "title": "OpenAI Launches GPT-5.6 Family with New Ultra Agent Mode",
+    "summary": "OpenAI released the GPT-5.6 model family — Sol, Terra, and Luna — setting new benchmarks in coding, agentic workflows, and cost efficiency.",
+    "content": "OpenAI launched the GPT-5.6 family of models on July 9, 2026, introducing three tiers: Sol (flagship), Terra (balanced), and Luna (cost-efficient). GPT-5.6 Sol achieves state-of-the-art results across coding, knowledge work, cybersecurity, and science while outperforming competing frontier models with fewer tokens and at lower estimated cost. A new 'ultra' mode coordinates multiple agents in parallel workstreams to tackle the most demanding tasks. On Agents' Last Exam — an evaluation of long-horizon professional workflows across 55 fields — Sol scored 53.6, eclipsing Claude Fable 5 by 13.1 points while completing tasks in 61% less time at roughly half the cost. The models are available across ChatGPT, Codex, and the OpenAI API, with GPT-5.6 now the preferred model in Microsoft 365 Copilot.",
+    "source": "OpenAI",
+    "date": "2026-07-09",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "category": "Models"
   },
   {
-    "title": "OpenAI's GPT Agents Exploit Zero-Days and Hacked Hugging Face Servers",
-    "summary": "OpenAI's GPT Agents Exploit Zero-Days and Hacked Hugging Face Servers Search Cyber Security NewsLatest Cyber Security News Wednesday, July 22, 2026 Linkedin RSS Google News Google News Cyber Security NewsLatest Cyber Security News Search OpenAI’s GPT Agents Exploit Zero-Days and Hacked Hu",
-    "content": "OpenAI's GPT Agents Exploit Zero-Days and Hacked Hugging Face Servers Search Cyber Security NewsLatest Cyber Security News Wednesday, July 22, 2026 Linkedin RSS Google News Google News Cyber Security NewsLatest Cyber Security News Search OpenAI’s GPT Agents Exploit Zero-Days and Hacked Hu",
-    "source": "Guru Baran",
-    "date": "2026-07-22",
-    "url": "https://cybersecuritynews.com/openai-zero-days-hugging-face/",
-    "category": "Models",
-    "image": "http://cybersecuritynews.com/wp-content/uploads/2026/07/Hugging-Face.webp"
-  },
-  {
-    "title": "OpenAI introduces ChatGPT Work",
-    "summary": "OpenAI introduces ChatGPT Work - Campaign Middle East العربية https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work an agent in ChatGPT that helps",
-    "content": "OpenAI introduces ChatGPT Work - Campaign Middle East العربية https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work an agent in ChatGPT that helps",
-    "source": "Hiba Faisal",
+    "title": "Google Releases Three New Gemini Models Optimized for AI Agents",
+    "summary": "Google DeepMind released Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, all engineered for efficient, production-ready agentic AI applications.",
+    "content": "On July 21, 2026, Google DeepMind introduced three new models designed for scaling agentic AI workflows. Gemini 3.6 Flash reduces output token usage by 17% compared to its predecessor while lowering cost to $1.50 per million input tokens, with improvements in coding (DeepSWE: 49% vs. 37%) and computer use (OSWorld: 83.0% vs. 78.4%). Gemini 3.5 Flash-Lite delivers 350 output tokens per second, making it the fastest and most affordable 3.5-class model for high-throughput tasks like agentic search and document processing. A cybersecurity-specialized model, 3.5 Flash Cyber, pairs with Google's CodeMender agent to automate vulnerability discovery in codebases at competitive frontier performance. Google also confirmed it has begun its most ambitious pre-training run yet for Gemini 4.",
+    "source": "Google DeepMind",
     "date": "2026-07-21",
-    "url": "https://campaignme.com/openai-introduces-chatgpt-work/",
-    "category": "Models",
-    "image": "https://campaignme.com/wp-content/uploads/2026/07/chatgpt.png"
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+    "category": "Models"
   },
   {
-    "title": "Google releases three new Gemini models — but no 3.5 Pro",
-    "summary": "Google releases three new Gemini models — but no 3.5 Pro | TechCrunch Image Credits:Jagmeet Singh / TechCrunch AI Copy Share Link Google releases three new Gemini models — but no 3.5 Pro Rebecca Bellan 10:11 AM PDT · July 21, 2026 Copy Share Link On Tuesday, Google DeepMind released Gemini",
-    "content": "Google releases three new Gemini models — but no 3.5 Pro | TechCrunch Image Credits:Jagmeet Singh / TechCrunch AI Copy Share Link Google releases three new Gemini models — but no 3.5 Pro Rebecca Bellan 10:11 AM PDT · July 21, 2026 Copy Share Link On Tuesday, Google DeepMind released Gemini",
-    "source": "Rebecca Bellan",
-    "date": "2026-07-21",
-    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-    "category": "Models",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800"
+    "title": "Moonshot AI Unveils Kimi K3, the World's Largest Open-Weight AI Model",
+    "summary": "Chinese startup Moonshot AI revealed Kimi K3, a 2.8-trillion-parameter open-weight model that rivals top closed models on several benchmarks.",
+    "content": "Chinese startup Moonshot AI unveiled Kimi K3 on July 16, 2026, billing it as the world's largest open-weight AI model at 2.8 trillion parameters — nearly double DeepSeek's V4-Pro at 1.6 trillion. The sparse mixture-of-experts model activates roughly 50 billion parameters per token and features a 1-million-token context window with a new mechanism called Kimi Delta Attention that decodes up to 6.3 times faster over long inputs. Moonshot claims K3 achieves 2.5 times better scaling efficiency than its predecessor Kimi K2 and ranks second only to Anthropic's Fable 5 and OpenAI's GPT-5.6 Sol on the company's own benchmarks. On Arena.ai's blind front-end coding leaderboard, developers ranked K3 above both GPT-5.6 Sol and Fable 5. Full weights are set for release July 27, 2026 under a modified MIT licence at an aggressive price of $0.30 per million cached input tokens.",
+    "source": "The Next Web",
+    "date": "2026-07-17",
+    "url": "https://thenextweb.com/news/moonshot-kimi-k3-largest-open-model",
+    "category": "Models"
   },
   {
-    "title": "Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery",
-    "summary": "Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery - SDxCentral Get the Report: How leading storage architects are solving the AI memory crunch Cisco security AI aces OpenAI – but Anthropic?",
-    "content": "Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery - SDxCentral Get the Report: How leading storage architects are solving the AI memory crunch Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery Antares is Cisco's answer of sorts to Claude super bug hunte",
-    "source": "sdxcentral.com",
+    "title": "EU AI Act Article 50 Transparency Rules Kick In August 2 with €15M Fines",
+    "summary": "The European Commission finalized AI disclosure requirements, giving companies 11 days to comply before enforcement begins on August 2 with fines up to €15 million.",
+    "content": "The European Commission published final guidance on AI transparency requirements on July 20, 2026, setting an August 2 enforcement date under Article 50 of the EU AI Act. The rules require chatbots and AI agents to immediately disclose their artificial nature to users from the very first interaction, while generative AI providers must embed machine-readable watermarks in all audio, image, video, and text outputs. Companies face fines up to €15 million or 3% of worldwide annual turnover for non-compliance. A key challenge highlighted by legal researchers is that no single current watermarking technology — including Google's SynthID and the C2PA content credentials standard — fully meets all four statutory requirements: effectiveness, interoperability, robustness, and reliability. Pre-existing generative AI systems receive a grace period until December 2, 2026 for the machine-readable marking obligation, but direct-interaction disclosure requirements apply from August 2 without exception.",
+    "source": "TechTimes",
     "date": "2026-07-21",
-    "url": "https://www.sdxcentral.com/news/cisco-security-ai-aces-openai-but-anthropic-thats-a-mythos-mystery/",
-    "category": "Models",
-    "image": "https://media.datacenterdynamics.com/media/images/Cisco_eu4uvoe.2e16d0ba.fill-1200x630.jpg"
+    "url": "https://www.techtimes.com/articles/321174/20260721/eu-finalizes-ai-disclosure-rules-watermarking-mandate-outpaces-technology.htm",
+    "category": "Policy"
   },
   {
-    "title": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind",
-    "summary": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind July 21, 2026 Models Introducing Gemini 3.5 Flash Cyber Raluca Ada Popa and Four Flynn Share Google has invested in cybersecurity for years, pioneering automated vulnerability discovery to secure the world’s codebases.",
-    "content": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind July 21, 2026 Models Introducing Gemini 3.5 Flash Cyber Raluca Ada Popa and Four Flynn Share Google has invested in cybersecurity for years, pioneering automated vulnerability discovery to secure the world’s codebases. Tools like CodeMender",
-    "source": "Raluca Ada Popa and Four Flynn",
+    "title": "US Treasury Threatens Sanctions Against Chinese AI Labs Over Alleged IP Theft",
+    "summary": "Treasury Secretary Scott Bessent warned the US may sanction Chinese AI companies if evidence confirms they distilled intellectual property from American frontier AI labs.",
+    "content": "U.S. Treasury Secretary Scott Bessent announced on July 21, 2026, that the White House will examine China's top open-weight AI models — including Moonshot's Kimi K3 — to assess whether their creators unlawfully distilled capabilities from American AI systems. Speaking on Fox Business, Bessent said: \"If we see that overseas models are stealing from our great companies, we have the ability to sanction them because of this theft.\" The announcement reflects growing concern from OpenAI and Anthropic that Chinese competitors use model distillation to absorb frontier capabilities and republish them as cheap open-source alternatives, threatening the business models of US labs. A potential wholesale ban on Chinese open-source models was also reportedly considered before officials distanced themselves from the idea. The geopolitical stakes are high: Moonshot's Kimi K3 undercuts US models significantly on price, and Chinese AI tools are gaining traction with US businesses despite chip export restrictions meant to limit China's AI progress.",
+    "source": "SiliconANGLE",
     "date": "2026-07-21",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "category": "Models",
-    "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw"
+    "url": "https://siliconangle.com/2026/07/21/u-s-treasury-secretary-bessent-threatens-sanctions-chinese-ai-model-makers/",
+    "category": "Policy"
+  },
+  {
+    "title": "Enterprise AI Adoption Hits Inflection Point as Spending Shifts from Training to Inference",
+    "summary": "As 64% of organizations now actively deploy AI, enterprise spending is pivoting from model training to inference infrastructure, with 88% of companies reporting revenue gains.",
+    "content": "A mid-2026 analysis drawing on NVIDIA's State of AI research across 3,200+ organizations finds that 64% of businesses now actively use AI in operations, up sharply from prior years, with North America leading at 70% active usage. Goldman Sachs asset managers returning from a Silicon Valley research trip in June 2026 reported that investment is shifting decisively from large-scale model training to inference infrastructure, with the top 5% of companies by AI usage consuming three times the tokens of the median firm. This shift puts pressure on ASICs, memory chips, and data center networking — particularly copper-to-fiber transitions expected to run for five or more years. Among organizations using AI, 88% report increased annual revenue and 87% report reduced annual costs, with 30% seeing revenue gains exceeding 10%. Agentic AI — systems that reason, plan, and execute multi-step tasks autonomously — is the fastest-growing deployment category, particularly in telecommunications, finance, and healthcare.",
+    "source": "The AI Insider",
+    "date": "2026-07-15",
+    "url": "https://theaiinsider.tech/2026/07/15/ai-trends-in-2026-investment-competition-and-adoption/",
+    "category": "Trends"
   }
 ]
