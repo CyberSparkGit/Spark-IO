@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing",
+    "summary": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing - gHacks Tech News OpenAI has acknowledged that its AI models, including GPT-5.6 Sol and an unreleased model, independently accessed Hugging Face's production infrastructure during internal testing on",
+    "content": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing - gHacks Tech News OpenAI has acknowledged that its AI models, including GPT-5.6 Sol and an unreleased model, independently accessed Hugging Face's production infrastructure during internal testing on",
+    "source": "Arthur Kay",
+    "date": "2026-07-22",
+    "url": "https://www.ghacks.net/2026/07/22/openai-confirms-its-models-breached-hugging-face-production-systems-during-cyber-benchmark-testing/",
+    "category": "Models",
+    "image": "https://www.ghacks.net/wp-content/uploads/2026/07/gHacks-articles-2026-07-22T101813.212.png"
+  },
+  {
     "title": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release",
     "summary": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release Search Search Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI’s GPT-5.6 Release Anthropic has permanently included Claude Fable 5 into its subscription plans, with capped included use for premium tiers and me",
     "content": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release Search Search Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI’s GPT-5.6 Release Anthropic has permanently included Claude Fable 5 into its subscription plans, with capped included use for premium tiers and me",
@@ -8,26 +18,6 @@
     "url": "https://winbuzzer.com/2026/07/20/anthropic-keeps-claude-fable-5-in-paid-plans-from-july-20-xcxwbn/",
     "category": "Models",
     "image": "https://winbuzzer.com/wp-content/uploads/2025/05/Anthropic-Claude.jpg"
-  },
-  {
-    "title": "When AI Models Escaped Their Sandbox: What the OpenAI Hugging Face Breach Really Means",
-    "summary": "When AI Models Escaped Their Sandbox: What the OpenAI Hugging Face Breach Really Means - DEV Community What Actually Happened On Tuesday, OpenAI published a blog post that, in hindsight, may be the most consequential AI safety disclosure of the year. Two of their frontier models — GPT-5.6 Sol a",
-    "content": "When AI Models Escaped Their Sandbox: What the OpenAI Hugging Face Breach Really Means - DEV Community What Actually Happened On Tuesday, OpenAI published a blog post that, in hindsight, may be the most consequential AI safety disclosure of the year. Two of their frontier models — GPT-5.6 Sol a",
-    "source": "dev.to",
-    "date": "2026-07-22",
-    "url": "https://dev.to/amrree/when-ai-models-escaped-their-sandbox-what-the-openai-hugging-face-breach-really-means-h3a",
-    "category": "Models",
-    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F45seukfr0ylv3bwr8dpg.png"
-  },
-  {
-    "title": "OpenAI introduces ChatGPT Work",
-    "summary": "OpenAI introduces ChatGPT Work - Campaign Middle East العربية https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work an agent in ChatGPT that helps",
-    "content": "OpenAI introduces ChatGPT Work - Campaign Middle East العربية https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work https://campaignme.com/author/hiba-faisal/ Hiba Faisal posted on OpenAI introduces ChatGPT Work an agent in ChatGPT that helps",
-    "source": "Hiba Faisal",
-    "date": "2026-07-21",
-    "url": "https://campaignme.com/openai-introduces-chatgpt-work/",
-    "category": "Models",
-    "image": "https://campaignme.com/wp-content/uploads/2026/07/chatgpt.png"
   },
   {
     "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -40,16 +30,6 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800"
   },
   {
-    "title": "Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery",
-    "summary": "Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery - SDxCentral Get the Report: How leading storage architects are solving the AI memory crunch Cisco security AI aces OpenAI – but Anthropic?",
-    "content": "Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery - SDxCentral Get the Report: How leading storage architects are solving the AI memory crunch Cisco security AI aces OpenAI – but Anthropic? That's a Mythos mystery Antares is Cisco's answer of sorts to Claude super bug hunte",
-    "source": "sdxcentral.com",
-    "date": "2026-07-21",
-    "url": "https://www.sdxcentral.com/news/cisco-security-ai-aces-openai-but-anthropic-thats-a-mythos-mystery/",
-    "category": "Models",
-    "image": "https://media.datacenterdynamics.com/media/images/Cisco_eu4uvoe.2e16d0ba.fill-1200x630.jpg"
-  },
-  {
     "title": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind",
     "summary": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind July 21, 2026 Models Introducing Gemini 3.5 Flash Cyber Raluca Ada Popa and Four Flynn Share Google has invested in cybersecurity for years, pioneering automated vulnerability discovery to secure the world’s codebases.",
     "content": "Introducing Gemini 3.5 Flash Cyber — Google DeepMind July 21, 2026 Models Introducing Gemini 3.5 Flash Cyber Raluca Ada Popa and Four Flynn Share Google has invested in cybersecurity for years, pioneering automated vulnerability discovery to secure the world’s codebases. Tools like CodeMender",
@@ -58,5 +38,25 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "category": "Models",
     "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw"
+  },
+  {
+    "title": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention",
+    "summary": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention SEARCH Searching... Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention A counterexample to the Jacobian conjecture, found by Claude, ma",
+    "content": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention SEARCH Searching... Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention A counterexample to the Jacobian conjecture, found by Claude, ma",
+    "source": "Editorial Team",
+    "date": "2026-07-22",
+    "url": "https://cryptobriefing.com/anthropic-ai-disproves-jacobian-conjecture/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/22072458/grow-your-startup-with-anthropic-s-ai-powered-tools-4-800x420.jpeg"
+  },
+  {
+    "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
+    "summary": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face AI AND ML Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents OpenAI has admitted that it was the operator of the autonomous agents that attack",
+    "content": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face AI AND ML Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents OpenAI has admitted that it was the operator of the autonomous agents that attack",
+    "source": "Simon \n                 Sharwood",
+    "date": "2026-07-22",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
+    "category": "Tools",
+    "image": "https://image.theregister.com/5276127.jpg?imageId=5276127&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
   }
 ]
