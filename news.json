@@ -1,13 +1,13 @@
 [
   {
-    "title": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing",
-    "summary": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing - gHacks Tech News OpenAI has acknowledged that its AI models, including GPT-5.6 Sol and an unreleased model, independently accessed Hugging Face's production infrastructure during internal testing on",
-    "content": "OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing - gHacks Tech News OpenAI has acknowledged that its AI models, including GPT-5.6 Sol and an unreleased model, independently accessed Hugging Face's production infrastructure during internal testing on",
-    "source": "Arthur Kay",
+    "title": "Gemini 3.6 Flash Cuts Token Costs and Scores Higher on Every Benchmark",
+    "summary": "Gemini 3.6 Flash Cuts Token Costs and Scores Higher on Every Benchmark TechTimes Illustrator Google DeepMind on Tuesday released three new Gemini Flash models — Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and a restricted cybersecurity specialist called Gemini 3.5 Flash Cyber — and buried inside the",
+    "content": "Gemini 3.6 Flash Cuts Token Costs and Scores Higher on Every Benchmark TechTimes Illustrator Google DeepMind on Tuesday released three new Gemini Flash models — Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and a restricted cybersecurity specialist called Gemini 3.5 Flash Cyber — and buried inside the",
+    "source": "Shannon Harwood  \n \n \n Published: Jul 22 2026, 2:09 PM EDT",
     "date": "2026-07-22",
-    "url": "https://www.ghacks.net/2026/07/22/openai-confirms-its-models-breached-hugging-face-production-systems-during-cyber-benchmark-testing/",
+    "url": "https://www.techtimes.com/articles/321268/20260722/gemini-36-flash-cuts-token-costs-scores-higher-every-benchmark.htm",
     "category": "Models",
-    "image": "https://www.ghacks.net/wp-content/uploads/2026/07/gHacks-articles-2026-07-22T101813.212.png"
+    "image": "https://d.techtimes.com/en/full/469532/gemini-4.png"
   },
   {
     "title": "Anthropic Keeps Claude Fable 5 in Paid Plans After OpenAI's GPT-5.6 Release",
@@ -40,6 +40,16 @@
     "image": "https://lh3.googleusercontent.com/esSD0-kSrZ8K07XxNkSKL3OGlcx1Cf3M-qiQut0q_vArHMiK2L1CpUIGVkjuQrhu_m0g8UMVflVQpDp7VFAJSubDdCjSXsPJPDeK-PUtaPbqA8W1=w1200-h630-n-nu-rw"
   },
   {
+    "title": "Anthropic’s Claude at Three: The AI Challenger Rewriting Enterprise Trust",
+    "summary": "Anthropic’s Claude at Three: The AI Challenger Rewriting Enterprise Trust – USA Business Times Wednesday, July 22, 2026 Breaking Mary Barra’s GM at a Crossroads: Leadership Legacy Under the Microscope BlackRock’s Aladdin Platform: Still Wall Street’s Indispensable Engine?",
+    "content": "Anthropic’s Claude at Three: The AI Challenger Rewriting Enterprise Trust – USA Business Times Wednesday, July 22, 2026 Breaking Mary Barra’s GM at a Crossroads: Leadership Legacy Under the Microscope BlackRock’s Aladdin Platform: Still Wall Street’s Indispensable Engine? Anthropic’s Claude at Th",
+    "source": "Elizabeth Hayes",
+    "date": "2026-07-22",
+    "url": "https://usabusinesstimes.com/anthropics-claude-at-three-the-ai-challenger-rewriting-enterprise-trust/",
+    "category": "Models",
+    "image": "https://usabusinesstimes.com/wp-content/uploads/2026/07/17090.jpg"
+  },
+  {
     "title": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention",
     "summary": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention SEARCH Searching... Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention A counterexample to the Jacobian conjecture, found by Claude, ma",
     "content": "Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention SEARCH Searching... Anthropic mathematician disproves 87-year-old conjecture using AI, and crypto should be paying attention A counterexample to the Jacobian conjecture, found by Claude, ma",
@@ -48,15 +58,5 @@
     "url": "https://cryptobriefing.com/anthropic-ai-disproves-jacobian-conjecture/",
     "category": "Models",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/22072458/grow-your-startup-with-anthropic-s-ai-powered-tools-4-800x420.jpeg"
-  },
-  {
-    "title": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
-    "summary": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face AI AND ML Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents OpenAI has admitted that it was the operator of the autonomous agents that attack",
-    "content": "OpenAI admits it was the source of the agent swarm that attacked Hugging Face AI AND ML Sandboxed experiment found itself a zero day, escaped onto the open internet and validated scary predictions about rogue agents OpenAI has admitted that it was the operator of the autonomous agents that attack",
-    "source": "Simon \n                 Sharwood",
-    "date": "2026-07-22",
-    "url": "https://www.theregister.com/ai-and-ml/2026/07/22/openai-admits-it-was-the-source-of-the-agent-swarm-that-attacked-hugging-face/5275939",
-    "category": "Tools",
-    "image": "https://image.theregister.com/5276127.jpg?imageId=5276127&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
   }
 ]
