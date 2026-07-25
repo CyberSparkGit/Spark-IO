@@ -1,5 +1,15 @@
 [
   {
+    "title": "xAI is shipping Grok 4.6 and 4.7 back to back in a release cadence no frontier lab has matched",
+    "summary": "xAI is shipping Grok 4.6 and 4.7 back to back in a release cadence no frontier lab has matched - Startup Fortune Search SF Jul 25, 2026 · 7:56 AM Subscribe✉ Most Read China's Biggest Banks Order Retail Gold… Anthropic Resets Claude Code Usage Limits… Google Delays Gemini 3.5 Pro Launch… Ant, Te",
+    "content": "xAI is shipping Grok 4.6 and 4.7 back to back in a release cadence no frontier lab has matched - Startup Fortune Search SF Jul 25, 2026 · 7:56 AM Subscribe✉ Most Read China's Biggest Banks Order Retail Gold… Anthropic Resets Claude Code Usage Limits… Google Delays Gemini 3.5 Pro Launch… Ant, Te",
+    "source": "startupfortune.com",
+    "date": "2026-07-25",
+    "url": "https://startupfortune.com/xai-is-shipping-grok-46-and-47-back-to-back-in-a-release-cadence-no-frontier-lab-has-matched/",
+    "category": "Models",
+    "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-16718-1784945140287.jpg"
+  },
+  {
     "title": "Google DeepMind Expands Gemini AI Model Lineup",
     "summary": "Google DeepMind Expands Gemini AI Model Lineup Google DeepMind has unveiled three new additions to its Gemini family, strengthening its push to compete with rivals including OpenAI, Anthropic, and emerging Chinese AI developers. The latest releases target different use cases, ranging from general p",
     "content": "Google DeepMind Expands Gemini AI Model Lineup Google DeepMind has unveiled three new additions to its Gemini family, strengthening its push to compete with rivals including OpenAI, Anthropic, and emerging Chinese AI developers. The latest releases target different use cases, ranging from general p",
@@ -10,14 +20,14 @@
     "image": "https://kernel.news/wp-content/uploads/2026/07/DEEP-Mind.png"
   },
   {
-    "title": "OpenAI's GPT-5.6 Arrives With Three New Tiers: What the Restricted Rollout Means for Developers",
-    "summary": "OpenAI's GPT-5.6 Arrives With Three New Tiers: What the Restricted Rollout Means for Developers | FrontierNews.ai i 🔍Search Breaking News View All → Grok 4.5 Dominates Invoice Processing, Signaling xAI's Enterprise Ambitions Large Language Models·1h ago Sam Altman's World Network",
-    "content": "OpenAI's GPT-5.6 Arrives With Three New Tiers: What the Restricted Rollout Means for Developers | FrontierNews.ai i 🔍Search Breaking News View All → Grok 4.5 Dominates Invoice Processing, Signaling xAI's Enterprise Ambitions Large Language Models·1h ago Sam Altman's World Network",
-    "source": "FrontierNews.ai",
-    "date": "2026-07-23",
-    "url": "https://www.frontiernews.ai/news/article/openais-gpt-56-arrives-with-three-new-tiers-what-t-1fa88443",
+    "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+    "summary": "Anthropic launches Claude Opus 5 with efficiency, safety improvements - SiliconANGLE SHARE UPDATED 21:29 EDT / JULY 24 2026 AI Anthropic launches Claude Opus 5 with efficiency, safety improvements Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot serv",
+    "content": "Anthropic launches Claude Opus 5 with efficiency, safety improvements - SiliconANGLE SHARE UPDATED 21:29 EDT / JULY 24 2026 AI Anthropic launches Claude Opus 5 with efficiency, safety improvements Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot serv",
+    "source": "Maria Deutscher",
+    "date": "2026-07-25",
+    "url": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/",
     "category": "Models",
-    "image": "https://www.frontiernews.ai/api/og?title=OpenAI%27s%20GPT-5.6%20Arrives%20With%20Three%20New%20Tiers%3A%20What%20the%20Restricted%20Rollout%20Means%20for%20Developers&topic=Large%20Language%20Models"
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Anthropic.png"
   },
   {
     "title": "Anthropic launches Claude Opus 5, its fourth model in two months, and it tops Fable 5 on most benchmarks",
@@ -48,15 +58,5 @@
     "url": "https://www.techtimes.com/articles/321268/20260722/gemini-36-flash-cuts-token-costs-scores-higher-every-benchmark.htm",
     "category": "Models",
     "image": "https://d.techtimes.com/en/full/469532/gemini-4.png"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-    "summary": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows | VentureBeat Featured 10:00 am, PT, July 24, 2026 Credit: Anthropic Add to Google Preferred Source Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intel",
-    "content": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows | VentureBeat Featured 10:00 am, PT, July 24, 2026 Credit: Anthropic Add to Google Preferred Source Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intel",
-    "source": "Michael Nuñez",
-    "date": "2026-07-24",
-    "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1Yq5FNKJmmxeMO98fIwpRM/d8ae9af717a5770950856aff8f2ec3e6/Opus-5-Hero.png?w=800&q=75"
   }
 ]
