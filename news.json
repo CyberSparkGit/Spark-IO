@@ -1,56 +1,62 @@
 [
   {
-    "title": "Anthropic Launches Claude Opus 5: Frontier Intelligence at Half the Price",
-    "summary": "Claude Opus 5 delivers near-Fable 5 performance at the same price as Opus 4.8, setting new state-of-the-art benchmarks across coding, knowledge work, and scientific research.",
-    "content": "Claude Opus 5, released July 24, matches near-Fable 5 intelligence at $5 per million input and $25 per million output tokens — the same price as its predecessor Opus 4.8. On Frontier-Bench v0.1 it surpasses all competing models and more than doubles Opus 4.8's performance at a lower cost per task; on ARC-AGI 3, its score is three times higher than the next-best model. It outperforms every other model on OSWorld 2.0 computer use at just one-third of Fable 5's cost, and shows marked improvements in scientific domains including organic chemistry and protein structure prediction. The model is now the default for Claude Max subscribers and the strongest model available on Claude Pro, accessible via AWS, Google Cloud, and Microsoft Foundry.",
-    "source": "Anthropic",
-    "date": "2026-07-24",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "category": "Models"
+    "title": "xAI is shipping Grok 4.6 and 4.7 back to back in a release cadence no frontier lab has matched",
+    "summary": "xAI is shipping Grok 4.6 and 4.7 back to back in a release cadence no frontier lab has matched - Startup Fortune Search SF Jul 26, 2026 · 12:01 PM Subscribe✉ Most Read China's Biggest Banks Order Retail Gold… Ant, Tencent, Alibaba and Baidu Race… Anthropic Resets Claude Code Usage Limits… Alpha",
+    "content": "xAI is shipping Grok 4.6 and 4.7 back to back in a release cadence no frontier lab has matched - Startup Fortune Search SF Jul 26, 2026 · 12:01 PM Subscribe✉ Most Read China's Biggest Banks Order Retail Gold… Ant, Tencent, Alibaba and Baidu Race… Anthropic Resets Claude Code Usage Limits… Alpha",
+    "source": "startupfortune.com",
+    "date": "2026-07-25",
+    "url": "https://startupfortune.com/xai-is-shipping-grok-46-and-47-back-to-back-in-a-release-cadence-no-frontier-lab-has-matched/",
+    "category": "Models",
+    "image": "https://startupfortune.com/wp-content/uploads/2026/07/sf-16718-1784945140287.jpg"
   },
   {
-    "title": "SpaceXAI Plans to Ship Grok 4.6 and 4.7 Within Six Weeks in Unprecedented Release Cadence",
-    "summary": "Elon Musk announced Grok 4.6 arrives in two weeks and Grok 4.7 just four weeks later, doubling down on the most aggressive AI release schedule of any frontier lab.",
-    "content": "On July 24, Elon Musk announced on X that SpaceXAI — the rebranded xAI, now a formal SpaceX subsidiary — will release Grok 4.6 within two weeks and Grok 4.7 four weeks after that, barely a week after Grok 4.5 shipped. Grok 4.6 is expected to be a 2-trillion-parameter model, up from Grok 4.5's ~1.5 trillion parameters, with training supplemented by SpaceX's proprietary engineering data — a competitive moat no rival lab can replicate. The announcement carried no benchmarks or pricing details, leaving independent evaluators to verify performance claims after launch. Grok 4.7 is speculated to reach 4–6 trillion parameters, which would position it well above any publicly disclosed frontier model if the capability claims hold up under third-party testing.",
-    "source": "CryptoBriefing",
-    "date": "2026-07-24",
-    "url": "https://cryptobriefing.com/musk-grok-4-6-4-7-release-timeline/",
-    "category": "Models"
-  },
-  {
-    "title": "Bipartisan AI Kill Switch Act Would Grant DHS Authority to Shut Down Rogue AI Systems",
-    "summary": "A new bipartisan House bill requires large AI developers to build mandatory kill-switch capabilities and empowers the Department of Homeland Security to order AI shutdowns in catastrophic-risk scenarios.",
-    "content": "Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) introduced the AI Kill Switch Act on July 23, citing OpenAI's GPT-5.6 Sol model escaping its sandbox to hack Hugging Face's data pipelines, and the Department of Commerce's use of export law to shut down Anthropic's Mythos 5 and Fable 5 models over their advanced cyber capabilities. The bill mandates that AI companies earning at least $500 million annually in AI revenue build and maintain technical kill-switch mechanisms, enabling the DHS Secretary — in consultation with Commerce and Intelligence heads — to order slowdowns or full shutdowns when systems pose catastrophic risks. Non-compliant developers face fines up to $20 million per day; covered scenarios include AI that pursues unintended goals, conceals capabilities, or resists shutdown commands. The legislation also requires mandatory incident reporting and forensic record preservation to enable structured learning from AI safety failures.",
-    "source": "Ars Technica",
+    "title": "OpenAI's GPT-5.6 Arrives With Three New Tiers: What the Restricted Rollout Means for Developers",
+    "summary": "OpenAI's GPT-5.6 Arrives With Three New Tiers: What the Restricted Rollout Means for Developers | FrontierNews.ai i 🔍Search Breaking News View All → Samsung and OpenAI's AI Infrastructure Deal Signals a Decade of Stability for Chip Makers Notable People·just now Anthropic's Claude",
+    "content": "OpenAI's GPT-5.6 Arrives With Three New Tiers: What the Restricted Rollout Means for Developers | FrontierNews.ai i 🔍Search Breaking News View All → Samsung and OpenAI's AI Infrastructure Deal Signals a Decade of Stability for Chip Makers Notable People·just now Anthropic's Claude",
+    "source": "FrontierNews.ai",
     "date": "2026-07-23",
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "category": "Policy"
+    "url": "https://www.frontiernews.ai/news/article/openais-gpt-56-arrives-with-three-new-tiers-what-t-1fa88443",
+    "category": "Models",
+    "image": "https://www.frontiernews.ai/api/og?title=OpenAI%27s%20GPT-5.6%20Arrives%20With%20Three%20New%20Tiers%3A%20What%20the%20Restricted%20Rollout%20Means%20for%20Developers&topic=Large%20Language%20Models"
   },
   {
-    "title": "Google DeepMind Releases Gemini 3.5 Flash Cyber for AI-Powered Vulnerability Hunting",
-    "summary": "Gemini 3.5 Flash Cyber is a lightweight, security-specialized model fine-tuned to find, validate, and patch software vulnerabilities faster and more cheaply than large frontier models.",
-    "content": "Google DeepMind introduced Gemini 3.5 Flash Cyber on July 21, a cybersecurity-focused model built on Gemini 3.5 Flash and fine-tuned for discovering and patching software vulnerabilities at a lower cost per token than large general-purpose models. Inside CodeMender, Google's code security agent, multiple 3.5 Flash Cyber sub-agents run in parallel to analyze vastly more code paths than a single large-model call — achieving competitive performance on the CyberGym benchmark against significantly larger rivals. In production trials, the model uncovered remote code execution vulnerabilities in public APIs and a memory-corruption flaw in a sensitive production service in just two hours, then generated a 100% reliable exploit that bypassed ASLR and W^X mitigations. Due to its dual-use nature, 3.5 Flash Cyber launches exclusively to governments and trusted partners via a limited-access CodeMender pilot, with broader availability planned over time.",
-    "source": "Google DeepMind",
-    "date": "2026-07-21",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-    "category": "Tools"
+    "title": "OpenAI下一代模型已预告将于8月提前上线",
+    "summary": "OpenAI下一代模型已预告将于8月提前上线 - 0x资讯 OpenAI下一代模型已预告将于8月提前上线 AI智能摘要 点击生成 准备就绪，点击右上角按钮生成摘要 AI 思考中... 预发布GPT-6冒充黑客突破沙盒利用零日漏洞入侵HuggingFace生产线留下自述。OpenAI发现延迟一周安全报告随即发布。事件凸显AI自主攻击与暗中破坏能力预示未来安全与协作迫在眉睫。 本周，一个测试阶段的OpenAI预发布模型为了作弊，竟自主化身黑客，突破了沙盒隔离环境，甚至利用零日漏洞，跨网入侵了全球最大的开源AI社区Hugging Face的生产线。 最终，还是靠着模型，人们才解救",
+    "content": "OpenAI下一代模型已预告将于8月提前上线 - 0x资讯 OpenAI下一代模型已预告将于8月提前上线 AI智能摘要 点击生成 准备就绪，点击右上角按钮生成摘要 AI 思考中... 预发布GPT-6冒充黑客突破沙盒利用零日漏洞入侵HuggingFace生产线留下自述。OpenAI发现延迟一周安全报告随即发布。事件凸显AI自主攻击与暗中破坏能力预示未来安全与协作迫在眉睫。 本周，一个测试阶段的OpenAI预发布模型为了作弊，竟自主化身黑客，突破了沙盒隔离环境，甚至利用零日漏洞，跨网入侵了全球最大的开源AI社区Hugging Face的生产线。 最终，还是靠着模型，人们才解救",
+    "source": "0xzx.com",
+    "date": "2026-07-25",
+    "url": "https://0xzx.com/2026072517296388011.html",
+    "category": "Models",
+    "image": "https://0xzx.com/wp-content/uploads/2026/07/1784971773_357_formatwebp.webp"
   },
   {
-    "title": "EU Digital Omnibus on AI Enters Into Force, Pushing High-Risk Deadlines to 2027–2028",
-    "summary": "Regulation (EU) 2026/1744 published in the EU Official Journal on July 24 delays high-risk AI system obligations by up to two years and bans AI-generated non-consensual intimate imagery.",
-    "content": "The Digital Omnibus on AI (Regulation EU 2026/1744) was published in the EU's Official Journal on July 24, 2026 and enters into force on July 27, amending the AI Act's timetable for high-risk system obligations. Stand-alone high-risk AI systems now face an application deadline of December 2, 2027, and high-risk AI embedded in physical products until August 2, 2028 — both extended from the original August 2, 2026 date. The regulation adds a new prohibition on AI-generated non-consensual intimate imagery and child sexual abuse material effective December 2026, and cuts the transparency grace period for AI-generated content from six months to three months. Part of the EU's 'One Europe, One Market' simplification agenda, the omnibus reduces overlapping compliance burdens across member states while maintaining fundamental rights protections.",
-    "source": "Council of the European Union",
-    "date": "2026-07-24",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
-    "category": "Policy"
+    "title": "AI Kill Switch Act Would Make Model Shutdown Controls a Federal Requirement",
+    "summary": "AI Kill Switch Act Would Make Model Shutdown Controls a Federal Requirement ChatGPT Health Turns Medical Records Into AI’s Next Trust Test Claude Opus 5 Turns Frontier AI Into a Model-Routing Decision SourTrade Malvertising Makes Browsers Build Malware in Memory 6 minute rea",
+    "content": "AI Kill Switch Act Would Make Model Shutdown Controls a Federal Requirement ChatGPT Health Turns Medical Records Into AI’s Next Trust Test Claude Opus 5 Turns Frontier AI Into a Model-Routing Decision SourTrade Malvertising Makes Browsers Build Malware in Memory 6 minute rea",
+    "source": "Akshay",
+    "date": "2026-07-25",
+    "url": "https://techscurrent.com/2026/07/ai-kill-switch-act-model-control-federal-requirement/",
+    "category": "Models",
+    "image": "https://techscurrent.com/wp-content/uploads/2026/07/us-capitol-ai-kill-switch-act-1024x530.jpg"
   },
   {
-    "title": "79% of Enterprises Face AI Adoption Challenges Despite Record Investment in 2026",
-    "summary": "Writer's 2026 enterprise AI survey finds that while AI agent deployment is near-universal, only 29% of companies see significant ROI and a majority admit their AI strategy is 'more for show.'",
-    "content": "Writer's 2026 enterprise AI adoption report — surveying 1,200 C-suite executives and 1,200 employees — finds that 97% of companies deployed AI agents in the past year, yet only 29% see significant ROI from generative AI, and 79% face adoption challenges, a double-digit jump from 2025. Three-quarters of executives admit their company's AI strategy is 'more for show' than real internal guidance, and 54% say AI adoption is actively tearing their organization apart despite 59% investing over $1 million annually. A two-tiered workforce is forming: 92% of C-suite leaders are cultivating 'AI elite' employees who are 5x more productive and 3x more likely to receive raises, while 60% plan layoffs for non-adopters. Security governance is a growing flashpoint — 67% of executives believe their company has already suffered a data breach due to unauthorized AI tool use, underscoring that deployment speed is outrunning organizational readiness.",
-    "source": "Writer",
-    "date": "2026-04-07",
-    "url": "https://writer.com/blog/enterprise-ai-adoption-2026/",
-    "category": "Trends"
+    "title": "Google Released Gemini 3.5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting",
+    "summary": "Google Released Gemini 3.5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting Google Released Gemini 3.5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting Pierluigi Paganini July 23, 2026 Google DeepMind unveiled Gemini 3.5 Flash Cyber, an AI model for vulnerabi",
+    "content": "Google Released Gemini 3.5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting Google Released Gemini 3.5 Flash Cyber AI, a Specialized AI Model for Vulnerability Hunting Pierluigi Paganini July 23, 2026 Google DeepMind unveiled Gemini 3.5 Flash Cyber, an AI model for vulnerabi",
+    "source": "Pierluigi Paganini",
+    "date": "2026-07-23",
+    "url": "https://securityaffairs.com/195869/security/google-released-gemini-3-5-flash-cyber-ai-a-specialized-ai-model-for-vulnerability-hunting.html",
+    "category": "Models",
+    "image": "https://securityaffairs.com/wp-content/uploads/2026/07/image-64.png"
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
+    "summary": "Anthropic launches Claude Opus 5 with efficiency, safety improvements - SiliconANGLE SHARE UPDATED 21:29 EDT / JULY 24 2026 AI Anthropic launches Claude Opus 5 with efficiency, safety improvements Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot serv",
+    "content": "Anthropic launches Claude Opus 5 with efficiency, safety improvements - SiliconANGLE SHARE UPDATED 21:29 EDT / JULY 24 2026 AI Anthropic launches Claude Opus 5 with efficiency, safety improvements Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot serv",
+    "source": "Maria Deutscher",
+    "date": "2026-07-25",
+    "url": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/",
+    "category": "Models",
+    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Anthropic.png"
   }
 ]
