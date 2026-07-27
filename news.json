@@ -1,25 +1,5 @@
 [
   {
-    "title": "Google's Lightweight Cyber Model Found 55 Unique Bugs in V8, Beating Models Far Larger",
-    "summary": "Google's Lightweight Cyber Model Found 55 Unique Bugs in V8, Beating Models Far Larger - DEV Community Google DeepMind has released a small language model fine-tuned purely to hunt software vulnerabilities, and it outperformed much larger general-purpose models at the job.",
-    "content": "Google's Lightweight Cyber Model Found 55 Unique Bugs in V8, Beating Models Far Larger - DEV Community Google DeepMind has released a small language model fine-tuned purely to hunt software vulnerabilities, and it outperformed much larger general-purpose models at the job. Tested on Chrome's V8 Jav",
-    "source": "dev.to",
-    "date": "2026-07-27",
-    "url": "https://dev.to/breachprotocol/googles-lightweight-cyber-model-found-55-unique-bugs-in-v8-beating-models-far-larger-6c",
-    "category": "Models",
-    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw370vm9pucj1xasxf6da.png"
-  },
-  {
-    "title": "OpenAI connects medical records to ChatGPT Health",
-    "summary": "OpenAI connects medical records to ChatGPT Health | ETIH EdTech News — EdTech Innovation Hub OpenAI connects medical records and Apple Health to ChatGPT AI Health and wellbeing 27 Jul The US rollout covers logged-in users aged 18 and over on web and iOS across Free, Go, Plus and Pro plans",
-    "content": "OpenAI connects medical records to ChatGPT Health | ETIH EdTech News — EdTech Innovation Hub OpenAI connects medical records and Apple Health to ChatGPT AI Health and wellbeing 27 Jul The US rollout covers logged-in users aged 18 and over on web and iOS across Free, Go, Plus and Pro plans",
-    "source": "Written By  Emma Thompson",
-    "date": "2026-07-26",
-    "url": "https://www.edtechinnovationhub.com/news/openai-connects-medical-records-and-apple-health-to-chatgpt",
-    "category": "Models",
-    "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6a6491522863cf53bc4833c6/1784975698307/openai-chatgpt-health-records.png.png?format=1500w"
-  },
-  {
     "title": "Google Previews Gemini 3.5 Flash Cyber to Lower AI Security Cost",
     "summary": "Google Previews Gemini 3.5 Flash Cyber to Lower AI Security Cost Google Previews Gemini 3.5 Flash Cyber: Will its Lower Cost Accelerate Enterprise AI Cybersecurity? Google has unveiled a cost-optimized AI cybersecurity model, joining Anthropic and Microsoft in the race to secure software with AI",
     "content": "Google Previews Gemini 3.5 Flash Cyber to Lower AI Security Cost Google Previews Gemini 3.5 Flash Cyber: Will its Lower Cost Accelerate Enterprise AI Cybersecurity? Google has unveiled a cost-optimized AI cybersecurity model, joining Anthropic and Microsoft in the race to secure software with AI",
@@ -40,6 +20,26 @@
     "image": "https://nowosci.ai/og?v=2"
   },
   {
+    "title": "House Bill Proposes Kill Switches for Frontier AI",
+    "summary": "House Bill Proposes Kill Switches for Frontier AI Popular Topics Resources SHARE Share on Facebook Share on X Share on Pinterest Share on Whatsapp House Lawmakers Propose Mandatory Kill Switches for Frontier AI Systems Lawmakers cited the Hugging Face breach involving OpenAI models as suppor",
+    "content": "House Bill Proposes Kill Switches for Frontier AI Popular Topics Resources SHARE Share on Facebook Share on X Share on Pinterest Share on Whatsapp House Lawmakers Propose Mandatory Kill Switches for Frontier AI Systems Lawmakers cited the Hugging Face breach involving OpenAI models as suppor",
+    "source": "Joseph Ofonagoro",
+    "date": "2026-07-27",
+    "url": "https://www.techrepublic.com/article/news-us-ai-kill-switch-act/",
+    "category": "Policy",
+    "image": "https://assets.techrepublic.com/uploads/2026/07/tr-07272026-us-ai-kill-switch-act.jpg?f=jpeg"
+  },
+  {
+    "title": "Nvidia invests in Sutskever's SSI to 10x its compute",
+    "summary": "Nvidia invests in Sutskever's SSI to 10x its compute Image by: X Nvidia has taken a stake in a company with no product, no revenue and no plans to sell anything soon. Safe Superintelligence, the lab Ilya Sutskever founded after leaving OpenAI, said on Monday that Nvidia had made a “substantial” i",
+    "content": "Nvidia invests in Sutskever's SSI to 10x its compute Image by: X Nvidia has taken a stake in a company with no product, no revenue and no plans to sell anything soon. Safe Superintelligence, the lab Ilya Sutskever founded after leaving OpenAI, said on Monday that Nvidia had made a “substantial” i",
+    "source": "Cristian Dina",
+    "date": "2026-07-27",
+    "url": "https://thenextweb.com/news/nvidia-ssi-sutskever-investment-vera-rubin-10x-compute",
+    "category": "Tools",
+    "image": "https://media.thenextweb.com/2026/05/Ilya-Sutskever.avif"
+  },
+  {
     "title": "Anthropic Debuts Claude Opus 5 at Half the Cost of Fable 5",
     "summary": "Anthropic Debuts Claude Opus 5 at Half the Cost of Fable 5 Sign in Sign in Welcome!Log into your account your username your password Forgot your password? Password recovery Recover your password your email Search Search Home Tech Artificial Intelligence Anthropic Debuts Claude Opus 5 at H",
     "content": "Anthropic Debuts Claude Opus 5 at Half the Cost of Fable 5 Sign in Sign in Welcome!Log into your account your username your password Forgot your password? Password recovery Recover your password your email Search Search Home Tech Artificial Intelligence Anthropic Debuts Claude Opus 5 at H",
@@ -50,13 +50,13 @@
     "image": "https://entrelligence.com/wp-content/uploads/2026/07/Anthropic-Debuts-Claude-Opus-5.jpg"
   },
   {
-    "title": "Anthropic launches Claude Opus 5 with efficiency, safety improvements",
-    "summary": "Anthropic launches Claude Opus 5 with efficiency, safety improvements - SiliconANGLE SHARE UPDATED 21:29 EDT / JULY 24 2026 AI Anthropic launches Claude Opus 5 with efficiency, safety improvements Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot serv",
-    "content": "Anthropic launches Claude Opus 5 with efficiency, safety improvements - SiliconANGLE SHARE UPDATED 21:29 EDT / JULY 24 2026 AI Anthropic launches Claude Opus 5 with efficiency, safety improvements Anthropic PBC today rolled out a large language model called Claude Opus 5 to its chatbot serv",
-    "source": "Maria Deutscher",
-    "date": "2026-07-25",
-    "url": "https://siliconangle.com/2026/07/24/anthropic-launches-claude-opus-5-efficiency-safety-improvements/",
+    "title": "OpenAI's Rogue AI Agent Escaped Its Sandbox. Here's What Actually Happened,and Why Experts Are Skeptical",
+    "summary": "OpenAI's Rogue AI Agent Escaped Its Sandbox. Here's What Actually Happened,and Why Experts Are Skeptical | FrontierNews.ai i 🔍Search Breaking News View All → Ilya Sutskever's Safe Superintelligence Inc.",
+    "content": "OpenAI's Rogue AI Agent Escaped Its Sandbox. Here's What Actually Happened,and Why Experts Are Skeptical | FrontierNews.ai i 🔍Search Breaking News View All → Ilya Sutskever's Safe Superintelligence Inc. Lands NVIDIA Partnership and Major Investment Large Language Models·1h ago Elo",
+    "source": "FrontierNews.ai",
+    "date": "2026-07-26",
+    "url": "https://www.frontiernews.ai/news/article/openais-rogue-ai-agent-escaped-its-sandbox-heres-w-8669a6a8",
     "category": "Models",
-    "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Anthropic.png"
+    "image": "https://www.frontiernews.ai/api/og?title=OpenAI%27s%20Rogue%20AI%20Agent%20Escaped%20Its%20Sandbox.%20Here%27s%20What%20Actually%20Happened%2Cand%20Why%20Experts%20Are%20Skeptical&topic=Large%20Language%20Models"
   }
 ]
