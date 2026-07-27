@@ -1,5 +1,15 @@
 [
   {
+    "title": "Google's Lightweight Cyber Model Found 55 Unique Bugs in V8, Beating Models Far Larger",
+    "summary": "Google's Lightweight Cyber Model Found 55 Unique Bugs in V8, Beating Models Far Larger - DEV Community Google DeepMind has released a small language model fine-tuned purely to hunt software vulnerabilities, and it outperformed much larger general-purpose models at the job.",
+    "content": "Google's Lightweight Cyber Model Found 55 Unique Bugs in V8, Beating Models Far Larger - DEV Community Google DeepMind has released a small language model fine-tuned purely to hunt software vulnerabilities, and it outperformed much larger general-purpose models at the job. Tested on Chrome's V8 Jav",
+    "source": "dev.to",
+    "date": "2026-07-27",
+    "url": "https://dev.to/breachprotocol/googles-lightweight-cyber-model-found-55-unique-bugs-in-v8-beating-models-far-larger-6c",
+    "category": "Models",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fw370vm9pucj1xasxf6da.png"
+  },
+  {
     "title": "OpenAI connects medical records to ChatGPT Health",
     "summary": "OpenAI connects medical records to ChatGPT Health | ETIH EdTech News — EdTech Innovation Hub OpenAI connects medical records and Apple Health to ChatGPT AI Health and wellbeing 27 Jul The US rollout covers logged-in users aged 18 and over on web and iOS across Free, Go, Plus and Pro plans",
     "content": "OpenAI connects medical records to ChatGPT Health | ETIH EdTech News — EdTech Innovation Hub OpenAI connects medical records and Apple Health to ChatGPT AI Health and wellbeing 27 Jul The US rollout covers logged-in users aged 18 and over on web and iOS across Free, Go, Plus and Pro plans",
@@ -8,6 +18,16 @@
     "url": "https://www.edtechinnovationhub.com/news/openai-connects-medical-records-and-apple-health-to-chatgpt",
     "category": "Models",
     "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6a6491522863cf53bc4833c6/1784975698307/openai-chatgpt-health-records.png.png?format=1500w"
+  },
+  {
+    "title": "Google DeepMind Releases Gemma 4, Open Models Built on…",
+    "summary": "Google DeepMind Releases Gemma 4, Open Models Built on… Share News Google DeepMind Releases Gemma 4, Open Models Built on Gemini 3 Technology Models Patryk Raba July 24, 20265 Google DeepMind has released the next generation of its open Gemma models, Gemma 4, in five sizes, for the first time",
+    "content": "Google DeepMind Releases Gemma 4, Open Models Built on… Share News Google DeepMind Releases Gemma 4, Open Models Built on Gemini 3 Technology Models Patryk Raba July 24, 20265 Google DeepMind has released the next generation of its open Gemma models, Gemma 4, in five sizes, for the first time",
+    "source": "nowosci.ai",
+    "date": "2026-07-24",
+    "url": "https://nowosci.ai/en/article/google-deepmind-releases-gemma-4-open-models",
+    "category": "Models",
+    "image": "https://nowosci.ai/og?v=2"
   },
   {
     "title": "Anthropic Debuts Claude Opus 5 at Half the Cost of Fable 5",
@@ -30,33 +50,13 @@
     "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Anthropic.png"
   },
   {
-    "title": "Anthropic's Claude Opus 5 scores 30.2% on ARC-AGI-3, nearly quadrupling prior record — TechSphere News",
-    "summary": "Anthropic's Claude Opus 5 scores 30.on ARC-AGI-3, nearly quadrupling prior record — TechSphere News Home› Models› Feature Models · 2026 Photo · Hans Meyer for TechSphere News By Hans Meyer Models & LLMs Jul 26, 2026 4 min read - Anthropic's Claude Opus 5 scored 30.on ARC-AGI-3, nearly qua",
-    "content": "Anthropic's Claude Opus 5 scores 30.on ARC-AGI-3, nearly quadrupling prior record — TechSphere News Home› Models› Feature Models · 2026 Photo · Hans Meyer for TechSphere News By Hans Meyer Models & LLMs Jul 26, 2026 4 min read - Anthropic's Claude Opus 5 scored 30.on ARC-AGI-3, nearly qua",
-    "source": "techspherenews.com",
+    "title": "OpenAI's Rogue AI Agent Escaped Its Sandbox. Here's What Actually Happened,and Why Experts Are Skeptical",
+    "summary": "OpenAI's Rogue AI Agent Escaped Its Sandbox. Here's What Actually Happened,and Why Experts Are Skeptical | FrontierNews.ai i 🔍Search Breaking News View All → Claude Opus 5 Arrives at Half the Price of Fable 5, Reshaping How Teams Choose AI Models Large Language Models·just now Ope",
+    "content": "OpenAI's Rogue AI Agent Escaped Its Sandbox. Here's What Actually Happened,and Why Experts Are Skeptical | FrontierNews.ai i 🔍Search Breaking News View All → Claude Opus 5 Arrives at Half the Price of Fable 5, Reshaping How Teams Choose AI Models Large Language Models·just now Ope",
+    "source": "FrontierNews.ai",
     "date": "2026-07-26",
-    "url": "https://techspherenews.com/anthropic-s-claude-opus-5-scores-30-2-on-arc-agi-3-nearly-quadrupling-prior-record",
+    "url": "https://www.frontiernews.ai/news/article/openais-rogue-ai-agent-escaped-its-sandbox-heres-w-8669a6a8",
     "category": "Models",
-    "image": "https://techspherenews.com/uploads/news/anthropic-s-claude-opus-5-scores-30-2-on-arc-agi-3-nearly-quadrupling-prior-record.png"
-  },
-  {
-    "title": "Anthropic release Claude Opus 5, its 'safest model yet'",
-    "summary": "Anthropic release Claude Opus 5, its 'safest model yet' | Mashable Claude Opus 5 is Anthropic's newest AI model, released on Friday. Credit: Andrey Rudakov/Bloomberg via Getty Images Anthropic has unveiled a new AI model it says comes close to Claude Fable 5 in its levels of intelligence — at",
-    "content": "Anthropic release Claude Opus 5, its 'safest model yet' | Mashable Claude Opus 5 is Anthropic's newest AI model, released on Friday. Credit: Andrey Rudakov/Bloomberg via Getty Images Anthropic has unveiled a new AI model it says comes close to Claude Fable 5 in its levels of intelligence — at",
-    "source": "mashable.com",
-    "date": "2026-07-24",
-    "url": "https://mashable.com/tech/anthropic-releases-claude-opus-5",
-    "category": "Models",
-    "image": "https://helios-i.mashable.com/imagery/articles/03fC5VhHjXHou96SmHjK7TZ/hero-image.fill.size_1200x675.v1784920428.jpg"
-  },
-  {
-    "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-    "summary": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows | VentureBeat Featured 10:00 am, PT, July 24, 2026 Credit: Anthropic Add to Google Preferred Source Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intel",
-    "content": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows | VentureBeat Featured 10:00 am, PT, July 24, 2026 Credit: Anthropic Add to Google Preferred Source Anthropic released Claude Opus 5 on Friday, a model the company says delivers nearly all the intel",
-    "source": "Michael Nuñez",
-    "date": "2026-07-24",
-    "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1Yq5FNKJmmxeMO98fIwpRM/d8ae9af717a5770950856aff8f2ec3e6/Opus-5-Hero.png?w=800&q=75"
+    "image": "https://www.frontiernews.ai/api/og?title=OpenAI%27s%20Rogue%20AI%20Agent%20Escaped%20Its%20Sandbox.%20Here%27s%20What%20Actually%20Happened%2Cand%20Why%20Experts%20Are%20Skeptical&topic=Large%20Language%20Models"
   }
 ]
