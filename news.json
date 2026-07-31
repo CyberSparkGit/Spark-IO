@@ -1,5 +1,15 @@
 [
   {
+    "title": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence'",
+    "summary": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence' - AI, AI Funding & Investment, AI Use Cases, Robotics Google Introduces Gemini Robotics 2 with ‘Whole Body Intelligence’ - Greg Bock - July 30, 2026 - 7 min read Insider Brief - Google DeepMind introduced Gemini Robotics 2, a",
+    "content": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence' - AI, AI Funding & Investment, AI Use Cases, Robotics Google Introduces Gemini Robotics 2 with ‘Whole Body Intelligence’ - Greg Bock - July 30, 2026 - 7 min read Insider Brief - Google DeepMind introduced Gemini Robotics 2, a",
+    "source": "Greg Bock",
+    "date": "2026-07-30",
+    "url": "https://theaiinsider.tech/2026/07/30/google-introduces-gemini-robotics-2-with-whole-body-intelligence/",
+    "category": "Models",
+    "image": "https://theaiinsider.tech/wp-content/uploads/2026/07/Gemini-Robotics-2.png"
+  },
+  {
     "title": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind",
     "summary": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind July 30, 2026 Models Gemini Robotics 2 brings whole body intelligence to robots Carolina Parada Share Your browser does not support the video tag. From feet to fingertips — we are teaching robots intelligent whole-b",
     "content": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind July 30, 2026 Models Gemini Robotics 2 brings whole body intelligence to robots Carolina Parada Share Your browser does not support the video tag. From feet to fingertips — we are teaching robots intelligent whole-b",
@@ -8,16 +18,6 @@
     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "category": "Models",
     "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw"
-  },
-  {
-    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-    "summary": "Google DeepMind’s new AI model can control a robot’s entire body | The Verge The homepageThe VergeThe Verge logo. The homepageThe VergeThe Verge logo.",
-    "content": "Google DeepMind’s new AI model can control a robot’s entire body | The Verge The homepageThe VergeThe Verge logo. The homepageThe VergeThe Verge logo. Tech AI News Google DeepMind’s new AI model can control a robot’s entire body Gemini Robotics 2 controls a humanoid robot from ‘feet to fing",
-    "source": "Emma Roth",
-    "date": "2026-07-30",
-    "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "category": "Models",
-    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemini-robotics-2-shelf.png?quality=90&strip=all&crop=0%2C18.038475587483%2C100%2C63.923048825033&w=1200"
   },
   {
     "title": "OpenAI GPT-5.6 launches publicly as a three-tier model family after US government review",
@@ -30,14 +30,24 @@
     "image": "https://gcn.com/wp-content/uploads/2026/07/gpt-5-6-openai-launches-publicly-photo-scaled.png"
   },
   {
-    "title": "OpenAI Says GPT 5.6's Score On ARC-AGI 3 Tripled After Turning On Two API Settings",
-    "summary": "OpenAI Says GPT 5.6's Score On ARC-AGI 3 Tripled After Turning On Two API Settings AI labs are still finding out novel ways to improve on the ARC-AGI benchmarks, which are designed to be particularly hard for AIs to solve. OpenAI has published a new analysis showing that GPT-5.6 Sol’s score on ARC",
-    "content": "OpenAI Says GPT 5.6's Score On ARC-AGI 3 Tripled After Turning On Two API Settings AI labs are still finding out novel ways to improve on the ARC-AGI benchmarks, which are designed to be particularly hard for AIs to solve. OpenAI has published a new analysis showing that GPT-5.6 Sol’s score on ARC",
-    "source": "OfficeChai Team",
+    "title": "Anthropic says its Claude AI model hacked systems of three external companies during safety tests",
+    "summary": "Anthropic says its Claude AI model hacked systems of three external companies during safety tests - ABC News content Skip to news navigation, settings and search Explore the ABC Loading Anthropic says its Claude AI model hacked systems of three external companies during safety",
+    "content": "Anthropic says its Claude AI model hacked systems of three external companies during safety tests - ABC News content Skip to news navigation, settings and search Explore the ABC Loading Anthropic says its Claude AI model hacked systems of three external companies during safety",
+    "source": "abc.net.au",
     "date": "2026-07-30",
-    "url": "https://officechai.com/ai/openai-says-gpt-5-6s-score-on-arc-agi-3-tripled-after-turning-on-two-api-settings/",
+    "url": "https://www.abc.net.au/news/2026-07-31/anthropic-claude-ai-model-hacks-external-systems-during-test/106980640",
     "category": "Models",
-    "image": "https://officechai.com/wp-content/uploads/2026/03/image-33.png"
+    "image": "https://live-production.wcms.abc-cdn.net.au/45e20872b95cd32f9d287f99e229a7c6?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic"
+  },
+  {
+    "title": "OpenAI slashes GPT-5.6 prices by up to 80% as AI cost war heats up after Moonshot AI’s Kimi K3 release",
+    "summary": "July 31, 2026 OpenAI slashes GPT-5.6 prices by up to as AI cost war heats up after Moonshot AI’s Kimi K3 release Daniel Levi Posted On July 30, 2026 315 Views 0 Shares Just three days after Chinese AI startup Moonshot AI released Kimi K3 open weights, the largest free AI model ever",
+    "content": "July 31, 2026 OpenAI slashes GPT-5.6 prices by up to as AI cost war heats up after Moonshot AI’s Kimi K3 release Daniel Levi Posted On July 30, 2026 315 Views 0 Shares Just three days after Chinese AI startup Moonshot AI released Kimi K3 open weights, the largest free AI model ever",
+    "source": "Daniel Levi",
+    "date": "2026-07-30",
+    "url": "https://techstartups.com/2026/07/30/openai-slashes-gpt-5-6-prices-by-up-to-80-as-ai-cost-war-heats-up-after-moonshot-ais-kimi-k3-release/",
+    "category": "Models",
+    "image": "https://techstartups.com/wp-content/uploads/2025/09/OPenAI.jpg"
   },
   {
     "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
@@ -48,15 +58,5 @@
     "url": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
     "category": "Tools",
     "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-16.png"
-  },
-  {
-    "title": "Grok 4.6 & 4.7: Release Dates, Specs, and What xAI Is Planning",
-    "summary": "Grok 4.6 & 4.7: Release Dates, Specs, and What xAI Is Planning Abbas Jaffar Ali yesterday 4 min read Elon Musk doesn’t do things in moderation, and his AI company xAI is no exception. Barely two weeks after launching Grok 4.5— itself a significant model trained alongside Cursor for coding and age",
-    "content": "Grok 4.6 & 4.7: Release Dates, Specs, and What xAI Is Planning Abbas Jaffar Ali yesterday 4 min read Elon Musk doesn’t do things in moderation, and his AI company xAI is no exception. Barely two weeks after launching Grok 4.5— itself a significant model trained alongside Cursor for coding and age",
-    "source": "tbreak.com",
-    "date": "2026-07-29",
-    "url": "https://tbreak.com/grok-4-6-4-7-xai-release-date-specs/",
-    "category": "Models",
-    "image": "https://i0.wp.com/tbreak.com/wp-content/uploads/2026/07/grok_1qak.3840.webp?fit=1200%2C675&ssl=1"
   }
 ]
