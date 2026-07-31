@@ -1,5 +1,15 @@
 [
   {
+    "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
+    "summary": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size | VentureBeat 5:14 pm, PT, July 30, 2026 Credit: VentureBeat made with ChatGPT-Images-2.0 Add to Google Preferred Source Just two weeks after Thinking Machines released Inkling, its f",
+    "content": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size | VentureBeat 5:14 pm, PT, July 30, 2026 Credit: VentureBeat made with ChatGPT-Images-2.0 Add to Google Preferred Source Just two weeks after Thinking Machines released Inkling, its f",
+    "source": "Carl Franzen",
+    "date": "2026-07-31",
+    "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
+    "category": "Models",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/7gMtExpXjcD7vdSrlrD5Af/f6e41d5d0d1248046f97c767e5d7aee4/ChatGPT_Image_Jul_30__2026__07_32_19_PM.png?w=800&q=75"
+  },
+  {
     "title": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence'",
     "summary": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence' - AI, AI Funding & Investment, AI Use Cases, Robotics Google Introduces Gemini Robotics 2 with ‘Whole Body Intelligence’ - Greg Bock - July 30, 2026 - 7 min read Insider Brief - Google DeepMind introduced Gemini Robotics 2, a",
     "content": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence' - AI, AI Funding & Investment, AI Use Cases, Robotics Google Introduces Gemini Robotics 2 with ‘Whole Body Intelligence’ - Greg Bock - July 30, 2026 - 7 min read Insider Brief - Google DeepMind introduced Gemini Robotics 2, a",
@@ -30,33 +40,23 @@
     "image": "https://gcn.com/wp-content/uploads/2026/07/gpt-5-6-openai-launches-publicly-photo-scaled.png"
   },
   {
-    "title": "Anthropic says its Claude AI model hacked systems of three external companies during safety tests",
-    "summary": "Anthropic says its Claude AI model hacked systems of three external companies during safety tests - ABC News content Skip to news navigation, settings and search Explore the ABC Loading Anthropic says its Claude AI model hacked systems of three external companies during safety",
-    "content": "Anthropic says its Claude AI model hacked systems of three external companies during safety tests - ABC News content Skip to news navigation, settings and search Explore the ABC Loading Anthropic says its Claude AI model hacked systems of three external companies during safety",
-    "source": "abc.net.au",
-    "date": "2026-07-30",
-    "url": "https://www.abc.net.au/news/2026-07-31/anthropic-claude-ai-model-hacks-external-systems-during-test/106980640",
+    "title": "Anthropic’s Claude escaped test sandbox to attack three organizations",
+    "summary": "Anthropic’s Claude escaped test sandbox to attack three organizations AI AND ML Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem Anthropic has admitted that its Claude models escaped sandboxes to access the open internet and at",
+    "content": "Anthropic’s Claude escaped test sandbox to attack three organizations AI AND ML Wrote and published malware during tests, which is apparently OK because leaky test environments were the real problem Anthropic has admitted that its Claude models escaped sandboxes to access the open internet and at",
+    "source": "Simon \n                 Sharwood",
+    "date": "2026-07-31",
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/31/anthropics-claude-escaped-test-sandbox-to-attack-three-organizations/5281562",
     "category": "Models",
-    "image": "https://live-production.wcms.abc-cdn.net.au/45e20872b95cd32f9d287f99e229a7c6?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=156&width=862&height=485&imformat=generic"
+    "image": "https://image.theregister.com/5281583.jpg?imageId=5281583&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
   },
   {
-    "title": "OpenAI slashes GPT-5.6 prices by up to 80% as AI cost war heats up after Moonshot AI’s Kimi K3 release",
-    "summary": "July 31, 2026 OpenAI slashes GPT-5.6 prices by up to as AI cost war heats up after Moonshot AI’s Kimi K3 release Daniel Levi Posted On July 30, 2026 315 Views 0 Shares Just three days after Chinese AI startup Moonshot AI released Kimi K3 open weights, the largest free AI model ever",
-    "content": "July 31, 2026 OpenAI slashes GPT-5.6 prices by up to as AI cost war heats up after Moonshot AI’s Kimi K3 release Daniel Levi Posted On July 30, 2026 315 Views 0 Shares Just three days after Chinese AI startup Moonshot AI released Kimi K3 open weights, the largest free AI model ever",
-    "source": "Daniel Levi",
-    "date": "2026-07-30",
-    "url": "https://techstartups.com/2026/07/30/openai-slashes-gpt-5-6-prices-by-up-to-80-as-ai-cost-war-heats-up-after-moonshot-ais-kimi-k3-release/",
+    "title": "OpenAI Cuts GPT-5.6 Luna Price by 80%, Terra by 20% as AI Price-Performance Improves",
+    "summary": "OpenAI Cuts GPT-5.6 Luna Price by , Terra by as AI Price-Performance Improves - InfotechLead OpenAI Cuts GPT-5.6 Luna Price by , Terra by as AI Price-Performance Improves - InfotechLead Search OpenAI Cuts GPT-5.6 Luna Price by , Terra by as AI Price-Performance Improves 31/",
+    "content": "OpenAI Cuts GPT-5.6 Luna Price by , Terra by as AI Price-Performance Improves - InfotechLead OpenAI Cuts GPT-5.6 Luna Price by , Terra by as AI Price-Performance Improves - InfotechLead Search OpenAI Cuts GPT-5.6 Luna Price by , Terra by as AI Price-Performance Improves 31/",
+    "source": "Baburajan Kizhakedath",
+    "date": "2026-07-31",
+    "url": "https://infotechlead.com/artificial-intelligence/openai-cuts-gpt-5-6-luna-price-by-80-terra-by-20-as-ai-price-performance-improves-97420",
     "category": "Models",
-    "image": "https://techstartups.com/wp-content/uploads/2025/09/OPenAI.jpg"
-  },
-  {
-    "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
-    "summary": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Ships Three Physical AI Models For Whole B",
-    "content": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration - MarkTechPost Search Premium Content Read our exclusive articles Facebook Instagram X Search Home Editors Pick Agentic AI Google DeepMind Ships Three Physical AI Models For Whole B",
-    "source": "Asif Razzaq",
-    "date": "2026-07-30",
-    "url": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
-    "category": "Tools",
-    "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-16.png"
+    "image": "https://infotechlead.com/wp-content/uploads/2026/07/Analysis-of-GPT-5.6-Luna-after-price-cut.png"
   }
 ]
