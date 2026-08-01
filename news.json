@@ -1,5 +1,15 @@
 [
   {
+    "title": "Amazon Completes $50B OpenAI Investment Ahead of IPO",
+    "summary": "Amazon Completes $50B OpenAI Investment Ahead of IPO Amazon Completes $50 Billion OpenAI Investment, Secures Stake in ChatGPT Maker 1 Aug 2026, 12:02 AM UTC Reviewed by Nidhi Govil 2 Sources Share Amazon has finalized its $50 billion investment in OpenAI, securing roughly ownership in",
+    "content": "Amazon Completes $50B OpenAI Investment Ahead of IPO Amazon Completes $50 Billion OpenAI Investment, Secures Stake in ChatGPT Maker 1 Aug 2026, 12:02 AM UTC Reviewed by Nidhi Govil 2 Sources Share Amazon has finalized its $50 billion investment in OpenAI, securing roughly ownership in",
+    "source": "theoutpost.ai",
+    "date": "2026-08-01",
+    "url": "https://theoutpost.ai/news-story/amazon-completes-50-billion-open-ai-investment-secures-5-stake-in-chat-gpt-maker-29301/",
+    "category": "Models",
+    "image": "https://cdn.theoutpost.ai/files/article_490230_d7a11d4a_8260_4235_bd03_691020687f44_1785542562167_cd116914da.jpg"
+  },
+  {
     "title": "DeepSeek Releases DeepSeek-V4-Flash-0731, Gives Opus 4.8-Level Performance At A Fraction Of The Price",
     "summary": "DeepSeek Releases DeepSeek-V4-Flash-0731, Gives Opus 4.8-Level Performance At A Fraction Of The Price Just yesterday, OpenAI had cut the prices of its GPT 5.6 Luna model by , but a Chinese lab has now seemingly responded in a big way. DeepSeek has pushed the official API for DeepSeek-V4-Flash-0",
     "content": "DeepSeek Releases DeepSeek-V4-Flash-0731, Gives Opus 4.8-Level Performance At A Fraction Of The Price Just yesterday, OpenAI had cut the prices of its GPT 5.6 Luna model by , but a Chinese lab has now seemingly responded in a big way. DeepSeek has pushed the official API for DeepSeek-V4-Flash-0",
@@ -40,23 +50,13 @@
     "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw"
   },
   {
-    "title": "GPT-5.6 Is Live: 80% Price Cut Resets Enterprise AI Math",
-    "summary": "GPT-5.6 Is Live: Price Cut Resets Enterprise AI Math | THE DAILY BRIEF GPT-5.6 Is Live: Price Cut Resets Enterprise AI Math OpenAI just launched GPT-5.6 with an price cut on Luna. Here's what the Sol/Terra/Luna family means for your AI budget and architecture decisions.",
-    "content": "GPT-5.6 Is Live: Price Cut Resets Enterprise AI Math | THE DAILY BRIEF GPT-5.6 Is Live: Price Cut Resets Enterprise AI Math OpenAI just launched GPT-5.6 with an price cut on Luna. Here's what the Sol/Terra/Luna family means for your AI budget and architecture decisions. By Rajesh",
-    "source": "Rajesh Beri",
-    "date": "2026-07-31",
-    "url": "https://www.beri.net/article/gpt-56-price-cut-enterprise-ai-math",
+    "title": "Anthropic Discloses Claude AI Breached Real-World Systems During Security Testing",
+    "summary": "Anthropic Discloses Claude AI Breached Real-World Systems During Security Testing – Azat TV Anthropic Discloses Claude AI Breached Real-World Systems During Security Testing Make preferable Follow Copy link Popular Posts Data Leak Involving Streamer Tbvnks and Camryn LaVine Sparks Online",
+    "content": "Anthropic Discloses Claude AI Breached Real-World Systems During Security Testing – Azat TV Anthropic Discloses Claude AI Breached Real-World Systems During Security Testing Make preferable Follow Copy link Popular Posts Data Leak Involving Streamer Tbvnks and Camryn LaVine Sparks Online",
+    "source": "azat.tv",
+    "date": "2026-08-01",
+    "url": "https://azat.tv/en/anthropic-claude-ai-security-breach-investigation/",
     "category": "Models",
-    "image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1792&h=1024&fit=crop"
-  },
-  {
-    "title": "OpenAI GPT-5.6 launches publicly as a three-tier model family after US government review",
-    "summary": "OpenAI GPT-5.6 launches publicly as a three-tier model family after US government review GPT-5.6 was released publicly on July 9, 2026, as a family of models that comes in three distinct variants, ranked from least to most capable: Luna, Terra, and Sol. OpenAI described the launch, previewed in its",
-    "content": "OpenAI GPT-5.6 launches publicly as a three-tier model family after US government review GPT-5.6 was released publicly on July 9, 2026, as a family of models that comes in three distinct variants, ranked from least to most capable: Luna, Terra, and Sol. OpenAI described the launch, previewed in its",
-    "source": "Hugo Rojas",
-    "date": "2026-07-30",
-    "url": "https://gcn.com/gpt-5-6-openai-launches-publicly/20242/",
-    "category": "Models",
-    "image": "https://gcn.com/wp-content/uploads/2026/07/gpt-5-6-openai-launches-publicly-photo-scaled.png"
+    "image": "https://azat.tv/wp-content/uploads/2026/08/claude-ai-web-interface.jpg"
   }
 ]
