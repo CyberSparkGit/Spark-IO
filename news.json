@@ -1,56 +1,62 @@
 [
   {
-    "title": "OpenAI's Astra Model Solves Ten Long-Standing Mathematical Problems",
-    "summary": "OpenAI revealed its next major model family, Astra, by publishing machine-verified solutions to ten previously unsolved problems in mathematics and theoretical computer science.",
-    "content": "OpenAI announced that an internal version of its unreleased Astra model has produced ten new results in mathematics and theoretical computer science, with each problem having been open for at least a decade. The headline result is the first-ever explicit construction of a non-sofic group, resolving a question in group theory that has stood since Mikhail Gromov introduced the concept in 1999. Other results include disproving Connes's rigidity conjecture on von Neumann algebras, proving Ehrhart's volume conjecture, and resolving three problems from Paul Erdős's famous catalogue. The company published a 249-page manuscript alongside machine-checkable Lean 4 certificates for every result on GitHub, with the total compute cost for all ten solutions running to roughly $2,000 at current API rates. OpenAI CEO Sam Altman demonstrated Astra to policymakers in Washington, though the model has no announced public release date and will be the first to undergo a new U.S. government review framework before launch.",
-    "source": "The Next Web",
+    "title": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork",
+    "summary": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
+    "content": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
+    "source": "Hugo Rojas",
     "date": "2026-08-01",
-    "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups",
-    "category": "Models"
-  },
-  {
-    "title": "EU AI Act Enforcement Goes Live With New Transparency Requirements",
-    "summary": "The European Commission's AI Office began enforcing the AI Act on August 2, 2026, activating rules that require chatbots to disclose AI interactions and mandate labeling of deepfakes and AI-generated content.",
-    "content": "From August 2, 2026, the European Commission's AI Office, working alongside national authorities, can investigate providers of general-purpose AI models and impose fines of up to €15 million or 3% of worldwide annual turnover for non-compliance. New transparency obligations under Article 50 require chatbots and interactive AI systems to inform users they are interacting with AI, while deepfakes must be visibly labeled and AI-generated content must carry machine-readable markers. The enforcement powers cover general-purpose AI model providers who had a one-year runway since August 2025 to come into compliance. Around 190 organizations — including Anthropic, Google, Meta, Microsoft, and OpenAI — signed the voluntary Code of Practice on Transparency of AI-Generated Content ahead of the deadline, which the Commission treats as the primary compliance pathway. High-risk AI system obligations were separately delayed by the Digital Omnibus on AI regulation, pushed out to December 2027 and August 2028 respectively.",
-    "source": "European Commission",
-    "date": "2026-08-02",
-    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
-    "category": "Policy"
-  },
-  {
-    "title": "Moonshot AI Launches Kimi K3, the First Open-Weight 3-Trillion-Parameter AI Model",
-    "summary": "Moonshot AI released Kimi K3, a 2.8-trillion-parameter open-weight model with a 1-million-token context window that directly challenges proprietary frontier models from OpenAI and Anthropic.",
-    "content": "Moonshot AI unveiled Kimi K3 on July 27, 2026, a 2.8-trillion-parameter open-weight model and the first openly available model in the 3-trillion-parameter class, positioning it as a challenger to proprietary models like OpenAI's GPT 5.6 Sol and Anthropic's Claude Fable 5. The model features a 1-million-token context window — the largest among open models — and is designed for coding, long-context reasoning, and multimodal tasks using a Stable LatentMoE architecture that activates only 16 of 896 experts per token to keep compute costs manageable. Benchmark results show Kimi K3 outpacing proprietary competitors on coding tasks like SWE Marathon and BrowseComp while remaining competitive on broader reasoning benchmarks. The model is available via the Together AI API at $0.30 per million tokens for cache-hit inputs, significantly undercutting closed-source competitors, and the open weights can also be downloaded for independent local deployment. Demand was so strong that Moonshot AI temporarily paused new API subscriptions due to overwhelmed capacity shortly after launch.",
-    "source": "Blockchain.News",
-    "date": "2026-08-02",
-    "url": "https://blockchain.news/news/moonshot-ai-kimi-k3-first-open-3t-model",
-    "category": "Models"
-  },
-  {
-    "title": "Amazon Shuts AGI Lab and Winds Down Nova Flagship Models to Focus on Enterprise AI",
-    "summary": "Amazon closed its San Francisco AGI Lab, cut jobs in its AGI division, and is winding down Nova Premier, Omni, Reel, and Canvas to redirect its $220 billion capex toward enterprise AI deployment on AWS.",
-    "content": "Amazon closed its San Francisco AGI Lab — created in late 2024 around talent from AI startup Adept — and cut jobs across its AGI organization, signaling a decisive strategic pivot away from frontier model competition. The company is placing several flagship Nova models including Nova Premier, Nova Omni, Nova Reel, and Nova Canvas into 'keep the lights on' status, meaning they remain operational for existing customers but will receive no further active development. Resources are being redirected to Frontier Model Research led by Pieter Abbeel, with a new flagship model expected at AWS re:Invent later in 2026, while Nova 2 Sonic, Nova 2 Lite, Nova Forge, and Nova Act remain active. Amazon simultaneously raised its 2026 capital spending plan from $200 billion to $220 billion, with AWS revenue growing 37% year-over-year, and announced a $1 billion Forward Deployed Engineering group that embeds engineers directly with enterprise customers building agentic AI systems. The move makes clear that Amazon is choosing to be the AI infrastructure and deployment layer rather than competing at the top of foundation model benchmarks.",
-    "source": "Startup Fortune",
-    "date": "2026-08-02",
-    "url": "https://startupfortune.com/amazon-shuts-its-agi-lab-and-cuts-jobs-to-chase-enterprise-ai-instead/",
-    "category": "Industry"
-  },
-  {
-    "title": "Google DeepMind Launches Gemini Robotics 2 With Full Humanoid Body Control",
-    "summary": "Google DeepMind unveiled Gemini Robotics 2 on July 30, the first model in the family to coordinate humanoid movement from feet to fingertips under a single learned policy, alongside a new reasoning layer and an edge model for offline robots.",
-    "content": "Google DeepMind unveiled Gemini Robotics 2 on July 30, a suite of AI models that runs legs, torso, arms, and fingers under a single learned policy — the first time the family has extended beyond upper-body control alone. The suite launches in three forms: the standard Gemini Robotics 2 vision-language-action model, Gemini Robotics ER 2 for high-level embodied reasoning and multi-step task planning across sequences lasting several minutes, and Gemini Robotics On-Device 2 for edge deployment without internet connectivity. ER 2 acts as the system's high-level brain, coordinating multiple robots working together on shared tasks, tracking progress through live video feeds, and recovering from mid-execution failures like spills or misalignments. Google also introduced ASIMOV-Agentic, a new safety benchmark measuring a robot's ability to refuse unsafe actions and request human intervention when uncertain. Gemini Robotics ER 2 is now publicly available via the Gemini API and Google AI Studio, with the full Robotics 2 suite available to selected early-access hardware partners.",
-    "source": "GCN",
-    "date": "2026-07-30",
     "url": "https://gcn.com/google-deepmind-gemini-robotics-2-humanoid/20314/",
-    "category": "Tools"
+    "category": "Models",
+    "image": "https://gcn.com/wp-content/uploads/2026/08/google-deepmind-gemini-robotics-2-humanoid-photo-scaled.png"
   },
   {
-    "title": "Enterprise AI Agents Surge From Pilot to Production as Adoption Reaches Critical Mass",
-    "summary": "Gartner forecasts that 40% of enterprise applications will embed task-specific AI agents by end of 2026, up from under 5% in 2025, as businesses report dramatic productivity gains but struggle to scale beyond pilots.",
-    "content": "Gartner forecasts that 40 percent of enterprise applications will feature task-specific AI agents by end of 2026, a dramatic rise from less than 5 percent in 2025, as businesses accelerate the shift from experimentation to production deployment. A PwC survey of 300 senior executives found 79 percent had begun adopting AI agents, with two-thirds reporting measurable productivity gains and 88 percent planning to raise AI budgets because of agentic systems. Early production deployments show striking returns: one consumer goods company reduced blog production costs by 95 percent and increased output speed fiftyfold using agents, while a global bank cut customer interaction costs tenfold. Despite the momentum, only 17 percent of organizations have fully deployed agents in production according to Gartner's 2026 hype cycle research, as barriers including cross-application integration, employee trust, and governance frameworks slow enterprise-wide rollout. The global AI agents market is projected to grow from $7.8 billion in 2025 to $52.6 billion by 2030, driven by a compound annual growth rate of nearly 46 percent.",
-    "source": "WebProNews",
+    "title": "DeepSeek Releases DeepSeek-V4-Flash-0731, Gives Opus 4.8-Level Performance At A Fraction Of The Price",
+    "summary": "DeepSeek Releases DeepSeek-V4-Flash-0731, Gives Opus 4.8-Level Performance At A Fraction Of The Price Just yesterday, OpenAI had cut the prices of its GPT 5.6 Luna model by , but a Chinese lab has now seemingly responded in a big way. DeepSeek has pushed the official API for DeepSeek-V4-Flash-0",
+    "content": "DeepSeek Releases DeepSeek-V4-Flash-0731, Gives Opus 4.8-Level Performance At A Fraction Of The Price Just yesterday, OpenAI had cut the prices of its GPT 5.6 Luna model by , but a Chinese lab has now seemingly responded in a big way. DeepSeek has pushed the official API for DeepSeek-V4-Flash-0",
+    "source": "OfficeChai Team",
+    "date": "2026-07-31",
+    "url": "https://officechai.com/ai/deepseek-releases-deepseek-v4-flash-0731-gives-opus-4-8-level-performance-at-a-fraction-of-the-price/",
+    "category": "Models",
+    "image": "http://officechai.com/wp-content/uploads/2026/07/image-63.png"
+  },
+  {
+    "title": "DeepSeek's V4 Flash Guts OpenAI's Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs",
+    "summary": "DeepSeek's V4 Flash Guts OpenAI's Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs DeepSeek’s V4 Flash Guts OpenAI’s Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales Wit",
+    "content": "DeepSeek's V4 Flash Guts OpenAI's Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs DeepSeek’s V4 Flash Guts OpenAI’s Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales Wit",
+    "source": "Rohail Saleem",
+    "date": "2026-07-31",
+    "url": "https://wccftech.com/deepseeks-v4-flash-guts-openais-price-war-within-hours-matching-opus-grade-output-at-0-14-per-million-tokens-as-moonshot-scales-with-20000-new-nvidia-gpus/",
+    "category": "Models",
+    "image": "https://cdn.wccftech.com/wp-content/uploads/2025/10/OpenAI-Sora-1-1920x1097.jpg"
+  },
+  {
+    "title": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence'",
+    "summary": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence' - AI, AI Funding & Investment, AI Use Cases, Robotics Google Introduces Gemini Robotics 2 with ‘Whole Body Intelligence’ - Greg Bock - July 30, 2026 - 7 min read Insider Brief - Google DeepMind introduced Gemini Robotics 2, a",
+    "content": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence' - AI, AI Funding & Investment, AI Use Cases, Robotics Google Introduces Gemini Robotics 2 with ‘Whole Body Intelligence’ - Greg Bock - July 30, 2026 - 7 min read Insider Brief - Google DeepMind introduced Gemini Robotics 2, a",
+    "source": "Greg Bock",
+    "date": "2026-07-30",
+    "url": "https://theaiinsider.tech/2026/07/30/google-introduces-gemini-robotics-2-with-whole-body-intelligence/",
+    "category": "Models",
+    "image": "https://theaiinsider.tech/wp-content/uploads/2026/07/Gemini-Robotics-2.png"
+  },
+  {
+    "title": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public - BitRss",
+    "summary": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public - BitRss - Crypto World News Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Decrypt 1 month ago 108 Anthropic has released a full version of its cybersecu",
+    "content": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public - BitRss - Crypto World News Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Decrypt 1 month ago 108 Anthropic has released a full version of its cybersecu",
+    "source": "bitrss.com",
     "date": "2026-08-01",
-    "url": "https://www.webpronews.com/enterprise-ai-agents-surge-from-pilot-to-production-as-adoption-hits-critical-mass/",
-    "category": "Trends"
+    "url": "https://bitrss.com/anthropic-rolls-out-claude-mythos-5-ai-model-along-with-the-safer-fable-5-for-the-public-219432",
+    "category": "Models",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png"
+  },
+  {
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind",
+    "summary": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind July 30, 2026 Models Gemini Robotics 2 brings whole body intelligence to robots Carolina Parada Share Your browser does not support the video tag. From feet to fingertips — we are teaching robots intelligent whole-b",
+    "content": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind July 30, 2026 Models Gemini Robotics 2 brings whole body intelligence to robots Carolina Parada Share Your browser does not support the video tag. From feet to fingertips — we are teaching robots intelligent whole-b",
+    "source": "Carolina Parada",
+    "date": "2026-07-30",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "category": "Models",
+    "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw"
   }
 ]
