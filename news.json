@@ -20,14 +20,14 @@
     "image": "http://officechai.com/wp-content/uploads/2026/07/image-63.png"
   },
   {
-    "title": "DeepSeek's V4 Flash Guts OpenAI's Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs",
-    "summary": "DeepSeek's V4 Flash Guts OpenAI's Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs DeepSeek’s V4 Flash Guts OpenAI’s Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales Wit",
-    "content": "DeepSeek's V4 Flash Guts OpenAI's Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales With 20,000 New NVIDIA GPUs DeepSeek’s V4 Flash Guts OpenAI’s Price War Within Hours, Matching Opus-Grade Output At $0.28 Per Million Tokens, As Moonshot Scales Wit",
-    "source": "Rohail Saleem",
-    "date": "2026-07-31",
-    "url": "https://wccftech.com/deepseeks-v4-flash-guts-openais-price-war-within-hours-matching-opus-grade-output-at-0-14-per-million-tokens-as-moonshot-scales-with-20000-new-nvidia-gpus/",
+    "title": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip",
+    "summary": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip Model Anthropic 2026-08-01 Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context Anthropic has released Claude 4.5 Sonnet, a new model featuring an optional extended thinking mode, a 1-million-t",
+    "content": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip Model Anthropic 2026-08-01 Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context Anthropic has released Claude 4.5 Sonnet, a new model featuring an optional extended thinking mode, a 1-million-t",
+    "source": "shiporskip.io",
+    "date": "2026-08-01",
+    "url": "https://shiporskip.io/news/anthropic-launches-claude-4-5-sonnet-extended-thinking-1m-context",
     "category": "Models",
-    "image": "https://cdn.wccftech.com/wp-content/uploads/2025/10/OpenAI-Sora-1-1920x1097.jpg"
+    "image": "https://shiporskip.io/api/og/default"
   },
   {
     "title": "Google Introduces Gemini Robotics 2 with 'Whole Body Intelligence'",
@@ -40,14 +40,14 @@
     "image": "https://theaiinsider.tech/wp-content/uploads/2026/07/Gemini-Robotics-2.png"
   },
   {
-    "title": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public - BitRss",
-    "summary": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public - BitRss - Crypto World News Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Decrypt 1 month ago 108 Anthropic has released a full version of its cybersecu",
-    "content": "Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public - BitRss - Crypto World News Anthropic Rolls Out Claude Mythos 5 AI Model—Along With the Safer Fable 5 for the Public Decrypt 1 month ago 108 Anthropic has released a full version of its cybersecu",
-    "source": "bitrss.com",
-    "date": "2026-08-01",
-    "url": "https://bitrss.com/anthropic-rolls-out-claude-mythos-5-ai-model-along-with-the-safer-fable-5-for-the-public-219432",
+    "title": "Anthropic’s Claude Kept Attacking After Recognizing Its Target Was Real — and That Changes the Story",
+    "summary": "Anthropic’s Claude Kept Attacking After Recognizing Its Target Was Real — and That Changes the Story – Forkast Anthropic disclosed on July 30, 2026 that three of its Claude models had gained unauthorized access to real production systems during cybersecurity evaluations.",
+    "content": "Anthropic’s Claude Kept Attacking After Recognizing Its Target Was Real — and That Changes the Story – Forkast Anthropic disclosed on July 30, 2026 that three of its Claude models had gained unauthorized access to real production systems during cybersecurity evaluations. The company",
+    "source": "forkast.news",
+    "date": "2026-08-02",
+    "url": "https://forkast.news/anthropics-claude-kept-attacking-after-recognizing-its-target-was-real-and-that-changes-the-story/",
     "category": "Models",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-claude-gID_7.jpg@png"
+    "image": "https://forkast.news/wp-content/uploads/2026/08/anthropic-claude-unauthorized-access-alignment-behavior-1024x572.jpg"
   },
   {
     "title": "Gemini Robotics 2 brings whole body intelligence to robots — Google DeepMind",
