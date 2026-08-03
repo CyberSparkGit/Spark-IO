@@ -1,62 +1,56 @@
 [
   {
-    "title": "Alibaba releases Qwen3.8-Max, challenging GPT-5.6 Sol and Claude Fable 5 on AI benchmarks",
-    "summary": "Alibaba releases Qwen3.8-Max, challenging GPT-5.6 Sol and Claude Fable 5 on AI benchmarks - Neowin As competition between Chinese and US-based AI labs continues to intensity, Chinese giant Alibaba today announced Qwen3.8-Max, its largest and most capable AI model to date.",
-    "content": "Alibaba releases Qwen3.8-Max, challenging GPT-5.6 Sol and Claude Fable 5 on AI benchmarks - Neowin As competition between Chinese and US-based AI labs continues to intensity, Chinese giant Alibaba today announced Qwen3.8-Max, its largest and most capable AI model to date. Qwen3.8-Max is now availab",
-    "source": "Pradeep Viswanathan \n         \n         Neowin \n         @pradeepviswav         ·",
+    "title": "Alibaba's Qwen3.8-Max Goes Live with 2.4 Trillion Parameters, Outperforming GPT-5.6 Sol and Claude Fable 5",
+    "summary": "Alibaba released Qwen3.8-Max, its largest AI model at 2.4 trillion parameters, signaling China's aggressive push to close the gap with US frontier labs.",
+    "content": "Alibaba has made Qwen3.8-Max, its newest flagship AI model, widely accessible to global developers via Alibaba Cloud's API and the QwenWork productivity platform, ahead of a full open-weights release next week. The model is built on 2.4 trillion parameters and supports a 1 million-token context window, enabling it to process up to 750,000 words per query. In internal testing, Qwen3.8-Max independently executed a full software engineering project over 16 days, and in benchmarks it outperforms both Claude Fable 5 and GPT-5.6 Sol across 7 general capability evaluations and 36 multimodal and vision tests. The release coincides with the launch of QwenWork, an all-in-one AI productivity platform competing directly with Anthropic's Claude Cowork and OpenAI's ChatGPT Work. Alibaba shares rose 7% on the announcement, reflecting market confidence in China's ability to compete at the AI frontier.",
+    "source": "South China Morning Post",
     "date": "2026-08-03",
-    "url": "https://www.neowin.net/news/alibaba-releases-qwen38-max-challenging-gpt-56-sol-and-claude-fable-5-on-ai-benchmarks/",
-    "category": "Models",
-    "image": "https://cdn.neowin.com/news/images/uploaded/2026/08/1785731619_qwejn_3.8_max_story.webp"
+    "url": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+    "category": "Models"
   },
   {
-    "title": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork",
-    "summary": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
-    "content": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
-    "source": "Hugo Rojas",
+    "title": "OpenAI's Unreleased Astra Model Solves Ten Decade-Old Math Problems with Machine-Checkable Proofs",
+    "summary": "OpenAI revealed that an internal version of its next major model, Astra, resolved ten long-standing open problems in mathematics, each verified by machine-checkable Lean 4 proofs.",
+    "content": "OpenAI published a 249-page manuscript showing its forthcoming Astra model solved ten open mathematical problems — each unsolved for at least a decade — spanning group theory, high-dimensional geometry, quantum complexity, lattice cryptography, and extremal combinatorics. The most consequential result is the construction of the first known non-sofic group, resolving a major question in group theory open since Mikhail Gromov introduced the concept in 1999; Astra also disproved Connes's Rigidity Conjecture, posed by Fields Medalist Alain Connes in 1980. Every proof was formalized in Lean 4 with machine-checkable certificates posted openly on GitHub, enabling independent verification without a mathematics PhD — a structural step beyond prior AI math claims that relied on expert review alone. The total compute cost for all ten solutions was approximately $2,000 at current Sol API rates. Researcher Noam Brown noted the team didn't push hard on compute for any single problem, suggesting significantly harder results may be within reach.",
+    "source": "The Next Web",
     "date": "2026-08-01",
-    "url": "https://gcn.com/google-deepmind-gemini-robotics-2-humanoid/20314/",
-    "category": "Models",
-    "image": "https://gcn.com/wp-content/uploads/2026/08/google-deepmind-gemini-robotics-2-humanoid-photo-scaled.png"
+    "url": "https://thenextweb.com/news/openai-astra-model-ten-math-proofs-non-sofic-groups",
+    "category": "Industry"
   },
   {
-    "title": "Alibaba Releases Qwen 3.8 Max, Beats GPT 5.6 Sol And Fable On Many Benchmarks",
-    "summary": "Alibaba Releases Qwen 3.8 Max, Beats GPT 5.6 Sol And Fable On Many Benchmarks More and more Chinese labs are knocking on the doors of the frontier of AI. Alibaba has released Qwen3.8-Max, the newest and largest model in its Qwen family, and the company is positioning it directly against the best t",
-    "content": "Alibaba Releases Qwen 3.8 Max, Beats GPT 5.6 Sol And Fable On Many Benchmarks More and more Chinese labs are knocking on the doors of the frontier of AI. Alibaba has released Qwen3.8-Max, the newest and largest model in its Qwen family, and the company is positioning it directly against the best t",
-    "source": "OfficeChai Team",
-    "date": "2026-08-03",
-    "url": "https://officechai.com/ai/alibaba-releases-qwen-3-8-max-beats-gpt-5-6-sol-and-fable-on-many-benchmarks/",
-    "category": "Models",
-    "image": "http://officechai.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-11.45.42-1.jpeg"
+    "title": "Google DeepMind Launches Gemini Robotics 2: First AI Suite to Control a Full Humanoid from Feet to Fingertips",
+    "summary": "Google DeepMind released Gemini Robotics 2, the first model suite providing integrated whole-body control for humanoid robots across every joint from feet to five-fingered hands.",
+    "content": "On July 30, 2026, Google DeepMind released Gemini Robotics 2, a three-model suite that coordinates every joint of a humanoid robot — feet, torso, arms, and 22-degree-of-freedom five-fingered hands — under a single learned policy, the first time the Gemini family has extended beyond upper-body control. The suite comprises the core Gemini Robotics 2 vision-language-action model for motor control, Gemini Robotics ER 2 for multi-step task planning and multi-robot collaboration, and Gemini Robotics On-Device 2 which can adapt to new robot embodiments with fewer than 200 training examples. These models are already deployed in the Apptronik Apollo 2 humanoid and are being integrated by partners including Boston Dynamics and Agile Robots, signaling a rapid push toward commercial deployment. The release coincides with an FCC ban on Chinese humanoid robot imports, positioning Google's software stack as the domestic standard for humanoid autonomy. Google is monetizing the technology directly through the Gemini API and Google AI Studio, establishing its AI as essential middleware for the next generation of industrial and service robotics.",
+    "source": "Forkast",
+    "date": "2026-07-30",
+    "url": "https://forkast.news/google-ships-the-first-ai-model-suite-that-controls-a-full-humanoid-from-feet-to-fingertips/",
+    "category": "Models"
   },
   {
-    "title": "OpenAI says its unreleased Astra model solved 10 hard math problems, Anthropic claims Fable cracked 5",
-    "summary": "OpenAI says its unreleased Astra model solved 10 hard math problems, Anthropic claims Fable cracked 5 - India Today News Technology News OpenAI says Astra solved 10 hard math problems, Anthropic says Fable cracked 5 OpenAI says its unreleased Astra model solved 10 hard math problems, Anthropic c",
-    "content": "OpenAI says its unreleased Astra model solved 10 hard math problems, Anthropic claims Fable cracked 5 - India Today News Technology News OpenAI says Astra solved 10 hard math problems, Anthropic says Fable cracked 5 OpenAI says its unreleased Astra model solved 10 hard math problems, Anthropic c",
-    "source": "indiatoday.in",
-    "date": "2026-08-03",
-    "url": "https://www.indiatoday.in/technology/news/story/openai-says-its-unreleased-astra-model-solved-10-hard-math-problems-anthropic-claims-fable-cracked-5-2962067-2026-08-03",
-    "category": "Industry",
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/sam-altman-and-dario-amodei-035551968-16x9.png?VersionId=deGbPH87rTy.3z4N5F.O_OZ895jXdLCW"
+    "title": "EU AI Act Enforcement Goes Live: Chatbots Must Disclose AI Identity, Deepfakes Must Be Labeled",
+    "summary": "The European Commission activated full AI Act enforcement powers on August 2, 2026, requiring chatbots to disclose they are AI and mandating machine-readable marks on AI-generated content.",
+    "content": "From August 2, 2026, the European Commission's AI Office and national authorities across all 27 EU member states can formally investigate AI providers, order corrective measures, and impose fines of up to €15 million or 3% of worldwide annual turnover under the EU AI Act. Article 50 transparency obligations now require interactive AI systems such as chatbots to notify users they are dealing with AI at the first interaction, deepfakes to be visibly labeled, and AI-generated content to carry machine-readable marks enabling downstream detection. Approximately 190 organizations — including Anthropic, Google, Meta, Microsoft, Mistral, and OpenAI — signed the voluntary Code of Practice on Transparency of AI-Generated Content ahead of the deadline, providing a recognized compliance path across member states. High-risk AI system obligations covering hiring, credit scoring, and biometric systems were separately deferred to December 2027 and August 2028 under the EU's Digital Omnibus regulation, creating confusion among compliance teams about what is and is not immediately required. Systems placed on the market on or after August 2 receive no grace period; only providers of generative AI systems already on the market before the deadline have until December 2, 2026, to comply with machine-readable marking rules.",
+    "source": "AI2Work",
+    "date": "2026-08-02",
+    "url": "https://ai2.work/blog/eu-ai-act-enforcement-goes-live-new-transparency-rules-explained",
+    "category": "Policy"
   },
   {
-    "title": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip",
-    "summary": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip Anthropic released Claude 4.5 Sonnet today, positioning it as a significant step up from its predecessor across the coding and agentic task benchmarks the company publishes. The headline capabilities are two: an ex",
-    "content": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip Anthropic released Claude 4.5 Sonnet today, positioning it as a significant step up from its predecessor across the coding and agentic task benchmarks the company publishes. The headline capabilities are two: an ex",
-    "source": "shiporskip.io",
-    "date": "2026-08-01",
-    "url": "https://shiporskip.io/news/anthropic-launches-claude-4-5-sonnet-extended-thinking-1m-context",
-    "category": "Models",
-    "image": "https://shiporskip.io/api/og/default"
-  },
-  {
-    "title": "Google DeepMind launches Gemini Robotics 2 for humanoid robots and physical AI",
-    "summary": "Google DeepMind launches Gemini Robotics 2 for humanoid robots and physical AI - Skip to primary navigation - content - Skip to primary sidebar - Skip to secondary sidebar Google DeepMind has launched Gemini Robotics 2, a new suite of AI models designed to give humanoid and other robo",
-    "content": "Google DeepMind launches Gemini Robotics 2 for humanoid robots and physical AI - Skip to primary navigation - content - Skip to primary sidebar - Skip to secondary sidebar Google DeepMind has launched Gemini Robotics 2, a new suite of AI models designed to give humanoid and other robo",
-    "source": "David Edwards",
+    "title": "DeepSeek V4 Flash Official Release Beats Its Own Pro Model on Agentic Benchmarks at One-Third the Cost",
+    "summary": "DeepSeek released the official V4 Flash model with a post-training upgrade that dramatically improves agentic and coding capabilities while keeping prices at $0.14/$0.28 per million tokens.",
+    "content": "DeepSeek published the official DeepSeek-V4-Flash-0731 on July 31, 2026, moving V4 Flash from preview to public beta with substantially enhanced agentic, coding, and tool-calling capabilities through re-post-training — without any change to the underlying 284 billion-parameter mixture-of-experts architecture. On DeepSeek's evaluation harness, V4 Flash-0731 scored 82.7 on Terminal-Bench 2.1 and 76.7 on Cybergym, surpassing the larger V4-Pro-Preview (72.1 and 52.7) at roughly one-third the output token price ($0.28 vs. $0.87 per million). The model now natively supports the OpenAI Responses API and is specifically adapted for Codex-style coding agents, making it a drop-in upgrade for existing agentic pipelines. MIT-licensed weights were published to Hugging Face, enabling on-premise commercial deployment with no restrictions. The release reinforces the competitive pressure from Chinese AI labs, where frontier-grade agentic performance continues to arrive at a fraction of the cost charged by US providers.",
+    "source": "MarkTechPost",
     "date": "2026-07-31",
-    "url": "https://roboticsandautomationnews.com/2026/07/31/google-deepmind-unveils-gemini-robotics-2-as-apptronik-humanoid-demonstrates-whole-body-ai/103802/",
-    "category": "Models",
-    "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/07/google-deepmind-apptronik-1.png"
+    "url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+    "category": "Tools"
+  },
+  {
+    "title": "Agentic AI Crosses Into Enterprise Production: 58% of Organizations Running Agents at Scale",
+    "summary": "A new industry survey found that 58% of enterprise organizations now have agentic AI programs actively running in production, marking a decisive shift from pilot experiments to business-critical infrastructure.",
+    "content": "The 2026 Agentic Enterprise Report from Contentstack, based on a survey of 621 enterprise digital leaders, found that 58% now have agentic AI programs actively running in production, with 69% of those deployments operating across multiple departments — up sharply from the 31% production rate recorded in 2024. Among enterprises with clearly defined KPIs, 94% report measurable positive ROI from internal agentic programs, and the average enterprise is spending 35% more on AI software and tooling in 2026 compared to 2025. The most persistent barriers are integration with legacy systems (37% of respondents), governance and security concerns (34%), and data and content readiness issues — with 88% of production-stage enterprises wishing they had invested in data infrastructure before deploying agents. Anthropic's parallel State of AI Agents report, drawing on 500+ technical leaders and 3.5 million analyzed conversations, found 80% of organizations already reporting measurable economic returns, with agentic use cases expanding from coding (90% adoption) into data analysis, internal process automation, and supply chain management. Gartner forecasts that 40% of enterprise applications will feature task-specific AI agents by end of 2026, up from under 5% in 2025, though the firm also warns that over 40% of agentic projects risk cancellation by 2027 due to unclear ROI or inadequate governance.",
+    "source": "Contentstack Research",
+    "date": "2026-07-06",
+    "url": "https://www.contentstack.com/resources/report/agentic-enterprise-report-2026",
+    "category": "Trends"
   }
 ]
