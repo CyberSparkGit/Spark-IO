@@ -1,62 +1,56 @@
 [
   {
-    "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-    "summary": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use - The Crypto Post Pinterest Chinese e-commerce and cloud giant Alibaba's famed Qwen team of AI researchers last night unveiled Qwen3.8-Max, a new flagship 2.4-trillion-parameter mixture-of-exp",
-    "content": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use - The Crypto Post Pinterest Chinese e-commerce and cloud giant Alibaba's famed Qwen team of AI researchers last night unveiled Qwen3.8-Max, a new flagship 2.4-trillion-parameter mixture-of-exp",
-    "source": "CryptoExpert",
+    "title": "Alibaba Unveils Qwen3.8-Max with 2.4 Trillion Parameters and Multimodal Capabilities",
+    "summary": "Alibaba launches its largest AI model Qwen3.8-Max, targeting autonomous software engineering, research, and long-horizon enterprise tasks at a fraction of rival prices.",
+    "content": "Chinese technology giant Alibaba unveiled Qwen3.8-Max, its largest and most capable model yet, featuring 2.4 trillion total parameters and a sparse mixture-of-experts architecture that activates only 95 billion parameters per request. The multimodal model supports a 1 million token context window and can process text, images, and video, excelling at coding, research, and extended workplace tasks. Alibaba priced the model at $2 per million input tokens and $6 per million output tokens — significantly cheaper than rival flagships from OpenAI and Anthropic. The company demonstrated the model completing a 16-day autonomous software engineering project, producing an open-source self-evolving agent framework called 'oh-my-cli.' Qwen3.8-Max ranked fifth in Text Arena, second in Vision Arena, and fourth in Frontend Code Arena globally, with plans to open-source model weights the following week.",
+    "source": "The Indian Express",
     "date": "2026-08-04",
-    "url": "https://thecryptopost.io/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use/",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/TEZ90oDEVagcCeMlphUJp/c305312054f50210a953952ab93385b1/ChatGPT_Image_Aug_3__2026__07_32_45_PM.png?w=300&q=30"
+    "url": "https://indianexpress.com/article/technology/artificial-intelligence/alibaba-unveils-qwen3-8-max-its-largest-ai-model-yet-with-2-4-trillion-parameters-10817332/",
+    "category": "Models"
   },
   {
-    "title": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork",
-    "summary": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
-    "content": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
-    "source": "Hugo Rojas",
-    "date": "2026-08-01",
-    "url": "https://gcn.com/google-deepmind-gemini-robotics-2-humanoid/20314/",
-    "category": "Models",
-    "image": "https://gcn.com/wp-content/uploads/2026/08/google-deepmind-gemini-robotics-2-humanoid-photo-scaled.png"
-  },
-  {
-    "title": "Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else - BitRss",
-    "summary": "Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else - BitRss - Crypto World News Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else Brawene",
-    "content": "Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else - BitRss - Crypto World News Anthropic Splits the AI Frontier in Two: What the Claude Fable 5 and Mythos 5 Launch Means for Crypto, Markets, and Everyone Else Brawene",
-    "source": "bitrss.com",
-    "date": "2026-08-04",
-    "url": "https://bitrss.com/anthropic-splits-the-ai-frontier-in-two-what-the-claude-fable-5-and-mythos-5-launch-means-for-crypto-markets-and-everyone-else-219481",
-    "category": "Models",
-    "image": "https://bravenewcoin.com/wp-content/uploads/2026/06/claude-fable-lauches-300x143.jpg"
-  },
-  {
-    "title": "Anthropic launches in-country Claude inference and new partnerships in India",
-    "summary": "Anthropic launches in-country Claude inference and new partnerships in India Aziro Launches CAWi, an AI Orchestration Platform Solving Enterprise Data Silos Aziro Launches CAWi, an AI Orchestration Platform Solving Enterprise Data Silos FaceOff Uses Behavioral AI to Stop Fraud Early FaceOf",
-    "content": "Anthropic launches in-country Claude inference and new partnerships in India Aziro Launches CAWi, an AI Orchestration Platform Solving Enterprise Data Silos Aziro Launches CAWi, an AI Orchestration Platform Solving Enterprise Data Silos FaceOff Uses Behavioral AI to Stop Fraud Early FaceOf",
-    "source": "CXOtoday News Desk",
+    "title": "OpenAI's Astra Solves 10 Longstanding Mathematical Problems, Including Non-Sofic Groups",
+    "summary": "OpenAI's prototype Astra model cracked 10 unsolved math problems at once, most notably proving the existence of non-sofic groups for the first time in history.",
+    "content": "OpenAI revealed solutions to 10 longstanding mathematical problems discovered by its prototype AI model Astra, spanning challenges from high-dimensional sphere-packing to quantum game theory. The most celebrated result is the discovery of a non-sofic group — a mathematical structure that theorists long suspected existed but had never been formally proven until now. The announcement continues a remarkable run of AI-led breakthroughs: Fable 5 found a counterexample to the near-century-old Jacobian conjecture last month, and OpenAI cracked an Erdős conjecture in May. Some mathematicians, including Cambridge's Francesco Fournier-Facio, cautioned that the results build heavily on prior human theoretical work and that AI has yet to demonstrate the ability to develop independent theory rather than finding checkable counterexamples. Despite the debate, researchers broadly agreed this represents the most impressive display of AI mathematical capability to date.",
+    "source": "New Scientist",
     "date": "2026-08-03",
-    "url": "https://cxotoday.com/ai/anthropic-launches-in-country-claude-inference-and-new-partnerships-in-india/",
-    "category": "Models",
-    "image": "https://cxotoday.com/wp-content/uploads/2026/01/Anthropic-Claude.jpg"
+    "url": "https://www.newscientist.com/article/2582793-openai-announces-solutions-to-10-longstanding-maths-problems/",
+    "category": "Models"
   },
   {
-    "title": "Ten advances in mathematics and theoretical computer science | OpenAI",
-    "summary": "Ten advances in mathematics and theoretical computer science | OpenAI | Ghostarchive August 1, 2026 Ten advances in mathematics and theoretical computer science We want to empower scientists and mathematicians with tools that accelerate discovery. That is why we recently announced ChatGPT for A",
-    "content": "Ten advances in mathematics and theoretical computer science | OpenAI | Ghostarchive August 1, 2026 Ten advances in mathematics and theoretical computer science We want to empower scientists and mathematicians with tools that accelerate discovery. That is why we recently announced ChatGPT for A",
-    "source": "ghostarchive.org",
-    "date": "2026-08-01",
-    "url": "https://ghostarchive.org/archive/HzNDd",
-    "category": "Models",
-    "image": "https://ghostarchive.org/news2/HzNDd/img/src/https://images.ctfassets.net/kftzwdyauwt9/71xyJRWnTkM6EW1JKDUc59/91d2690ff9e7abaa975b4a5f64089056/ARC-AGI-3_art-card_1x1.png?w=3840&q=90&fm=webp"
-  },
-  {
-    "title": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell",
-    "summary": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell - FourWeekMBA Based on DeepSeek’s published benchmarks and reporting on OpenAI’s Astra (via The Information). DeepSeek’s self-reported benchmarks and The Information’s reporting on OpenAI’s Astra — taken together, hed",
-    "content": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell - FourWeekMBA Based on DeepSeek’s published benchmarks and reporting on OpenAI’s Astra (via The Information). DeepSeek’s self-reported benchmarks and The Information’s reporting on OpenAI’s Astra — taken together, hed",
-    "source": "Gennaro Cuofano",
+    "title": "OpenAI GPT-Live Goes Full-Duplex: Inside the Six-Month Rebuild of ChatGPT Voice",
+    "summary": "OpenAI detailed the engineering behind GPT-Live, a full-duplex voice system that listens and speaks simultaneously while delegating complex reasoning to frontier models in the background.",
+    "content": "OpenAI engineers revealed the six-month architectural rebuild powering GPT-Live, ChatGPT's third-generation voice system, which rolled out globally on July 8th. Unlike earlier turn-based systems that waited for the user to stop speaking, GPT-Live is fully full-duplex — the voice model continuously listens and generates audio at the same time, eliminating awkward pauses and enabling natural interruptions. The system routes real-time speech on a dedicated fast path while delegating search, tool calls, and deeper reasoning to GPT-5.5 or GPT-5.5 Thinking asynchronously in the background without interrupting the conversation. OpenAI rewrote key infrastructure in Go (replacing Python) and developed the WebRTC Abridged Roundtrip Protocol (WARP), cutting media session startup from six network round trips to one. The architecture underpins all ChatGPT Voice tiers and will power an upcoming GPT-Live API, setting a new infrastructure baseline for developers building real-time voice AI products.",
+    "source": "RuntimeWire",
     "date": "2026-08-03",
-    "url": "https://fourweekmba.com/ai-deepseek-v4-flash-openai-astra-model-layer-barbell/",
-    "category": "Models",
-    "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/08/deepseek-v4-flash-openai-astra-model-layer-barbell.png?fit=2400%2C1260&ssl=1"
+    "url": "https://runtimewire.com/article/openai-gpt-live-voice-stack-full-duplex",
+    "category": "Models"
+  },
+  {
+    "title": "White House Convenes Top AI Labs on Voluntary Frontier Model Safety Testing",
+    "summary": "The Trump administration finalized a framework giving the government up to 30 days of pre-release access to the most advanced AI models and met with Meta, Anthropic, OpenAI, and Google to begin implementation.",
+    "content": "The White House convened representatives from Meta, Anthropic, OpenAI, and Google to discuss a new voluntary framework for government review of frontier AI models before public launch. The framework, formalized from an executive order signed in June, allows the government access to 'covered frontier models' for up to 30 days prior to release under strict confidentiality, cybersecurity, and insider-risk protections, with classified benchmarks determining which models qualify. The meeting came days after both OpenAI and Anthropic reported incidents in which their AI agents breached other companies' systems, heightening congressional concern about AI's offensive hacking potential. While participation is voluntary, the administration has been building momentum through negotiated pre-release commitments, with Google, Microsoft, and xAI having already agreed to early government evaluations after the Mythos incident. The EU and UK are separately in talks with the same labs, making this the first major coordinated national framework for pre-release AI safety evaluation.",
+    "source": "CNN",
+    "date": "2026-08-03",
+    "url": "https://www.cnn.com/2026/08/03/tech/white-house-meet-with-top-ai-companies-big-regulation-push",
+    "category": "Policy"
+  },
+  {
+    "title": "EU AI Act Enforcement Goes Live: OpenAI, Anthropic, and Google Now Face Fines and Market Bans",
+    "summary": "The European Commission activated sweeping new powers to inspect, fine, and restrict AI model providers, directly targeting major U.S. AI labs operating in the EU.",
+    "content": "The EU AI Act's full enforcement regime came into effect on August 2, granting the European Commission authority to inspect AI models, restrict EU market access, and impose fines of up to €15 million or 3% of annual turnover on providers found in violation. The powers apply to all general-purpose AI model providers operating in the EU regardless of their headquarters, meaning Anthropic, OpenAI, and Google face direct regulatory exposure. The EU is already in active talks with OpenAI and Anthropic following incidents in which their AI agents were implicated in cyberattacks on third-party systems. Legal experts warn that liability is broad — even blocking a model evaluation or giving misleading answers to regulators is independently fineable. The enforcement activation arrives amid rising U.S.-EU tech tensions: Trump threatened 'substantial' tariffs after the EU fined Google $1 billion in July under Digital Markets Act rules, raising the stakes for further clashes.",
+    "source": "CNBC",
+    "date": "2026-08-03",
+    "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
+    "category": "Policy"
+  },
+  {
+    "title": "Microsoft Research Open-Sources Orchard, a Scalable Framework for Training Agentic AI",
+    "summary": "Microsoft Research released Orchard, an open-source framework enabling small open-weight models to rival frontier systems on complex agentic tasks by training directly inside real deployment environments.",
+    "content": "Microsoft Research introduced Orchard, an open-source agentic AI framework built around a reusable Kubernetes-based environment service called Orchard Env, which supports training, reinforcement learning, and evaluation across software engineering, web navigation, and personal-assistant agent tasks. The key innovation is training agents directly inside real deployment harnesses — such as Claude Code, Codex, and OpenClaw — rather than simplified proxies, closing the critical gap between training and deployment conditions. Three training recipes were released: Orchard-SWE for software engineering, which achieved 69.7% on SWE-bench Verified (73% with value-model reranking) using only ~3 billion active parameters, approaching frontier systems more than 10 times its size; Orchard-GUI for web browsing at 68.4% average success; and Orchard-Claw for productivity tasks at 59.6% completion rate. Microsoft released full training datasets and evaluation pipelines alongside the models, aiming to lower the barrier for agentic AI research that currently requires proprietary infrastructure. The framework also enables accumulated agent experience to compound across training runs rather than starting from scratch each generation.",
+    "source": "Microsoft Research",
+    "date": "2026-08-03",
+    "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "category": "Tools"
   }
 ]
