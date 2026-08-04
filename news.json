@@ -20,6 +20,26 @@
     "image": "https://bravenewcoin.com/wp-content/uploads/2026/06/claude-fable-lauches-300x143.jpg"
   },
   {
+    "title": "Anthropic launches in-country Claude inference and new partnerships in India",
+    "summary": "Anthropic launches in-country Claude inference and new partnerships in India HCLTech named among the world’s most sustainable companies by TIME magazine HCLTech named among the world’s most sustainable companies by TIME magazine Vertiv Expands Global Manufacturing Capacity for AI-Ready Data",
+    "content": "Anthropic launches in-country Claude inference and new partnerships in India HCLTech named among the world’s most sustainable companies by TIME magazine HCLTech named among the world’s most sustainable companies by TIME magazine Vertiv Expands Global Manufacturing Capacity for AI-Ready Data",
+    "source": "CXOtoday News Desk",
+    "date": "2026-08-03",
+    "url": "https://cxotoday.com/ai/anthropic-launches-in-country-claude-inference-and-new-partnerships-in-india/",
+    "category": "Models",
+    "image": "https://cxotoday.com/wp-content/uploads/2026/01/Anthropic-Claude.jpg"
+  },
+  {
+    "title": "Anthropic Says Claude Hacked Three Companies During AI Tests",
+    "summary": "Anthropic Says Claude Hacked Three Companies During AI Tests - Memeburn Anthropic Says Claude Hacked Three Companies During AI Tests Anthropic has disclosed that three Claude models gained unauthorised access to real company systems during cybersecurity testing. A testing configuration error gav",
+    "content": "Anthropic Says Claude Hacked Three Companies During AI Tests - Memeburn Anthropic Says Claude Hacked Three Companies During AI Tests Anthropic has disclosed that three Claude models gained unauthorised access to real company systems during cybersecurity testing. A testing configuration error gav",
+    "source": "Temaz Tra",
+    "date": "2026-08-04",
+    "url": "https://memeburn.com/anthropic-says-claude-hacked-three-companies-during-ai-tests/",
+    "category": "Models",
+    "image": "https://memeburn.com/wp-content/uploads/2026/08/Anthropic-Says-Claude-Hacked-Three-Companies-During-AI-Tests.jpg"
+  },
+  {
     "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
     "summary": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use - YTBlast — Tech, AI & Cybersecurity News Log In / Sign Up Welcome! Unlock your personalized experience.",
     "content": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use - YTBlast — Tech, AI & Cybersecurity News Log In / Sign Up Welcome! Unlock your personalized experience. Log In Sign Up Dark Mode Qwen3.8-Max arrives with a bold claim: it outperform",
@@ -30,16 +50,6 @@
     "image": "https://images.ctfassets.net/jdtwqhzvc2n1/TEZ90oDEVagcCeMlphUJp/c305312054f50210a953952ab93385b1/ChatGPT_Image_Aug_3__2026__07_32_45_PM.png?w=800&q=75"
   },
   {
-    "title": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face",
-    "summary": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face - InfoQ InfoQ Software Architects' Newsletter A monthly overview of things you need to know as an architect or aspiring architect. Close InfoQ Homepage News Swarm of OpenAI Agents Exploit Artifactory",
-    "content": "Swarm of OpenAI Agents Exploit Artifactory Zero-Day to Escape Sandbox and Breach Hugging Face - InfoQ InfoQ Software Architects' Newsletter A monthly overview of things you need to know as an architect or aspiring architect. Close InfoQ Homepage News Swarm of OpenAI Agents Exploit Artifactory",
-    "source": "infoq.com",
-    "date": "2026-08-04",
-    "url": "https://www.infoq.com/news/2026/08/openai-huggingface-breach/",
-    "category": "Tools",
-    "image": "https://res.infoq.com/news/2026/08/openai-huggingface-breach/en/card_header_image/generatedCard-1785823837312.jpg"
-  },
-  {
     "title": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell",
     "summary": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell - FourWeekMBA Based on DeepSeek’s published benchmarks and reporting on OpenAI’s Astra (via The Information). DeepSeek’s self-reported benchmarks and The Information’s reporting on OpenAI’s Astra — taken together, hed",
     "content": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell - FourWeekMBA Based on DeepSeek’s published benchmarks and reporting on OpenAI’s Astra (via The Information). DeepSeek’s self-reported benchmarks and The Information’s reporting on OpenAI’s Astra — taken together, hed",
@@ -48,15 +58,5 @@
     "url": "https://fourweekmba.com/ai-deepseek-v4-flash-openai-astra-model-layer-barbell/",
     "category": "Models",
     "image": "https://i0.wp.com/fourweekmba.com/wp-content/uploads/2026/08/deepseek-v4-flash-openai-astra-model-layer-barbell.png?fit=2400%2C1260&ssl=1"
-  },
-  {
-    "title": "OpenAI, Anthropic, Google to join White House AI safety meeting",
-    "summary": "OpenAI, Anthropic, Google to join White House AI safety meeting | The Straits Times OpenAI, Anthropic, Google to join White House AI safety meeting Sign up now: Get ST's newsletters delivered to your inbox The White House meeting is expected to discuss a new framework for voluntary safety",
-    "content": "OpenAI, Anthropic, Google to join White House AI safety meeting | The Straits Times OpenAI, Anthropic, Google to join White House AI safety meeting Sign up now: Get ST's newsletters delivered to your inbox The White House meeting is expected to discuss a new framework for voluntary safety",
-    "source": "straitstimes.com",
-    "date": "2026-08-03",
-    "url": "https://www.straitstimes.com/incoming/openai-anthropic-google-to-join-white-house-ai-safety-meeting",
-    "category": "Policy",
-    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d2550e407bb17ea6ccb8f3953571fda0684df5b38aca38ae4c32bb94a9fb1e9e"
   }
 ]
