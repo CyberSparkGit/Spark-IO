@@ -1,25 +1,5 @@
 [
   {
-    "title": "Alibaba releases Qwen3.8-Max, challenging GPT-5.6 Sol and Claude Fable 5 on AI benchmarks",
-    "summary": "Alibaba releases Qwen3.8-Max, challenging GPT-5.6 Sol and Claude Fable 5 on AI benchmarks - Neowin As competition between Chinese and US-based AI labs continues to intensity, Chinese giant Alibaba today announced Qwen3.8-Max, its largest and most capable AI model to date.",
-    "content": "Alibaba releases Qwen3.8-Max, challenging GPT-5.6 Sol and Claude Fable 5 on AI benchmarks - Neowin As competition between Chinese and US-based AI labs continues to intensity, Chinese giant Alibaba today announced Qwen3.8-Max, its largest and most capable AI model to date. Qwen3.8-Max is now availab",
-    "source": "Pradeep Viswanathan \n         \n         Neowin \n         @pradeepviswav         ·",
-    "date": "2026-08-03",
-    "url": "https://www.neowin.net/news/alibaba-releases-qwen38-max-challenging-gpt-56-sol-and-claude-fable-5-on-ai-benchmarks/",
-    "category": "Models",
-    "image": "https://cdn.neowin.com/news/images/uploaded/2026/08/1785731619_qwejn_3.8_max_story.webp"
-  },
-  {
-    "title": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch",
-    "summary": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch – Computerworld Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch news Aug 3, 20265 mins Alibaba on Monday introduced Qwen3.8-Max, its largest artificial intelligence model to date, expanding its enterprise AI po",
-    "content": "Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch – Computerworld Alibaba takes aim at OpenAI and Anthropic with Qwen3.8-Max launch news Aug 3, 20265 mins Alibaba on Monday introduced Qwen3.8-Max, its largest artificial intelligence model to date, expanding its enterprise AI po",
-    "source": "by\t\t\t\t\t\t\t\t\t Gyana Swain",
-    "date": "2026-08-03",
-    "url": "https://www.computerworld.com/article/4204420/alibaba-takes-aim-at-openai-and-anthropic-with-qwen3-8-max-launch-2.html",
-    "category": "Models",
-    "image": "https://www.computerworld.com/wp-content/uploads/2026/08/4204420-0-59572800-1785760134-qwen.jpg?quality=50&strip=all&w=1024"
-  },
-  {
     "title": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork",
     "summary": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
     "content": "Google DeepMind launches Gemini Robotics 2 with full humanoid body control and multi-robot teamwork Google DeepMind on July 30 unveiled Gemini Robotics 2, a suite of AI models that runs legs, torso, arms and fingers under a single learned policy, the first time the family has extended beyond upper-",
@@ -40,16 +20,6 @@
     "image": "https://cxotoday.com/wp-content/uploads/2026/01/Anthropic-Claude.jpg"
   },
   {
-    "title": "Alibaba Releases Qwen 3.8 Max, Beats GPT 5.6 Sol And Fable On Many Benchmarks",
-    "summary": "Alibaba Releases Qwen 3.8 Max, Beats GPT 5.6 Sol And Fable On Many Benchmarks More and more Chinese labs are knocking on the doors of the frontier of AI. Alibaba has released Qwen3.8-Max, the newest and largest model in its Qwen family, and the company is positioning it directly against the best t",
-    "content": "Alibaba Releases Qwen 3.8 Max, Beats GPT 5.6 Sol And Fable On Many Benchmarks More and more Chinese labs are knocking on the doors of the frontier of AI. Alibaba has released Qwen3.8-Max, the newest and largest model in its Qwen family, and the company is positioning it directly against the best t",
-    "source": "OfficeChai Team",
-    "date": "2026-08-03",
-    "url": "https://officechai.com/ai/alibaba-releases-qwen-3-8-max-beats-gpt-5-6-sol-and-fable-on-many-benchmarks/",
-    "category": "Models",
-    "image": "http://officechai.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-03-at-11.45.42-1.jpeg"
-  },
-  {
     "title": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell",
     "summary": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell - FourWeekMBA Based on DeepSeek’s published benchmarks and reporting on OpenAI’s Astra (via The Information). DeepSeek’s self-reported benchmarks and The Information’s reporting on OpenAI’s Astra — taken together, hed",
     "content": "DeepSeek V4-Flash and OpenAI Astra Show the Model Layer Splitting Into a Barbell - FourWeekMBA Based on DeepSeek’s published benchmarks and reporting on OpenAI’s Astra (via The Information). DeepSeek’s self-reported benchmarks and The Information’s reporting on OpenAI’s Astra — taken together, hed",
@@ -58,5 +28,35 @@
     "url": "https://fourweekmba.com/ai-deepseek-v4-flash-openai-astra-model-layer-barbell/",
     "category": "Models",
     "image": "https://fourweekmba.com/wp-content/uploads/2026/08/barbell.png"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google to join White House AI safety meeting",
+    "summary": "OpenAI, Anthropic, Google to join White House AI safety meeting | The Straits Times OpenAI, Anthropic, Google to join White House AI safety meeting The White House meeting is expected to discuss a new framework for voluntary safety tests of AI models. PHOTO: REUTERS Published Aug 04, 2026, 05",
+    "content": "OpenAI, Anthropic, Google to join White House AI safety meeting | The Straits Times OpenAI, Anthropic, Google to join White House AI safety meeting The White House meeting is expected to discuss a new framework for voluntary safety tests of AI models. PHOTO: REUTERS Published Aug 04, 2026, 05",
+    "source": "straitstimes.com",
+    "date": "2026-08-03",
+    "url": "https://www.straitstimes.com/incoming/openai-anthropic-google-to-join-white-house-ai-safety-meeting",
+    "category": "Policy",
+    "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d2550e407bb17ea6ccb8f3953571fda0684df5b38aca38ae4c32bb94a9fb1e9e"
+  },
+  {
+    "title": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip",
+    "summary": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip Anthropic released Claude 4.5 Sonnet today, positioning it as a significant step up from its predecessor across the coding and agentic task benchmarks the company publishes. The headline capabilities are two: an ex",
+    "content": "Claude 4.5 Sonnet Arrives with Extended Thinking and 1M Token Context — Ship or Skip Anthropic released Claude 4.5 Sonnet today, positioning it as a significant step up from its predecessor across the coding and agentic task benchmarks the company publishes. The headline capabilities are two: an ex",
+    "source": "shiporskip.io",
+    "date": "2026-08-01",
+    "url": "https://shiporskip.io/news/anthropic-launches-claude-4-5-sonnet-extended-thinking-1m-context",
+    "category": "Models",
+    "image": "https://shiporskip.io/api/og/default"
+  },
+  {
+    "title": "Gemini Robotics ER 2: Google's Robot Brain Explained",
+    "summary": "Gemini Robotics ER 2: Google's Robot Brain Explained Robots don’t fail only because a hand misses a cup. They fail because the task around that cup keeps changing.",
+    "content": "Gemini Robotics ER 2: Google's Robot Brain Explained Robots don’t fail only because a hand misses a cup. They fail because the task around that cup keeps changing. Google DeepMind’s answer is to split the problem, and Gemini Robotics ER 2 is the half that keeps track of the larger job. ER 2 isn’t",
+    "source": "Rei Padla",
+    "date": "2026-08-01",
+    "url": "https://the-gadgeteer.com/2026/08/01/google-gemini-robotics-er-2/",
+    "category": "Models",
+    "image": "https://the-gadgeteer.com/wp-content/uploads/2026/08/Gemini-Robotics-ER-2-A.jpeg"
   }
 ]
