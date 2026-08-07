@@ -1,33 +1,23 @@
 [
   {
-    "title": "Meta launched Muse Spark 1.1 and the new Meta Model API – its first proprietary, paid AI coding agent built to compete directly with Anthropic’s Claude and OpenAI’s GPT families.",
-    "summary": "Meta launched Muse Spark 1.1 and the new Meta Model API – its first proprietary, paid AI coding agent built to compete directly with Anthropic’s Claude and OpenAI’s GPT families. – Nam Hoang Nguyen Meta launched Muse Spark 1.1 and the new Meta Model API – its first proprietary, paid AI coding age",
-    "content": "Meta launched Muse Spark 1.1 and the new Meta Model API – its first proprietary, paid AI coding agent built to compete directly with Anthropic’s Claude and OpenAI’s GPT families. – Nam Hoang Nguyen Meta launched Muse Spark 1.1 and the new Meta Model API – its first proprietary, paid AI coding age",
-    "source": "namhoangnguyen.com",
-    "date": "2026-08-05",
-    "url": "https://namhoangnguyen.com/2026/08/05/meta-launched-muse-spark-1-1-and-the-new-meta-model-api-its-first-proprietary-paid-ai-coding-agent-built-to-compete-directly-with-anthropics-claude-and-openais-gpt-f/",
-    "category": "Models",
-    "image": "https://namhoangnguyen.com/wp-content/uploads/2026/06/NHN-White.jpg"
-  },
-  {
-    "title": "GPT-5.6 ARC-AGI-3 Scores Triple With Two API Settings",
-    "summary": "GPT-5.6 ARC-AGI-3 Scores Triple With Two API Settings GPT-5.6 ARC-AGI-3 Scores Triple With Two API Settings OpenAI reveals how enabling reasoning retention and compaction in GPT-5.6 tripled ARC-AGI-3 benchmark scores, improving AI problem-solving efficiency. Reviewed by Kamran Last updated:",
-    "content": "GPT-5.6 ARC-AGI-3 Scores Triple With Two API Settings GPT-5.6 ARC-AGI-3 Scores Triple With Two API Settings OpenAI reveals how enabling reasoning retention and compaction in GPT-5.6 tripled ARC-AGI-3 benchmark scores, improving AI problem-solving efficiency. Reviewed by Kamran Last updated:",
-    "source": "emergent.sh",
+    "title": "Meta AI releases Muse Code Beta: a terminal coding agent powered by the new Muse Spark Model 1.2 - AI-trends.today",
+    "summary": "Meta AI releases Muse Code Beta: a terminal coding agent powered by the new Muse Spark Model 1.2 - AI-trends.today Close Trending - OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna – Unite.AI - Meta’s Ax: Practical Coding Guide for Adaptive Experimentation - Suno Lays Out",
+    "content": "Meta AI releases Muse Code Beta: a terminal coding agent powered by the new Muse Spark Model 1.2 - AI-trends.today Close Trending - OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna – Unite.AI - Meta’s Ax: Practical Coding Guide for Adaptive Experimentation - Suno Lays Out",
+    "source": "Gavin Wallace",
     "date": "2026-08-06",
-    "url": "https://emergent.sh/news/gpt-56-arc-agi-3-launch",
+    "url": "https://ai-trends.today/meta-ai-releases-muse-code-beta-a-terminal-coding-agent-powered-by-the-new-muse-spark-1-2-model/",
     "category": "Models",
-    "image": "https://cdn.prod.website-files.com/6a0f028de6df6a6fd88c3f89/6a745effcd7962c1fa7a28c4_6a745efe80f65124f8d48c04_gpt-56-arc-agi-3-launch.avif"
+    "image": "https://ai-trends.today/wp-content/uploads/2025/05/A-Coding-Implementation-to-Build-an-AI-Agent-with-Live.webp.webp"
   },
   {
-    "title": "Claude Code now runs Alibaba's Qwen too",
-    "summary": "Claude Code now runs Alibaba's Qwen too By Alec Chizhik August 3, 2026 7 min read Alibaba has released Qwen3.8-Max as the most capable model in the Qwen family to date, officially documenting compatibility with Western developer toolchains. QwenCloud speaks the Anthropic API protocol and ships set",
-    "content": "Claude Code now runs Alibaba's Qwen too By Alec Chizhik August 3, 2026 7 min read Alibaba has released Qwen3.8-Max as the most capable model in the Qwen family to date, officially documenting compatibility with Western developer toolchains. QwenCloud speaks the Anthropic API protocol and ships set",
-    "source": "Alec Chizhik",
-    "date": "2026-08-03",
-    "url": "https://www.cloudmagazin.com/en/2026/08/03/qwen3-8-max-claude-code-codex-anthropic-api-2026/",
+    "title": "OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna",
+    "summary": "OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna – Unite.AI OpenAI on August 6, 2026 moved its current model generation into ChatGPT’s free tier, announcing that GPT-5.6 Luna will become the default model for Free and Go users and that those users will get unlimited text chats.",
+    "content": "OpenAI Gives Free ChatGPT Users Unlimited Text Chats on GPT-5.6 Luna – Unite.AI OpenAI on August 6, 2026 moved its current model generation into ChatGPT’s free tier, announcing that GPT-5.6 Luna will become the default model for Free and Go users and that those users will get unlimited text chats.",
+    "source": "Jonas Reeve,  Cognitive AI & AGI, AI Research Agent",
+    "date": "2026-08-06",
+    "url": "https://www.unite.ai/openai-gives-free-chatgpt-users-unlimited-text-chats-on-gpt-5-6-luna/",
     "category": "Models",
-    "image": "https://www.cloudmagazin.com/wp-content/uploads/2026/08/qwen3-8-max-claude-code-codex-anthropic-api-2026-cover-hero.jpg"
+    "image": "https://www.unite.ai/wp-content/uploads/2026/08/openai-gives-free-chatgpt-users-unlimited-text-chats-gpt-5-6-luna.png"
   },
   {
     "title": "Anthropic Ships Claude Opus 4.7 as Mythos Stays Under Lock and Key - BitRss",
@@ -41,13 +31,23 @@
   },
   {
     "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-    "summary": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT - Decrypt BTC $64,400.00 0.ETH $1,906.66 1.BNB $592.50 -0.USDC $0.999431 0.XRP $1.045 -1.SOL $73.22 -0.TRX $0.327885 -0.FIGR_HELOC",
-    "content": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT - Decrypt BTC $64,400.00 0.ETH $1,906.66 1.BNB $592.50 -0.USDC $0.999431 0.XRP $1.045 -1.SOL $73.22 -0.TRX $0.327885 -0.FIGR_HELOC",
+    "summary": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT - Decrypt BTC $64,607.00 0.ETH $1,908.01 1.BNB $591.82 -1.USDC $0.999596 0.XRP $1.047 -1.SOL $73.26 -0.TRX $0.327333 -0.FIGR_HELOC",
+    "content": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT - Decrypt BTC $64,607.00 0.ETH $1,908.01 1.BNB $591.82 -1.USDC $0.999596 0.XRP $1.047 -1.SOL $73.26 -0.TRX $0.327333 -0.FIGR_HELOC",
     "source": "Decrypt / Jose Antonio Lanz",
     "date": "2026-08-04",
     "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
     "category": "Models",
     "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/decrypt-style-qwen-gID_7.png"
+  },
+  {
+    "title": "AI model achieves breakthrough in forecasting cyclones — Google DeepMind",
+    "summary": "AI model achieves breakthrough in forecasting cyclones — Google DeepMind August 6, 2026 Science WeatherNext: AI model achieves breakthrough in forecasting cyclones WeatherNext team Share WeatherNext enables accurate cyclone forecasts that can give an extra day of warning.",
+    "content": "AI model achieves breakthrough in forecasting cyclones — Google DeepMind August 6, 2026 Science WeatherNext: AI model achieves breakthrough in forecasting cyclones WeatherNext team Share WeatherNext enables accurate cyclone forecasts that can give an extra day of warning. Now we are open sour",
+    "source": "WeatherNext team",
+    "date": "2026-08-06",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "category": "Trends",
+    "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w1200-h630-n-nu-rw"
   },
   {
     "title": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
