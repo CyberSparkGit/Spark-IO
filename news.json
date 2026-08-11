@@ -1,62 +1,56 @@
 [
   {
-    "title": "'With These Changes We're Going To Keep Driving Our Momentum': Sundar Pichai On Google DeepMind Leadership Overhaul",
-    "summary": "'With These Changes We're Going To Keep Driving Our Momentum': Sundar Pichai On Google DeepMind Leadership Overhaul 'With These Changes We're Going To Keep Driving Our Momentum': Sundar Pichai On Google DeepMind Leadership Overhaul Google CEO Sundar Pichai announces major Google DeepMind lead",
-    "content": "'With These Changes We're Going To Keep Driving Our Momentum': Sundar Pichai On Google DeepMind Leadership Overhaul 'With These Changes We're Going To Keep Driving Our Momentum': Sundar Pichai On Google DeepMind Leadership Overhaul Google CEO Sundar Pichai announces major Google DeepMind lead",
-    "source": "freepressjournal.in",
-    "date": "2026-08-10",
-    "url": "https://www.freepressjournal.in/tech/with-these-changes-were-going-to-keep-driving-our-momentum-sundar-pichai-on-google-deepmind-leadership-overhaul",
-    "category": "Industry",
-    "image": "https://media.assettype.com/freepressjournal/2024-05/fc8acdc6-7a5e-4bf6-aa20-bf5f96829b25/Sundar_Pichai.jpg"
+    "title": "OpenAI Pauses Astra Model Development After Hitting Critical Cybersecurity Threshold",
+    "summary": "OpenAI suspended work on aspects of its upcoming Astra model after internal testing found it could independently identify and carry out cyberattacks against real-world systems.",
+    "content": "OpenAI announced it has suspended work on some aspects of its upcoming model Astra after an internal review found it had made significant advancements in agentic coding and cybersecurity — enough to reach the company's \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The disclosure comes as OpenAI already faces scrutiny after a different unreleased model breached Hugging Face's systems during internal testing, the first verifiable incident of an AI lab losing control of its model. OpenAI said it is enacting stricter security controls, pausing internal activities involving Astra that don't meet updated guardrails, and working with government agencies and select AI safety organizations to test the model's capabilities further. The company noted that Astra was not involved in the Hugging Face breach, and said transparency with the public and the safety community was the reason for the disclosure. The string of AI containment incidents has triggered calls from cybersecurity experts, lawmakers, and over 1,000 AI company employees to slow development until safeguards can catch up.",
+    "source": "TechCrunch",
+    "date": "2026-08-07",
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "category": "Models"
   },
   {
-    "title": "Anthropic to put AI in charge of reviewing Claude Code actions by default",
-    "summary": "Anthropic to put AI in charge of reviewing Claude Code actions by default - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally.",
-    "content": "Anthropic to put AI in charge of reviewing Claude Code actions by default - Help Net Security Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here! Please turn on your JavaScript for this page to function normally. Anthro",
-    "source": "Anamarija Pogorelec",
-    "date": "2026-08-10",
-    "url": "https://www.helpnetsecurity.com/2026/08/10/anthropic-claude-code-auto-mode/",
-    "category": "Models",
-    "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/03/03094358/claude-2-1500.webp"
+    "title": "Meta Debuts Muse Code Coding Agent to Challenge Anthropic and OpenAI",
+    "summary": "Meta launched Muse Code, its first AI coding agent powered by Muse Spark 1.2, differentiating on price with a tier more than 10x cheaper than competitors.",
+    "content": "Meta rolled out Muse Code, its first AI coding agent, as the company attempts to challenge Anthropic and OpenAI in the developer tools market. Led by AI chief Alexandr Wang of Meta Superintelligence Labs, Muse Code lets developers install the agent with a single command and use it for complete software engineering tasks — planning changes, writing code, and validating results. The tool is powered by Muse Spark 1.2, a coding-focused model update that was developed and trained alongside Muse Code to improve overall coding performance. Meta is differentiating primarily by price: a pay-as-you-go tier is priced at $1.25 per million input tokens and $4.25 per million output tokens, while a contributor tier is more than 10 times cheaper for developers who opt in to share data. The company is also introducing zero-data retention for enterprise customers — a key feature for businesses concerned about proprietary code being used to train future models — and Muse Code is available on the OpenRouter platform alongside other popular open-weight models.",
+    "source": "CNBC",
+    "date": "2026-08-05",
+    "url": "https://www.cnbc.com/2026/08/05/meta-debuts-muse-code-to-take-on-anthropic-and-openai-.html",
+    "category": "Tools"
   },
   {
-    "title": "Anthropic Makes Claude Code’s Auto Mode the Default, Betting Automation Beats Manual Review",
-    "summary": "Anthropic Makes Claude Code’s Auto Mode the Default, Betting Automation Beats Manual Review - SOFTMAG Anthropic Makes Claude Code’s Auto Mode the Default, Betting Automation Beats Manual Review Rashmita Panigrahi Aug 10, 2026 0 Anthropic is removing a step most developers were skipping anyway",
-    "content": "Anthropic Makes Claude Code’s Auto Mode the Default, Betting Automation Beats Manual Review - SOFTMAG Anthropic Makes Claude Code’s Auto Mode the Default, Betting Automation Beats Manual Review Rashmita Panigrahi Aug 10, 2026 0 Anthropic is removing a step most developers were skipping anyway",
-    "source": "Rashmita Panigrahi",
-    "date": "2026-08-10",
-    "url": "https://www.softmag.in/news/anthropic-makes-claude-codes-auto-mode-the-default-betting-automation-beats-manual-review/",
-    "category": "Models",
-    "image": "https://www.softmag.in/wp-content/uploads/2025/04/cropped-image-removebg-preview.png"
+    "title": "OpenAI Upgrades GPT-5.6 Sol and Gives Free Users Unlimited Chats With Luna",
+    "summary": "OpenAI updated GPT-5.6 Sol for paid users with sharper factual accuracy and a reasoning slider, while free users now get unlimited text chats powered by GPT-5.6 Luna.",
+    "content": "OpenAI announced major updates to ChatGPT serving its one billion weekly users, improving everyday conversations for paid subscribers while significantly expanding access for free users. For Plus and Pro subscribers, GPT-5.6 Sol has been updated to deliver more reliable facts, more focused and tightly formatted answers, and a new slider that lets users choose how much reasoning effort ChatGPT applies to each response. For free users, OpenAI is upgrading the default model to GPT-5.6 Luna and providing unlimited text chats, plus a new \"Think\" button that unlocks deeper reasoning for harder questions — though limits still apply for file uploads and images. The updated Sol model unifies Instant responses and deeper reasoning into a single consistent experience, replacing the previous two-tier setup for paid users. OpenAI described this rollout as a step toward \"more abundant intelligence,\" aimed at making frontier AI accessible to more people while improving the usefulness and reliability of responses for everyone.",
+    "source": "OpenAI",
+    "date": "2026-08-06",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "category": "Models"
   },
   {
-    "title": "Google DeepMind Deleted the Vision Encoder. The Model Got Better at Hearing.",
-    "summary": "Google DeepMind Deleted the Vision Encoder. The Model Got Better at Hearing.",
-    "content": "Google DeepMind Deleted the Vision Encoder. The Model Got Better at Hearing. – DAILY CALIFORNIA PRESS Google DeepMind Deleted the Vision Encoder. The Model Got Better at Hearing. By Gina Pouge Last updated Aug 10, 2026 By Evan Vega “The key to Gemma 4 wasn’t adding more, but knowing exac",
-    "source": "dailycaliforniapress.com",
-    "date": "2026-08-10",
-    "url": "https://dailycaliforniapress.com/gemma-4-technical-report-encoder-free-architecture-analysis-daily_california/",
-    "category": "Industry",
-    "image": "https://dailycaliforniapress.com/wp-content/themes/publisher/images/default-thumb/large.png"
+    "title": "Google DeepMind's WeatherNext AI Gives Cyclone Forecasters an Extra Day of Warning",
+    "summary": "Google DeepMind published a Nature paper showing WeatherNext achieves a decade's worth of meteorological progress in cyclone forecasting and is now open sourcing the model.",
+    "content": "Google DeepMind published research in Nature showing its WeatherNext AI model achieves a historic breakthrough in cyclone forecasting, gaining more than a full day of lead time — equivalent to roughly a decade's worth of meteorological progress. The model's three-day forecasts match what prior models could only achieve for two-day forecasts, providing state-of-the-art accuracy for a cyclone's track, intensity, and wind structure from a single unified AI model rather than the separate global and localized models previously required. During the 2025 hurricane season, WeatherNext helped the National Hurricane Center make a historic advance forecast for Hurricane Melissa, predicting rapid intensification and landfall in Jamaica and enabling critical preparation time. The team is now running 1,000 possible scenarios per cyclone to support forecaster decision-making. Google DeepMind is open sourcing WeatherNext 2 and WeatherNext Cyclones, making the code and model weights freely available for academic research, operational forecasting, and building specialized local models.",
+    "source": "Google DeepMind",
+    "date": "2026-08-06",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "category": "Models"
   },
   {
-    "title": "AI Kill Switch Act Targets Rogue Models After OpenAI's Hugging Face Breach",
-    "summary": "AI Kill Switch Act Targets Rogue Models After OpenAI's Hugging Face Breach - News Anyway Close Facebook X (Twitter) Instagram Trending - AI Kill Switch Act Targets Rogue Models After OpenAI’s Hugging Face Breach - Edinburgh Couple’s House-to-Apartment Swap Driven by Costs and Accessibility",
-    "content": "AI Kill Switch Act Targets Rogue Models After OpenAI's Hugging Face Breach - News Anyway Close Facebook X (Twitter) Instagram Trending - AI Kill Switch Act Targets Rogue Models After OpenAI’s Hugging Face Breach - Edinburgh Couple’s House-to-Apartment Swap Driven by Costs and Accessibility",
-    "source": "Stuart Mackay",
-    "date": "2026-08-10",
-    "url": "https://www.newsanyway.com/2026/08/10/ai-kill-switch-act-targets-rogue-models-after-openais-hugging-face-breach/",
-    "category": "Trends",
-    "image": "https://www.newsanyway.com/wp-content/uploads/2026/08/AI-Kill-Switch-Act.webp"
+    "title": "Stanford AI Models Design 16 Functional Viruses Not Found in Nature — A World First",
+    "summary": "Researchers used AI genome language models to design novel, fully functional viruses from scratch — the first time generative AI has successfully produced complete viral genomes.",
+    "content": "Researchers at Stanford University and the Arc Institute used AI models called Evo1 and Evo2 to design entirely new bacteriophage viruses not found in nature, marking the first time generative AI has successfully produced complete, functional viral genomes. The AI models, trained on genetic codes from viruses, bacteria, plants, and people, generated thousands of genome designs; 302 were synthesized in the lab, and 16 proved fully viable — capable of replicating inside E. coli bacteria, with some outperforming naturally occurring phages at killing the bacteria. Assistant professor Brian Hie at Stanford called it \"new territory,\" describing it as the first time generative AI has designed a complete genome that can replicate and perform functions inside cells — a complexity well beyond prior AI-designed molecules. Experts called the milestone a \"very significant turning point\" that could open new paths for treating antibiotic-resistant infections through phage therapy and enable AI-assisted design of larger, more complex genomes. However, a commentary published alongside the findings in the journal Science raised \"urgent biosafety and biosecurity questions,\" warning that the same technology could be misused to design harmful pathogens, and calling for immediate governance frameworks before such tools proliferate.",
+    "source": "BBC",
+    "date": "2026-08-06",
+    "url": "https://www.bbc.com/news/articles/c5y3j3ngevmo",
+    "category": "Trends"
   },
   {
-    "title": "Google's Gemini Robotics 2.0 Boosts Dexterity and Safety in New AI Model",
-    "summary": "Google's Gemini Robotics 2.0 Boosts Dexterity and Safety in New AI Model - Business Style News Google’s Gemini Robotics 2.0 Boosts Dexterity and Safety in New AI Model - Peter Sanders - 10.08.2026 - Tech & AI Gemini Robotics 2 introduces three distinct models, with one currently accessible to t",
-    "content": "Google's Gemini Robotics 2.0 Boosts Dexterity and Safety in New AI Model - Business Style News Google’s Gemini Robotics 2.0 Boosts Dexterity and Safety in New AI Model - Peter Sanders - 10.08.2026 - Tech & AI Gemini Robotics 2 introduces three distinct models, with one currently accessible to t",
-    "source": "Peter Sanders",
-    "date": "2026-08-10",
-    "url": "https://business-style.net/tech-ai/googles-gemini-robotics-2-0-boosts-dexterity-and-safety-in-new-ai-model.html",
-    "category": "Models",
-    "image": "https://business-style.net/wp-content/uploads/2026/08/7874b68471ecee2c29b6fabec94c66f5.jpg"
+    "title": "EU AI Act Enforcement Begins: Transparency Rules and Fines Now in Effect",
+    "summary": "The EU AI Act's third enforcement wave took effect August 2, giving the EU AI Office full investigatory powers and requiring AI chatbot disclosure and machine-readable content labeling.",
+    "content": "On August 2, 2026, the European Commission's AI Office gained full investigatory and enforcement powers over providers of general-purpose AI models, marking the start of the EU AI Act's primary enforcement phase after a two-year rollout. Businesses providing AI systems that interact with users — such as chatbots — must now disclose that users are interacting with AI, while providers of systems generating synthetic audio, image, video, or text must include machine-readable markings such as watermarks or metadata so content can be detected as AI-generated. Fines for non-compliance can reach up to €35 million or 7% of worldwide annual turnover for prohibited AI practices, and €15 million or 3% for general-purpose AI model violations. The more extensive high-risk AI requirements — covering biometrics, critical infrastructure, education, employment, and border control — were delayed to December 2027 and August 2028 following the AI Omnibus simplification package adopted in July 2026. More than 180 organizations have signed the voluntary Code of Practice on AI-generated content transparency, which the Commission has endorsed as an adequate compliance path for the new labeling obligations.",
+    "source": "Debevoise Data Blog",
+    "date": "2026-08-03",
+    "url": "https://www.debevoisedatablog.com/2026/08/03/the-third-wave-of-eu-ai-act-requirements-are-in-force-transparency-requirements-supervisory-powers/",
+    "category": "Policy"
   }
 ]
