@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAI-backed Thrive Holdings raises $2 billion at a $12 billion valuation as Grok closes the gap on GPT",
+    "summary": "OpenAI-backed Thrive Holdings raises $2 billion at a $12 billion valuation as Grok closes the gap on GPT - WalletInvestor.com Thrive Holdings, a company OpenAI has backed to push AI into the guts of ordinary businesses, raised $2 billion in fresh funding at a $12 billion valuation.",
+    "content": "OpenAI-backed Thrive Holdings raises $2 billion at a $12 billion valuation as Grok closes the gap on GPT - WalletInvestor.com Thrive Holdings, a company OpenAI has backed to push AI into the guts of ordinary businesses, raised $2 billion in fresh funding at a $12 billion valuation. The investors ar",
+    "source": "walletinvestor.com",
+    "date": "2026-08-13",
+    "url": "https://walletinvestor.com/news/ai-news/openai-backed-thrive-holdings-raises-2-billion-at-a-12-billion-valuation-as-grok-closes-the-gap-on-gpt/",
+    "category": "Models",
+    "image": "https://walletinvestor.com/wp-content/uploads/2026/08/px-2571397-441b583b.jpg"
+  },
+  {
     "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
     "summary": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
     "content": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
@@ -20,43 +30,33 @@
     "image": "https://aiinsiders.net/featured/claude-pushed-a-riemann-bound-to-672percent-the-hypothesis.png"
   },
   {
-    "title": "OpenAI launches GPT-5.6-Cyber via Daybreak Red",
-    "summary": "OpenAI launches GPT-5.6-Cyber via Daybreak Red OpenAI launches GPT-5.6-Cyber 11-08-2026 GPT-5.6-Cyber is OpenAI's cybersecurity-specific model, launched on 10 August 2026 through the Daybreak Red tier for vetted defenders, with a 95.completion rate on OpenAI's internal advanced cybersecurity",
-    "content": "OpenAI launches GPT-5.6-Cyber via Daybreak Red OpenAI launches GPT-5.6-Cyber 11-08-2026 GPT-5.6-Cyber is OpenAI's cybersecurity-specific model, launched on 10 August 2026 through the Daybreak Red tier for vetted defenders, with a 95.completion rate on OpenAI's internal advanced cybersecurity",
-    "source": "datanorth.ai",
-    "date": "2026-08-11",
-    "url": "https://datanorth.ai/news/openai-launches-gpt-5-6-cyber",
-    "category": "Models",
-    "image": "https://datanorth.ai/wp-content/uploads/2026/08/openai-launches-gpt-5-6-cyber.png"
-  },
-  {
-    "title": "DeepSeek Ships V4 Pro as Its Flagship Model Leaves Preview",
-    "summary": "DeepSeek Ships V4 Pro as Its Flagship Model Leaves Preview – Unite.AI DeepSeek has released the production version of its flagship model, DeepSeek V4 Pro, ending a preview period that ran nearly four months. The build, designated V4 Pro 0813, appeared on August 12, 2026, as the general-availability",
-    "content": "DeepSeek Ships V4 Pro as Its Flagship Model Leaves Preview – Unite.AI DeepSeek has released the production version of its flagship model, DeepSeek V4 Pro, ending a preview period that ran nearly four months. The build, designated V4 Pro 0813, appeared on August 12, 2026, as the general-availability",
+    "title": "Anthropic Red Team Finds Claude Agent Swarms Collude, Conform, and Sabotage",
+    "summary": "Anthropic Red Team Finds Claude Agent Swarms Collude, Conform, and Sabotage – Unite.AI Anthropic’s Frontier Red Team has published a set of experiments showing that swarms of its own Claude models, left to interact with one another, collude on prices, flood shared infrastructure, trust liars, and e",
+    "content": "Anthropic Red Team Finds Claude Agent Swarms Collude, Conform, and Sabotage – Unite.AI Anthropic’s Frontier Red Team has published a set of experiments showing that swarms of its own Claude models, left to interact with one another, collude on prices, flood shared infrastructure, trust liars, and e",
     "source": "Jonas Reeve,  Cognitive AI & AGI, AI Research Agent",
     "date": "2026-08-12",
-    "url": "https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview/",
+    "url": "https://www.unite.ai/anthropic-red-team-finds-claude-agent-swarms-collude-conform-and-sabotage/",
     "category": "Models",
-    "image": "https://www.unite.ai/wp-content/uploads/2026/08/deepseek-ships-v4-pro-flagship-leaves-preview.jpg"
+    "image": "https://www.unite.ai/wp-content/uploads/2026/08/anthropic-red-team-finds-claude-agent-swarms-collude-conform-sabotage.jpg"
   },
   {
-    "title": "Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis",
-    "summary": "Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis - Matt Swayne - August 11, 2026 - 7 min read Insider Brief - Anthropic says an experimental version of Claude improved a longsta",
-    "content": "Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis - Matt Swayne - August 11, 2026 - 7 min read Insider Brief - Anthropic says an experimental version of Claude improved a longsta",
-    "source": "Matt Swayne",
-    "date": "2026-08-11",
-    "url": "https://theaiinsider.tech/2026/08/11/anthropic-says-claude-improved-a-longstanding-bound-tied-to-the-riemann-hypothesis/",
-    "category": "Models",
-    "image": "https://theaiinsider.tech/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-7.38.50-AM-1.png"
+    "title": "Putting sign language AI into users’ hands — Google DeepMind",
+    "summary": "Putting sign language AI into users’ hands — Google DeepMind August 12, 2026 Models Putting sign language AI into users’ hands Google DeepMind Sign Language Team Share Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hea",
+    "content": "Putting sign language AI into users’ hands — Google DeepMind August 12, 2026 Models Putting sign language AI into users’ hands Google DeepMind Sign Language Team Share Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hea",
+    "source": "Google DeepMind Sign Language Team",
+    "date": "2026-08-12",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "category": "Tools",
+    "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w1200-h630-n-nu-rw"
   },
   {
-    "title": "Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans",
-    "summary": "Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Anthropic is making auto mode the default in Claude Code for Pro, Max, and Team plans, backed by safety data showing it blocks more harmful actions than manual ap",
-    "content": "Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Anthropic is making auto mode the default in Claude Code for Pro, Max, and Team plans, backed by safety data showing it blocks more harmful actions than manual ap",
-    "source": "insideai.news",
-    "date": "2026-08-10",
-    "url": "https://insideai.news/news/ai-tools/claude-code-auto-mode-becomes-default-for-pro-max-and-team-plans/7391/",
-    "category": "Models",
-    "image": "https://insideai.news/wp-content/uploads/2026/08/2026-08-10-14-29-38-social.webp"
+    "title": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development",
+    "summary": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Popular Topics Resources SHARE Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Senator Bernie Sanders demands a pause from OpenAI, Meta and Anthropic.",
+    "content": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Popular Topics Resources SHARE Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Senator Bernie Sanders demands a pause from OpenAI, Meta and Anthropic. Image: Vidar Nordli-Mathisen",
+    "source": "Aminu Abdullahi",
+    "date": "2026-08-12",
+    "url": "https://www.techrepublic.com/article/news-bernie-sanders-ai-development-pause/",
+    "category": "Industry",
+    "image": "https://assets.techrepublic.com/uploads/2026/08/vidar-nordli-mathisen-cR03g2ud84g-unsplash-1.jpg?f=jpeg"
   }
 ]
