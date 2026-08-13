@@ -20,26 +20,6 @@
     "image": "https://aiinsiders.net/featured/claude-pushed-a-riemann-bound-to-672percent-the-hypothesis.png"
   },
   {
-    "title": "Anthropic will watermark Claude text worldwide and attach C2PA metadata to files",
-    "summary": "Anthropic will watermark Claude text worldwide and attach C2PA metadata to files | MLQ News Anthropic will watermark Claude text worldwide and attach C2PA metadata to files Aug 12, 2026 · 1:23 PM · by MLQ Agent · 4 min read Key points - Anthropic says Claude models launched in the EU on or aft",
-    "content": "Anthropic will watermark Claude text worldwide and attach C2PA metadata to files | MLQ News Anthropic will watermark Claude text worldwide and attach C2PA metadata to files Aug 12, 2026 · 1:23 PM · by MLQ Agent · 4 min read Key points - Anthropic says Claude models launched in the EU on or aft",
-    "source": "mlq.ai",
-    "date": "2026-08-12",
-    "url": "https://mlq.ai/news/anthropic-will-watermark-claude-text-worldwide-and-attach-c2pa-metadata-to-files/",
-    "category": "Models",
-    "image": "https://mlq.ai/media/news_images/anthropic-watermark.png"
-  },
-  {
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-    "summary": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router - The Crypto Post Pinterest NVIDIA introduced open technologies for building always-on AI agents from systems of specialized models. Two artifacts shipped together.",
-    "content": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router - The Crypto Post Pinterest NVIDIA introduced open technologies for building always-on AI agents from systems of specialized models. Two artifacts shipped together. Nemotron 3.5 Li",
-    "source": "CryptoExpert",
-    "date": "2026-08-12",
-    "url": "https://thecryptopost.io/nvidia-ai-releases-nemotron-3-5-lightning-a-30b-open-moe-with-3b-active-parameters-and-nemo-switchyard-model-router/",
-    "category": "Tools",
-    "image": "https://www.marktechpost.com/wp-content/uploads/2019/06/Screen-Shot-2021-09-14-at-9.02.24-AM-150x150.png"
-  },
-  {
     "title": "OpenAI launches GPT-5.6-Cyber via Daybreak Red",
     "summary": "OpenAI launches GPT-5.6-Cyber via Daybreak Red OpenAI launches GPT-5.6-Cyber 11-08-2026 GPT-5.6-Cyber is OpenAI's cybersecurity-specific model, launched on 10 August 2026 through the Daybreak Red tier for vetted defenders, with a 95.completion rate on OpenAI's internal advanced cybersecurity",
     "content": "OpenAI launches GPT-5.6-Cyber via Daybreak Red OpenAI launches GPT-5.6-Cyber 11-08-2026 GPT-5.6-Cyber is OpenAI's cybersecurity-specific model, launched on 10 August 2026 through the Daybreak Red tier for vetted defenders, with a 95.completion rate on OpenAI's internal advanced cybersecurity",
@@ -50,6 +30,16 @@
     "image": "https://datanorth.ai/wp-content/uploads/2026/08/openai-launches-gpt-5-6-cyber.png"
   },
   {
+    "title": "DeepSeek Ships V4 Pro as Its Flagship Model Leaves Preview",
+    "summary": "DeepSeek Ships V4 Pro as Its Flagship Model Leaves Preview – Unite.AI DeepSeek has released the production version of its flagship model, DeepSeek V4 Pro, ending a preview period that ran nearly four months. The build, designated V4 Pro 0813, appeared on August 12, 2026, as the general-availability",
+    "content": "DeepSeek Ships V4 Pro as Its Flagship Model Leaves Preview – Unite.AI DeepSeek has released the production version of its flagship model, DeepSeek V4 Pro, ending a preview period that ran nearly four months. The build, designated V4 Pro 0813, appeared on August 12, 2026, as the general-availability",
+    "source": "Jonas Reeve,  Cognitive AI & AGI, AI Research Agent",
+    "date": "2026-08-12",
+    "url": "https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview/",
+    "category": "Models",
+    "image": "https://www.unite.ai/wp-content/uploads/2026/08/deepseek-ships-v4-pro-flagship-leaves-preview.jpg"
+  },
+  {
     "title": "Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis",
     "summary": "Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis - Matt Swayne - August 11, 2026 - 7 min read Insider Brief - Anthropic says an experimental version of Claude improved a longsta",
     "content": "Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis Anthropic Says Claude Improved a Longstanding Bound Tied to the Riemann Hypothesis - Matt Swayne - August 11, 2026 - 7 min read Insider Brief - Anthropic says an experimental version of Claude improved a longsta",
@@ -58,5 +48,15 @@
     "url": "https://theaiinsider.tech/2026/08/11/anthropic-says-claude-improved-a-longstanding-bound-tied-to-the-riemann-hypothesis/",
     "category": "Models",
     "image": "https://theaiinsider.tech/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-7.38.50-AM-1.png"
+  },
+  {
+    "title": "Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans",
+    "summary": "Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Anthropic is making auto mode the default in Claude Code for Pro, Max, and Team plans, backed by safety data showing it blocks more harmful actions than manual ap",
+    "content": "Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Claude Code Auto Mode Becomes Default for Pro, Max, and Team Plans Anthropic is making auto mode the default in Claude Code for Pro, Max, and Team plans, backed by safety data showing it blocks more harmful actions than manual ap",
+    "source": "insideai.news",
+    "date": "2026-08-10",
+    "url": "https://insideai.news/news/ai-tools/claude-code-auto-mode-becomes-default-for-pro-max-and-team-plans/7391/",
+    "category": "Models",
+    "image": "https://insideai.news/wp-content/uploads/2026/08/2026-08-10-14-29-38-social.webp"
   }
 ]
