@@ -1,13 +1,23 @@
 [
   {
-    "title": "OpenAI introduces new Ultrafast mode for GPT‑5.6 Sol delivering 14x faster tokens",
-    "summary": "OpenAI introduces new Ultrafast mode for GPT‑5.6 Sol delivering 14x faster tokens - Neowin Back in June, when OpenAI first announced the GPT-5.6 series, the company said that Sol would also launch on Cerebras in July, delivering speeds of up to 750 tokens per second for select customers.",
-    "content": "OpenAI introduces new Ultrafast mode for GPT‑5.6 Sol delivering 14x faster tokens - Neowin Back in June, when OpenAI first announced the GPT-5.6 series, the company said that Sol would also launch on Cerebras in July, delivering speeds of up to 750 tokens per second for select customers. However, O",
-    "source": "Pradeep Viswanathan \n         \n         Neowin \n         @pradeepviswav         ·",
+    "title": "Google Launches Gemini 3.7 Flash as Workhorse Model for Agent Develop…",
+    "summary": "Google Launches Gemini 3.7 Flash as Workhorse Model for Agent Develop… Google Launches Gemini 3.7 Flash as Workhorse Model for Agent Developers Google DeepMind released Gemini 3.7 Flash on August 13, 2026—a multimodal reasoning model with a 1M-token context window, configurable thinking modes, a",
+    "content": "Google Launches Gemini 3.7 Flash as Workhorse Model for Agent Develop… Google Launches Gemini 3.7 Flash as Workhorse Model for Agent Developers Google DeepMind released Gemini 3.7 Flash on August 13, 2026—a multimodal reasoning model with a 1M-token context window, configurable thinking modes, a",
+    "source": "Roman Bietin",
     "date": "2026-08-13",
-    "url": "https://www.neowin.net/news/openai-introduces-new-ultrafast-mode-for-gpt56-sol-delivering-14x-faster-tokens/",
+    "url": "https://theagenttimes.com/articles/google-launches-gemini-3-7-flash-as-workhorse-model-for-agen-df20be77",
     "category": "Models",
-    "image": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756404202_openai_logo_new_story.webp"
+    "image": "https://qhaph2f3vltn91ho.public.blob.vercel-storage.com/google-launches-gemini-3-7-flash-as-workhorse-model-for-agen-df20be77-ei2zB9r78Gs17c2QgahipvO2ZsCfhs.webp"
+  },
+  {
+    "title": "OpenAI Ultrafast runs GPT-5.6 Sol at 14X speed on Cerebras",
+    "summary": "OpenAI Ultrafast runs GPT-5.6 Sol at 14X speed on Cerebras OpenAI Ultrafast runs GPT-5.6 Sol at 14X speed on Cerebras OpenAI's Ultrafast API tier runs GPT-5.6 Sol up to 14 times faster than standard, powered by Cerebras chips rather than NVIDIA GPUs. By Marcello Babbili August 14, 2026 4 min r",
+    "content": "OpenAI Ultrafast runs GPT-5.6 Sol at 14X speed on Cerebras OpenAI Ultrafast runs GPT-5.6 Sol at 14X speed on Cerebras OpenAI's Ultrafast API tier runs GPT-5.6 Sol up to 14 times faster than standard, powered by Cerebras chips rather than NVIDIA GPUs. By Marcello Babbili August 14, 2026 4 min r",
+    "source": "Aug 14, 2026",
+    "date": "2026-08-13",
+    "url": "https://www.notatechguy.com/openai-ultrafast-runs-gpt-5-6-sol-at-14x-speed-on-cerebras/",
+    "category": "Models",
+    "image": "https://storage.ghost.io/c/6e/89/6e896869-22ef-4281-a213-b4c462c17cff/content/images/size/w1200/2026/08/header_c6953c9f7877496f34f2.png"
   },
   {
     "title": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier",
@@ -30,6 +40,16 @@
     "image": "https://media.assettype.com/freepressjournal/2026-08-13/hz3pgl13/grok4.6.png"
   },
   {
+    "title": "Grok 4.6 ships with 500K context; Fable 5 parity claim holds on one index, not head-to-head",
+    "summary": "Grok 4.6 ships with 500K context; Fable 5 parity claim holds on one index, not head-to-head – The Cherry Creek News Grok 4.6 ships with 500K context; Fable 5 parity claim holds on one index, not head-to-head – The Cherry Creek News By Sofia Reyes When SpaceXAI released Grok 4.6 on 12 August 2026,",
+    "content": "Grok 4.6 ships with 500K context; Fable 5 parity claim holds on one index, not head-to-head – The Cherry Creek News Grok 4.6 ships with 500K context; Fable 5 parity claim holds on one index, not head-to-head – The Cherry Creek News By Sofia Reyes When SpaceXAI released Grok 4.6 on 12 August 2026,",
+    "source": "Sofia Reyes",
+    "date": "2026-08-13",
+    "url": "https://thecherrycreeknews.com/grok-4-6-benchmarks-pricing-fable-5-comparison-analysis-cherry_creek/",
+    "category": "Models",
+    "image": "https://thecherrycreeknews.com/wp-content/uploads/2021/03/cover.png"
+  },
+  {
     "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
     "summary": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
     "content": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
@@ -38,25 +58,5 @@
     "url": "https://nokiapoweruser.com/gemini-4-leak-pre-training-1-billion-users-fable-5-gpt-5-6/",
     "category": "Models",
     "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/leak.jpg"
-  },
-  {
-    "title": "Nous Research releases NousCoder-14B as open-source coding models meet the Claude Code moment",
-    "summary": "Nous Research releases NousCoder-14B as open-source coding models meet the Claude Code moment Nous Research has released NousCoder-14B, a 14-billion-parameter open-source coding model that the company says can compete with larger proprietary systems. The launch arrives as Anthropic’s Claude Code is",
-    "content": "Nous Research releases NousCoder-14B as open-source coding models meet the Claude Code moment Nous Research has released NousCoder-14B, a 14-billion-parameter open-source coding model that the company says can compete with larger proprietary systems. The launch arrives as Anthropic’s Claude Code is",
-    "source": "creati.ai",
-    "date": "2026-08-12",
-    "url": "https://creati.ai/ai-news/2026-08-12/nous-research-releases-nouscoder-14b-as-open-source-coding-models-meet-the-claude-code-moment/",
-    "category": "Models",
-    "image": "https://cdn-image.creati.ai/ai-news/cover-image/original/nous-research-releases-nouscoder-14b-as-open-source-coding-models-meet-the-claude-code-moment.webp"
-  },
-  {
-    "title": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "summary": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
-    "content": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
-    "source": "Lucas Ropek",
-    "date": "2026-08-13",
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "category": "Models",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024"
   }
 ]
