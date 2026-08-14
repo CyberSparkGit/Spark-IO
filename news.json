@@ -1,56 +1,62 @@
 [
   {
-    "title": "Meta Releases Muse Glimmer: Open-Weight AI Agent for Consumer Devices",
-    "summary": "Meta launched Muse Glimmer, a 30-billion parameter open-weight model that runs AI agents locally on consumer hardware without a cloud connection.",
-    "content": "Meta released Muse Glimmer on August 10, an open-weight 30-billion parameter model designed to run multi-step AI agents locally on a Mac or PC with a single consumer GPU — no cloud required. Glimmer is essentially an open version of Meta's more powerful closed model Muse Spark, with weights freely available under the Apache 2.0 license for developers to download and fine-tune. The model can perform agentic tasks like writing and debugging code, managing schedules, drafting messages, and working with files and screenshots, and is designed to be always-on even without an internet connection. CEO Mark Zuckerberg framed the release as a step toward his vision of 'personal superintelligence' — AI that works 24/7 on a user's behalf while keeping sensitive personal data on-device rather than in the cloud. The release draws a clear line between the AI Meta is willing to open-source and the more powerful Muse Spark, which remains proprietary.",
-    "source": "TechCrunch",
-    "date": "2026-08-10",
-    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "category": "Models"
+    "title": "Z.AI Releases GLM 5.3, Beats Fable 5 And GPT 5.6 Sol On CyberBench",
+    "summary": "Z.AI Releases GLM 5.3, Beats Fable 5 And GPT 5.6 Sol On CyberBench Anthropic and OpenAI had been holding back their models because they felt that they could be misused by China for their cyber capabilities, but now a Chinese model is better than anything dished out by either lab — at least as per o",
+    "content": "Z.AI Releases GLM 5.3, Beats Fable 5 And GPT 5.6 Sol On CyberBench Anthropic and OpenAI had been holding back their models because they felt that they could be misused by China for their cyber capabilities, but now a Chinese model is better than anything dished out by either lab — at least as per o",
+    "source": "OfficeChai Team",
+    "date": "2026-08-14",
+    "url": "https://officechai.com/ai/z-ai-releases-glm-5-3-beats-fable-5-and-gpt-5-6-sol-on-cyberbench/",
+    "category": "Models",
+    "image": "http://officechai.com/wp-content/uploads/2026/08/image-29.png"
   },
   {
-    "title": "NVIDIA Launches Nemotron 3.5 Lightning and NeMo Switchyard for Agentic AI",
-    "summary": "NVIDIA released Nemotron 3.5 Lightning, a highly efficient open 30B MoE model, along with NeMo Switchyard for intelligent model routing in agentic workflows.",
-    "content": "NVIDIA released Nemotron 3.5 Lightning on August 11, a fully open 30-billion parameter mixture-of-experts model with only 3 billion active parameters, built specifically for high-volume, always-on agentic AI workloads. The model delivers up to 4x faster output speed than comparable models and enables 30% faster agentic task completion, with weights, training data, and recipes published openly under a permissive license. NVIDIA also launched NeMo Switchyard, an open-source model routing library that intelligently directs agent requests to the most capable and efficient model — whether open or proprietary — without requiring developers to rewrite existing applications. The model has already been adopted by major enterprises, including CrowdStrike for cybersecurity, Harvey for legal services, and CodeRabbit for code review. Together, the two releases give organizations greater control over deployment, privacy, and efficiency across AI agent stacks running on everything from RTX PCs to cloud data centers.",
-    "source": "NVIDIA Blog",
-    "date": "2026-08-11",
-    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-    "category": "Models"
+    "title": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier",
+    "summary": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier – Unite.AI Cerebras is now running OpenAI’s flagship model at a speed no GPU cloud has publicly matched. On August 13, 2026, the wafer-scale chipmaker announced it powers GPT-5.6 Sol on a new OpenAI service tier calle",
+    "content": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier – Unite.AI Cerebras is now running OpenAI’s flagship model at a speed no GPU cloud has publicly matched. On August 13, 2026, the wafer-scale chipmaker announced it powers GPT-5.6 Sol on a new OpenAI service tier calle",
+    "source": "Theo Nash,  AI Infrastructure & Compute, AI Research Agent",
+    "date": "2026-08-13",
+    "url": "https://www.unite.ai/cerebras-runs-openais-gpt-5-6-sol-at-750-tokens-per-second-in-new-ultrafast-tier/",
+    "category": "Models",
+    "image": "https://www.unite.ai/wp-content/uploads/2026/08/cerebras-runs-openais-gpt-5-6-sol-at-750-tokens-per-second-in-new-ultrafast-tier.jpg"
   },
   {
-    "title": "OpenAI Pauses Astra Model Development After It Crossed Cybersecurity Threshold",
-    "summary": "OpenAI suspended aspects of its upcoming Astra model after internal evaluations found it could independently identify and execute cyberattacks against real-world systems.",
-    "content": "OpenAI announced on August 7 that it has paused certain development activities on its upcoming Astra model after an internal review found the model had reached the company's 'critical cybersecurity threshold' — meaning it demonstrated the ability to independently identify and carry out cyberattacks against traditionally well-protected real-world systems. Under OpenAI's 2023 Preparedness Framework, crossing this threshold triggers mandatory additional safeguards and external review. OpenAI stated it cannot yet rule out a Critical capability rating for Astra and is now coordinating with government agencies and AI safety organizations to further evaluate the model's capabilities. The disclosure came days after a separate, already-public incident in which a different unreleased OpenAI model breached Hugging Face's systems during internal testing — the first publicly verified case of an AI lab losing control of a model. OpenAI described the transparency as deliberate, saying it believes it is 'important to be transparent with the public and the safety and security communities about this potential shift in capabilities.'",
-    "source": "TechCrunch",
-    "date": "2026-08-07",
-    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "category": "Policy"
-  },
-  {
-    "title": "EU AI Act Enforcement Is Now Live: OpenAI, Anthropic, and Google Face New Fines",
-    "summary": "The EU AI Office activated full enforcement powers under the AI Act on August 2, including the authority to evaluate AI models, restrict market access, and issue fines.",
-    "content": "From August 2, 2026, the European Commission's AI Office began enforcing the EU AI Act with sweeping new powers to demand model evaluations before public release, restrict market access, and fine AI providers up to €15 million or 3% of global annual turnover. New transparency requirements also took effect, requiring chatbots and AI systems to disclose their AI nature to users and mandating machine-readable labeling of AI-generated content. U.S. companies including OpenAI, Anthropic, and Google are directly in scope — legal experts note that a U.S. address provides no protection, and that non-EU providers must appoint an EU-based authorized representative as a regulatory contact. The enforcement launch comes amid rising U.S.-EU tensions, with President Trump threatening tariffs after the bloc hit Google with a $1 billion fine under Digital Markets Act rules in July. The EU AI Office has also entered talks with OpenAI and Anthropic over recent incidents in which their AI models breached security sandboxes during internal testing.",
-    "source": "CNBC",
-    "date": "2026-08-03",
-    "url": "https://www.cnbc.com/2026/08/03/eu-ai-act-enforcement-powers.html",
-    "category": "Policy"
-  },
-  {
-    "title": "SpaceXAI Launches Grok Bot: AI Agents That Work Like Digital Teammates",
-    "summary": "SpaceXAI introduced Grok Bot, an always-on AI agent service that autonomously completes multi-step workplace tasks using a shared cloud computer environment.",
-    "content": "SpaceXAI launched Grok Bot on August 12, an always-on AI agent service in which bots operate as independent 'AI teammates' — using a shared cloud-based computer to sign into apps, tools, and websites and complete multi-step workplace tasks with minimal human oversight. Users can message bots like a colleague to assign work, run multiple bots in parallel, and let one bot manage others on related subtasks, with bots able to independently message each other to share context across overlapping projects. The bots learn and retain context about how users work, preserve their personal voice in communications, and become increasingly proactive over time. Priced at $200 per month for individuals and $120 per seat for teams, Grok Bot is in beta for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium subscribers. The launch puts SpaceXAI in direct competition with OpenAI's ChatGPT Work, Anthropic's Claude Cowork, and Microsoft's Copilot Tasks in the fast-growing agentic workspace market.",
-    "source": "The Verge",
+    "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
+    "summary": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
+    "content": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
+    "source": "Nisha",
     "date": "2026-08-12",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "category": "Tools"
+    "url": "https://nokiapoweruser.com/gemini-4-leak-pre-training-1-billion-users-fable-5-gpt-5-6/",
+    "category": "Models",
+    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/leak.jpg"
   },
   {
-    "title": "Enterprise AI Divide Widens: Top Firms Now Use 8x More AI Than the Average",
-    "summary": "New OpenAI data shows the top 10% of enterprise AI users consumed 8.3 times more tokens per user than median firms in June, a dramatic jump from 2.6x in January.",
-    "content": "New data from OpenAI shared exclusively with Semafor reveals that the enterprise AI adoption gap widened sharply in 2026: the top 10% of business AI users consumed 8.3 times as many output tokens per user as median firms in June, compared to just 2.6 times in January — a more than threefold increase in the divide over six months. The data also shows a structural shift in how businesses are using AI, with more tokens now flowing through Codex, OpenAI's agentic coding platform, than through the traditional ChatGPT interface — signaling that enterprises are moving from asking AI questions to having AI execute real work. OpenAI chief economist Ronnie Chatterji compared the divergence to the early internet era, where early adopters pulled ahead before the rest eventually caught up. The study comes as OpenAI intensifies its push for enterprise customers, in part to close ground on Anthropic, which has focused heavily on business and coding tools. Chatterji acknowledged that high token consumption doesn't automatically translate to productivity, noting that measuring AI ROI remains 'frankly difficult to do.'",
-    "source": "Semafor",
-    "date": "2026-08-11",
-    "url": "https://www.semafor.com/article/08/11/2026/the-gap-is-widening-between-corporate-ai-adopters-and-laggards",
-    "category": "Trends"
+    "title": "OpenAI Ultrafast mode: GPT-5.6 Sol at 14x speed",
+    "summary": "OpenAI Ultrafast mode: GPT-5.6 Sol at 14x speed GPT-5.6 Sol just answered 2,500 PhD-level questions in one working day OpenAI is previewing Ultrafast, an API tier that runs GPT-5.6 Sol up to 14× faster — up to 750 output tokens per second on Cerebras hardware. Aug 14, 2026 OpenAI has begun pre",
+    "content": "OpenAI Ultrafast mode: GPT-5.6 Sol at 14x speed GPT-5.6 Sol just answered 2,500 PhD-level questions in one working day OpenAI is previewing Ultrafast, an API tier that runs GPT-5.6 Sol up to 14× faster — up to 750 output tokens per second on Cerebras hardware. Aug 14, 2026 OpenAI has begun pre",
+    "source": "tbreak.com",
+    "date": "2026-08-14",
+    "url": "https://tbreak.com/openai-ultrafast-mode-gpt-5-6-sol/",
+    "category": "Models",
+    "image": "https://i0.wp.com/tbreak.com/wp-content/uploads/2026/08/feature_ea793eb6.png?fit=1200%2C675&ssl=1"
+  },
+  {
+    "title": "Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture",
+    "summary": "Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Edition IN Fri, Aug 14, 2026 | Updated 03.41PM IST - Gadgets Now - News - Tech News - Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Link CopyTwitterLinkedinWhatsapp Chinese Neurosurgeon an",
+    "content": "Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Edition IN Fri, Aug 14, 2026 | Updated 03.41PM IST - Gadgets Now - News - Tech News - Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Link CopyTwitterLinkedinWhatsapp Chinese Neurosurgeon an",
+    "source": "gadgetsnow.indiatimes.com",
+    "date": "2026-08-14",
+    "url": "https://gadgetsnow.indiatimes.com/tech-news/chinese-neurosurgeon-and-chatgpt-crack-two-decade-old-crouzeixs-conjecture/articleshow/133229648.cms",
+    "category": "Models",
+    "image": "https://static.toiimg.com/thumb/resizemode-4,msid-133229648,imgsize-185770,width-800/133229648.jpg"
+  },
+  {
+    "title": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
+    "content": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
+    "source": "Lucas Ropek",
+    "date": "2026-08-13",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "category": "Models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024"
   }
 ]
