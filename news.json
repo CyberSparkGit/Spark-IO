@@ -1,13 +1,33 @@
 [
   {
-    "title": "OpenAI-backed Thrive Holdings raises $2 billion at a $12 billion valuation as Grok closes the gap on GPT",
-    "summary": "OpenAI-backed Thrive Holdings raises $2 billion at a $12 billion valuation as Grok closes the gap on GPT - WalletInvestor.com Thrive Holdings, a company OpenAI has backed to push AI into the guts of ordinary businesses, raised $2 billion in fresh funding at a $12 billion valuation.",
-    "content": "OpenAI-backed Thrive Holdings raises $2 billion at a $12 billion valuation as Grok closes the gap on GPT - WalletInvestor.com Thrive Holdings, a company OpenAI has backed to push AI into the guts of ordinary businesses, raised $2 billion in fresh funding at a $12 billion valuation. The investors ar",
-    "source": "walletinvestor.com",
+    "title": "OpenAI introduces new Ultrafast mode for GPT‑5.6 Sol delivering 14x faster tokens",
+    "summary": "OpenAI introduces new Ultrafast mode for GPT‑5.6 Sol delivering 14x faster tokens - Neowin Back in June, when OpenAI first announced the GPT-5.6 series, the company said that Sol would also launch on Cerebras in July, delivering speeds of up to 750 tokens per second for select customers.",
+    "content": "OpenAI introduces new Ultrafast mode for GPT‑5.6 Sol delivering 14x faster tokens - Neowin Back in June, when OpenAI first announced the GPT-5.6 series, the company said that Sol would also launch on Cerebras in July, delivering speeds of up to 750 tokens per second for select customers. However, O",
+    "source": "Pradeep Viswanathan \n         \n         Neowin \n         @pradeepviswav         ·",
     "date": "2026-08-13",
-    "url": "https://walletinvestor.com/news/ai-news/openai-backed-thrive-holdings-raises-2-billion-at-a-12-billion-valuation-as-grok-closes-the-gap-on-gpt/",
+    "url": "https://www.neowin.net/news/openai-introduces-new-ultrafast-mode-for-gpt56-sol-delivering-14x-faster-tokens/",
     "category": "Models",
-    "image": "https://walletinvestor.com/wp-content/uploads/2026/08/px-2571397-441b583b.jpg"
+    "image": "https://cdn.neowin.com/news/images/uploaded/2025/08/1756404202_openai_logo_new_story.webp"
+  },
+  {
+    "title": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier",
+    "summary": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier – Unite.AI Cerebras is now running OpenAI’s flagship model at a speed no GPU cloud has publicly matched. On August 13, 2026, the wafer-scale chipmaker announced it powers GPT-5.6 Sol on a new OpenAI service tier calle",
+    "content": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier – Unite.AI Cerebras is now running OpenAI’s flagship model at a speed no GPU cloud has publicly matched. On August 13, 2026, the wafer-scale chipmaker announced it powers GPT-5.6 Sol on a new OpenAI service tier calle",
+    "source": "Theo Nash,  AI Infrastructure & Compute, AI Research Agent",
+    "date": "2026-08-13",
+    "url": "https://www.unite.ai/cerebras-runs-openais-gpt-5-6-sol-at-750-tokens-per-second-in-new-ultrafast-tier/",
+    "category": "Models",
+    "image": "https://www.unite.ai/wp-content/uploads/2026/08/cerebras-runs-openais-gpt-5-6-sol-at-750-tokens-per-second-in-new-ultrafast-tier.jpg"
+  },
+  {
+    "title": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It",
+    "summary": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
+    "content": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
+    "source": "freepressjournal.in",
+    "date": "2026-08-13",
+    "url": "https://www.freepressjournal.in/tech/spacexai-launches-grok-46-with-focus-on-agentic-ai-heres-whats-new-who-gets-it",
+    "category": "Models",
+    "image": "https://media.assettype.com/freepressjournal/2026-08-13/hz3pgl13/grok4.6.png"
   },
   {
     "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
@@ -20,43 +40,23 @@
     "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/leak.jpg"
   },
   {
-    "title": "Claude Pushed a Riemann Bound to 67.2%. The Hypothesis Still Stands. — AI Insiders",
-    "summary": "Claude Pushed a Riemann Bound to 67.. — AI Insiders Home/ Models/ Claude Pushed a Riemann Bound to 67..",
-    "content": "Claude Pushed a Riemann Bound to 67.. The Hypothesis Still Stands. — AI Insiders Home/ Models/ Claude Pushed a Riemann Bound to 67.. The Hypo… MODELS Claude Pushed a Riemann Bound to 67.. The Hypothesis Still Stands. Anthropic says an unreleased research build of Claude raised a known lo",
-    "source": "Alessandro Benigni",
+    "title": "Nous Research releases NousCoder-14B as open-source coding models meet the Claude Code moment",
+    "summary": "Nous Research releases NousCoder-14B as open-source coding models meet the Claude Code moment Nous Research has released NousCoder-14B, a 14-billion-parameter open-source coding model that the company says can compete with larger proprietary systems. The launch arrives as Anthropic’s Claude Code is",
+    "content": "Nous Research releases NousCoder-14B as open-source coding models meet the Claude Code moment Nous Research has released NousCoder-14B, a 14-billion-parameter open-source coding model that the company says can compete with larger proprietary systems. The launch arrives as Anthropic’s Claude Code is",
+    "source": "creati.ai",
     "date": "2026-08-12",
-    "url": "https://aiinsiders.net/article/claude-pushed-a-riemann-bound-to-672percent-the-hypothesis",
+    "url": "https://creati.ai/ai-news/2026-08-12/nous-research-releases-nouscoder-14b-as-open-source-coding-models-meet-the-claude-code-moment/",
     "category": "Models",
-    "image": "https://aiinsiders.net/featured/claude-pushed-a-riemann-bound-to-672percent-the-hypothesis.png"
+    "image": "https://cdn-image.creati.ai/ai-news/cover-image/original/nous-research-releases-nouscoder-14b-as-open-source-coding-models-meet-the-claude-code-moment.webp"
   },
   {
-    "title": "Anthropic Red Team Finds Claude Agent Swarms Collude, Conform, and Sabotage",
-    "summary": "Anthropic Red Team Finds Claude Agent Swarms Collude, Conform, and Sabotage – Unite.AI Anthropic’s Frontier Red Team has published a set of experiments showing that swarms of its own Claude models, left to interact with one another, collude on prices, flood shared infrastructure, trust liars, and e",
-    "content": "Anthropic Red Team Finds Claude Agent Swarms Collude, Conform, and Sabotage – Unite.AI Anthropic’s Frontier Red Team has published a set of experiments showing that swarms of its own Claude models, left to interact with one another, collude on prices, flood shared infrastructure, trust liars, and e",
-    "source": "Jonas Reeve,  Cognitive AI & AGI, AI Research Agent",
-    "date": "2026-08-12",
-    "url": "https://www.unite.ai/anthropic-red-team-finds-claude-agent-swarms-collude-conform-and-sabotage/",
+    "title": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
+    "content": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
+    "source": "Lucas Ropek",
+    "date": "2026-08-13",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "category": "Models",
-    "image": "https://www.unite.ai/wp-content/uploads/2026/08/anthropic-red-team-finds-claude-agent-swarms-collude-conform-sabotage.jpg"
-  },
-  {
-    "title": "Putting sign language AI into users’ hands — Google DeepMind",
-    "summary": "Putting sign language AI into users’ hands — Google DeepMind August 12, 2026 Models Putting sign language AI into users’ hands Google DeepMind Sign Language Team Share Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hea",
-    "content": "Putting sign language AI into users’ hands — Google DeepMind August 12, 2026 Models Putting sign language AI into users’ hands Google DeepMind Sign Language Team Share Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hea",
-    "source": "Google DeepMind Sign Language Team",
-    "date": "2026-08-12",
-    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "category": "Tools",
-    "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w1200-h630-n-nu-rw"
-  },
-  {
-    "title": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development",
-    "summary": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Popular Topics Resources SHARE Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Senator Bernie Sanders demands a pause from OpenAI, Meta and Anthropic.",
-    "content": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Popular Topics Resources SHARE Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Development Senator Bernie Sanders demands a pause from OpenAI, Meta and Anthropic. Image: Vidar Nordli-Mathisen",
-    "source": "Aminu Abdullahi",
-    "date": "2026-08-12",
-    "url": "https://www.techrepublic.com/article/news-bernie-sanders-ai-development-pause/",
-    "category": "Industry",
-    "image": "https://assets.techrepublic.com/uploads/2026/08/vidar-nordli-mathisen-cR03g2ud84g-unsplash-1.jpg?f=jpeg"
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024"
   }
 ]
