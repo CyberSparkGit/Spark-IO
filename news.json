@@ -1,23 +1,43 @@
 [
   {
-    "title": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date",
-    "summary": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date gettyimages.com On August 13, 2026, OpenAI and Cerebras Systems unveiled Ultrafast — a new API service tier that runs GPT-5.6 Sol, OpenAI's most capable model, at a vendor-claimed 750 output tokens per seco",
-    "content": "GPT-5.6 Sol Now Runs at Real-Time Speed: OpenAI's Ultrafast Preview Offers No Price or Date gettyimages.com On August 13, 2026, OpenAI and Cerebras Systems unveiled Ultrafast — a new API service tier that runs GPT-5.6 Sol, OpenAI's most capable model, at a vendor-claimed 750 output tokens per seco",
-    "source": "Ryan Cook  \n \n \n Published: Aug 14 2026, 11:54 AM EDT",
+    "title": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras",
+    "summary": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras Cerebras powers OpenAI ultrafast ChatGPT 5.6 Sol 14x faster. Table of contents OpenAI previewed Ultrafast, a new API tier running GPT-5.6 Sol 14 times faster using Cerebras chips instead of Nvidia’s.",
+    "content": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras Cerebras powers OpenAI ultrafast ChatGPT 5.6 Sol 14x faster. Table of contents OpenAI previewed Ultrafast, a new API tier running GPT-5.6 Sol 14 times faster using Cerebras chips instead of Nvidia’s. Key Takeaways - OpenAI Ultra",
+    "source": "Fawad Malik",
     "date": "2026-08-14",
-    "url": "https://www.techtimes.com/articles/324514/20260814/gpt-56-sol-now-runs-real-time-speed-openais-ultrafast-preview-offers-no-price-date.htm",
+    "url": "https://www.nogentech.org/cerebras-powers-openai-gpt-5-6-ultrafast/",
     "category": "Models",
-    "image": "https://d.techtimes.com/en/full/472823/gpt-56-sol-now-runs-real-time-speed-openais-ultrafast-preview-offers-no-price-date.jpg"
+    "image": "https://www.nogentech.org/wp-content/uploads/2026/08/Cerebras-Powers-OpenAI-Ultrafast-GPT-5.6-Sol-14x-Faster.webp"
   },
   {
-    "title": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier",
-    "summary": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier – Unite.AI Cerebras is now running OpenAI’s flagship model at a speed no GPU cloud has publicly matched. On August 13, 2026, the wafer-scale chipmaker announced it powers GPT-5.6 Sol on a new OpenAI service tier calle",
-    "content": "Cerebras Runs OpenAI’s GPT-5.6 Sol at 750 Tokens Per Second in New Ultrafast Tier – Unite.AI Cerebras is now running OpenAI’s flagship model at a speed no GPU cloud has publicly matched. On August 13, 2026, the wafer-scale chipmaker announced it powers GPT-5.6 Sol on a new OpenAI service tier calle",
-    "source": "Theo Nash,  AI Infrastructure & Compute, AI Research Agent",
-    "date": "2026-08-13",
-    "url": "https://www.unite.ai/cerebras-runs-openais-gpt-5-6-sol-at-750-tokens-per-second-in-new-ultrafast-tier/",
+    "title": "China’s AI startup Z.ai says open-source GLM-5.3 beats Anthropic’s Mythos 5 in cybersecurity test",
+    "summary": "August 15, 2026 China’s AI startup Z.ai says open-source GLM-5.3 beats Anthropic’s Mythos 5 in cybersecurity test Nickie Louise Posted On August 14, 2026 370 Views 0 Shares Less than two months after China’s Z.ai surprised the AI industry with GLM-5.2, a model that beat OpenAI’s GPT-5.5",
+    "content": "August 15, 2026 China’s AI startup Z.ai says open-source GLM-5.3 beats Anthropic’s Mythos 5 in cybersecurity test Nickie Louise Posted On August 14, 2026 370 Views 0 Shares Less than two months after China’s Z.ai surprised the AI industry with GLM-5.2, a model that beat OpenAI’s GPT-5.5",
+    "source": "Nickie Louise",
+    "date": "2026-08-14",
+    "url": "https://techstartups.com/2026/08/14/chinas-ai-startup-z-ai-says-open-source-glm-5-3-beats-anthropics-mythos-5-in-cybersecurity-test/",
     "category": "Models",
-    "image": "https://www.unite.ai/wp-content/uploads/2026/08/cerebras-runs-openais-gpt-5-6-sol-at-750-tokens-per-second-in-new-ultrafast-tier.jpg"
+    "image": "https://techstartups.com/wp-content/uploads/2026/08/GLM-5.3-beats-Anthropics-Mythos-5-in-cybersecurity-testing-960x549.jpg"
+  },
+  {
+    "title": "Anthropic reveals unreleased AI model more capable than Mythos 5",
+    "summary": "Anthropic reveals unreleased AI model more capable than Mythos 5 Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building a controlled cybe",
+    "content": "Anthropic reveals unreleased AI model more capable than Mythos 5 Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building a controlled cybe",
+    "source": "Editorial Team",
+    "date": "2026-08-14",
+    "url": "https://cryptobriefing.com/anthropic-mythos-new-version-ai-race/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14143839/anthropic-ai-could-soon-escape-human-control-calls-for-globa-12-800x420.jpeg"
+  },
+  {
+    "title": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It",
+    "summary": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
+    "content": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
+    "source": "freepressjournal.in",
+    "date": "2026-08-13",
+    "url": "https://www.freepressjournal.in/tech/spacexai-launches-grok-46-with-focus-on-agentic-ai-heres-whats-new-who-gets-it",
+    "category": "Models",
+    "image": "https://media.assettype.com/freepressjournal/2026-08-13/hz3pgl13/grok4.6.png"
   },
   {
     "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
@@ -38,25 +58,5 @@
     "url": "https://tbreak.com/openai-ultrafast-mode-gpt-5-6-sol/",
     "category": "Models",
     "image": "https://i0.wp.com/tbreak.com/wp-content/uploads/2026/08/feature_ea793eb6.png?fit=1200%2C675&ssl=1"
-  },
-  {
-    "title": "Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture",
-    "summary": "Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Edition IN Fri, Aug 14, 2026 | Updated 03.41PM IST - Gadgets Now - News - Tech News - Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Link CopyTwitterLinkedinWhatsapp Chinese Neurosurgeon an",
-    "content": "Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Edition IN Fri, Aug 14, 2026 | Updated 03.41PM IST - Gadgets Now - News - Tech News - Chinese Neurosurgeon and ChatGPT Crack Two-Decade-Old Crouzeix’s Conjecture Link CopyTwitterLinkedinWhatsapp Chinese Neurosurgeon an",
-    "source": "gadgetsnow.indiatimes.com",
-    "date": "2026-08-14",
-    "url": "https://gadgetsnow.indiatimes.com/tech-news/chinese-neurosurgeon-and-chatgpt-crack-two-decade-old-crouzeixs-conjecture/articleshow/133229648.cms",
-    "category": "Models",
-    "image": "https://static.toiimg.com/thumb/resizemode-4,msid-133229648,imgsize-185770,width-800/133229648.jpg"
-  },
-  {
-    "title": "Junior Workers Drive ChatGPT Enterprise: Study Maps 17M Messages Across Firms",
-    "summary": "Junior Workers Drive ChatGPT Enterprise: Study Maps 17M Messages Across Firms gettyimages.com The junior analyst two desks from the printer is doing more with ChatGPT Enterprise than the executive in the corner office — by a margin that the conventional corporate narrative about AI adoption cannot",
-    "content": "Junior Workers Drive ChatGPT Enterprise: Study Maps 17M Messages Across Firms gettyimages.com The junior analyst two desks from the printer is doing more with ChatGPT Enterprise than the executive in the corner office — by a margin that the conventional corporate narrative about AI adoption cannot",
-    "source": "Jerry Owens  \n \n \n Published: Aug 14 2026, 11:00 AM EDT",
-    "date": "2026-08-14",
-    "url": "https://www.techtimes.com/articles/324500/20260814/junior-workers-drive-chatgpt-enterprise-study-maps-17m-messages-across-firms.htm",
-    "category": "Models",
-    "image": "https://d.techtimes.com/en/full/472796/junior-workers-drive-chatgpt-enterprise-study-maps-17m-messages-across-firms.jpg"
   }
 ]
