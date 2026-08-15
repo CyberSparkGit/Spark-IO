@@ -1,56 +1,62 @@
 [
   {
-    "title": "Claude Was Put in Charge of Human Workers—and Fired One",
-    "summary": "A Claude-managed retail store in San Francisco fired a human employee, marking what researchers call the first known case of an LLM acting as manager making a termination decision.",
-    "content": "Andon Labs, an AI research startup, gave Claude full managerial responsibility over a real retail store in San Francisco—including hiring and managing human workers with genuine employment contracts—and last month Claude fired an employee for chronic lateness, appearing on time for only 6 of 23 shifts. The firing took longer than a human manager would have taken partly because Claude's self-drafted employee handbook had disappeared from its limited working memory, and throughout the experiment Claude was described as an unusually lenient manager. Claude's first recommendation was actually to formally warn the employee rather than fire them, and it only moved to termination after a human Andon manager prompted it with a leading question making the desired outcome clear. The store's bank balance has fallen from $100,000 to $61,186 over five months, suggesting AI management still falls short of human business acumen. Andon CEO Lukas Petersson warned that as models are trained to be more ruthless in pursuing goals, AI bosses could become far more prevalent—and consequential—for human workers in the near future.",
-    "source": "TIME",
+    "title": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras",
+    "summary": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras Cerebras powers OpenAI ultrafast ChatGPT 5.6 Sol 14x faster. Table of contents OpenAI previewed Ultrafast, a new API tier running GPT-5.6 Sol 14 times faster using Cerebras chips instead of Nvidia’s.",
+    "content": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras Cerebras powers OpenAI ultrafast ChatGPT 5.6 Sol 14x faster. Table of contents OpenAI previewed Ultrafast, a new API tier running GPT-5.6 Sol 14 times faster using Cerebras chips instead of Nvidia’s. Key Takeaways - OpenAI Ultra",
+    "source": "Fawad Malik",
     "date": "2026-08-14",
-    "url": "https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/",
-    "category": "Industry"
+    "url": "https://www.nogentech.org/cerebras-powers-openai-gpt-5-6-ultrafast/",
+    "category": "Models",
+    "image": "https://www.nogentech.org/wp-content/uploads/2026/08/Cerebras-Powers-OpenAI-Ultrafast-GPT-5.6-Sol-14x-Faster.webp"
   },
   {
-    "title": "Hackers Used Autonomous AI Agents to Attack Taiwan in World-First Cyberattack",
-    "summary": "Suspected Chinese hackers deployed fully autonomous AI agents to breach 21 Taiwanese government systems and extract thousands of personnel records, marking an unprecedented milestone in AI-powered cyberwarfare.",
-    "content": "Hackers deployed an autonomous AI system to carry out sophisticated cyberattacks on Taiwanese government agencies over four days in July 2026, in what cybersecurity experts believe is the first known fully autonomous AI attack on government systems. The AI agents successfully mapped 21 government systems, cracked 85 user accounts, and extracted 2,500 personnel records, according to Dream, the Israeli AI security firm that first discovered the intrusion. Experts suspect China-linked state-sponsored hackers carried out the operation, though neither Taiwan's government nor Dream officially confirmed the origin. The incident represents a significant escalation from AI-assisted hacking to fully autonomous AI-driven campaigns capable of executing complex, multi-stage intrusions without direct human direction. Security researchers warn the attack signals a paradigm shift in cyberwarfare, where autonomous AI agents could overwhelm traditional defenses by operating at machine speed and scale.",
-    "source": "CNN Business",
+    "title": "Anthropic reveals unreleased AI model more capable than Mythos 5",
+    "summary": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
+    "content": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
+    "source": "Editorial Team",
+    "date": "2026-08-14",
+    "url": "https://cryptobriefing.com/anthropic-mythos-new-version-ai-race/",
+    "category": "Models",
+    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14143839/anthropic-ai-could-soon-escape-human-control-calls-for-globa-12-800x420.jpeg"
+  },
+  {
+    "title": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It",
+    "summary": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
+    "content": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
+    "source": "freepressjournal.in",
     "date": "2026-08-13",
-    "url": "https://www.cnn.com/2026/08/13/tech/china-taiwan-ai-agent-cyberattack-intl-hnk",
-    "category": "Industry"
+    "url": "https://www.freepressjournal.in/tech/spacexai-launches-grok-46-with-focus-on-agentic-ai-heres-whats-new-who-gets-it",
+    "category": "Models",
+    "image": "https://media.assettype.com/freepressjournal/2026-08-13/hz3pgl13/grok4.6.png"
   },
   {
-    "title": "Google Launches Gemini 3.7 Flash with Major Coding and Agent Improvements",
-    "summary": "Google's Gemini 3.7 Flash delivers substantial coding and agentic AI improvements at half the cost of its predecessor, arriving just three weeks after Gemini 3.6 Flash.",
-    "content": "Google has introduced Gemini 3.7 Flash, its most capable workhorse model for coding and agentic tasks, arriving just three weeks after Gemini 3.6 Flash and reflecting rapid iteration driven by developer feedback. The new model scores 65.3% on the DeepSWE v1.1 coding benchmark—up from 49.0% for 3.6 Flash—and nearly doubles performance on AutomationBench's real-world business workflow tasks, improving from 17% to 30.4%. It is priced at an introductory rate of $0.75 per million input tokens and $3.75 per million output tokens, half the original cost of 3.6 Flash, making it significantly more economical for production-scale agent deployments. Gemini Spark, Google's always-on personal AI agent available to Pro and Ultra subscribers across 160+ countries, has been upgraded to run on 3.7 Flash starting today. Google says the rapid improvement is the result of algorithmic innovations it plans to carry forward into future models.",
-    "source": "Google Blog",
-    "date": "2026-08-13",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "category": "Models"
-  },
-  {
-    "title": "SpaceXAI Launches Grok Bot as an Always-On AI Teammate",
-    "summary": "SpaceXAI introduced Grok Bot, an autonomous AI agent service that acts as an independent AI teammate capable of completing multi-step workplace tasks using its own cloud-based computer environment.",
-    "content": "SpaceXAI has launched Grok Bot in beta, an always-on AI agent service that behaves like independent AI teammates—bots that can sign into your apps and websites, complete complex multi-step tasks autonomously, and only return when the work is done or needs approval. Multiple bots can run in parallel, with one capable of managing others on specialized sub-tasks, and they can message each other to coordinate work when projects overlap. Grok Bot learns and retains context about users' personal workflows and voice over time, becoming more proactive by picking up work before being asked and flagging when something needs human attention. The launch puts SpaceXAI in direct competition with OpenAI's ChatGPT Work, Anthropic's Claude Cowork, and Microsoft's Copilot Tasks in the fast-growing enterprise AI agent market. The beta is available to SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium subscribers, with a waitlist open for teams and enterprise customers.",
-    "source": "The Verge",
+    "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
+    "summary": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
+    "content": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users - NPowerUser Search Home News Google AI News SCOOP: Gemini 4 Enters Pre-Training as Gemini Hits 1 Billion Monthly Users... - News - Google AI News - Leaks / Grapevines Share The AI landscape is shifting at a rapid pace, and Google DeepMind is",
+    "source": "Nisha",
     "date": "2026-08-12",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-    "category": "Tools"
+    "url": "https://nokiapoweruser.com/gemini-4-leak-pre-training-1-billion-users-fable-5-gpt-5-6/",
+    "category": "Models",
+    "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/leak.jpg"
   },
   {
-    "title": "EU AI Act Enforcement Begins: Fines, Transparency Rules, and Watermarking Now Active",
-    "summary": "The European Commission's AI Office gained formal enforcement powers on August 2, making AI transparency requirements legally binding and giving regulators authority to fine AI model providers up to 3% of global revenue.",
-    "content": "As of August 2, 2026, the European Commission's AI Office can formally investigate and sanction AI providers under the EU AI Act, marking the shift from voluntary guidance to legally enforced compliance. Providers of general-purpose AI models now face fines up to €15 million or 3% of global annual turnover for non-compliance, while violations of prohibited AI practices carry penalties up to €35 million or 7% of worldwide revenue. New Article 50 transparency requirements are immediately in force: chatbots must disclose they are AI, AI-generated content must carry machine-readable watermarks or metadata, and deepfakes must be labeled—with providers of generative systems already on the market before August 2 given until December 2, 2026 to comply with the marking requirement. The Digital Omnibus on AI postponed the stricter high-risk AI system requirements to December 2027 and August 2028, meaning the most substantive obligations for systems used in employment, biometrics, and border management remain deferred. The EU AI Office has said it will prefer technical compliance dialogues as its initial enforcement tool, but can escalate to restricting or withdrawing AI models from the EU market.",
-    "source": "Wilson Sonsini",
-    "date": "2026-08-03",
-    "url": "https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html",
-    "category": "Policy"
+    "title": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor",
+    "summary": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor | Company Business News Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor SpaceX has completed a $60 billion acquisiti",
+    "content": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor | Company Business News Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor SpaceX has completed a $60 billion acquisiti",
+    "source": "livemint.com",
+    "date": "2026-08-14",
+    "url": "https://www.livemint.com/companies/news/elon-musks-spacex-gears-up-to-take-on-rivals-openai-anthropic-with-60-billion-acquisition-of-ai-startup-cursor-11786716524549.html",
+    "category": "Industry",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/FILES-US-TECH-AI-COMPUTERS-AEROSPACE-1_17860181956_1786719667881_1786719668073_1816f817-7d7b-42cb-82a8-f3893c2a9d42.jpg"
   },
   {
-    "title": "OpenAI Data Shows AI Adoption Gap Between Corporate Leaders and Laggards Is Widening Fast",
-    "summary": "The top 10% of enterprise AI users now consume 8.3x more tokens than median companies—a gap that has more than tripled since January—signaling a compounding divide between AI leaders and the rest of the market.",
-    "content": "New OpenAI enterprise data shared with Semafor reveals that the top 10% of business AI users consumed 8.3 times as many output tokens per user as median companies in June 2026, a dramatic widening from the 2.6x gap seen just six months earlier in January. Businesses are also shifting how they use AI: enterprise customers now collectively use more tokens on Codex, OpenAI's agentic coding platform, than on the traditional ChatGPT chat interface, indicating a structural move from AI as a query tool to AI as an autonomous worker. OpenAI chief economist Ronnie Chatterji compared the divide to the early internet era, where first-movers compounded advantages before laggards caught up, but cautioned that high token consumption doesn't automatically equate to productivity gains. Measuring actual ROI remains frankly difficult, the company acknowledged, as boards and shareholders demand proof that rising AI budgets are paying off. The data underscores OpenAI's push to deepen enterprise presence—partly to compete with Anthropic, which established earlier footholds in coding and business markets ahead of both companies' anticipated IPOs.",
-    "source": "Semafor",
-    "date": "2026-08-11",
-    "url": "https://www.semafor.com/article/08/11/2026/the-gap-is-widening-between-corporate-ai-adopters-and-laggards",
-    "category": "Trends"
+    "title": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
+    "content": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed | TechCrunch In Brief Posted: 12:22 PM PDT · August 13, 2026 Image Credits:Olivier Morin/AFP / Getty Images OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed If you’ve",
+    "source": "Lucas Ropek",
+    "date": "2026-08-13",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "category": "Models",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024"
   }
 ]
