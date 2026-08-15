@@ -10,19 +10,9 @@
     "image": "https://www.nogentech.org/wp-content/uploads/2026/08/Cerebras-Powers-OpenAI-Ultrafast-GPT-5.6-Sol-14x-Faster.webp"
   },
   {
-    "title": "China’s AI startup Z.ai says open-source GLM-5.3 beats Anthropic’s Mythos 5 in cybersecurity test",
-    "summary": "August 15, 2026 China’s AI startup Z.ai says open-source GLM-5.3 beats Anthropic’s Mythos 5 in cybersecurity test Nickie Louise Posted On August 14, 2026 370 Views 0 Shares Less than two months after China’s Z.ai surprised the AI industry with GLM-5.2, a model that beat OpenAI’s GPT-5.5",
-    "content": "August 15, 2026 China’s AI startup Z.ai says open-source GLM-5.3 beats Anthropic’s Mythos 5 in cybersecurity test Nickie Louise Posted On August 14, 2026 370 Views 0 Shares Less than two months after China’s Z.ai surprised the AI industry with GLM-5.2, a model that beat OpenAI’s GPT-5.5",
-    "source": "Nickie Louise",
-    "date": "2026-08-14",
-    "url": "https://techstartups.com/2026/08/14/chinas-ai-startup-z-ai-says-open-source-glm-5-3-beats-anthropics-mythos-5-in-cybersecurity-test/",
-    "category": "Models",
-    "image": "https://techstartups.com/wp-content/uploads/2026/08/GLM-5.3-beats-Anthropics-Mythos-5-in-cybersecurity-testing-960x549.jpg"
-  },
-  {
     "title": "Anthropic reveals unreleased AI model more capable than Mythos 5",
-    "summary": "Anthropic reveals unreleased AI model more capable than Mythos 5 Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building a controlled cybe",
-    "content": "Anthropic reveals unreleased AI model more capable than Mythos 5 Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building a controlled cybe",
+    "summary": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
+    "content": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
     "source": "Editorial Team",
     "date": "2026-08-14",
     "url": "https://cryptobriefing.com/anthropic-mythos-new-version-ai-race/",
@@ -30,14 +20,14 @@
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14143839/anthropic-ai-could-soon-escape-human-control-calls-for-globa-12-800x420.jpeg"
   },
   {
-    "title": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It",
-    "summary": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
-    "content": "SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI Launches Grok 4.6 With Focus On Agentic AI: Here's What's New & Who Gets It SpaceXAI has launched Grok 4.6, its new flagship AI model designed for long-running agentic tasks, coding, research and vis",
-    "source": "freepressjournal.in",
+    "title": "Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol",
+    "summary": "Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol | Markets Insider Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol PRESS RELEASE GlobeNewswire Aug. 13, 2026, 01:00 PM SUNNYVALE, Calif., Aug.",
+    "content": "Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol | Markets Insider Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol PRESS RELEASE GlobeNewswire Aug. 13, 2026, 01:00 PM SUNNYVALE, Calif., Aug. 13, 2026 (GLOBE NEWSWIRE) -- Cerebras (NASDAQ: CBRS) today announced that it is powerin",
+    "source": "markets.businessinsider.com",
     "date": "2026-08-13",
-    "url": "https://www.freepressjournal.in/tech/spacexai-launches-grok-46-with-focus-on-agentic-ai-heres-whats-new-who-gets-it",
+    "url": "https://markets.businessinsider.com/news/stocks/cerebras-powers-ultrafast-mode-for-openai-s-gpt-5-6-sol-1036455066",
     "category": "Models",
-    "image": "https://media.assettype.com/freepressjournal/2026-08-13/hz3pgl13/grok4.6.png"
+    "image": "https://ml.globenewswire.com/media/afe6a6bd-77db-4780-98cb-e6efc198c7f6/small/cerebras-logo-png.png"
   },
   {
     "title": "Gemini 4 Enters Pre-Training as Gemini Hits 1B Users",
@@ -50,13 +40,23 @@
     "image": "https://nokiapoweruser.com/wp-content/uploads/2026/08/leak.jpg"
   },
   {
-    "title": "OpenAI Ultrafast mode: GPT-5.6 Sol at 14x speed",
-    "summary": "OpenAI Ultrafast mode: GPT-5.6 Sol at 14x speed GPT-5.6 Sol just answered 2,500 PhD-level questions in one working day OpenAI is previewing Ultrafast, an API tier that runs GPT-5.6 Sol up to 14× faster — up to 750 output tokens per second on Cerebras hardware. Aug 14, 2026 OpenAI has begun pre",
-    "content": "OpenAI Ultrafast mode: GPT-5.6 Sol at 14x speed GPT-5.6 Sol just answered 2,500 PhD-level questions in one working day OpenAI is previewing Ultrafast, an API tier that runs GPT-5.6 Sol up to 14× faster — up to 750 output tokens per second on Cerebras hardware. Aug 14, 2026 OpenAI has begun pre",
-    "source": "tbreak.com",
+    "title": "DeepSeek V4-Pro Goes GA: The Announcement Finally Lands",
+    "summary": "DeepSeek V4-Pro Goes GA: The Announcement Finally Lands AI DevelopmentNew Release14 min readPublished August 15, 2026 GA on app, web, and API · alias deepseek-v4-pro unchanged · weights shipped, not promised DeepSeek V4-Pro Goes GA: The Announcement Finally Lands A changelog entry dated August",
+    "content": "DeepSeek V4-Pro Goes GA: The Announcement Finally Lands AI DevelopmentNew Release14 min readPublished August 15, 2026 GA on app, web, and API · alias deepseek-v4-pro unchanged · weights shipped, not promised DeepSeek V4-Pro Goes GA: The Announcement Finally Lands A changelog entry dated August",
+    "source": "Digital Applied",
     "date": "2026-08-14",
-    "url": "https://tbreak.com/openai-ultrafast-mode-gpt-5-6-sol/",
+    "url": "https://www.digitalapplied.com/blog/deepseek-v4-pro-ga-official-release-2026",
     "category": "Models",
-    "image": "https://i0.wp.com/tbreak.com/wp-content/uploads/2026/08/feature_ea793eb6.png?fit=1200%2C675&ssl=1"
+    "image": "https://www.digitalapplied.com/blog/deepseek-v4-pro-ga-official-release-2026/article-image"
+  },
+  {
+    "title": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor",
+    "summary": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor | Company Business News Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor SpaceX has completed a $60 billion acquisiti",
+    "content": "Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor | Company Business News Elon Musk's SpaceX gears up to take on rivals OpenAI, Anthropic with $60 billion acquisition of AI startup Cursor SpaceX has completed a $60 billion acquisiti",
+    "source": "livemint.com",
+    "date": "2026-08-14",
+    "url": "https://www.livemint.com/companies/news/elon-musks-spacex-gears-up-to-take-on-rivals-openai-anthropic-with-60-billion-acquisition-of-ai-startup-cursor-11786716524549.html",
+    "category": "Industry",
+    "image": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/FILES-US-TECH-AI-COMPUTERS-AEROSPACE-1_17860181956_1786719667881_1786719668073_1816f817-7d7b-42cb-82a8-f3893c2a9d42.jpg"
   }
 ]
