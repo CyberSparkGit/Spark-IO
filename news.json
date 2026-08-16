@@ -10,6 +10,16 @@
     "image": "https://www.nogentech.org/wp-content/uploads/2026/08/Cerebras-Powers-OpenAI-Ultrafast-GPT-5.6-Sol-14x-Faster.webp"
   },
   {
+    "title": "OpenAI lets GPT-5.6 Sol delegate grunt work to cheaper Luna agents",
+    "summary": "OpenAI lets GPT-5.6 Sol delegate grunt work to cheaper Luna agents Why it matters Cross-model delegation gives Codex a direct cost and latency control: expensive reasoning can stay with the orchestrator while faster models handle clearly bounded work. OpenAI has shipped cross-model delegation",
+    "content": "OpenAI lets GPT-5.6 Sol delegate grunt work to cheaper Luna agents Why it matters Cross-model delegation gives Codex a direct cost and latency control: expensive reasoning can stay with the orchestrator while faster models handle clearly bounded work. OpenAI has shipped cross-model delegation",
+    "source": "RuntimeWire",
+    "date": "2026-08-16",
+    "url": "https://runtimewire.com/article/openai-lets-gpt-5-6-sol-delegate-grunt-work-to-cheaper-luna-agents",
+    "category": "Models",
+    "image": "https://runtimewire.com/og/openai-lets-gpt-5-6-sol-delegate-grunt-work-to-cheaper-luna-agents.16x9.jpg"
+  },
+  {
     "title": "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
     "summary": "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table | Ctech ACCESSIBILITY by https://twitter.com/Calcalistech ACCESSIBILITY Headlines Ynet Global Recently Read While the world builds more memory chips, Israel could reinvent them The gap between Israeli an",
     "content": "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table | Ctech ACCESSIBILITY by https://twitter.com/Calcalistech ACCESSIBILITY Headlines Ynet Global Recently Read While the world builds more memory chips, Israel could reinvent them The gap between Israeli an",
@@ -20,26 +30,6 @@
     "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/15/BkvRc10UGx/BkvRc10UGx_0_69_2250_1267_0_large.jpg"
   },
   {
-    "title": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second",
-    "summary": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second | Gate News OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second 2026-08-14 03:00:00 - OpenAI announced GPT-5.6 Sol Ultrafast mode on August 13, outputting 750 tokens per second,",
-    "content": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second | Gate News OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second 2026-08-14 03:00:00 - OpenAI announced GPT-5.6 Sol Ultrafast mode on August 13, outputting 750 tokens per second,",
-    "source": "gate.com",
-    "date": "2026-08-14",
-    "url": "https://www.gate.com/news/detail/openai-launches-gpt-56-sol-ultrafast-preview-mode-outputting-750-tokens-per-23439858",
-    "category": "Models",
-    "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
-  },
-  {
-    "title": "Beijing doctor uses GPT-5.6-Sol to crack 22-year math conjecture",
-    "summary": "Beijing doctor uses GPT-5.6-Sol to crack 22-year math conjecture | AI Weekly TL;DR - Jin Shanmu, a neurosurgery resident at Peking Union Medical College Hospital, ran GPT-5.6-Sol on ChatGPT Work for about 16 hours to prove Crouzeix's conjecture. - Michel Crouzeix, who proposed the matrix-analys",
-    "content": "Beijing doctor uses GPT-5.6-Sol to crack 22-year math conjecture | AI Weekly TL;DR - Jin Shanmu, a neurosurgery resident at Peking Union Medical College Hospital, ran GPT-5.6-Sol on ChatGPT Work for about 16 hours to prove Crouzeix's conjecture. - Michel Crouzeix, who proposed the matrix-analys",
-    "source": "Alexis Dufresne",
-    "date": "2026-08-15",
-    "url": "https://aiweekly.co/alerts/beijing-doctor-uses-gpt-56-sol-to-crack-22-year-math-conjecture",
-    "category": "Models",
-    "image": "https://aiweekly.co/themes/custom/aiweekly/images/logo.png"
-  },
-  {
     "title": "Anthropic reveals unreleased AI model more capable than Mythos 5",
     "summary": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
     "content": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
@@ -48,6 +38,16 @@
     "url": "https://cryptobriefing.com/anthropic-mythos-new-version-ai-race/",
     "category": "Models",
     "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14143839/anthropic-ai-could-soon-escape-human-control-calls-for-globa-12-800x420.jpeg"
+  },
+  {
+    "title": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second",
+    "summary": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second | Gate News OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second 2026-08-14 03:00:00 Key",
+    "content": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second | Gate News OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second 2026-08-14 03:00:00 Key",
+    "source": "gate.com",
+    "date": "2026-08-14",
+    "url": "https://www.gate.com/news/detail/openai-launches-gpt-56-sol-ultrafast-preview-mode-outputting-750-tokens-per-23439858",
+    "category": "Models",
+    "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
   },
   {
     "title": "DeepSeek’s One-Two Punch: V4-Pro Goes GA While dsh Redefines What ‘Open Source AI’ Means",
