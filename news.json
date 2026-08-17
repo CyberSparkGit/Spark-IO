@@ -10,14 +10,14 @@
     "image": "https://www.nogentech.org/wp-content/uploads/2026/08/Cerebras-Powers-OpenAI-Ultrafast-GPT-5.6-Sol-14x-Faster.webp"
   },
   {
-    "title": "OpenAI lets GPT-5.6 Sol delegate grunt work to cheaper Luna agents",
-    "summary": "OpenAI lets GPT-5.6 Sol delegate grunt work to cheaper Luna agents Why it matters Cross-model delegation gives Codex a direct cost and latency control: expensive reasoning can stay with the orchestrator while faster models handle clearly bounded work. OpenAI has shipped cross-model delegation",
-    "content": "OpenAI lets GPT-5.6 Sol delegate grunt work to cheaper Luna agents Why it matters Cross-model delegation gives Codex a direct cost and latency control: expensive reasoning can stay with the orchestrator while faster models handle clearly bounded work. OpenAI has shipped cross-model delegation",
-    "source": "RuntimeWire",
+    "title": "刚被索赔1.4万亿，Meta连夜开源30B小钢炮：扎克伯格点名DeepSeek、Qwen、Kimi-36氪",
+    "summary": "刚被索赔1.4万亿，Meta连夜开源30B小钢炮：扎克伯格点名DeepSeek、Qwen、Kimi-36氪 刚被索赔1.4万亿，Meta连夜开源30B小钢炮：扎克伯格点名DeepSeek、Qwen、Kimi 2026年08月12日 07:48 Muse首次开源：Meta把旗舰蒸馏进30B，本地Agent时代真要来了？ Meta最近的日子，冰火两重天。 一边，加州、科罗拉多、肯塔基、新泽西四个州的总检察长把索赔数字喊到了1.4万亿美元——几乎等于Meta 1.48万亿的总市值，指控它故意把Facebook和Instagram设计成让青少年上瘾的产品。另一边，Meta Superinte",
+    "content": "刚被索赔1.4万亿，Meta连夜开源30B小钢炮：扎克伯格点名DeepSeek、Qwen、Kimi-36氪 刚被索赔1.4万亿，Meta连夜开源30B小钢炮：扎克伯格点名DeepSeek、Qwen、Kimi 2026年08月12日 07:48 Muse首次开源：Meta把旗舰蒸馏进30B，本地Agent时代真要来了？ Meta最近的日子，冰火两重天。 一边，加州、科罗拉多、肯塔基、新泽西四个州的总检察长把索赔数字喊到了1.4万亿美元——几乎等于Meta 1.48万亿的总市值，指控它故意把Facebook和Instagram设计成让青少年上瘾的产品。另一边，Meta Superinte",
+    "source": "象先志",
     "date": "2026-08-16",
-    "url": "https://runtimewire.com/article/openai-lets-gpt-5-6-sol-delegate-grunt-work-to-cheaper-luna-agents",
+    "url": "https://m.36kr.com/p/3935135915726722",
     "category": "Models",
-    "image": "https://runtimewire.com/og/openai-lets-gpt-5-6-sol-delegate-grunt-work-to-cheaper-luna-agents.16x9.jpg"
+    "image": "https://img.36krcdn.com/hsossms/20260812/v2_9cf9a25ca6d44710940c3172cbe09418@5091053@ai_oswg1048736oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg"
   },
   {
     "title": "Anthropic closes in on $7 billion Decart deal after beating Nvidia to the table",
@@ -30,14 +30,24 @@
     "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/08/15/BkvRc10UGx/BkvRc10UGx_0_69_2250_1267_0_large.jpg"
   },
   {
-    "title": "Anthropic reveals unreleased AI model more capable than Mythos 5",
-    "summary": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
-    "content": "Anthropic reveals unreleased AI model more capable than Mythos 5 SEARCH Searching... Via abc7news.com Anthropic reveals unreleased AI model more capable than Mythos 5 Claude Mythos Preview can autonomously exploit zero-day vulnerabilities, prompting Anthropic to restrict access while building",
-    "source": "Editorial Team",
+    "title": "Google Launches Gemini 3.7 Flash Major Coding Upgrades 50% Price Cut and Fierce Rivalry with GPT-5.6 Terra",
+    "summary": "Google Launches Gemini 3.7 Flash Major Coding Upgrades Price Cut and Fierce Rivalry with GPT-5.6 Terra content When Agents Overreach Australian Case Study Sparks Debate over Autonomous AI Liability. When AI Agents Overreach: Australian Case Study Highlights Safety and Liabilit",
+    "content": "Google Launches Gemini 3.7 Flash Major Coding Upgrades Price Cut and Fierce Rivalry with GPT-5.6 Terra content When Agents Overreach Australian Case Study Sparks Debate over Autonomous AI Liability. When AI Agents Overreach: Australian Case Study Highlights Safety and Liabilit",
+    "source": "nnewstech.blogspot.com",
     "date": "2026-08-14",
-    "url": "https://cryptobriefing.com/anthropic-mythos-new-version-ai-race/",
+    "url": "https://nnewstech.blogspot.com/2026/08/google-launches-gemini-37-flash-major.html",
     "category": "Models",
-    "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14143839/anthropic-ai-could-soon-escape-human-control-calls-for-globa-12-800x420.jpeg"
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhScDe_tjjK05Ni-W2OlCYqS6hJvn6WygQdLUN18DbCjkQ_VIoObAy4lfspIQfUv49WGAhULKGdB6E6yP1EAgosCahcV5KQw8tE3YIOqJvMbFRkHCaNmxNlgegpfknXuIyCP6fpi4QpRGCxyZtIuUClHr64uCa7_iF-fnXnV5wQgweBaWwuGqHqDyeJlIQ2/w1200-h630-p-k-no-nu/tinyview_gemini-colors.webp"
+  },
+  {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "summary": "Anthropic shares more details about how Claude’s new watermarks will work | TechCrunch Image Credits:atakan / Getty Images Anthropic shares more details about how Claude’s new watermarks will work 11:58 AM PDT · August 15, 2026 Anthropic published a blog post Friday seeking to answer some basi",
+    "content": "Anthropic shares more details about how Claude’s new watermarks will work | TechCrunch Image Credits:atakan / Getty Images Anthropic shares more details about how Claude’s new watermarks will work 11:58 AM PDT · August 15, 2026 Anthropic published a blog post Friday seeking to answer some basi",
+    "source": "Anthony Ha",
+    "date": "2026-08-15",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "category": "Models",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840"
   },
   {
     "title": "OpenAI launches GPT-5.6 Sol Ultrafast preview mode, outputting 750 tokens per second",
@@ -48,15 +58,5 @@
     "url": "https://www.gate.com/news/detail/openai-launches-gpt-56-sol-ultrafast-preview-mode-outputting-750-tokens-per-23439858",
     "category": "Models",
     "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
-  },
-  {
-    "title": "DeepSeek’s One-Two Punch: V4-Pro Goes GA While dsh Redefines What ‘Open Source AI’ Means",
-    "summary": "DeepSeek’s One-Two Punch: V4-Pro Goes GA While dsh Redefines What ‘Open Source AI’ Means - Banandre DeepSeek’s One-Two Punch: V4-Pro Goes GA While dsh Redefines What ‘Open Source AI’ Means DeepSeek released V4-Pro and open-sourced its agent harness in the same week.",
-    "content": "DeepSeek’s One-Two Punch: V4-Pro Goes GA While dsh Redefines What ‘Open Source AI’ Means - Banandre DeepSeek’s One-Two Punch: V4-Pro Goes GA While dsh Redefines What ‘Open Source AI’ Means DeepSeek released V4-Pro and open-sourced its agent harness in the same week. The model benchmarks impress,",
-    "source": "Banandre",
-    "date": "2026-08-14",
-    "url": "https://www.banandre.com/blog/deepseek-v4-pro-ga-open-source-agent-harness-dsh",
-    "category": "Models",
-    "image": "https://www.banandre.com/wp-content/uploads/2026/08/deepseek-launches-v4-pro-and-open-sources-agent-harness-dsh_deepseek-is-officially-launching-its-flagship-ai-model-after-months-in-preview-1.jpg"
   }
 ]
