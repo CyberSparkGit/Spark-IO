@@ -1,5 +1,15 @@
 [
   {
+    "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+    "summary": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - The Crypto Post Pinterest The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google",
+    "content": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - The Crypto Post Pinterest The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google",
+    "source": "CryptoExpert",
+    "date": "2026-08-18",
+    "url": "https://thecryptopost.io/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required/",
+    "category": "Models",
+    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30"
+  },
+  {
     "title": "Google DeepMind launches Gemini 3.7 Flash and SL2T",
     "summary": "Google DeepMind launches Gemini 3.7 Flash and SL2T | Dealroom News Product Aug 17, 2026, 02:31 UTC Google DeepMind launches Gemini 3.7 Flash and SL2T What's the deal? In posts on 13 August 2026, Demis Hassabis Dealroom has a profile for this one.",
     "content": "Google DeepMind launches Gemini 3.7 Flash and SL2T | Dealroom News Product Aug 17, 2026, 02:31 UTC Google DeepMind launches Gemini 3.7 Flash and SL2T What's the deal? In posts on 13 August 2026, Demis Hassabis Dealroom has a profile for this one. Try Dealroom → highlighted two new Google DeepMi",
@@ -48,15 +58,5 @@
     "url": "https://datanorth.ai/news/deepseek-releases-v4-pro-0813-and-harness-v0-1",
     "category": "Models",
     "image": "https://datanorth.ai/wp-content/uploads/2026/08/deepseek-releases-v4-pro-0813-and-open-sources-harness-v0.1.png"
-  },
-  {
-    "title": "Anthropic explains how Claude’s controversial new ‘watermarking’ feature works",
-    "summary": "Anthropic explains how Claude’s controversial new ‘watermarking’ feature works | The Independent Thank you for registering Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in Jump to content Anthropic has re",
-    "content": "Anthropic explains how Claude’s controversial new ‘watermarking’ feature works | The Independent Thank you for registering Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in Jump to content Anthropic has re",
-    "source": "the-independent.com",
-    "date": "2026-08-17",
-    "url": "https://www.the-independent.com/tech/claude-anthropic-watermark-text-feature-new-update-b3034336.html",
-    "category": "Models",
-    "image": "https://static.the-independent.com/2026/07/31/11/2026-07-24T170201Z_888983038_RC2UNLA5C9UG_RTRMADP_3_TECH-AI-ANTHROPIC.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
   }
 ]
