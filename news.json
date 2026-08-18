@@ -1,13 +1,13 @@
 [
   {
-    "title": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras",
-    "summary": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras Cerebras powers OpenAI ultrafast ChatGPT 5.6 Sol 14x faster. Table of contents OpenAI previewed Ultrafast, a new API tier running GPT-5.6 Sol 14 times faster using Cerebras chips instead of Nvidia’s.",
-    "content": "OpenAI Launches Ultrafast Mode for GPT 5.6 Sol via Cerebras Cerebras powers OpenAI ultrafast ChatGPT 5.6 Sol 14x faster. Table of contents OpenAI previewed Ultrafast, a new API tier running GPT-5.6 Sol 14 times faster using Cerebras chips instead of Nvidia’s. Key Takeaways - OpenAI Ultra",
-    "source": "Fawad Malik",
-    "date": "2026-08-14",
-    "url": "https://www.nogentech.org/cerebras-powers-openai-gpt-5-6-ultrafast/",
+    "title": "Google DeepMind launches Gemini 3.7 Flash and SL2T",
+    "summary": "Google DeepMind launches Gemini 3.7 Flash and SL2T | Dealroom News Product Aug 17, 2026, 02:31 UTC Google DeepMind launches Gemini 3.7 Flash and SL2T What's the deal? In posts on 13 August 2026, Demis Hassabis Dealroom has a profile for this one.",
+    "content": "Google DeepMind launches Gemini 3.7 Flash and SL2T | Dealroom News Product Aug 17, 2026, 02:31 UTC Google DeepMind launches Gemini 3.7 Flash and SL2T What's the deal? In posts on 13 August 2026, Demis Hassabis Dealroom has a profile for this one. Try Dealroom → highlighted two new Google DeepMi",
+    "source": "dealroom.co",
+    "date": "2026-08-17",
+    "url": "https://dealroom.co/news/145244-google-deepmind-launches-gemini-3-7-flash-and-sl2t/",
     "category": "Models",
-    "image": "https://www.nogentech.org/wp-content/uploads/2026/08/Cerebras-Powers-OpenAI-Ultrafast-GPT-5.6-Sol-14x-Faster.webp"
+    "image": "https://sg-imgs.dealroom.co/06e6a12ffb2ce3988051c25d6b49848d.jpg?ar=3:1&fit=crop&crop=faces,center&auto=compress&cs=origin"
   },
   {
     "title": "Google DeepMind launches Gemini 3.7 Flash for coding and agents",
@@ -30,6 +30,16 @@
     "image": "https://getaibrief.com/og-default.png"
   },
   {
+    "title": "GPT-6 Astra Leaks: OpenAI Model Could Launch This Week",
+    "summary": "GPT-6 Astra Leaks: OpenAI Model Could Launch This Week - WinCentral Search Home Latest News AI News GPT-6 Astra Leaks: OpenAI’s Next Big Model Could Arrive This Week - Latest News - AI News - Leaks & Rumors Share OpenAI may be getting ready for its next major AI model, and the latest clues are",
+    "content": "GPT-6 Astra Leaks: OpenAI Model Could Launch This Week - WinCentral Search Home Latest News AI News GPT-6 Astra Leaks: OpenAI’s Next Big Model Could Arrive This Week - Latest News - AI News - Leaks & Rumors Share OpenAI may be getting ready for its next major AI model, and the latest clues are",
+    "source": "Nisha",
+    "date": "2026-08-17",
+    "url": "https://thewincentral.com/gpt-6-astra-leaks-launch-this-week/",
+    "category": "Models",
+    "image": "https://thewincentral.com/wp-content/uploads/2026/08/gpt-6-astra.jpg"
+  },
+  {
     "title": "DeepSeek releases DeepSeek-V4-Pro-0813 and Harness v0.1",
     "summary": "DeepSeek releases DeepSeek-V4-Pro-0813 and Harness v0.1 DeepSeek releases V4-Pro-0813 and open sources Harness v0.1 17-08-2026 DeepSeek-V4-Pro-0813 is the production release of DeepSeek's flagship model, available since 13 August 2026 with a one million token context window, 87.9 on Terminal-Be",
     "content": "DeepSeek releases DeepSeek-V4-Pro-0813 and Harness v0.1 DeepSeek releases V4-Pro-0813 and open sources Harness v0.1 17-08-2026 DeepSeek-V4-Pro-0813 is the production release of DeepSeek's flagship model, available since 13 August 2026 with a one million token context window, 87.9 on Terminal-Be",
@@ -40,23 +50,13 @@
     "image": "https://datanorth.ai/wp-content/uploads/2026/08/deepseek-releases-v4-pro-0813-and-open-sources-harness-v0.1.png"
   },
   {
-    "title": "Claude Cracked a 167-Year-Old Math Bound After a Pep Talk. You Can't Buy the Model That Did It",
-    "summary": "Claude Cracked a 167-Year-Old Math Bound After a Pep Talk. You Can't Buy the Model That Did It Claude Cracked a 167-Year-Old Math Bound After a Pep Talk.",
-    "content": "Claude Cracked a 167-Year-Old Math Bound After a Pep Talk. You Can't Buy the Model That Did It Claude Cracked a 167-Year-Old Math Bound After a Pep Talk. You Can’t Buy the Model That Did It Posted on August 17, 2026 by Flavia Moura Anthropic’s three headline science results of 2026 came fro",
-    "source": "Flavia Moura",
+    "title": "Anthropic explains how Claude’s controversial new ‘watermarking’ feature works",
+    "summary": "Anthropic explains how Claude’s controversial new ‘watermarking’ feature works | The Independent Thank you for registering Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in Jump to content Anthropic has re",
+    "content": "Anthropic explains how Claude’s controversial new ‘watermarking’ feature works | The Independent Thank you for registering Please refresh the page or navigate to another page on the site to be automatically logged inPlease refresh your browser to be logged in Jump to content Anthropic has re",
+    "source": "the-independent.com",
     "date": "2026-08-17",
-    "url": "https://businessmodelanalyst.com/claude-riemann-unreleased-model-capability-tiers/",
+    "url": "https://www.the-independent.com/tech/claude-anthropic-watermark-text-feature-new-update-b3034336.html",
     "category": "Models",
-    "image": "https://businessmodelanalyst.com/wp-content/uploads/2026/08/claude-riemann-unreleased-model-hero.jpg"
-  },
-  {
-    "title": "OpenAI Accelerates at a Blazing 16x Speed, GPT-5.6 Multi-Agent V2 Goes Live, 741-Round Monster Conversation Opens in 1 Second",
-    "summary": "OpenAI Accelerates at a Blazing 16x Speed, GPT-5.6 Multi-Agent V2 Goes Live, 741-Round Monster Conversation Opens in 1 Second | HTX Insights OpenAI Accelerates at a Blazing 16x Speed, GPT-5.6 Multi-Agent V2 Goes Live, 741-Round Monster Conversation Opens in 1 Second marsbitPublished on 2026-08-1",
-    "content": "OpenAI Accelerates at a Blazing 16x Speed, GPT-5.6 Multi-Agent V2 Goes Live, 741-Round Monster Conversation Opens in 1 Second | HTX Insights OpenAI Accelerates at a Blazing 16x Speed, GPT-5.6 Multi-Agent V2 Goes Live, 741-Round Monster Conversation Opens in 1 Second marsbitPublished on 2026-08-1",
-    "source": "htx.com",
-    "date": "2026-08-17",
-    "url": "https://www.htx.com/news/openai-accelerates-at-a-blazing-16x-speed-gpt-56-multi-agent-HQwy1jUO/",
-    "category": "Models",
-    "image": "https://www.htx.com/v4/-/hbg-prod-fed-public/nuwa/static/prod/94b509db-90c3-4ff0-9fdc-10243d98eeaf.png"
+    "image": "https://static.the-independent.com/2026/07/31/11/2026-07-24T170201Z_888983038_RC2UNLA5C9UG_RTRMADP_3_TECH-AI-ANTHROPIC.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
   }
 ]
