@@ -1,62 +1,56 @@
 [
   {
-    "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
-    "summary": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - The Crypto Post Pinterest The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google",
-    "content": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required - The Crypto Post Pinterest The biggest AI model release of the past few days, at least among the developers and AI power users on social media, wasn't a frontier cloud model from OpenAI, Anthropic or Google",
-    "source": "CryptoExpert",
+    "title": "Qwen3.8-27B Brings Frontier-Class AI to Local Hardware",
+    "summary": "Alibaba's 27-billion-parameter Qwen3.8-27B model runs coding agents and reasoning locally without cloud APIs, matching the performance of proprietary frontier models.",
+    "content": "Alibaba released Qwen3.8-27B on Hugging Face under an Apache 2.0 open-source license, offering a dense multimodal model with native image and video understanding, a 262,144-token context window, and full support for coding and agentic workflows. Third-party benchmarking firm Artificial Analysis scored it 52 on its Intelligence Index — matching OpenAI's mid-tier GPT-5.6 Luna — and it outperformed Claude Opus 4.8 on agentic tasks. After 4-bit quantization the model shrinks to roughly 17GB, putting it within reach of high-end consumer laptops and gaming desktops. The model surpassed 3 million Hugging Face downloads in its first three days, as developers reacted not just to benchmark numbers but to the experience of running frontier-level agents on hardware they fully control.",
+    "source": "VentureBeat",
     "date": "2026-08-18",
-    "url": "https://thecryptopost.io/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required/",
-    "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/tkDPXLkDq0OBJ0W5aG6K0/dab1ffeb46a59b37c545586d457fe87e/ChatGPT_Image_Aug_17__2026__07_53_40_PM.png?w=300&q=30"
+    "url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+    "category": "Models"
   },
   {
-    "title": "Google DeepMind launches Gemini 3.7 Flash and SL2T",
-    "summary": "Google DeepMind launches Gemini 3.7 Flash and SL2T | Dealroom News Product Aug 17, 2026, 02:31 UTC Google DeepMind launches Gemini 3.7 Flash and SL2T What's the deal? In posts on 13 August 2026, Demis Hassabis Dealroom has a profile for this one.",
-    "content": "Google DeepMind launches Gemini 3.7 Flash and SL2T | Dealroom News Product Aug 17, 2026, 02:31 UTC Google DeepMind launches Gemini 3.7 Flash and SL2T What's the deal? In posts on 13 August 2026, Demis Hassabis Dealroom has a profile for this one. Try Dealroom → highlighted two new Google DeepMi",
-    "source": "dealroom.co",
+    "title": "Anthropic Adding Invisible Watermarks to Claude Outputs for EU Compliance",
+    "summary": "Anthropic will implement invisible SynthID-Text watermarks in Claude-generated text to satisfy the EU AI Act's transparency requirements that took effect August 2, 2026.",
+    "content": "Anthropic announced it is adopting a version of Google DeepMind's open-source SynthID-Text watermarking system, encoding detectable patterns into Claude's word-probability choices across generated responses — creating a signature invisible to humans but machine-readable by any system that knows the encoding. The feature is being introduced to comply with Article 50 of the EU AI Act, which now requires providers of generative AI to mark synthetic content in machine-readable formats. Anthropic stated the watermarks will not affect the cost or quality of Claude outputs. Google's Gemini chatbot has supported SynthID-Text since 2024, and all major AI providers operating in the EU face the same obligation, with fines reaching €15 million or 3% of global annual turnover for non-compliance.",
+    "source": "The Verge",
     "date": "2026-08-17",
-    "url": "https://dealroom.co/news/145244-google-deepmind-launches-gemini-3-7-flash-and-sl2t/",
-    "category": "Models",
-    "image": "https://sg-imgs.dealroom.co/06e6a12ffb2ce3988051c25d6b49848d.jpg?ar=3:1&fit=crop&crop=faces,center&auto=compress&cs=origin"
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "category": "Policy"
   },
   {
-    "title": "Google DeepMind launches Gemini 3.7 Flash for coding and agents",
-    "summary": "Google DeepMind launches Gemini 3.7 Flash for coding and agents | SiliconReport Editorial graphic. — Illustration: SiliconReport Google DeepMind introduced Gemini 3.7 Flash on August 13, 2026, describing it as the company’s most intelligent workhorse model yet for coding and agent",
-    "content": "Google DeepMind launches Gemini 3.7 Flash for coding and agents | SiliconReport Editorial graphic. — Illustration: SiliconReport Google DeepMind introduced Gemini 3.7 Flash on August 13, 2026, describing it as the company’s most intelligent workhorse model yet for coding and agent",
-    "source": "siliconreport.com",
-    "date": "2026-08-15",
-    "url": "https://www.siliconreport.com/google-deepmind-launches-gemini-3-7-flash-for-coding-and-agents-a15aug26",
-    "category": "Models",
-    "image": "https://www.siliconreport.com/governed-heroes/sha256/00/00a6ebe4cd5dc1886269c211280606ae7ebb5b7ead5ee6eb198bf61676169bca.png"
-  },
-  {
-    "title": "Gemini 3.7 Flash: 50% Cheaper Agentic Coding",
-    "summary": "Gemini 3.7 Flash: Cheaper Agentic Coding | GetAIBrief Share Share on X @ Share on Facebook Share on LinkedIn Share on Reddit AI briefing Key takeaways 6 impact Positivesentiment 2sources 5min read 1. Google DeepMind ships Gemini 3.7 Flash only three weeks after the previous Flash mod",
-    "content": "Gemini 3.7 Flash: Cheaper Agentic Coding | GetAIBrief Share Share on X @ Share on Facebook Share on LinkedIn Share on Reddit AI briefing Key takeaways 6 impact Positivesentiment 2sources 5min read 1. Google DeepMind ships Gemini 3.7 Flash only three weeks after the previous Flash mod",
-    "source": "getaibrief.com",
-    "date": "2026-08-15",
-    "url": "https://getaibrief.com/story/google-gemini-3-7-flash-ai-model-pricing",
-    "category": "Models",
-    "image": "https://getaibrief.com/og-default.png"
-  },
-  {
-    "title": "GPT-6 Astra Leaks: OpenAI Model Could Launch This Week",
-    "summary": "GPT-6 Astra Leaks: OpenAI Model Could Launch This Week - WinCentral Search Home Latest News AI News GPT-6 Astra Leaks: OpenAI’s Next Big Model Could Arrive This Week - Latest News - AI News - Leaks & Rumors Share OpenAI may be getting ready for its next major AI model, and the latest clues are",
-    "content": "GPT-6 Astra Leaks: OpenAI Model Could Launch This Week - WinCentral Search Home Latest News AI News GPT-6 Astra Leaks: OpenAI’s Next Big Model Could Arrive This Week - Latest News - AI News - Leaks & Rumors Share OpenAI may be getting ready for its next major AI model, and the latest clues are",
-    "source": "Nisha",
+    "title": "Nvidia Invests $1.5B in SoftBank Data Center Tied to OpenAI",
+    "summary": "Nvidia will invest $1.5 billion in SB Energy and become the sole compute supplier for OpenAI's massive Ports-Pike data center near Cincinnati, which could eventually reach 8 gigawatts.",
+    "content": "Nvidia announced a $1.5 billion equity investment in SB Energy — a data center developer backed by SoftBank and OpenAI — and will serve as the exclusive compute infrastructure provider at OpenAI's Ports-Pike facility near Cincinnati, Ohio. Nvidia is also extending up to $105 billion in credit to help build the facility, which could scale from an initial 4.25 gigawatts to 8 gigawatts. The site will feature a $33 billion natural gas power plant built on former U.S. Department of Energy land previously used for uranium enrichment, with construction costs reflecting a 66% surge in natural gas plant prices over the past two years. The deal deepens the financial entanglement between Nvidia, SoftBank, and OpenAI ahead of OpenAI's anticipated IPO, cementing Nvidia's dominant role in AI infrastructure.",
+    "source": "TechCrunch",
     "date": "2026-08-17",
-    "url": "https://thewincentral.com/gpt-6-astra-leaks-launch-this-week/",
-    "category": "Models",
-    "image": "https://thewincentral.com/wp-content/uploads/2026/08/gpt-6-astra.jpg"
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "category": "Industry"
   },
   {
-    "title": "DeepSeek releases DeepSeek-V4-Pro-0813 and Harness v0.1",
-    "summary": "DeepSeek releases DeepSeek-V4-Pro-0813 and Harness v0.1 DeepSeek releases V4-Pro-0813 and open sources Harness v0.1 17-08-2026 DeepSeek-V4-Pro-0813 is the production release of DeepSeek's flagship model, available since 13 August 2026 with a one million token context window, 87.9 on Terminal-Be",
-    "content": "DeepSeek releases DeepSeek-V4-Pro-0813 and Harness v0.1 DeepSeek releases V4-Pro-0813 and open sources Harness v0.1 17-08-2026 DeepSeek-V4-Pro-0813 is the production release of DeepSeek's flagship model, available since 13 August 2026 with a one million token context window, 87.9 on Terminal-Be",
-    "source": "datanorth.ai",
+    "title": "OpenAI Funds Biosecurity Research to Prevent AI-Enabled Bioweapons",
+    "summary": "OpenAI selected 14 organizations, including the Nuclear Threat Initiative, to receive grants aimed at building international systems to detect and prevent AI-assisted bioweapon development.",
+    "content": "OpenAI awarded $1 million in grants — plus up to $1 million in API credits per recipient — to 14 organizations selected from more than 400 applicants, with a focus on ensuring AI advances benefit humanity broadly. Among the awardees is the Nuclear Threat Initiative (NTI), which will use the funding to create a cross-border information-sharing network for AI biosecurity risks, addressing the fragmented regulatory landscape that makes it difficult for labs in different jurisdictions to share threat intelligence. NTI's deputy VP Hayley Severance noted that AI is enabling sophisticated actors to pursue 'even more sophisticated or targeting type attacks' in biology, and scientists have already demonstrated that AI can design and synthesize novel viruses not found in nature. The grants reflect growing urgency around AI biosafety as model capabilities advance faster than international governance frameworks.",
+    "source": "Scientific American",
     "date": "2026-08-17",
-    "url": "https://datanorth.ai/news/deepseek-releases-v4-pro-0813-and-harness-v0-1",
-    "category": "Models",
-    "image": "https://datanorth.ai/wp-content/uploads/2026/08/deepseek-releases-v4-pro-0813-and-open-sources-harness-v0.1.png"
+    "url": "https://www.scientificamerican.com/article/openai-funds-research-to-try-and-stop-ai-from-being-used-to-make-bioweapons/",
+    "category": "Policy"
+  },
+  {
+    "title": "Google Sheets Canvas Turns Spreadsheets into AI-Powered Mini-Apps",
+    "summary": "Google launched Sheets canvas, a Gemini-powered feature that transforms spreadsheet data into interactive dashboards and mini-apps through natural language prompts.",
+    "content": "Google introduced Sheets canvas, a new Gemini-powered feature within Google Sheets that lets users transform rows and columns into interactive dashboards, custom study trackers, seating charts, and other mini-applications using a simple natural language prompt. The feature is now globally available in English to Google AI Pro and Ultra subscribers, and is rolling out to Workspace customers on Business and Enterprise Standard and Plus plans. Users access it through the 'Create canvas' option in the Ask Gemini side panel inside any existing spreadsheet. The launch is part of Google's broader strategy to embed Gemini across Workspace, making data visualization and interaction accessible without requiring design skills or separate tooling.",
+    "source": "Google Blog",
+    "date": "2026-08-13",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "category": "Tools"
+  },
+  {
+    "title": "Enterprise AI Adoption Gap Is Widening at an Accelerating Rate",
+    "summary": "New OpenAI data shows the top 10% of enterprise AI users now consume 8.3 times more tokens per user than median firms — up from 2.6 times in January — as early adopters pull dramatically ahead.",
+    "content": "OpenAI data shows that top-decile enterprise AI users consumed 8.3 times as many output tokens per user as median companies in June 2026, compared with just 2.6 times the median in January — a threefold widening of the gap in six months. Businesses are also shifting from ChatGPT's conversational interface to OpenAI's Codex agentic coding platform, suggesting companies are moving from 'asking' AI questions to having AI 'do' work autonomously. OpenAI chief economist Ronnie Chatterji noted the pattern mirrors previous technological waves like the internet, where early adopters captured outsized advantages before the broader market caught up. Despite the growing divide, measuring AI return on investment remains 'frankly difficult,' with high token usage not automatically translating to measurable productivity gains.",
+    "source": "Semafor",
+    "date": "2026-08-11",
+    "url": "https://www.semafor.com/article/08/11/2026/the-gap-is-widening-between-corporate-ai-adopters-and-laggards",
+    "category": "Trends"
   }
 ]
