@@ -20,6 +20,16 @@
     "image": "https://cdn.prod.website-files.com/6a0f028de6df6a6fd88c3f89/6a859934bf70e7d09f4bc519_6a859928ee4f6abfcf90f642_grok-4-6-officially-launched.avif"
   },
   {
+    "title": "xai-puts-grok-4-6-on-amazon-bedrock-one-week-after-launch",
+    "summary": "xAI puts Grok 4.6 on Amazon Bedrock one week after launch > Source: > Published: 2026-08-19 15:58:43+00:00 xAI puts Grok 4.6 on Amazon Bedrock one week after launch **xAI's flagship model brings a 500,000-token context window to AWS at $2 per million input tokens and $6 per million output to",
+    "content": "xAI puts Grok 4.6 on Amazon Bedrock one week after launch > Source: > Published: 2026-08-19 15:58:43+00:00 xAI puts Grok 4.6 on Amazon Bedrock one week after launch **xAI's flagship model brings a 500,000-token context window to AWS at $2 per million input tokens and $6 per million output to",
+    "source": "wpnews.pro",
+    "date": "2026-08-19",
+    "url": "https://wpnews.pro/news/xai-puts-grok-4-6-on-amazon-bedrock-one-week-after-launch",
+    "category": "Models",
+    "image": null
+  },
+  {
     "title": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
     "summary": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot Condition: Post with Page_List Search & Section Navigation More Information > Sign Up Connect Ask your smart speaker to play 10 80 K R L D on Audacy Open Search Chad Benson Show Podcast Chad Benson Show Pod",
     "content": "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot Condition: Post with Page_List Search & Section Navigation More Information > Sign Up Connect Ask your smart speaker to play 10 80 K R L D on Audacy Open Search Chad Benson Show Podcast Chad Benson Show Pod",
@@ -48,15 +58,5 @@
     "url": "https://www.nbclosangeles.com/news/national-international/openai-launches-chatgpt-for-teens-promising-age-appropriate-chatbot/3930743/",
     "category": "Models",
     "image": "https://media.nbclosangeles.com/2026/08/ChatGPT-OpenAI-Photo-Illustrations-2271123565-Getty.jpg?quality=85&strip=all&crop=0px%2C56px%2C2611px%2C1469px&resize=1200%2C675"
-  },
-  {
-    "title": "Grok 4.6 on Amazon Bedrock",
-    "summary": "Grok 4.6 on Amazon Bedrock | SpaceXAI Aug 19, 2026 Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Today, we’re excited to announce that Grok 4.6 is now generally available on Amazon Bedrock.",
-    "content": "Grok 4.6 on Amazon Bedrock | SpaceXAI Aug 19, 2026 Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Today, we’re excited to announce that Grok 4.6 is now generally available on Amazon Bedrock. Grok 4.6 is our latest flagship model, built for long-running agents an",
-    "source": "x.ai",
-    "date": "2026-08-19",
-    "url": "https://x.ai/news/grok-4-6-amazon-bedrock",
-    "category": "Models",
-    "image": "https://x.ai/images/news/og-grok-4-6-on-bedrock.webp"
   }
 ]
