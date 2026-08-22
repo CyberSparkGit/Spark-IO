@@ -1,13 +1,33 @@
 [
   {
-    "title": "Gemini 4 Leaks Hint at Major Google AI Upgrade",
-    "summary": "Gemini 4 Leaks Hint at Major Google AI Upgrade Close OpenAI Launches AI Futures to Tackle a Bigger Question: Who Holds Power in the AI Era? Technology & Innovation OpenAI has launched AI Futures, and this one isn’t about a new ChatGPT feature, a… LuggageToShip Expands AI-Powered Travel Plat",
-    "content": "Gemini 4 Leaks Hint at Major Google AI Upgrade Close OpenAI Launches AI Futures to Tackle a Bigger Question: Who Holds Power in the AI Era? Technology & Innovation OpenAI has launched AI Futures, and this one isn’t about a new ChatGPT feature, a… LuggageToShip Expands AI-Powered Travel Plat",
-    "source": "Art Ryan",
+    "title": "Google Unveils Gemini 3.6 Flash, 3.5 Flash‑Lite, and F…",
+    "summary": "Google Unveils Gemini 3.6 Flash, 3.5 Flash‑Lite, and F… | BestHub Google Unveils Gemini 3.6 Flash, 3.5 Flash‑Lite, and Flash‑Cyber – Gemini 4 Pre‑training Begins Google DeepMind released three Gemini variants—3.6 Flash, 3.5 Flash‑Lite, and 3.5 Flash‑Cyber—each promising token savings, higher spe",
+    "content": "Google Unveils Gemini 3.6 Flash, 3.5 Flash‑Lite, and F… | BestHub Google Unveils Gemini 3.6 Flash, 3.5 Flash‑Lite, and Flash‑Cyber – Gemini 4 Pre‑training Begins Google DeepMind released three Gemini variants—3.6 Flash, 3.5 Flash‑Lite, and 3.5 Flash‑Cyber—each promising token savings, higher spe",
+    "source": "besthub.dev",
     "date": "2026-08-19",
-    "url": "https://breakingai.news/gemini-4-leaks-hint-at-major-google-ai-upgrade/",
+    "url": "https://www.besthub.dev/articles/google-unveils-gemini-3-6-flash-3-5-flash-lite-and-flash-cyber-gemini-4-pre-training-begins-6f83d107ba59",
     "category": "Models",
-    "image": "https://breakingai.news/wp-content/uploads/2026/08/Gemini-4-Leaks-Hint-at-Googles-Next-Big-AI-Push-in-Coding-and-Agentic-Workflows.jpg"
+    "image": "https://wsrv.nl/?url=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_jpg%2FLk2XCCUFRkra4LORW37IDuonoR1DxvjtDTG57eVKia1RZTrPt7EQwSRL0zwplx340eGTUaicYrpjyOvFqTLYGH3UDCER7jsSPds16aZ8vSic7w%2F0%3Fwx_fmt%3Djpeg"
+  },
+  {
+    "title": "An OpenAI coding agent used curl to cheat on a terminal benchmark — AI Insiders",
+    "summary": "An OpenAI coding agent used curl to cheat on a terminal benchmark — AI Insiders Home/ Agents/ An OpenAI coding agent used curl to cheat on a t… AGENTS An OpenAI coding agent used curl to cheat on a terminal benchmark A developer's agent harness caught GPT-5.6 Sol querying GitHub and DuckDuckGo",
+    "content": "An OpenAI coding agent used curl to cheat on a terminal benchmark — AI Insiders Home/ Agents/ An OpenAI coding agent used curl to cheat on a t… AGENTS An OpenAI coding agent used curl to cheat on a terminal benchmark A developer's agent harness caught GPT-5.6 Sol querying GitHub and DuckDuckGo",
+    "source": "Alessandro Benigni",
+    "date": "2026-08-21",
+    "url": "https://aiinsiders.net/article/an-openai-coding-agent-used-curl-to-cheat-on-a-terminal",
+    "category": "Models",
+    "image": "https://aiinsiders.net/featured/an-openai-coding-agent-used-curl-to-cheat-on-a-terminal.png"
+  },
+  {
+    "title": "DeepSeek Releases V4-Flash-Vision-Exp, Matches Opus 4.8 On Some Multimodal Benchmarks",
+    "summary": "DeepSeek Releases V4-Flash-Vision-Exp, Matches Opus 4.8 On Some Multimodal Benchmarks Chinese labs aren’t only releasing flagship models, but they’re also innovating on models for specific use-cases. DeepSeek has put out an experimental model called V4-Flash-Vision-Exp, and it’s a fairly narrow ad",
+    "content": "DeepSeek Releases V4-Flash-Vision-Exp, Matches Opus 4.8 On Some Multimodal Benchmarks Chinese labs aren’t only releasing flagship models, but they’re also innovating on models for specific use-cases. DeepSeek has put out an experimental model called V4-Flash-Vision-Exp, and it’s a fairly narrow ad",
+    "source": "OfficeChai Team",
+    "date": "2026-08-21",
+    "url": "https://officechai.com/ai/deepseek-releases-v4-flash-vision-exp-matches-opus-4-8-on-some-multimodal-benchmarks/",
+    "category": "Models",
+    "image": "http://officechai.com/wp-content/uploads/2026/08/image-46.png"
   },
   {
     "title": "GPT-5.6 Goes Global After Clearing Restrictions in 12 Days; Sol Sets Performance Record but Third Party Logs Highest Benchmark Cheating Rate Ever",
@@ -38,25 +58,5 @@
     "url": "https://emergent.sh/news/grok-4-6-officially-launched",
     "category": "Models",
     "image": "https://cdn.prod.website-files.com/6a0f028de6df6a6fd88c3f89/6a859934bf70e7d09f4bc519_6a859928ee4f6abfcf90f642_grok-4-6-officially-launched.avif"
-  },
-  {
-    "title": "xai-puts-grok-4-6-on-amazon-bedrock-one-week-after-launch",
-    "summary": "xAI puts Grok 4.6 on Amazon Bedrock one week after launch > Source: > Published: 2026-08-19 15:58:43+00:00 xAI puts Grok 4.6 on Amazon Bedrock one week after launch **xAI's flagship model brings a 500,000-token context window to AWS at $2 per million input tokens and $6 per million output to",
-    "content": "xAI puts Grok 4.6 on Amazon Bedrock one week after launch > Source: > Published: 2026-08-19 15:58:43+00:00 xAI puts Grok 4.6 on Amazon Bedrock one week after launch **xAI's flagship model brings a 500,000-token context window to AWS at $2 per million input tokens and $6 per million output to",
-    "source": "wpnews.pro",
-    "date": "2026-08-19",
-    "url": "https://wpnews.pro/news/xai-puts-grok-4-6-on-amazon-bedrock-one-week-after-launch",
-    "category": "Models",
-    "image": null
-  },
-  {
-    "title": "Z.ai stages GLM 5.3 open-weight cyber model release with",
-    "summary": "Z.ai stages GLM 5.3 open-weight cyber model release with Z.ai has unveiled GLM 5.3, an open-weight model it says can automate advanced coding and cybersecurity tasks near leading publicly available systems from Anthropic and OpenAI. The company paired it with OpenVuln, a repo-scanning service, and",
-    "content": "Z.ai stages GLM 5.3 open-weight cyber model release with Z.ai has unveiled GLM 5.3, an open-weight model it says can automate advanced coding and cybersecurity tasks near leading publicly available systems from Anthropic and OpenAI. The company paired it with OpenVuln, a repo-scanning service, and",
-    "source": "ainewscrypto.com",
-    "date": "2026-08-19",
-    "url": "https://www.ainewscrypto.com/news/zai-stages-glm-53-open-weight-cyber-model-release-with-openvuln-scanner",
-    "category": "Industry",
-    "image": "https://cdn.sanity.io/images/jnwwzcje/production/817deb3736709a7831ac2f1c880304d073b24dd8-1536x1024.webp?rect=0,109,1536,806&w=1200&h=630&fm=webp"
   }
 ]
