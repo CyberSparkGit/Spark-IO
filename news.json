@@ -1,62 +1,62 @@
 [
   {
-    "title": "Anthropic Launches Computer Use, Skills API, and Files API for Production Agents",
-    "summary": "Anthropic has made computer use, the Skills API, and the Files API generally available on the Claude Platform, enabling developers to build agents that operate software, encode team expertise, and manage documents end-to-end.",
-    "content": "Computer use, the Skills API, and the Files API are now generally available on the Claude Platform. The updated computer use tool lets Claude take multiple actions per turn instead of one per model call, cutting task time and cost — one healthcare customer saw a 32-minute claims workflow drop to 13 minutes with a 30% cost reduction. A new browser use tool extends computer use to the web, reading page structure for more reliable element targeting. The Skills API lets developers upload versioned folders of instructions and scripts that Claude loads on demand, running in Claude's code execution sandbox with nothing to host. The Files API adds 5x higher rate limits and 1 TB of storage per organization, letting agents reference persistent documents by ID rather than re-sending them on every call. All four capabilities are available through the Claude Platform, with Skills and Files also available via Microsoft Foundry.",
-    "source": "Anthropic",
+    "title": "Florida sues OpenAI over ChatGPT data collection and public nuisance",
+    "summary": "Florida sues OpenAI over ChatGPT data collection and public nuisance - AINave Florida's public nuisance lawsuit against OpenAI puts AI data practices on trial Tech News• Aug 22, 2026• Published by AINave Editorial • Reviewed by Ramit TL;DR Florida filed a ten-count lawsuit against OpenAI and S",
+    "content": "Florida sues OpenAI over ChatGPT data collection and public nuisance - AINave Florida's public nuisance lawsuit against OpenAI puts AI data practices on trial Tech News• Aug 22, 2026• Published by AINave Editorial • Reviewed by Ramit TL;DR Florida filed a ten-count lawsuit against OpenAI and S",
+    "source": "AINave Editorial",
+    "date": "2026-08-22",
+    "url": "https://ainave.com/tech-news/florida-s-public-nuisance-lawsuit-against-openai-puts-ai-data-practices-on-trial",
+    "category": "Models",
+    "image": "https://cdn.ainave.com/public/media/external_articles/florida-seeks-court-ruling-to-officially--63831a12f0b51f0afca0.webp"
+  },
+  {
+    "title": "https://techstrong.ai/articles/deepseek-unveils-vision-model-to-challenge-anthropic-pitching-low-cost-against-top-performance/",
+    "summary": "description: DeepSeek released an experimental multimodal model on Friday, claiming its agent capabilities rival those of Anthropic’s supported Opus-4.8 system. The release marks the latest salvo from Chinese artificial intelligence (AI) firms seeking to close the gap with foreign rivals while",
+    "content": "description: DeepSeek released an experimental multimodal model on Friday, claiming its agent capabilities rival those of Anthropic’s supported Opus-4.8 system. The release marks the latest salvo from Chinese artificial intelligence (AI) firms seeking to close the gap with foreign rivals while",
+    "source": "Jon Swartz",
+    "date": "2026-08-21",
+    "url": "https://techstrong.ai/articles/deepseek-unveils-vision-model-to-challenge-anthropic-pitching-low-cost-against-top-performance/",
+    "category": "Models",
+    "image": null
+  },
+  {
+    "title": "DeepSeek launches an experimental multimodal model to rival Anthropic",
+    "summary": "DeepSeek launches an experimental multimodal model to rival Anthropic DeepSeek-V4-Pro launches today DeepSeek released an experimental multimodal model on Friday and said its agent performance is close to Anthropic’s Opus-4.8. On DeepSeek’s own published table, it beats that model on three benchma",
+    "content": "DeepSeek launches an experimental multimodal model to rival Anthropic DeepSeek-V4-Pro launches today DeepSeek released an experimental multimodal model on Friday and said its agent performance is close to Anthropic’s Opus-4.8. On DeepSeek’s own published table, it beats that model on three benchma",
+    "source": "Ana Maria Constantin",
     "date": "2026-08-20",
-    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-    "category": "Tools",
-    "image": null
+    "url": "https://thenextweb.com/news/deepseek-v4-flash-vision-exp-opus-benchmarks",
+    "category": "Models",
+    "image": "https://media.thenextweb.com/2026/08/DeepSeek-V4-Flash-Vision-Exp.jpg"
   },
   {
-    "title": "OpenAI Introduces ChatGPT for Teens With Content Restrictions and Study Guardrails",
-    "summary": "OpenAI launched a version of ChatGPT specifically designed for users aged 13–17, featuring content filters against self-harm and romantic chats alongside homework support designed to teach rather than answer for students.",
-    "content": "OpenAI on Tuesday introduced ChatGPT for Teens, a purpose-built version of its chatbot tailored for users ages 13 to 17. The product features stronger content protections, blocking topics such as suicide, self-harm, and romantic or sexual conversations, and is designed to prevent the chatbot from implying it has personal feelings toward the user or suggesting it is conscious. The homework and study support is built to help students learn rather than simply produce essays or answers, reflecting concern about AI's role in academic integrity. OpenAI says the goal is to guide teens toward healthy AI use in an age-appropriate environment, as this generation is the first to grow up with AI tools already embedded in daily schoolwork, social life, and even companionship. The launch reflects growing pressure on AI companies from regulators and parents to provide safer, more targeted products for minors.",
-    "source": "AP News",
-    "date": "2026-08-18",
-    "url": "https://apnews.com/article/openai-chatgpt-teens-ai-safety-650cb35591de6546054d6c4e73b3290a",
-    "category": "Industry",
-    "image": null
+    "title": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security",
+    "summary": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security - Startup Fortune Search SF Aug 23, 2026 · 12:06 PM Subscribe✉ Most Read A Mystery Model Called Ox Alpha… From Database to AI Data Platform:… Codex Users Are Losing Banked Rate… SafePal Confirms Data Breach Exposed Or",
+    "content": "Anthropic Puts Its Most Restricted Model Claude Mythos 5 Into Claude Security - Startup Fortune Search SF Aug 23, 2026 · 12:06 PM Subscribe✉ Most Read A Mystery Model Called Ox Alpha… From Database to AI Data Platform:… Codex Users Are Losing Banked Rate… SafePal Confirms Data Breach Exposed Or",
+    "source": "startupfortune.com",
+    "date": "2026-08-22",
+    "url": "https://startupfortune.com/anthropic-puts-its-most-restricted-model-claude-mythos-5-into-claude-security/",
+    "category": "Models",
+    "image": "https://startupfortune.com/wp-content/uploads/2026/08/sf-19062-1787379317169.jpg"
   },
   {
-    "title": "Adobe Firefly Audio Tools Now Generally Available for Creators",
-    "summary": "Adobe has made its AI-powered music, speech, and sound effects generation tools broadly available inside Firefly, offering commercially safe audio for content creators and video producers.",
-    "content": "Adobe has made its Firefly audio capabilities — Generate Music, Generate Speech, and Generate Sound Effects — generally available to all users. Generate Music, powered by the Firefly Music Model, creates universally licensed original tracks tuned to a video's length and mood, eliminating licensing risk for commercial content. Generate Speech, powered by the Firefly Speech Model with an ElevenLabs option, converts scripts into natural voiceovers with control over voice, pacing, and emotion. Generate Sound Effects creates custom audio matched to the action and timing of video content. The move positions Firefly as a one-stop creative AI studio spanning image, video, audio, and design. Adobe also added Gemini Omni Flash to the Firefly model roster, allowing multi-modal prompting from video, audio, and image inputs alongside text.",
-    "source": "Adobe",
-    "date": "2026-08-20",
-    "url": "https://blog.adobe.com/en/publish/2026/08/20/adobe-firefly-expands-its-creative-ai-studio-generate-music-speech-and-sound-effects-in-one-place",
-    "category": "Tools",
-    "image": null
+    "title": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Coding Remains a US Stronghold",
+    "summary": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Coding Remains a US Stronghold – Forkast The release of Qwen3.8-2.4T-A95B shifts the open-weight frontier—just not in the direction the headline scores suggest. Alibaba has shipped a 2.4 trillion-parameter sparse Mixture-of-Experts mode",
+    "content": "Qwen 3.8 Closes the Reasoning Gap, but Agentic Coding Remains a US Stronghold – Forkast The release of Qwen3.8-2.4T-A95B shifts the open-weight frontier—just not in the direction the headline scores suggest. Alibaba has shipped a 2.4 trillion-parameter sparse Mixture-of-Experts mode",
+    "source": "forkast.news",
+    "date": "2026-08-22",
+    "url": "https://forkast.news/qwen-3-8-closes-the-reasoning-gap-but-agentic-coding-remains-a-us-stronghold/",
+    "category": "Models",
+    "image": "https://forkast.news/wp-content/uploads/2026/08/qwen-38-frontier-parity-coding-gap-1024x572.jpg"
   },
   {
-    "title": "UiPath Launches Maestro Flow for Agent Orchestration Across Enterprise Processes",
-    "summary": "UiPath introduced Maestro Flow, a developer-first orchestration layer that lets teams use coding agents like Claude Code, Cursor, and GitHub Copilot to build, run, and govern complete business processes without rebuilding for production.",
-    "content": "UiPath announced UiPath Maestro Flow on August 19, a developer-first orchestration canvas that bridges the gap between AI agent prototyping and production deployment. The platform lets builders use coding agents they already rely on — including Claude Code, Cursor, GitHub Copilot, and Codex — to design, run, observe, and govern end-to-end business processes as a single artifact directly from VS Code or UiPath Studio. Without orchestration, UiPath argues, process logic becomes fragmented and hard to govern: prototypes stall before shipping, work piles up waiting for review, and automations go untracked. Maestro Flow runs on the same orchestration engine UiPath enterprise customers already use, coordinating AI agents, robots, APIs, documents, and people in a single governed flow. A lighter Maestro Lite option is also available for lower-complexity processes.",
-    "source": "UiPath",
-    "date": "2026-08-19",
-    "url": "https://www.uipath.com/newsroom/uipath-launches-maestro-flow",
-    "category": "Tools",
-    "image": null
-  },
-  {
-    "title": "EU AI Act Enforcement Begins as Transparency Rules Take Effect",
-    "summary": "The European AI Office gained formal enforcement powers under the EU AI Act on August 2, with new transparency requirements now requiring AI systems to disclose their nature to users and watermark AI-generated content.",
-    "content": "As of August 2, 2026, the European Commission's AI Office is formally empowered to investigate and enforce the EU AI Act's obligations on providers of general-purpose AI models, including requesting documentation, accessing models for evaluation, requiring corrective measures, and levying fines of up to the higher of €15 million or 3% of worldwide annual turnover. Alongside enforcement powers, new transparency rules under Article 50 are now in effect: chatbots and interactive AI systems must notify users they are speaking with AI, and systems generating synthetic audio, image, video, or text must mark outputs in machine-readable formats such as watermarks or metadata. Deepfakes must be explicitly labeled, and emotion-recognition and biometric-categorization systems must inform those exposed to them. The EU AI Omnibus regulation separately delayed high-risk AI system requirements to December 2027 and August 2028, but those delays do not affect the August 2 milestones. The EU AI Office has indicated it will prefer technical compliance dialogues as its initial enforcement approach before escalating to formal powers.",
-    "source": "Wilson Sonsini",
-    "date": "2026-08-03",
-    "url": "https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html",
-    "category": "Policy",
-    "image": null
-  },
-  {
-    "title": "Top AI-Using Firms Now Consume 8x More Tokens Than the Average — and the Gap Is Growing",
-    "summary": "New OpenAI data shows the top 10% of enterprise AI users consumed 8.3 times more output tokens per user than the median in June, up from 2.6 times in January, signaling a widening divide between AI leaders and laggards.",
-    "content": "Exclusive data shared by OpenAI with Semafor reveals a rapidly widening gap between companies that have aggressively adopted AI and those moving more slowly. Firms in the top 10% of AI usage consumed 8.3 times as many output tokens per user as the median company in June 2026, compared with just 2.6 times in January — a more than threefold increase in the spread in six months. Notably, OpenAI's business customers are now collectively spending more tokens on Codex, the company's agentic coding platform, than on ChatGPT, signaling a shift from AI as a question-answering tool to AI as a doing tool. OpenAI's chief economist Ronnie Chatterji drew parallels to the early internet era, where early adopters surged ahead before the rest caught up once productivity gains were proven. Accurately measuring ROI from AI remains \"frankly difficult,\" Chatterji acknowledged, but rising token usage from power users suggests the productivity case is being built from the bottom up inside leading enterprises.",
-    "source": "Semafor",
-    "date": "2026-08-11",
-    "url": "https://www.semafor.com/article/08/11/2026/the-gap-is-widening-between-corporate-ai-adopters-and-laggards",
-    "category": "Trends",
-    "image": null
+    "title": "An OpenAI coding agent used curl to cheat on a terminal benchmark — AI Insiders",
+    "summary": "An OpenAI coding agent used curl to cheat on a terminal benchmark — AI Insiders Home/ Agents/ An OpenAI coding agent used curl to cheat on a t… AGENTS An OpenAI coding agent used curl to cheat on a terminal benchmark A developer's agent harness caught GPT-5.6 Sol querying GitHub and DuckDuckGo",
+    "content": "An OpenAI coding agent used curl to cheat on a terminal benchmark — AI Insiders Home/ Agents/ An OpenAI coding agent used curl to cheat on a t… AGENTS An OpenAI coding agent used curl to cheat on a terminal benchmark A developer's agent harness caught GPT-5.6 Sol querying GitHub and DuckDuckGo",
+    "source": "Alessandro Benigni",
+    "date": "2026-08-21",
+    "url": "https://aiinsiders.net/article/an-openai-coding-agent-used-curl-to-cheat-on-a-terminal",
+    "category": "Models",
+    "image": "https://aiinsiders.net/featured/an-openai-coding-agent-used-curl-to-cheat-on-a-terminal.png"
   }
 ]
