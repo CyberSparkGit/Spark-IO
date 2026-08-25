@@ -1,13 +1,33 @@
 [
   {
     "title": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections",
-    "summary": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections - gHacks Tech News OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections Arthur Kay Aug 24, 2026 Updated • Aug 24, 2026 OpenAI has launched ChatGPT for Tee",
-    "content": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections - gHacks Tech News OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections Arthur Kay Aug 24, 2026 Updated • Aug 24, 2026 OpenAI has launched ChatGPT for Tee",
+    "summary": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections - gHacks Tech News OpenAI has launched ChatGPT for Teens, a version of its chatbot aimed at users aged 13 to 17. Teens who say they are in this age group, or who the system estimates to be under 18, are aut",
+    "content": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections - gHacks Tech News OpenAI has launched ChatGPT for Teens, a version of its chatbot aimed at users aged 13 to 17. Teens who say they are in this age group, or who the system estimates to be under 18, are aut",
     "source": "Arthur Kay",
     "date": "2026-08-24",
     "url": "https://www.ghacks.net/2026/08/24/openai-launches-chatgpt-for-teens-with-study-focused-features-and-default-safety-protections/",
     "category": "Models",
     "image": "https://www.ghacks.net/wp-content/uploads/2026/08/gHacks-articles-2026-08-24T112449.655.png"
+  },
+  {
+    "title": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark",
+    "summary": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark - Aree Blog SHARE London-based AI research lab Inherent has released Faraday, a 27-billion-parameter artificial intelligence agent designed to reproduce results from scientific research papers.",
+    "content": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark - Aree Blog SHARE London-based AI research lab Inherent has released Faraday, a 27-billion-parameter artificial intelligence agent designed to reproduce results from scientific research papers. The c",
+    "source": "Daniel Chinonso John",
+    "date": "2026-08-24",
+    "url": "https://areeblog.com/inherents-27b-faraday-agent-beats-gpt-5-5-and-claude-opus-4-8-on-scientific-replication-benchmark/",
+    "category": "Models",
+    "image": "https://areeblog.com/wp-content/uploads/2026/08/images-37.jpeg"
+  },
+  {
+    "title": "Nvidia to invest $6 billion to build U.S. open-weight AI model alternative to China’s DeepSeek, Kimi K3, and Qwen",
+    "summary": "August 25, 2026 Nvidia to invest $6 billion to build U.S. open-weight AI model alternative to China’s DeepSeek, Kimi K3, and Qwen Daniel Levi Posted On August 24, 2026 687 Views 0 Shares Nvidia is committing roughly $6 billion to a sweeping deal with AI startup Poolside, aiming to build",
+    "content": "August 25, 2026 Nvidia to invest $6 billion to build U.S. open-weight AI model alternative to China’s DeepSeek, Kimi K3, and Qwen Daniel Levi Posted On August 24, 2026 687 Views 0 Shares Nvidia is committing roughly $6 billion to a sweeping deal with AI startup Poolside, aiming to build",
+    "source": "Daniel Levi",
+    "date": "2026-08-24",
+    "url": "https://techstartups.com/2026/08/24/nvidia-to-invest-6-billion-to-build-u-s-open-weight-ai-model-alternative-to-chinas-deepseek-kimi-k3-and-qwen/",
+    "category": "Models",
+    "image": "https://techstartups.com/wp-content/uploads/2025/12/ceo.jpg"
   },
   {
     "title": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N...",
@@ -30,33 +50,13 @@
     "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png"
   },
   {
-    "title": "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation",
-    "summary": "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation - Startup Fortune Search SF Aug 25, 2026 · 1:02 AM Subscribe✉ Most Read A Mystery Model Called Ox Alpha… From Database to AI Data Platform:… A Paris Developer's Open Source Tool… Codex Users Are Losing Banked Rate… A Mystery Mo",
-    "content": "Nvidia Is in Talks to Back Perplexity AI at a $30 Billion Valuation - Startup Fortune Search SF Aug 25, 2026 · 1:02 AM Subscribe✉ Most Read A Mystery Model Called Ox Alpha… From Database to AI Data Platform:… A Paris Developer's Open Source Tool… Codex Users Are Losing Banked Rate… A Mystery Mo",
-    "source": "startupfortune.com",
+    "title": "Anthropic Launches Claude Security With Mythos 5 For Vulnerability Scanning",
+    "summary": "Anthropic Launches Claude Security With Mythos 5 For Vulnerability Scanning - Dataconomy Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Result Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Resu",
+    "content": "Anthropic Launches Claude Security With Mythos 5 For Vulnerability Scanning - Dataconomy Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Result Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Resu",
+    "source": "dataconomy.com",
     "date": "2026-08-24",
-    "url": "https://startupfortune.com/nvidia-is-in-talks-to-back-perplexity-ai-at-a-30-billion-valuation/",
-    "category": "Policy",
-    "image": "https://startupfortune.com/wp-content/uploads/2026/08/sf-19173-1787546109427.jpg"
-  },
-  {
-    "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-    "summary": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted | VentureBeat Featured 6:00 am, PT, August 24, 2026 Credit: VentureBeat made with Midjourney Add to Google Preferred Source Anthropic is making a calculated bet that the biggest bottleneck",
-    "content": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted | VentureBeat Featured 6:00 am, PT, August 24, 2026 Credit: VentureBeat made with Midjourney Add to Google Preferred Source Anthropic is making a calculated bet that the biggest bottleneck",
-    "source": "Michael Nuñez",
-    "date": "2026-08-24",
-    "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+    "url": "https://dataconomy.com/2026/08/24/anthropic-launches-claude-security-with-mythos-5-for/",
     "category": "Models",
-    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3hua2YyLpElNb1QMiOYPxZ/886fb488b23b0b7bd6c26326f452caea/Nuneybits_Vector_art_of_a_cubist_CRT_merging_green_code_with_on_17185101-bb2c-4fa9-82b5-2deb42825871.webp?w=800&q=75"
-  },
-  {
-    "title": "Anthropic Researcher Says Claude Helped Build a Complex Structure on S⁶, Taking Aim At The Unsolved Hopf Problem",
-    "summary": "Anthropic Researcher Says Claude Helped Build a Complex Structure on S⁶, Taking Aim At The Unsolved Hopf Problem A mathematician working at Anthropic has posted what could become one of the most consequential AI-assisted mathematics results yet: a proposed construction of a complex structure on the",
-    "content": "Anthropic Researcher Says Claude Helped Build a Complex Structure on S⁶, Taking Aim At The Unsolved Hopf Problem A mathematician working at Anthropic has posted what could become one of the most consequential AI-assisted mathematics results yet: a proposed construction of a complex structure on the",
-    "source": "OfficeChai Team",
-    "date": "2026-08-24",
-    "url": "https://officechai.com/ai/anthropic-researcher-says-claude-helped-build-a-complex-structure-on-s%E2%81%B6-taking-aim-at-the-unsolved-hopf-problem/",
-    "category": "Models",
-    "image": "http://officechai.com/wp-content/uploads/2026/08/Claude_3-7_illustration.webp"
+    "image": "https://dataconomy.com/wp-content/uploads/2026/08/anthropic-brings-claude-mythos-5-to-claude-securit.jpg"
   }
 ]
