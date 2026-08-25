@@ -1,62 +1,56 @@
 [
   {
-    "title": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections",
-    "summary": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections - gHacks Tech News OpenAI has launched ChatGPT for Teens, a version of its chatbot aimed at users aged 13 to 17. Teens who say they are in this age group, or who the system estimates to be under 18, are aut",
-    "content": "OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections - gHacks Tech News OpenAI has launched ChatGPT for Teens, a version of its chatbot aimed at users aged 13 to 17. Teens who say they are in this age group, or who the system estimates to be under 18, are aut",
-    "source": "Arthur Kay",
+    "title": "Nvidia Pays $6 Billion to License Poolside's AI Model Software for Open-Weight Push",
+    "summary": "Nvidia licensed Poolside's Model Factory software for $6 billion and invested $1 billion more, hiring over 100 engineers to build competitive open-weight AI models.",
+    "content": "Nvidia struck a deal to license AI model software from startup Poolside for $6 billion, while separately investing $1 billion in the company at a pre-money valuation of $12 billion. The licensed technology — Poolside's Model Factory — is the internal system the startup used to develop its AI models, and the license is non-exclusive, leaving Poolside free to sell access to others. More than 100 Poolside engineers will join Nvidia to work on its Nemotron open-weight model project, with Nvidia's stated goal being to build a competitive alternative to Chinese open-weight models like DeepSeek and Kimi K3. The deal came after Poolside failed to close a $2 billion fundraise needed to secure a 40,000 GB300 compute cluster, leaving the startup unable to remain competitive at the frontier. This follows a pattern Nvidia has used before — similar structures with Groq ($20 billion) and Enfabrica ($900 million) — totaling roughly $27 billion in commitments designed to secure talent and technology without triggering antitrust scrutiny.",
+    "source": "Quartz",
     "date": "2026-08-24",
-    "url": "https://www.ghacks.net/2026/08/24/openai-launches-chatgpt-for-teens-with-study-focused-features-and-default-safety-protections/",
-    "category": "Models",
-    "image": "https://www.ghacks.net/wp-content/uploads/2026/08/gHacks-articles-2026-08-24T112449.655.png"
+    "url": "https://qz.com/nvidia-poolside-6-billion-license-ai-model-082426",
+    "category": "Industry"
   },
   {
-    "title": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark",
-    "summary": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark - Aree Blog SHARE London-based AI research lab Inherent has released Faraday, a 27-billion-parameter artificial intelligence agent designed to reproduce results from scientific research papers.",
-    "content": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark - Aree Blog SHARE London-based AI research lab Inherent has released Faraday, a 27-billion-parameter artificial intelligence agent designed to reproduce results from scientific research papers. The c",
-    "source": "Daniel Chinonso John",
+    "title": "NVIDIA Groq 3 LPX Enters Full Production for Ultra-Low Latency Agentic AI",
+    "summary": "NVIDIA announced its Groq 3 LPX inference accelerator is now in full production, delivering ultrafast token generation designed to make AI agents feel instantly responsive.",
+    "content": "NVIDIA announced at Hot Chips that its Groq 3 LPX interactive AI inference accelerator is now in full production, extending the Vera Rubin platform with dramatically higher token generation rates for responsive agentic systems. The chip is purpose-built for agentic AI workloads — especially coding agents — where generation latency directly determines how usable the system feels to end users. Nebius, a leading AI cloud, is the first to deploy Groq 3 LPX through its Nebius Token Factory production inference platform, giving developers access to extreme generation speeds through its existing API with no migration required. The announcement follows Nvidia's $20 billion acquisition of Groq's assets in December 2025, with the Groq 3 LPX racks expected to deploy alongside Vera CPUs and Rubin GPUs at Nebius before the end of the year. Nvidia CEO Jensen Huang has projected $1 trillion in cumulative sales between Blackwell and Vera Rubin systems through 2027.",
+    "source": "NVIDIA Newsroom",
     "date": "2026-08-24",
-    "url": "https://areeblog.com/inherents-27b-faraday-agent-beats-gpt-5-5-and-claude-opus-4-8-on-scientific-replication-benchmark/",
-    "category": "Models",
-    "image": "https://areeblog.com/wp-content/uploads/2026/08/images-37.jpeg"
+    "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+    "category": "Models"
   },
   {
-    "title": "Nvidia to invest $6 billion to build U.S. open-weight AI model alternative to China’s DeepSeek, Kimi K3, and Qwen",
-    "summary": "August 25, 2026 Nvidia to invest $6 billion to build U.S. open-weight AI model alternative to China’s DeepSeek, Kimi K3, and Qwen Daniel Levi Posted On August 24, 2026 687 Views 0 Shares Nvidia is committing roughly $6 billion to a sweeping deal with AI startup Poolside, aiming to build",
-    "content": "August 25, 2026 Nvidia to invest $6 billion to build U.S. open-weight AI model alternative to China’s DeepSeek, Kimi K3, and Qwen Daniel Levi Posted On August 24, 2026 687 Views 0 Shares Nvidia is committing roughly $6 billion to a sweeping deal with AI startup Poolside, aiming to build",
-    "source": "Daniel Levi",
+    "title": "OpenAI's ChatGPT Work Pushes Agentic AI Beyond Developers to All White-Collar Professions",
+    "summary": "OpenAI's ChatGPT Work product, available at $20/month, aims to extend agentic AI workflows from software engineers to accountants, doctors, and other knowledge workers.",
+    "content": "OpenAI's ChatGPT Work, released last month and available at the $20/month tier, is designed to give white-collar workers — accountants, investors, doctors — the same agentic AI capabilities software engineers have enjoyed through Codex, connecting LLMs directly to email, Slack, Notion, Figma, and other digital workflows. Despite near-total adoption (98%) among OpenAI employees, only 17% of organizational subscribers and less than 1% of individual subscribers are actively using the agentic tool, illustrating the steep challenge of moving beyond the developer segment. The commercial stakes are high: longer-running agents consume more tokens per user, making broader professional adoption essential for OpenAI to justify its massive compute investments and reach profitability. OpenAI's lead engineer described the current product-market challenge as solving for the \"magic box\" — making autonomous multi-step execution feel as intuitive for a finance team as for a software team. OpenAI is also pointing to an 80% price cut for its Luna model as evidence that agentic workflows will become cost-effective for any professional over the next year.",
+    "source": "TechCrunch",
     "date": "2026-08-24",
-    "url": "https://techstartups.com/2026/08/24/nvidia-to-invest-6-billion-to-build-u-s-open-weight-ai-model-alternative-to-chinas-deepseek-kimi-k3-and-qwen/",
-    "category": "Models",
-    "image": "https://techstartups.com/wp-content/uploads/2025/12/ceo.jpg"
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "category": "Industry"
   },
   {
-    "title": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N...",
-    "summary": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N... Tesla Locks In September 3 Cybercab Launch Event in Austin for Steering-...",
-    "content": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N... Tesla Locks In September 3 Cybercab Launch Event in Austin for Steering-... Mysterious Ox Alpha Stealth Model Surges on OpenRouter With 1M Context a... Meta Hires OpenAI Veteran Luke Metz for Superintelligence Labs Deep",
-    "source": "Twokq",
-    "date": "2026-08-23",
-    "url": "https://www.twokq.com/post/deepseek-v4-flash-vision-exp-multimodal-agents-opus-4-8/",
-    "category": "Models",
-    "image": "https://www.twokq.com/uploads/blog_6a8b547a266dc.webp"
-  },
-  {
-    "title": "20% price reduction for GPT 5.6 Sol: API, Codex credits and ChatGPT Work - #10 by roxton - Announcements",
-    "summary": "price reduction for GPT 5.6 Sol: API, Codex credits and ChatGPT Work - 10 by roxton - Announcements - OpenAI Developer Community price reduction for GPT 5.6 Sol: API, Codex credits and ChatGPT Work - 10 by roxton - Announcements - OpenAI Developer Community",
-    "content": "price reduction for GPT 5.6 Sol: API, Codex credits and ChatGPT Work - 10 by roxton - Announcements - OpenAI Developer Community price reduction for GPT 5.6 Sol: API, Codex credits and ChatGPT Work - 10 by roxton - Announcements - OpenAI Developer Community",
-    "source": "community.openai.com",
-    "date": "2026-08-22",
-    "url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726/10",
-    "category": "Models",
-    "image": "https://us1.discourse-cdn.com/openai1/original/4X/0/4/c/04c8546833f0824a49d21f50e2b08dd44bfd3d05.png"
-  },
-  {
-    "title": "Anthropic Launches Claude Security With Mythos 5 For Vulnerability Scanning",
-    "summary": "Anthropic Launches Claude Security With Mythos 5 For Vulnerability Scanning - Dataconomy Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Result Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Resu",
-    "content": "Anthropic Launches Claude Security With Mythos 5 For Vulnerability Scanning - Dataconomy Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Result Find us on Twitter Find us on Facebook Find us on LinkedIn Find us on Youtube No Result View All Resu",
-    "source": "dataconomy.com",
+    "title": "Anthropic Launches Claude Security with Mythos 5 for Enterprise Vulnerability Scanning",
+    "summary": "Anthropic integrated its Claude Mythos 5 model into a public beta security product for enterprise customers, enabling automated code vulnerability scanning without direct model access.",
+    "content": "Anthropic has integrated its Claude Mythos 5 model into Claude Security, now in public beta for Claude Enterprise customers, enabling automated code vulnerability scanning billed as standard token usage under existing enterprise plans. The service connects to a GitHub repository, traces data flows across files, and outputs findings categorized by Common Weakness Enumeration (CWE) with confidence and severity ratings and suggested patches — delivered via Slack, Jira, or exported as CSV or Markdown. Each finding undergoes an adversarial self-verification step where the model reviews its own outputs to minimize false positives, and patching is handled separately through Claude Code to prevent the model from being directed toward exploit generation. Anthropic also announced a $35 million Defender Advantage Fund in Claude credits for organizations securing open-source software, and plans to extend Mythos-class capabilities to Opus and Sonnet through an expanded Cyber Verification Program. Target industries include healthcare, financial systems, utilities, and the software supply chain, with use cases spanning pre-release code audits, legacy system reviews, and ongoing vulnerability backlog management.",
+    "source": "Dataconomy",
     "date": "2026-08-24",
     "url": "https://dataconomy.com/2026/08/24/anthropic-launches-claude-security-with-mythos-5-for/",
-    "category": "Models",
-    "image": "https://dataconomy.com/wp-content/uploads/2026/08/anthropic-brings-claude-mythos-5-to-claude-securit.jpg"
+    "category": "Tools"
+  },
+  {
+    "title": "Inherent's 27B Faraday Agent Outperforms GPT-5.5 and Claude Opus 4.8 on Scientific Replication",
+    "summary": "London-based Inherent released Faraday, a 27B-parameter AI agent that beats frontier models from OpenAI and Anthropic at reproducing results from published scientific research papers.",
+    "content": "London-based AI lab Inherent, founded by former Google DeepMind researchers, released Faraday — a 27-billion-parameter agent post-trained with long-horizon reinforcement learning on top of Qwen3.6-27B — that outperforms both Anthropic's Claude Opus 4.8 and OpenAI's GPT-5.5 on the new Replica scientific replication benchmark. Replica comprises 310 tasks drawn from 100 ML and AI-for-science papers spanning NLP, materials science, structural biology, and weather forecasting; agents receive a paper with a key results figure removed and must reproduce the experiment within 60 minutes using only limited compute. On held-out AI-for-science tasks, Faraday scored 0.791 versus Claude Opus 4.8 at 0.748 and GPT-5.5 Codex at 0.729 — a significant margin for a 27B open model competing against much larger closed systems. The benchmark is intentionally challenging: research papers document successes but omit the failed iterations, so replication requires judgment about experimental design and resource allocation from incomplete information. Inherent validated its automated rubric-based judging system against assessments from 20 human experts and plans to release model weights publicly after completing safety evaluation.",
+    "source": "Aree Blog",
+    "date": "2026-08-24",
+    "url": "https://areeblog.com/inherents-27b-faraday-agent-beats-gpt-5-5-and-claude-opus-4-8-on-scientific-replication-benchmark/",
+    "category": "Models"
+  },
+  {
+    "title": "Google Cloud and Verizon Partner on Full-Stack AI Deployment Including Autonomous Network Intelligence",
+    "summary": "Google Cloud and Verizon announced a strategic partnership to deploy Gemini Enterprise across customer experience, network operations, and enterprise productivity at nationwide scale.",
+    "content": "Google Cloud announced a new strategic partnership with Verizon to deploy its full AI stack — including Gemini Enterprise models and agentic data infrastructure — across Verizon's consumer and enterprise operations. Verizon is already using Gemini Enterprise for Customer Experience to handle the majority of its inbound consumer calls and chats per month, delivering measurable improvements in satisfaction and automated resolution rates while freeing human agents for complex interactions. The partnership extends to an autonomous network intelligence framework that uses Google Cloud's platform to predict and resolve network anomalies before they affect customers, built on Verizon's multi-year migration of legacy data lakes to Google's Agentic Data Cloud. Beyond network operations, Verizon will use Gemini Enterprise for agent orchestration and employee productivity across core business functions, representing a full-enterprise AI transformation rather than a pilot deployment. The deal reflects a growing pattern in which major telecoms partner with AI hyperscalers to modernize infrastructure at scale rather than building proprietary AI systems in-house.",
+    "source": "Google Cloud Press Corner",
+    "date": "2026-08-24",
+    "url": "https://www.googlecloudpresscorner.com/2026-08-24-Google-Cloud-Announces-Strategic-Partnership-with-Verizon-to-Scale-Enterprise-AI",
+    "category": "Industry"
   }
 ]
