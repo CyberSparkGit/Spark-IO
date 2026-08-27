@@ -1,33 +1,33 @@
 [
   {
-    "title": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N...",
-    "summary": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N... Thomson Reuters Launches Proprietary Frontier LLM 'Thomson' Trained on D...",
-    "content": "DeepSeek Unveils V4-Flash-Vision-Exp: Multimodal Agents N... Thomson Reuters Launches Proprietary Frontier LLM 'Thomson' Trained on D... Hugging Face Turns OpenAI Agent Breach Into Open-Source Crusade Taiwan Indicts Nine, Including Nvidia Manager, Over Illegal AI Server Ex... NVI",
-    "source": "Twokq",
-    "date": "2026-08-23",
-    "url": "https://www.twokq.com/post/deepseek-v4-flash-vision-exp-multimodal-agents-opus-4-8/",
-    "category": "Models",
-    "image": "https://www.twokq.com/uploads/blog_6a8b547a266dc.webp"
-  },
-  {
-    "title": "UK assesses risks of losing access to frontier AI models",
-    "summary": "UK assesses risks of losing access to frontier AI models Back to: All AI News UK assesses risks of losing access to frontier AI models UK is assessing the economic and security fallout if Britons lose access to frontier AI models from OpenAI and Anthropic, following Trump's June restrictions on",
-    "content": "UK assesses risks of losing access to frontier AI models Back to: All AI News UK assesses risks of losing access to frontier AI models UK is assessing the economic and security fallout if Britons lose access to frontier AI models from OpenAI and Anthropic, following Trump's June restrictions on",
-    "source": "completeaitraining.com",
-    "date": "2026-08-26",
-    "url": "https://completeaitraining.com/news/uk-assesses-risks-of-losing-access-to-frontier-ai-models/",
-    "category": "Industry",
-    "image": "https://cdn.completeaitraining.com/news_images/uk-assesses-risks-of-losing-access-to-frontier-ai-models_2026-08-25.jpg"
-  },
-  {
     "title": "Grok's Quiet Retirement and SpaceX's AI Ambitions: What Happened to Elon Musk's Flagship Model",
-    "summary": "Grok's Quiet Retirement and SpaceX's AI Ambitions: What Happened to Elon Musk's Flagship Model | FrontierNews.ai i 🔍Search Breaking News Perplexity Taps Octus Credit Intelligence to Answer Complex Finance Questions Large Language Models·1h ago Ukraine Awards Elon Musk Its Highest H",
-    "content": "Grok's Quiet Retirement and SpaceX's AI Ambitions: What Happened to Elon Musk's Flagship Model | FrontierNews.ai i 🔍Search Breaking News Perplexity Taps Octus Credit Intelligence to Answer Complex Finance Questions Large Language Models·1h ago Ukraine Awards Elon Musk Its Highest H",
+    "summary": "Grok's Quiet Retirement and SpaceX's AI Ambitions: What Happened to Elon Musk's Flagship Model | FrontierNews.ai i 🔍Search Breaking News OpenAI's Custom Chip Just Beat NVIDIA at Its Own Game,Here's Why That Matters ChatGPT Ads Launch in India: How OpenAI Is Monetizing One of Its Lar",
+    "content": "Grok's Quiet Retirement and SpaceX's AI Ambitions: What Happened to Elon Musk's Flagship Model | FrontierNews.ai i 🔍Search Breaking News OpenAI's Custom Chip Just Beat NVIDIA at Its Own Game,Here's Why That Matters ChatGPT Ads Launch in India: How OpenAI Is Monetizing One of Its Lar",
     "source": "FrontierNews.ai",
     "date": "2026-08-25",
     "url": "https://www.frontiernews.ai/news/article/groks-quiet-retirement-and-spacexs-ai-ambitions-wh-eab5c14f",
     "category": "Models",
     "image": "https://www.frontiernews.ai/api/og?title=Grok%27s%20Quiet%20Retirement%20and%20SpaceX%27s%20AI%20Ambitions%3A%20What%20Happened%20to%20Elon%20Musk%27s%20Flagship%20Model&topic=Large%20Language%20Models"
+  },
+  {
+    "title": "OpenAI Jalapeño Chip: Faster, Cheaper AI Inference",
+    "summary": "OpenAI Jalapeño Chip: Faster, Cheaper AI Inference – AI Herald Headlines Anthropic’s $5M Bet on AI Wellbeing Research Anthropic’s $5M Bet on AI Wellbeing Research ChatGPT Work Admin Plugin: Manage Teams With AI ChatGPT Work Admin Plugin: Manage Teams With AI The Hugging Face Security",
+    "content": "OpenAI Jalapeño Chip: Faster, Cheaper AI Inference – AI Herald Headlines Anthropic’s $5M Bet on AI Wellbeing Research Anthropic’s $5M Bet on AI Wellbeing Research ChatGPT Work Admin Plugin: Manage Teams With AI ChatGPT Work Admin Plugin: Manage Teams With AI The Hugging Face Security",
+    "source": "AI Herald",
+    "date": "2026-08-25",
+    "url": "https://ai-herald.com/openai-jalapeno-chip-faster-cheaper-ai-inference/",
+    "category": "Models",
+    "image": "https://ai-herald.com/wp-content/uploads/2026/08/openai-jalapeno-chip-faster-cheaper-ai-inference.png"
+  },
+  {
+    "title": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark",
+    "summary": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark - Aree Blog SHARE London-based AI research lab Inherent has released Faraday, a 27-billion-parameter artificial intelligence agent designed to reproduce results from scientific research papers.",
+    "content": "Inherent’s 27B Faraday Agent Beats GPT-5.5 and Claude Opus 4.8 on Scientific Replication Benchmark - Aree Blog SHARE London-based AI research lab Inherent has released Faraday, a 27-billion-parameter artificial intelligence agent designed to reproduce results from scientific research papers. The c",
+    "source": "Daniel Chinonso John",
+    "date": "2026-08-24",
+    "url": "https://areeblog.com/inherents-27b-faraday-agent-beats-gpt-5-5-and-claude-opus-4-8-on-scientific-replication-benchmark/",
+    "category": "Models",
+    "image": "https://areeblog.com/wp-content/uploads/2026/08/images-37.jpeg"
   },
   {
     "title": "DeepSeek V4-Pro 0813 Explained: The Hybrid Attention Architecture Behind Its Quiet GA Launch",
@@ -50,13 +50,13 @@
     "image": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/6a8dcb60a9e2ed84590a8b9e_og_claudes-memory-works-everywhere-and-you-decide-whats-in-it.jpg"
   },
   {
-    "title": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics",
-    "summary": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics - SiliconANGLE SHARE UPDATED 13:00 EDT / AUGUST 25 2026 AI Anthropic updates Claude’s memory to enhance customization and protect sensitive topics Artificial intelligence startup Anthropi",
-    "content": "Anthropic updates Claude’s memory to enhance customization and protect sensitive topics - SiliconANGLE SHARE UPDATED 13:00 EDT / AUGUST 25 2026 AI Anthropic updates Claude’s memory to enhance customization and protect sensitive topics Artificial intelligence startup Anthropi",
-    "source": "Kyt Dotson",
+    "title": "Claude Can Click \"Submit\" Now. Where's the Verification Layer?",
+    "summary": "Where's the Verification Layer? - DEV Community Claude Can Click \"Submit\" Now.",
+    "content": "Claude Can Click \"Submit\" Now. Where's the Verification Layer? - DEV Community Claude Can Click \"Submit\" Now. Where's the Verification Layer? On August 20, Anthropic moved Computer Use and Browser Use to general availability. Claude can now click buttons, type into forms, navigate web apps, and",
+    "source": "dev.to",
     "date": "2026-08-25",
-    "url": "https://siliconangle.com/2026/08/25/anthropic-updates-claudes-memory-to-enhance-customization-and-protect-sensitive-topics/",
+    "url": "https://dev.to/correctover/claude-can-click-submit-now-wheres-the-verification-layer-4m34",
     "category": "Models",
-    "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/08/Claude-AI-app-scaled.jpg"
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Foe1k619sw0eekt6in7bx.png"
   }
 ]
